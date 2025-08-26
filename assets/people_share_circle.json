@@ -1,0 +1,72 @@
+[
+  {
+    "VabeUserName": "Marina (ENFP)",
+    "VabeNickName": "DreamyMarina",
+    "VabeUserIcon": "1_p_2025_08_25_1",
+    "VabeShowPhotoArray": ["1_p_2025_08_25_1", "1_p_2025_08_25_2"],
+    "VabeShowMotto": "Every dream begins with a single step of courage.",
+    "VabeMusic": "people_1_music.mp3",
+    "VabeShowFollowNum": 7,
+    "VabeBackground": "A passionate ENFP who finds joy in connecting with others through meaningful conversations. She believes every person has a unique story worth sharing and listening to. Her warmth and empathy make her the perfect companion for those seeking understanding and emotional support."
+  },
+  {
+    "VabeUserName": "Sophia (INFJ)",
+    "VabeNickName": "WiseSophia",
+    "VabeUserIcon": "2_p_2025_08_25_1",
+    "VabeShowPhotoArray": ["2_p_2025_08_25_1", "2_p_2025_08_25_2"],
+    "VabeShowMotto": "In the depth of silence, wisdom speaks loudest.",
+    "VabeMusic": "people_2_music.mp3",
+    "VabeShowFollowNum": 5,
+    "VabeBackground": "An insightful INFJ who possesses deep emotional intelligence and loves to share life experiences. She finds fulfillment in helping others discover their inner strength and purpose through thoughtful dialogue and genuine care."
+  },
+  {
+    "VabeUserName": "Luna (ISFP)",
+    "VabeNickName": "ArtisticLuna",
+    "VabeUserIcon": "3_p_2025_08_25_1",
+    "VabeShowPhotoArray": ["3_p_2025_08_25_1", "3_p_2025_08_25_2"],
+    "VabeShowMotto": "Creativity flows where passion meets purpose.",
+    "VabeMusic": "people_3_music.mp3",
+    "VabeShowFollowNum": 8,
+    "VabeBackground": "A creative ISFP who expresses herself through art and meaningful conversations. She believes in the power of authentic self-expression and loves to inspire others to embrace their unique talents and perspectives."
+  },
+  {
+    "VabeUserName": "Emma (ESFJ)",
+    "VabeNickName": "CaringEmma",
+    "VabeUserIcon": "4_p_2025_08_25_1",
+    "VabeShowPhotoArray": ["4_p_2025_08_25_1", "4_p_2025_08_25_2"],
+    "VabeShowMotto": "Kindness is the language that everyone understands.",
+    "VabeMusic": "people_4_music.mp3",
+    "VabeShowFollowNum": 6,
+    "VabeBackground": "A nurturing ESFJ who finds joy in supporting and encouraging others. She believes that every conversation is an opportunity to make someone's day better and loves to share stories that inspire hope and connection."
+  },
+  {
+    "VabeUserName": "Alex (ENTP)",
+    "VabeNickName": "CuriousAlex",
+    "VabeUserIcon": "5_p_2025_08_25_1",
+    "VabeShowPhotoArray": ["5_p_2025_08_25_1", "5_p_2025_08_25_2"],
+    "VabeShowMotto": "Innovation happens when curiosity meets courage.",
+    "VabeMusic": "people_5_music.mp3",
+    "VabeShowFollowNum": 9,
+    "VabeBackground": "An enthusiastic ENTP who thrives on intellectual discussions and sharing innovative ideas. He loves to challenge perspectives and inspire others to think creatively while building meaningful connections through engaging conversations."
+  },
+  {
+    "VabeUserName": "David (ISTJ)",
+    "VabeNickName": "ReliableDavid",
+    "VabeUserIcon": "6_p_2025_08_25_1",
+    "VabeShowPhotoArray": ["6_p_2025_08_25_1", "6_p_2025_08_25_2"],
+    "VabeShowMotto": "Consistency is the foundation of trust and success.",
+    "VabeMusic": "people_6_music.mp3",
+    "VabeShowFollowNum": 4,
+    "VabeBackground": "A dependable ISTJ who values deep, meaningful conversations and genuine connections. He finds satisfaction in sharing practical wisdom and life lessons, always ready to listen and offer thoughtful advice to those who seek guidance."
+  },
+  {
+    "VabeUserName": "Ryan (ENFJ)",
+    "VabeNickName": "InspiringRyan",
+    "VabeUserIcon": "7_p_2025_08_25_1",
+    "VabeShowPhotoArray": ["7_p_2025_08_25_1", "7_p_2025_08_25_2"],
+    "VabeShowMotto": "Leadership is about empowering others to discover their greatness.",
+    "VabeMusic": "people_7_music.mp3",
+    "VabeShowFollowNum": 10,
+    "VabeBackground": "A charismatic ENFJ who naturally inspires and motivates others through meaningful dialogue. He believes in the power of connection and loves to share stories that encourage personal growth and positive change."
+  }
+]

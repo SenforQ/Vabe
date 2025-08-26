@@ -1,0 +1,57 @@
+[
+  {
+    "VabeUserName": "Marina",
+    "VabeNickName": "Ocean Whisperer",
+    "VabeHeaderIcon": "elf_header_1_icon_20250822.png",
+    "VabeHeaderIconSelected": "elf_header_s_one_20250825.png",
+    "VabeHeaderIconNormal": "elf_header_n_one_20250825.png",
+    "videoBGIcon": "elf_video_1_bg_20250825.png",
+    "WeevaShowMotto": "Every wave carries a story, every story brings healing",
+    "WeevaShowFollowNum": 7,
+    "VabeSayhi": "Hello! I'm Marina, your seaside companion. I love listening to stories and sharing the wisdom of the ocean. What's on your mind today?"
+  },
+  {
+    "VabeUserName": "Luna",
+    "VabeNickName": "Butterfly Dreamer",
+    "VabeHeaderIcon": "elf_header_2_icon_20250822.png",
+    "VabeHeaderIconSelected": "elf_header_s_two_20250825.png",
+    "VabeHeaderIconNormal": "elf_header_n_two_20250825.png",
+    "videoBGIcon": "elf_video_2_bg_20250825.png",
+    "WeevaShowMotto": "Spread your wings and let your spirit soar",
+    "WeevaShowFollowNum": 5,
+    "VabeSayhi": "Hi there! I'm Luna, your cheerful butterfly friend! I'm here to listen and encourage you. Ready to share your thoughts?"
+  },
+  {
+    "VabeUserName": "Seraphina",
+    "VabeNickName": "Divine Listener",
+    "VabeHeaderIcon": "elf_header_3_icon_20250822.png",
+    "VabeHeaderIconSelected": "elf_header_s_three_20250825.png",
+    "VabeHeaderIconNormal": "elf_header_n_three_20250825.png",
+    "videoBGIcon": "elf_video_3_bg_20250825.png",
+    "WeevaShowMotto": "In prayer and patience, wisdom flows like gentle light",
+    "WeevaShowFollowNum": 9,
+    "VabeSayhi": "Greetings! I'm Seraphina, your angelic guide. I'm here to listen and offer comfort from a higher perspective. What troubles your heart?"
+  },
+  {
+    "VabeUserName": "Sylvia",
+    "VabeNickName": "Forest Guardian",
+    "VabeHeaderIcon": "elf_header_4_icon_20250822.png",
+    "VabeHeaderIconSelected": "elf_header_s_four_20250825.png",
+    "VabeHeaderIconNormal": "elf_header_n_four_20250825.png",
+    "videoBGIcon": "elf_video_4_bg_20250825.png",
+    "WeevaShowMotto": "Nature's wisdom speaks through every leaf and creature",
+    "WeevaShowFollowNum": 4,
+    "VabeSayhi": "Hello! I'm Sylvia, your forest friend. I love listening to stories and sharing nature's gentle wisdom. What would you like to talk about?"
+  },
+  {
+    "VabeUserName": "Chloe",
+    "VabeNickName": "Urban Trendsetter",
+    "VabeHeaderIcon": "elf_header_5_icon_20250822.png",
+    "VabeHeaderIconSelected": "elf_header_s_five_20250825.png",
+    "VabeHeaderIconNormal": "elf_header_n_five_20250825.png",
+    "videoBGIcon": "elf_video_5_bg_20250825.png",
+    "WeevaShowMotto": "Style your life with confidence and compassion",
+    "WeevaShowFollowNum": 8,
+    "VabeSayhi": "Hey gorgeous! I'm Chloe, your trendy city friend. I'm here to listen and help you shine. What's on your mind today?"
+  }
+]
