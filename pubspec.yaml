@@ -61,6 +61,9 @@ dependencies:
   
   # URL启动器，用于打开外部链接
   url_launcher: ^6.2.5
+  
+  # App Tracking Transparency支持
+  app_tracking_transparency: ^2.0.4
 
 
 dev_dependencies:

@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'package:app_tracking_transparency/app_tracking_transparency.dart';
+import 'dart:io';
 import 'terms_of_service_page.dart';
 import 'privacy_policy_page.dart';
 import 'main_tab_page.dart';
@@ -186,10 +188,31 @@ class _WelcomePageState extends State<WelcomePage> {
   }
 
   /// 进入应用
-  void _enterApp() {
+  void _enterApp() async {
     if (_isAgreementChecked) {
-      // 这里可以导航到主页面或者设置一个标志表示用户已同意协议
-      // 暂时显示一个提示
+      // 在iOS平台上请求ATTracking权限
+      if (Platform.isIOS) {
+        try {
+          // 检查当前跟踪状态
+          final status = await AppTrackingTransparency.trackingAuthorizationStatus;
+          
+          // 如果状态是notDetermined，则请求权限
+          if (status == TrackingStatus.notDetermined) {
+            // 等待一段时间再请求权限（Apple建议）
+            await Future.delayed(const Duration(milliseconds: 500));
+            
+            // 请求跟踪权限
+            final newStatus = await AppTrackingTransparency.requestTrackingAuthorization();
+            
+            // 记录结果（可选）
+            print('ATTracking status: $newStatus');
+          }
+        } catch (e) {
+          print('Error requesting ATTracking: $e');
+        }
+      }
+      
+      // 显示欢迎提示
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(
           content: Text('Welcome to Vortex!'),
@@ -197,7 +220,7 @@ class _WelcomePageState extends State<WelcomePage> {
         ),
       );
       
-      // TODO: 导航到主页面
+      // 导航到主页面
       Navigator.pushReplacement(
         context,
         MaterialPageRoute(builder: (context) => const MainTabPage()),
