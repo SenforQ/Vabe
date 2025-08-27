@@ -68,28 +68,35 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
     super.dispose();
   }
 
+  // 安全地调用setState的辅助方法
+  void _safeSetState(VoidCallback fn) {
+    if (mounted) {
+      setState(fn);
+    }
+  }
+
   // 处理超时
   void _handleTimeout(String productId) {
-    if (mounted) {
-      setState(() {
-        _loadingStates[productId] = false;
-      });
-      
-      // 取消定时器
-      _timeoutTimers[productId]?.cancel();
-      _timeoutTimers.remove(productId);
-      
-      // 显示超时提示
-      try {
-        _showToast('Payment timeout. Please try again.');
-      } catch (e) {
-        debugPrint('Failed to show timeout toast: $e');
-      }
+    _safeSetState(() {
+      _loadingStates[productId] = false;
+    });
+    
+    // 取消定时器
+    _timeoutTimers[productId]?.cancel();
+    _timeoutTimers.remove(productId);
+    
+    // 显示超时提示
+    try {
+      _showToast('Payment timeout. Please try again.');
+    } catch (e) {
+      debugPrint('Failed to show timeout toast: $e');
     }
   }
 
   Future<void> _checkConnectivityAndInit() async {
     final connectivityResult = await Connectivity().checkConnectivity();
+    if (!mounted) return;
+    
     if (connectivityResult == ConnectivityResult.none) {
       _showToast('No internet connection. Please check your network settings.');
       return;
@@ -101,45 +108,65 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
     try {
       final available = await _inAppPurchase.isAvailable();
       if (!mounted) return;
-      setState(() {
+      
+      _safeSetState(() {
         _isAvailable = available;
       });
+      
       if (!available) {
         if (mounted) {
           _showToast('In-App Purchase not available');
         }
         return;
       }
+      
       final Set<String> kIds = kVipProducts.map((e) => e.productId).toSet();
       final response = await _inAppPurchase.queryProductDetails(kIds);
+      
+      if (!mounted) return;
+      
       if (response.error != null) {
         if (_retryCount < maxRetries) {
           _retryCount++;
           await Future.delayed(const Duration(seconds: 2));
-          await _initIAP();
+          if (mounted) {
+            await _initIAP();
+          }
           return;
         }
         _showToast('Failed to load products: ${response.error!.message}');
       }
-      setState(() {
-        _products = {for (var p in response.productDetails) p.id: p};
-      });
-      _subscription = _inAppPurchase.purchaseStream.listen(
-        _onPurchaseUpdate,
-        onDone: () {
-          _subscription?.cancel();
-        },
-        onError: (e) {
-          if (mounted) {
-            _showToast('Purchase error: ${e.toString()}');
-          }
-        },
-      );
+      
+      if (mounted) {
+        _safeSetState(() {
+          _products = {for (var p in response.productDetails) p.id: p};
+        });
+      }
+      
+      if (mounted) {
+        _subscription = _inAppPurchase.purchaseStream.listen(
+          _onPurchaseUpdate,
+          onDone: () {
+            if (mounted) {
+              _subscription?.cancel();
+            }
+          },
+          onError: (e) {
+            if (mounted) {
+              _showToast('Purchase error: ${e.toString()}');
+            }
+          },
+        );
+      }
     } catch (e) {
+      if (!mounted) return;
+      
       if (_retryCount < maxRetries) {
         _retryCount++;
         await Future.delayed(const Duration(seconds: 2));
-        await _initIAP();
+        if (mounted) {
+          await _initIAP();
+        }
       } else {
         if (mounted) {
           _showToast('Failed to initialize in-app purchases. Please try again later.');
@@ -153,16 +180,20 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
       final isActive = await VipService.isVipActive();
       final isExpired = await VipService.isVipExpired();
       
-      setState(() {
+      if (!mounted) return;
+      
+      _safeSetState(() {
         _isVipActive = isActive && !isExpired;
       });
       
       // 如果VIP已过期，自动停用
       if (isActive && isExpired) {
         await VipService.deactivateVip();
-        setState(() {
-          _isVipActive = false;
-        });
+        if (mounted) {
+          _safeSetState(() {
+            _isVipActive = false;
+          });
+        }
       }
     } catch (e) {
       print('VipSubscriptionPage - Error loading VIP status: $e');
@@ -171,6 +202,8 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
 
   void _onPurchaseUpdate(List<PurchaseDetails> purchases) async {
     for (final purchase in purchases) {
+      if (!mounted) return;
+      
       if (purchase.status == PurchaseStatus.purchased || purchase.status == PurchaseStatus.restored) {
         await _inAppPurchase.completePurchase(purchase);
         
@@ -182,7 +215,7 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
           );
           
           if (mounted) {
-            setState(() {
+            _safeSetState(() {
               _isVipActive = true;
             });
             
@@ -210,7 +243,9 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
           }
         } catch (e) {
           print('VipSubscriptionPage - Error activating VIP: $e');
-          _showToast('Failed to activate VIP. Please try again.');
+          if (mounted) {
+            _showToast('Failed to activate VIP. Please try again.');
+          }
         }
       } else if (purchase.status == PurchaseStatus.error) {
         if (mounted) {
@@ -218,7 +253,7 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
             _showToast('Purchase failed: ${purchase.error?.message ?? ''}');
           } catch (e) {
             debugPrint('Failed to show error toast: $e');
-        }
+          }
         }
       } else if (purchase.status == PurchaseStatus.canceled) {
         if (mounted) {
@@ -232,7 +267,7 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
       
       // 清除所有商品的loading状态和超时定时器
       if (mounted) {
-        setState(() {
+        _safeSetState(() {
           _loadingStates.clear();
         });
         
@@ -253,7 +288,9 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
     
     try {
       await _inAppPurchase.restorePurchases();
-      _showToast('Restoring purchases...');
+      if (mounted) {
+        _showToast('Restoring purchases...');
+      }
       // 恢复购买的结果会在 _onPurchaseUpdate 中处理
     } catch (e) {
       if (mounted) {
@@ -271,7 +308,9 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
     // 根据选择确定要购买的产品
     final selectedProduct = _selectedSubscriptionIndex == 0 ? kVipProducts[0] : kVipProducts[1];
     
-    setState(() {
+    if (!mounted) return;
+    
+    _safeSetState(() {
       _loadingStates[selectedProduct.productId] = true; // 设置当前商品的loading状态
     });
     
@@ -304,10 +343,12 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
       
       if (mounted) {
         _showToast('Purchase failed: ${e.toString()}');
+        
+        // 在mounted检查后调用setState
+        _safeSetState(() {
+          _loadingStates[selectedProduct.productId] = false; // 清除当前商品的loading状态
+        });
       }
-      setState(() {
-        _loadingStates[selectedProduct.productId] = false; // 清除当前商品的loading状态
-      });
     }
   }
 
@@ -399,9 +440,11 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
                       child: PageView(
                         controller: _pageController,
                         onPageChanged: (index) {
-                          setState(() {
-                            _currentPage = index;
-                          });
+                          if (mounted) {
+                            _safeSetState(() {
+                              _currentPage = index;
+                            });
+                          }
                         },
                         children: [
                           _buildPage1(),
@@ -559,9 +602,11 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
         // 第一个订阅选项
         GestureDetector(
           onTap: () {
-            setState(() {
-              _selectedSubscriptionIndex = 0;
-            });
+            if (mounted) {
+              _safeSetState(() {
+                _selectedSubscriptionIndex = 0;
+              });
+            }
           },
           child: Container(
             width: screenWidth - 32,
@@ -626,9 +671,11 @@ class _VipSubscriptionPageState extends State<VipSubscriptionPage> {
         // 第二个订阅选项
         GestureDetector(
           onTap: () {
-            setState(() {
-              _selectedSubscriptionIndex = 1;
-            });
+            if (mounted) {
+              _safeSetState(() {
+                _selectedSubscriptionIndex = 1;
+              });
+            }
           },
           child: Container(
             width: screenWidth - 32,
