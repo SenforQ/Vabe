@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../utils/assets_manager.dart';
 import '../utils/image_manager.dart';
 import '../utils/user_preferences.dart';
+import '../services/vip_service.dart';
 
 /// 编辑资料页面
 class EditProfilePage extends StatefulWidget {
@@ -733,6 +734,152 @@ class _EditProfilePageState extends State<EditProfilePage> {
 
 
 
+  /// 显示VIP要求对话框
+  void _showVipRequiredDialog() {
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          backgroundColor: Colors.white,
+          shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(16),
+          ),
+          title: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Container(
+                padding: const EdgeInsets.all(8),
+                decoration: BoxDecoration(
+                  gradient: const LinearGradient(
+                    colors: [
+                      Color(0xFFFFD700),
+                      Color(0xFFFFA500),
+                    ],
+                  ),
+                  shape: BoxShape.circle,
+                ),
+                child: const Icon(
+                  Icons.star,
+                  color: Colors.white,
+                  size: 24,
+                ),
+              ),
+              const SizedBox(width: 12),
+              const Text(
+                'VIP Required',
+                style: TextStyle(
+                  fontSize: 20,
+                  fontWeight: FontWeight.bold,
+                  color: Colors.black,
+                ),
+              ),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              const Text(
+                'Profile editing is a VIP feature. You need an active VIP subscription to edit your profile.',
+                style: TextStyle(
+                  fontSize: 16,
+                  color: Colors.black,
+                ),
+                textAlign: TextAlign.center,
+              ),
+              const SizedBox(height: 20),
+              Container(
+                padding: const EdgeInsets.all(16),
+                decoration: BoxDecoration(
+                  color: const Color(0xFFFFD700).withValues(alpha: 0.2),
+                  borderRadius: BorderRadius.circular(12),
+                  border: Border.all(
+                    color: const Color(0xFFFFD700),
+                    width: 2,
+                  ),
+                ),
+                child: const Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(
+                      Icons.info_outline,
+                      color: Color(0xFFFFD700),
+                      size: 24,
+                    ),
+                    SizedBox(width: 12),
+                    Text(
+                      'Upgrade to VIP to unlock profile editing',
+                      style: TextStyle(
+                        fontSize: 14,
+                        fontWeight: FontWeight.bold,
+                        color: Color(0xFFFFD700),
+                      ),
+                      textAlign: TextAlign.center,
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            Row(
+              children: [
+                Expanded(
+                  child: TextButton(
+                    onPressed: () {
+                      Navigator.of(context).pop();
+                    },
+                    child: const Text(
+                      'Cancel',
+                      style: TextStyle(
+                        color: Colors.grey,
+                        fontSize: 16,
+                      ),
+                    ),
+                  ),
+                ),
+                Expanded(
+                  child: ElevatedButton(
+                    onPressed: () {
+                      Navigator.of(context).pop();
+                      _navigateToVipPage();
+                    },
+                    style: ElevatedButton.styleFrom(
+                      backgroundColor: const Color(0xFFFFD700),
+                      foregroundColor: Colors.black,
+                      shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(20),
+                      ),
+                    ),
+                    child: const Text(
+                      'Upgrade to VIP',
+                      style: TextStyle(
+                        fontSize: 16,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  /// 导航到VIP页面
+  void _navigateToVipPage() {
+    // 这里可以导航到VIP订阅页面
+    // 暂时显示一个提示，实际项目中可以导航到VIP页面
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(
+        content: Text('Navigate to VIP subscription page'),
+        backgroundColor: Colors.blue,
+      ),
+    );
+  }
+
   /// 保存更改
   void _saveChanges() async {
     final newNickname = _nicknameController.text.trim();
@@ -745,6 +892,27 @@ class _EditProfilePageState extends State<EditProfilePage> {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text('Nickname cannot be empty')),
       );
+      return;
+    }
+    
+    // 检查用户是否为VIP
+    try {
+      final isVipActive = await VipService.isVipActive();
+      final isVipExpired = await VipService.isVipExpired();
+      
+      if (!isVipActive || isVipExpired) {
+        if (mounted) {
+          _showVipRequiredDialog();
+        }
+        return;
+      }
+    } catch (e) {
+      debugPrint('Error checking VIP status: $e');
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Failed to verify VIP status, please try again later')),
+        );
+      }
       return;
     }
     

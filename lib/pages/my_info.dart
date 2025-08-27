@@ -8,6 +8,8 @@ import 'about_us_page.dart';
 import 'blacklist_page.dart';
 import 'privacy_policy_page.dart';
 import 'terms_of_service_page.dart';
+import 'clamshell_coin_page.dart';
+import 'vip_subscription_page.dart';
 
 
 /// 我的信息页面
@@ -71,6 +73,9 @@ class _MyInfoPageState extends State<MyInfoPage> {
                 children: [
                   // 顶部背景和用户信息区域
                   _buildTopSection(context),
+                  // VIP订阅按钮
+                  _buildVipSubscriptionButton(context),
+                  
                   // 功能列表
                   _buildFunctionList(context),
                   // 为悬浮TabBar预留空间
@@ -269,7 +274,80 @@ class _MyInfoPageState extends State<MyInfoPage> {
     );
   }
 
-    /// 构建功能列表
+    /// 构建VIP订阅按钮
+  Widget _buildVipSubscriptionButton(BuildContext context) {
+    final screenWidth = MediaQuery.of(context).size.width;
+    final screenHeight = MediaQuery.of(context).size.height;
+    final scaleFactor = screenHeight / 812.0; // 基于812高度的缩放系数
+    
+    return Transform.translate(
+      offset: const Offset(0, -40), // 向上偏移40px，创造与背景的错位感
+      child: Container(
+        margin: const EdgeInsets.only(left: 16, right: 16, bottom: 24),
+        child: Material(
+          color: Colors.transparent,
+          child: InkWell(
+            onTap: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const VipSubscriptionPage(),
+                ),
+              );
+            },
+            borderRadius: BorderRadius.circular(12),
+            child: Container(
+              width: screenWidth - 32, // 屏幕宽 - 32
+              height: 59 * scaleFactor, // 高度按系数缩放
+              decoration: BoxDecoration(
+                color: Colors.white,
+                borderRadius: BorderRadius.circular(12),
+                border: Border.all(
+                  color: Colors.grey.withValues(alpha: 0.1),
+                  width: 1,
+                ),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withValues(alpha: 0.05),
+                    blurRadius: 8,
+                    offset: const Offset(0, 2),
+                  ),
+                ],
+              ),
+              child: Image.asset(
+                'assets/my_vip_sub_20250827.png',
+                width: screenWidth - 32,
+                height: 59 * scaleFactor,
+                fit: BoxFit.cover,
+                errorBuilder: (context, error, stackTrace) {
+                  return Container(
+                    width: screenWidth - 32,
+                    height: 59 * scaleFactor,
+                    decoration: BoxDecoration(
+                      color: Colors.purple.withValues(alpha: 0.1),
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                    child: const Center(
+                      child: Text(
+                        'VIP Subscription',
+                        style: TextStyle(
+                          fontSize: 16,
+                          fontWeight: FontWeight.bold,
+                          color: Colors.purple,
+                        ),
+                      ),
+                    ),
+                  );
+                },
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+
+  /// 构建功能列表
   Widget _buildFunctionList(BuildContext context) {
     return Transform.translate(
       offset: const Offset(0, -40), // 向上偏移40px，创造与背景的错位感
@@ -277,6 +355,21 @@ class _MyInfoPageState extends State<MyInfoPage> {
         padding: const EdgeInsets.symmetric(horizontal: 0.0),
         child: Column(
           children: [
+
+                        // Clamshell Coin
+            _buildFunctionItem(
+              iconPath: 'assets/mine_wallet_20250822.png',
+              title: 'Clamshell Coin',
+              onTap: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const ClamshellCoinPage(),
+                  ),
+                );
+              },
+            ),
+
             // Edit information
             _buildFunctionItem(
               iconPath: 'assets/mine_editino_20250822.png',
