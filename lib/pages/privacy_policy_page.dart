@@ -33,7 +33,7 @@ class _PrivacyPolicyPageState extends State<PrivacyPolicyPage> {
         ),
       )
       ..loadRequest(
-        Uri.parse('https://www.privacypolicies.com/live/3fb35129-19ab-430b-8ab4-ac98cd180a32'),
+        Uri.parse('https://sites.google.com/view/vabeprivacypolicy/home'),
       );
   }
 

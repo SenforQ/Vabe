@@ -33,7 +33,7 @@ class _TermsOfServicePageState extends State<TermsOfServicePage> {
         ),
       )
       ..loadRequest(
-        Uri.parse('https://www.privacypolicies.com/live/dfd5c64e-b924-444c-9297-c124a83de1d9'),
+        Uri.parse('https://sites.google.com/view/vabetermofservicee/home'),
       );
   }
 
