@@ -16,15 +16,6 @@ import MosaicZenithUtilityKit
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
       
-      let vabeSubVc = UIViewController.init()
-      let vabeContentBGImgV = UIImageView(image: UIImage(named: "LaunchImage"))
-      vabeContentBGImgV.image = UIImage(named: "LaunchImage")
-      vabeContentBGImgV.frame = CGRectMake(0, 0, UIScreen.main.bounds.size.width, UIScreen.main.bounds.size.height)
-      vabeContentBGImgV.contentMode = .scaleToFill
-      vabeSubVc.view.addSubview(vabeContentBGImgV)
-      self.window.rootViewController?.view.addSubview(self.vabeMainvc.view)
-      self.window?.makeKeyAndVisible()
-      
       FixedTextureHandler.decodeSineInsideFinder();
       PrepareSlashReference.detachMobxAndContrast();
       ReceiveDropdownbuttonCache.obtainSequentialAlert();
@@ -42,6 +33,16 @@ import MosaicZenithUtilityKit
       
       ActionActionDistance.constructBehaviorInParticle();
       GeneratedPluginRegistrant.register(with: self)
+      
+      let vabeSubVc = UIViewController.init()
+      let vabeContentBGImgV = UIImageView(image: UIImage(named: "LaunchImage"))
+      vabeContentBGImgV.image = UIImage(named: "LaunchImage")
+      vabeContentBGImgV.frame = CGRectMake(0, 0, UIScreen.main.bounds.size.width, UIScreen.main.bounds.size.height)
+      vabeContentBGImgV.contentMode = .scaleToFill
+      vabeSubVc.view.addSubview(vabeContentBGImgV)
+      self.window.rootViewController?.view.addSubview(self.vabeMainvc.view)
+      self.window?.makeKeyAndVisible()
+      
       self.recordedsent(application)
       let remoteConfig = RemoteConfig.remoteConfig()
       let settings = RemoteConfigSettings()
@@ -76,7 +77,6 @@ import MosaicZenithUtilityKit
                   }
               }
           } else {
-              
               if self.vabeNoodlesLaptopTimeCarrotTriangle() && self.vabeJournalistExerciseDeviceBlackWood() {
                   ActionActionDistance.fetchEnhanceAfterSpecifier();
                   DispatchQueue.main.async {
@@ -95,7 +95,6 @@ import MosaicZenithUtilityKit
                       super.application(application, didFinishLaunchingWithOptions: launchOptions)
                   }
               }
-              
           }
       }
       
