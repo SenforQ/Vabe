@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRichtextSpeed</key>
+	<string>streamFromStage</string>
+	<key>asyncBufferOrientation</key>
+	<string>granularModelOrientation</string>
+	<key>bitrateViaWork</key>
+	<string>durationSystemStyle</string>
+	<key>constraintPrototypeBrightness</key>
+	<string>customButtonDirection</string>
+	<key>difficultChannelInterval</key>
+	<string>segmentJobTransparency</string>
+	<key>listenerVariableAlignment</key>
+	<string>workflowAdapterRight</string>
+	<key>methodForVisitor</key>
+	<string>typicalTernaryCount</string>
+	<key>navigationTierTail</key>
+	<string>reactiveSliderStatus</string>
+	<key>progressbarPatternContrast</key>
+	<string>ignoredResourceCoord</string>
+	<key>significantKernelDirection</key>
+	<string>repositoryKindVisibility</string>
+</dict>
+</plist>

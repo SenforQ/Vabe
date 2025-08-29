@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushDespiteScope</key>
+	<string>labelSystemVisible</string>
+	<key>commonManagerShape</key>
+	<string>singletonProcessAlignment</string>
+	<key>cubitIncludePrototype</key>
+	<string>primaryVariantState</string>
+	<key>futureThroughChain</key>
+	<string>viewVersusStage</string>
+	<key>scaleDecoratorStatus</key>
+	<string>playbackPrototypeStyle</string>
+</dict>
+</plist>

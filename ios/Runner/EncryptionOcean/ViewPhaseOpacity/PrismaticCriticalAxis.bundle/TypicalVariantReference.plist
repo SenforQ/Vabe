@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStateInterval</key>
+	<string>borderAmongMemento</string>
+	<key>batchPhaseInteraction</key>
+	<string>synchronousAlignmentSize</string>
+	<key>commandTierStatus</key>
+	<string>resizablePriorityInset</string>
+	<key>desktopSegueSkewy</key>
+	<string>navigationWithoutCommand</string>
+	<key>richtextMementoMode</key>
+	<string>seamlessButtonLocation</string>
+	<key>rowNumberMargin</key>
+	<string>specifyResultShape</string>
+</dict>
+</plist>

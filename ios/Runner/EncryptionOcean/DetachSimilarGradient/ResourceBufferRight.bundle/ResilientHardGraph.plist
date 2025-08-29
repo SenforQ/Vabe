@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveServiceBound</key>
+	<string>dependencyInStrategy</string>
+	<key>canvasInsideInterpreter</key>
+	<string>ternarySystemAcceleration</string>
+	<key>clipperDuringAction</key>
+	<string>liteTabviewCount</string>
+	<key>firstBatchFeedback</key>
+	<string>allocatorCycleBound</string>
+	<key>gemContextSaturation</key>
+	<string>granularDimensionTop</string>
+	<key>mutablePreviewAcceleration</key>
+	<string>priorityLevelSkewx</string>
+	<key>progressbarTypeHue</key>
+	<string>plateValueShade</string>
+	<key>toolPatternStyle</key>
+	<string>storageByProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseCompositeDelay</key>
+	<string>cupertinoScreenPressure</string>
+	<key>commandOrPlatform</key>
+	<string>prevSliderRate</string>
+	<key>durationVersusVariable</key>
+	<string>unsortedToolState</string>
+	<key>movementPatternDensity</key>
+	<string>tickerBeyondObserver</string>
+	<key>musicAlongStage</key>
+	<string>subsequentViewSkewy</string>
+	<key>navigationNearProcess</key>
+	<string>asyncAgainstVar</string>
+	<key>secondPreviewEdge</key>
+	<string>titleOrPhase</string>
+	<key>sophisticatedUtilSkewy</key>
+	<string>transformerBridgeTint</string>
+	<key>transformerAgainstTemple</key>
+	<string>dedicatedUsecaseCoord</string>
+</dict>
+</plist>

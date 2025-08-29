@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAgainstForm</key>
+	<string>usecaseFlyweightRate</string>
+	<key>composableCurveType</key>
+	<string>effectTaskRight</string>
+	<key>liteMobxHue</key>
+	<string>standaloneActionBrightness</string>
+	<key>modelAlongMethod</key>
+	<string>reducerStateBottom</string>
+	<key>profileOperationFlags</key>
+	<string>sessionInStage</string>
+	<key>rowCommandSpeed</key>
+	<string>nodeCompositeInteraction</string>
+	<key>tabviewAndState</key>
+	<string>largeTopicMargin</string>
+</dict>
+</plist>

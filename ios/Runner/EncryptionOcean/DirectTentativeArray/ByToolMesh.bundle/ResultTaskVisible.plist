@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentPhaseSize</key>
+	<string>currentTaskPosition</string>
+	<key>baselineAdapterValidation</key>
+	<string>effectOutsideParameter</string>
+	<key>curveAwayActivity</key>
+	<string>routerAsPattern</string>
+	<key>listenerAtMethod</key>
+	<string>particleOfMethod</string>
+	<key>originalWorkflowHead</key>
+	<string>activatedSceneKind</string>
+	<key>permanentCurvePosition</key>
+	<string>basicMomentumTint</string>
+	<key>seamlessBaseTransparency</key>
+	<string>originalStreamAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameDuringFramework</key>
+	<string>smallTernaryScale</string>
+	<key>fusedPaddingSkewy</key>
+	<string>progressbarOperationIndex</string>
+	<key>lostBufferOpacity</key>
+	<string>activatedViewMargin</string>
+	<key>navigatorNumberStatus</key>
+	<string>interpolationPerParameter</string>
+	<key>observerContainFramework</key>
+	<string>specifyVariantMode</string>
+	<key>sortedAlignmentTag</key>
+	<string>normParamDirection</string>
+	<key>tangentAboutPhase</key>
+	<string>resolverProxyMode</string>
+	<key>uniqueSpineRight</key>
+	<string>monsterLevelSpacing</string>
+</dict>
+</plist>

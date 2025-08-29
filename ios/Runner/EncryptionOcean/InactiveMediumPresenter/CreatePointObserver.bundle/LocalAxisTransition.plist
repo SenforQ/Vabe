@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandThroughStrategy</key>
+	<string>providerBufferCount</string>
+	<key>flexibleParticleForce</key>
+	<string>responsiveCharacterHead</string>
+	<key>pivotalScaleDirection</key>
+	<string>routerInterpreterPressure</string>
+	<key>positionBeyondStyle</key>
+	<string>radioAwayVariable</string>
+	<key>profileDuringOperation</key>
+	<string>presenterDuringShape</string>
+	<key>stateOperationRate</key>
+	<string>taskValueOrientation</string>
+	<key>uniformRadiusVisible</key>
+	<string>commonLayoutInterval</string>
+</dict>
+</plist>

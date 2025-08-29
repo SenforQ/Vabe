@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowContextSize</key>
+	<string>widgetSingletonInset</string>
+	<key>cartesianUtilTheme</key>
+	<string>requestPrototypeTheme</string>
+	<key>decorationActivityResponse</key>
+	<string>euclideanActionMode</string>
+	<key>disabledStackTop</key>
+	<string>columnVarBorder</string>
+	<key>routerDecoratorVisibility</key>
+	<string>dependencyOfFlyweight</string>
+</dict>
+</plist>

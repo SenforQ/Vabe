@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionSinceBuffer</key>
+	<string>asyncCapacitiesBehavior</string>
+	<key>decorationAboutComposite</key>
+	<string>resolverStrategyFrequency</string>
+	<key>dependencyContextSkewx</key>
+	<string>methodShapeOffset</string>
+	<key>popupStateMode</key>
+	<string>responseProxyOffset</string>
+	<key>presenterAndMemento</key>
+	<string>currentZoneDensity</string>
+	<key>screenNearBuffer</key>
+	<string>resourceParameterName</string>
+	<key>streamShapeScale</key>
+	<string>radiusOutsideBuffer</string>
+	<key>temporaryReductionState</key>
+	<string>spriteTierMomentum</string>
+	<key>usedProviderHue</key>
+	<string>sustainableSpriteDuration</string>
+</dict>
+</plist>

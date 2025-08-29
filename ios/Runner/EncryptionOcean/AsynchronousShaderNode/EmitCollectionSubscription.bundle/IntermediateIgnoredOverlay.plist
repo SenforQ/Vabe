@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncFlyweightTag</key>
+	<string>groupViaVar</string>
+	<key>basicCubeMargin</key>
+	<string>sizeThroughChain</string>
+	<key>cardFormHue</key>
+	<string>nodeStyleSkewy</string>
+	<key>chapterStateContrast</key>
+	<string>priorityOperationInterval</string>
+	<key>collectionFacadeBrightness</key>
+	<string>parallelOperationType</string>
+	<key>uniqueCycleOrigin</key>
+	<string>diversifiedNibBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandPerMethod</key>
+	<string>factoryLayerEdge</string>
+	<key>flexibleResolverType</key>
+	<string>tappableContainerTop</string>
+	<key>persistentCursorSaturation</key>
+	<string>imperativeTextSaturation</string>
+	<key>persistentIntegerVelocity</key>
+	<string>textfieldExceptScope</string>
+	<key>resilientTextTheme</key>
+	<string>presenterModeFormat</string>
+	<key>sophisticatedMemberTail</key>
+	<string>persistentGrainOpacity</string>
+	<key>storyboardAmongWork</key>
+	<string>explicitGestureMode</string>
+	<key>textureWithoutState</key>
+	<string>ternaryPatternState</string>
+	<key>topicJobAlignment</key>
+	<string>allocatorStructureForce</string>
+</dict>
+</plist>

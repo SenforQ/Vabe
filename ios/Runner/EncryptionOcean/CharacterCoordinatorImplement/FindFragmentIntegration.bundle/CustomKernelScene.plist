@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionContainChain</key>
+	<string>statelessContextForce</string>
+	<key>logFormRotation</key>
+	<string>previewCommandForce</string>
+</dict>
+</plist>

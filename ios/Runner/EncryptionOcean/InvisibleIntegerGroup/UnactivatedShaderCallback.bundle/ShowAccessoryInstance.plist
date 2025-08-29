@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAndOperation</key>
+	<string>listviewActionContrast</string>
+	<key>builderSingletonSpeed</key>
+	<string>scrollableBitrateSpacing</string>
+	<key>concurrentViewMomentum</key>
+	<string>clipperByStrategy</string>
+	<key>layoutAmongLevel</key>
+	<string>deferredNibMode</string>
+	<key>spriteValueStatus</key>
+	<string>mutableRadiusPosition</string>
+	<key>textureScopeLocation</key>
+	<string>hierarchicalListenerSize</string>
+</dict>
+</plist>

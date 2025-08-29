@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTierDirection</key>
+	<string>tabbarSingletonCount</string>
+	<key>effectAgainstAction</key>
+	<string>respectiveIntensityPosition</string>
+	<key>granularMenuInterval</key>
+	<string>basicPresenterSkewy</string>
+	<key>localPreviewInset</key>
+	<string>coordinatorInPlatform</string>
+	<key>oldDrawerAppearance</key>
+	<string>semanticSingletonBehavior</string>
+	<key>prevConstraintSkewx</key>
+	<string>functionalControllerTransparency</string>
+	<key>secondViewStyle</key>
+	<string>animationOrFacade</string>
+	<key>sustainableFutureFrequency</key>
+	<string>textureContainAction</string>
+	<key>webAspectStatus</key>
+	<string>repositoryThroughStage</string>
+</dict>
+</plist>

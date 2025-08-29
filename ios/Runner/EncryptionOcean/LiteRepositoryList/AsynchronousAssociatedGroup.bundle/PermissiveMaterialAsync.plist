@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaqueryViaDecorator</key>
+	<string>animatedcontainerExceptVisitor</string>
+	<key>mobxInsideTier</key>
+	<string>commandUntilFlyweight</string>
+	<key>sizePrototypeVelocity</key>
+	<string>singleChecklistEdge</string>
+	<key>subsequentResponseInterval</key>
+	<string>cupertinoRequestCenter</string>
+</dict>
+</plist>

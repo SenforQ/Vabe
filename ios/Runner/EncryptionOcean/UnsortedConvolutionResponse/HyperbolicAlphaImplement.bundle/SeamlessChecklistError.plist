@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistInterpreterSpacing</key>
+	<string>borderAsParameter</string>
+	<key>denseGridviewSaturation</key>
+	<string>callbackWorkCenter</string>
+	<key>ephemeralSubpixelVisibility</key>
+	<string>tappableTouchRate</string>
+	<key>iterativeErrorFrequency</key>
+	<string>topicShapeColor</string>
+	<key>reducerNearParameter</key>
+	<string>accordionFactoryDensity</string>
+	<key>requiredStreamHead</key>
+	<string>flexibleManagerOrientation</string>
+	<key>similarStatelessSpacing</key>
+	<string>scrollableSegmentInterval</string>
+	<key>transitionPrototypeLocation</key>
+	<string>sliderAroundForm</string>
+</dict>
+</plist>

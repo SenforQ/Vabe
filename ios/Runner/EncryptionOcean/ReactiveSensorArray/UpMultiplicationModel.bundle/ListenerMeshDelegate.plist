@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionVarSaturation</key>
+	<string>cosineTaskResponse</string>
+	<key>iconPerWork</key>
+	<string>builderStageRotation</string>
+	<key>mainWidgetFlags</key>
+	<string>interpolationWithoutMediator</string>
+	<key>managerAdapterSaturation</key>
+	<string>constGridHead</string>
+	<key>nativeGraphicOpacity</key>
+	<string>eagerAlertEdge</string>
+	<key>oldResourceRotation</key>
+	<string>baseTaskFrequency</string>
+	<key>switchInsideCycle</key>
+	<string>subscriptionValuePosition</string>
+	<key>timerEnvironmentDensity</key>
+	<string>slashViaMemento</string>
+	<key>toolTypeHue</key>
+	<string>resultFunctionSkewy</string>
+</dict>
+</plist>

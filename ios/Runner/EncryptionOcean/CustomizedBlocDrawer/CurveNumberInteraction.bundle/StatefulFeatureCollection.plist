@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNavigatorSpeed</key>
+	<string>scaleLikeStage</string>
+	<key>composableBaselineScale</key>
+	<string>statelessCommandBound</string>
+	<key>extensionAdapterSpeed</key>
+	<string>timerPatternShape</string>
+	<key>independentSpineOrigin</key>
+	<string>permanentCheckboxInset</string>
+	<key>nodeThroughMode</key>
+	<string>grainVariableVelocity</string>
+</dict>
+</plist>

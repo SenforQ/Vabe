@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTaskDelay</key>
+	<string>smallPlateBorder</string>
+	<key>animatedcontainerPerLayer</key>
+	<string>associatedCubitTint</string>
+	<key>animationParamCenter</key>
+	<string>aspectBridgeScale</string>
+	<key>gridDespiteMemento</key>
+	<string>streamInsideVar</string>
+	<key>gridMementoBehavior</key>
+	<string>presenterAdapterBorder</string>
+	<key>iterativeReferenceDuration</key>
+	<string>dependencyAtState</string>
+	<key>nodeExceptInterpreter</key>
+	<string>inheritedExceptionBound</string>
+	<key>variantContextOrigin</key>
+	<string>utilStageTail</string>
+</dict>
+</plist>

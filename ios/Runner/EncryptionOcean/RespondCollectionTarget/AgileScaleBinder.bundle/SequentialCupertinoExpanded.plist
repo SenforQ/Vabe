@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>providerPatternTransparency</key>
+	<string>requestSystemRotation</string>
+	<key>stackAndOperation</key>
+	<string>gramWithoutAction</string>
+	<key>storyboardBufferFlags</key>
+	<string>permissiveCallbackDistance</string>
+</dict>
+</plist>

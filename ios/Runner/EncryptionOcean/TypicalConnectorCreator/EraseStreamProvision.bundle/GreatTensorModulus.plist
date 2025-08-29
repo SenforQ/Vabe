@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaVersusBuffer</key>
+	<string>easyEffectContrast</string>
+	<key>blocSinceCommand</key>
+	<string>taskWithFacade</string>
+	<key>completerDuringLevel</key>
+	<string>mediocreSceneEdge</string>
+</dict>
+</plist>

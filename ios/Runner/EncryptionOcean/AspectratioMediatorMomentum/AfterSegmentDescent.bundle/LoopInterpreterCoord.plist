@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandFacadeShade</key>
+	<string>descriptionViaStrategy</string>
+	<key>finalRequestDistance</key>
+	<string>integerWithoutPattern</string>
+	<key>serviceIncludeJob</key>
+	<string>labelTypeRate</string>
+	<key>usecaseIncludeChain</key>
+	<string>queueViaBuffer</string>
+</dict>
+</plist>

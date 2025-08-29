@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentObserverEdge</key>
+	<string>sessionOutsideCommand</string>
+	<key>commonDecorationPosition</key>
+	<string>subsequentPositionTag</string>
+	<key>isolateInType</key>
+	<string>imperativePositionName</string>
+	<key>marginLikeFlyweight</key>
+	<string>mobileQueryRate</string>
+	<key>requiredDecorationType</key>
+	<string>cupertinoObserverTag</string>
+	<key>statelessPrototypeFeedback</key>
+	<string>disparateAccessoryPosition</string>
+</dict>
+</plist>

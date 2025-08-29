@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardLikeSingleton</key>
+	<string>actionSinceSystem</string>
+	<key>deferredDocumentFeedback</key>
+	<string>queryTypeRate</string>
+	<key>injectionFromStructure</key>
+	<string>responseByFunction</string>
+	<key>menuOfTier</key>
+	<string>otherMetadataFlags</string>
+	<key>resourceAtVar</key>
+	<string>kernelSingletonColor</string>
+	<key>richtextSingletonSaturation</key>
+	<string>allocatorCycleTransparency</string>
+	<key>synchronousSwiftBorder</key>
+	<string>requestSinceProcess</string>
+	<key>timerSystemLeft</key>
+	<string>crucialChartSkewy</string>
+</dict>
+</plist>

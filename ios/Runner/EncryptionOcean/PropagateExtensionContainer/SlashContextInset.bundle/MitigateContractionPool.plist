@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionByParam</key>
+	<string>cupertinoInVariable</string>
+	<key>asyncViaStage</key>
+	<string>gesturedetectorPerParameter</string>
+	<key>autoChapterBorder</key>
+	<string>gridBeyondStyle</string>
+	<key>controllerWorkIndex</key>
+	<string>playbackVersusVar</string>
+	<key>delegateAdapterFrequency</key>
+	<string>priorAwaitFrequency</string>
+	<key>durationVisitorDirection</key>
+	<string>capsuleFlyweightKind</string>
+	<key>greatTouchTheme</key>
+	<string>cubitPhaseOrigin</string>
+	<key>inheritedExpandedHue</key>
+	<string>dedicatedMediaFrequency</string>
+	<key>stateParameterDirection</key>
+	<string>previewJobHue</string>
+</dict>
+</plist>

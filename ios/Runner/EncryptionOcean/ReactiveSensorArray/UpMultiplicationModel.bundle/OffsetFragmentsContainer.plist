@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>riverpodModeRate</key>
+	<string>localizationTempleSkewy</string>
+	<key>screenAroundProcess</key>
+	<string>secondListviewFrequency</string>
+	<key>statefulRouterFrequency</key>
+	<string>consumerParamCoord</string>
+	<key>threadAboutCommand</key>
+	<string>usecaseContainObserver</string>
+	<key>widgetStrategyBorder</key>
+	<string>mobxThanPattern</string>
+</dict>
+</plist>

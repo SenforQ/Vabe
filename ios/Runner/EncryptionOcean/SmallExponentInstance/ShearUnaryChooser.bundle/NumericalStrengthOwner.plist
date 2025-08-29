@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorTempleFlags</key>
+	<string>indicatorAndPattern</string>
+	<key>challengeOperationAlignment</key>
+	<string>blocStateVisibility</string>
+	<key>channelAmongKind</key>
+	<string>tabbarContextBrightness</string>
+	<key>curveStrategyVisible</key>
+	<string>descriptionWorkRate</string>
+	<key>dimensionNearSystem</key>
+	<string>layerNearKind</string>
+	<key>heapPhaseBrightness</key>
+	<string>usedBuilderInteraction</string>
+	<key>listenerExceptNumber</key>
+	<string>textfieldLevelAcceleration</string>
+	<key>optionValueFrequency</key>
+	<string>accordionManagerTint</string>
+	<key>radiusVarSkewx</key>
+	<string>transitionEnvironmentAlignment</string>
+	<key>semanticAwaitBorder</key>
+	<string>featureFlyweightSpacing</string>
+</dict>
+</plist>

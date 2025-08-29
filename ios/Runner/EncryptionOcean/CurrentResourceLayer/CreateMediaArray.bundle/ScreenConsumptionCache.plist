@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectByVisitor</key>
+	<string>plateContainMediator</string>
+	<key>entityWithoutJob</key>
+	<string>rectActivityBrightness</string>
+	<key>pinchableMetadataBrightness</key>
+	<string>standaloneButtonTheme</string>
+	<key>pointNearPrototype</key>
+	<string>visibleOptionDuration</string>
+	<key>prevSwitchAppearance</key>
+	<string>positionedStageColor</string>
+	<key>prismaticAnimationMargin</key>
+	<string>assetAboutVariable</string>
+	<key>promiseActionAlignment</key>
+	<string>cupertinoThroughMode</string>
+	<key>skinWithoutMediator</key>
+	<string>dependencyPlatformStyle</string>
+</dict>
+</plist>

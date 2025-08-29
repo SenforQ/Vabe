@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOfSingleton</key>
+	<string>frameInsideShape</string>
+	<key>associatedViewTag</key>
+	<string>oldCallbackTint</string>
+	<key>draggableConsumerHue</key>
+	<string>cursorActivityHue</string>
+	<key>intensityFlyweightDirection</key>
+	<string>tickerAlongLayer</string>
+	<key>mobileLoopName</key>
+	<string>loopAlongTask</string>
+	<key>prevReducerDuration</key>
+	<string>prevNibEdge</string>
+	<key>respectiveButtonTail</key>
+	<string>greatStackSpacing</string>
+	<key>singleLocalizationForce</key>
+	<string>opaqueEffectDepth</string>
+	<key>viewAndValue</key>
+	<string>activatedInjectionDistance</string>
+</dict>
+</plist>

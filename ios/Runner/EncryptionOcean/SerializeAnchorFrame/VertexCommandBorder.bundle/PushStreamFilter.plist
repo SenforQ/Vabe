@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionResultOrigin</key>
+	<string>fixedConstraintAlignment</string>
+	<key>directSineStyle</key>
+	<string>logAsLevel</string>
+	<key>fixedInterfaceMargin</key>
+	<string>decorationIncludeLevel</string>
+	<key>memberCommandVisibility</key>
+	<string>opaqueDelegateAlignment</string>
+	<key>modelBesideTask</key>
+	<string>decorationFrameworkTransparency</string>
+	<key>momentumValuePadding</key>
+	<string>offsetAtActivity</string>
+	<key>navigatorContainActivity</key>
+	<string>observerTierHue</string>
+	<key>offsetUntilPhase</key>
+	<string>aspectCycleDelay</string>
+	<key>unactivatedPriorityVelocity</key>
+	<string>basicServiceResponse</string>
+</dict>
+</plist>

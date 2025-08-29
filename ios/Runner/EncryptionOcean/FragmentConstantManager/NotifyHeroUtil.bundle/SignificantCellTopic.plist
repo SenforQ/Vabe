@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitNearFacade</key>
+	<string>effectThroughVariable</string>
+	<key>gateOrParameter</key>
+	<string>constraintCycleLeft</string>
+	<key>priorityLevelInterval</key>
+	<string>statelessForLevel</string>
+	<key>segmentByTier</key>
+	<string>mobileStyleTension</string>
+</dict>
+</plist>

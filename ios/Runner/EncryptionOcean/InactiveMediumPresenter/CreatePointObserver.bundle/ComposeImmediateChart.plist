@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellStyleHead</key>
+	<string>greatChecklistSize</string>
+	<key>enabledMissionVisible</key>
+	<string>histogramModeRate</string>
+	<key>graphStageBorder</key>
+	<string>customAxisKind</string>
+	<key>methodByDecorator</key>
+	<string>unsortedOptionShade</string>
+	<key>offsetKindMode</key>
+	<string>masterBeyondJob</string>
+	<key>widgetUntilAction</key>
+	<string>liteFrameTag</string>
+</dict>
+</plist>

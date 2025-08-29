@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterIncludeAdapter</key>
+	<string>metadataJobTransparency</string>
+	<key>consultativeSampleName</key>
+	<string>layoutSystemInset</string>
+	<key>delegateCommandTint</key>
+	<string>symbolSystemStatus</string>
+	<key>disabledTextType</key>
+	<string>commandAboutMemento</string>
+	<key>functionalEventDirection</key>
+	<string>cacheVisitorDelay</string>
+	<key>immediateModalMode</key>
+	<string>labelBridgeOffset</string>
+	<key>methodKindContrast</key>
+	<string>criticalPlateSpacing</string>
+	<key>multiplicationOperationAlignment</key>
+	<string>customResourceSpeed</string>
+	<key>reactiveDecorationDepth</key>
+	<string>singleThemeLeft</string>
+</dict>
+</plist>

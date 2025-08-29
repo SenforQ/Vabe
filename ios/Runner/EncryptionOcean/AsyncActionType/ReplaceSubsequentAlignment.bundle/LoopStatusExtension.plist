@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableRectInset</key>
+	<string>imperativePaddingTint</string>
+	<key>dedicatedProviderVisible</key>
+	<string>dependencyAgainstScope</string>
+	<key>firstMediaqueryDensity</key>
+	<string>storyboardAndType</string>
+	<key>lastCurveVisible</key>
+	<string>delegateLevelTheme</string>
+	<key>reducerProxyShape</key>
+	<string>eventAroundStructure</string>
+	<key>resourceThroughJob</key>
+	<string>grainVisitorState</string>
+	<key>responsiveUsageOpacity</key>
+	<string>logAmongParam</string>
+	<key>tangentScopeSize</key>
+	<string>alertUntilFlyweight</string>
+</dict>
+</plist>

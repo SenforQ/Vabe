@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonLevelInteraction</key>
+	<string>heroProxyShade</string>
+	<key>contractionObserverType</key>
+	<string>priorMissionValidation</string>
+	<key>logInsideObserver</key>
+	<string>unsortedRequestBorder</string>
+	<key>plateLikeKind</key>
+	<string>mobxBufferAcceleration</string>
+	<key>positionScopeVelocity</key>
+	<string>mobileUtilDuration</string>
+	<key>statefulActionSaturation</key>
+	<string>resourceOutsideParameter</string>
+</dict>
+</plist>

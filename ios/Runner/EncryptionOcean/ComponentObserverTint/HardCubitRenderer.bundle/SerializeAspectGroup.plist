@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorEnvironmentState</key>
+	<string>pageviewAdapterCenter</string>
+	<key>explicitSpriteDelay</key>
+	<string>animatedApertureOrientation</string>
+	<key>listenerExceptStrategy</key>
+	<string>responsiveLocalizationTag</string>
+	<key>listviewPerCommand</key>
+	<string>mainGroupBrightness</string>
+	<key>modelPhaseColor</key>
+	<string>behaviorScopeCenter</string>
+	<key>normalRouteFormat</key>
+	<string>curveCycleInteraction</string>
+	<key>resolverPlatformSaturation</key>
+	<string>painterStyleVelocity</string>
+	<key>tabbarAmongFramework</key>
+	<string>grainAboutType</string>
+</dict>
+</plist>

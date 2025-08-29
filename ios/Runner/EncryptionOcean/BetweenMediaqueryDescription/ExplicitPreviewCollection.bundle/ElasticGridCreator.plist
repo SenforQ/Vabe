@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateAroundVariable</key>
+	<string>notifierForCycle</string>
+	<key>enabledRowFlags</key>
+	<string>navigatorCommandTransparency</string>
+	<key>rowWithoutComposite</key>
+	<string>isolateCommandStatus</string>
+	<key>storageFrameworkDirection</key>
+	<string>symmetricShaderAcceleration</string>
+</dict>
+</plist>

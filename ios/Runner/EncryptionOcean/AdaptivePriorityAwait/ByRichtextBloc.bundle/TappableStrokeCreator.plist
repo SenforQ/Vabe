@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeChain</key>
+	<string>mobileCompletionMargin</string>
+	<key>assetAsAction</key>
+	<string>themeAndPlatform</string>
+	<key>lastInterfaceVisibility</key>
+	<string>subpixelAgainstPhase</string>
+	<key>queueAlongState</key>
+	<string>durationAroundPlatform</string>
+</dict>
+</plist>

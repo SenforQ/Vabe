@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVarBehavior</key>
+	<string>playbackBufferBorder</string>
+	<key>allocatorBufferAppearance</key>
+	<string>coordinatorKindPressure</string>
+	<key>completionVersusValue</key>
+	<string>operationOfLayer</string>
+	<key>directCoordinatorFeedback</key>
+	<string>keyNavigatorHue</string>
+	<key>promiseVisitorBrightness</key>
+	<string>grainFacadeBehavior</string>
+	<key>vectorUntilStrategy</key>
+	<string>lostMusicAppearance</string>
+</dict>
+</plist>

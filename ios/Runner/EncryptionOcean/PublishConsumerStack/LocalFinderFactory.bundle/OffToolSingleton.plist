@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSingletonBehavior</key>
+	<string>lostChapterTop</string>
+	<key>buttonAgainstFunction</key>
+	<string>semanticWorkflowRotation</string>
+	<key>grainPerWork</key>
+	<string>priorHeapBorder</string>
+	<key>listenerObserverRate</key>
+	<string>radiusContainVariable</string>
+	<key>materialCubitBottom</key>
+	<string>adaptivePaddingSpacing</string>
+	<key>radiusActivityOffset</key>
+	<string>notificationForKind</string>
+	<key>streamStrategyBound</key>
+	<string>movementAtComposite</string>
+</dict>
+</plist>

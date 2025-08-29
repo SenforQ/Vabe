@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferIncludeTask</key>
+	<string>appbarStrategyDirection</string>
+	<key>controllerOrObserver</key>
+	<string>pinchableCheckboxTop</string>
+	<key>cycleBufferOrientation</key>
+	<string>integerSingletonVisible</string>
+	<key>gramFromParam</key>
+	<string>hashShapeCoord</string>
+	<key>interactorStructureDuration</key>
+	<string>beginnerTextDelay</string>
+	<key>precisionSincePrototype</key>
+	<string>stateIncludeWork</string>
+	<key>semanticSegueEdge</key>
+	<string>particleVariableTheme</string>
+	<key>touchPerTask</key>
+	<string>typicalMaterialVisible</string>
+</dict>
+</plist>

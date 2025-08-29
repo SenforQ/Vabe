@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAndSingleton</key>
+	<string>symmetricGrayscaleRotation</string>
+	<key>aspectratioOperationValidation</key>
+	<string>convolutionVersusFacade</string>
+	<key>awaitVarVisibility</key>
+	<string>cupertinoOverlayOffset</string>
+	<key>customizedParticleOrientation</key>
+	<string>logAboutLayer</string>
+	<key>eagerWidgetSpeed</key>
+	<string>intuitivePositionState</string>
+	<key>imageBufferBehavior</key>
+	<string>transitionLikeJob</string>
+	<key>mainBuilderContrast</key>
+	<string>enabledReducerMargin</string>
+	<key>musicOperationLocation</key>
+	<string>dropdownbuttonAtParam</string>
+	<key>sharedStackInset</key>
+	<string>baseStrategyTop</string>
+	<key>sortedListenerBrightness</key>
+	<string>basicListviewRight</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchTaskState</key>
+	<string>isolateWorkVisibility</string>
+	<key>commandFromShape</key>
+	<string>scrollableCurveCenter</string>
+	<key>imperativeAsyncIndex</key>
+	<string>storyboardByParameter</string>
+	<key>rectObserverInteraction</key>
+	<string>mediumCosinePressure</string>
+	<key>singletonDespiteJob</key>
+	<string>aspectDespiteValue</string>
+	<key>tweenIncludePattern</key>
+	<string>oldCurveState</string>
+</dict>
+</plist>

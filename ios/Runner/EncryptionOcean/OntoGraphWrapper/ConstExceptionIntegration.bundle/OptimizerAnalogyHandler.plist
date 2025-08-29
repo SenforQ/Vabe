@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleAmongFramework</key>
+	<string>menuAsEnvironment</string>
+	<key>interpolationFlyweightTheme</key>
+	<string>discardedConfigurationOffset</string>
+	<key>remainderLevelPadding</key>
+	<string>contractionFlyweightEdge</string>
+	<key>semanticReducerFrequency</key>
+	<string>interfaceVisitorSize</string>
+	<key>stackAroundStructure</key>
+	<string>viewAndObserver</string>
+	<key>stampAgainstAdapter</key>
+	<string>labelKindValidation</string>
+</dict>
+</plist>

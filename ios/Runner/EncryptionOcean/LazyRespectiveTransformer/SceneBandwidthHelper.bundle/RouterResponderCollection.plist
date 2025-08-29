@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushActivityTheme</key>
+	<string>sliderAtStyle</string>
+	<key>commandPrototypeDepth</key>
+	<string>scrollableTextInteraction</string>
+	<key>cycleWithoutPlatform</key>
+	<string>methodValueOffset</string>
+	<key>graphBesideVariable</key>
+	<string>animationBufferMode</string>
+	<key>originalGroupTag</key>
+	<string>controllerContainPlatform</string>
+	<key>protocolOperationRotation</key>
+	<string>widgetForCycle</string>
+	<key>radiusViaNumber</key>
+	<string>precisionFromMemento</string>
+	<key>subtleLayoutRight</key>
+	<string>criticalToolSize</string>
+</dict>
+</plist>

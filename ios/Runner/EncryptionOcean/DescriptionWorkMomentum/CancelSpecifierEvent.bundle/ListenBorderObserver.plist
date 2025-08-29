@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVariableStyle</key>
+	<string>blocNearType</string>
+	<key>channelByPlatform</key>
+	<string>textForLayer</string>
+	<key>exceptionScopeInteraction</key>
+	<string>behaviorStyleAppearance</string>
+	<key>exponentActionFrequency</key>
+	<string>sharedCoordinatorFormat</string>
+	<key>giftFormFrequency</key>
+	<string>statefulLayoutOpacity</string>
+	<key>momentumOfScope</key>
+	<string>constraintVisitorIndex</string>
+	<key>pivotalSinkInteraction</key>
+	<string>hashWithAction</string>
+	<key>rapidHandlerFeedback</key>
+	<string>completerAdapterBottom</string>
+	<key>storageOrScope</key>
+	<string>compositionFlyweightScale</string>
+	<key>textureTaskInterval</key>
+	<string>responsiveOverlayBrightness</string>
+</dict>
+</plist>

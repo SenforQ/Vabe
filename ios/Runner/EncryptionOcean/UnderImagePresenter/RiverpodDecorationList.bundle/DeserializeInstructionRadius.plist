@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationLayerFlags</key>
+	<string>pivotalRadiusDensity</string>
+	<key>delegateChainBrightness</key>
+	<string>interactorProcessOffset</string>
+	<key>extensionSystemContrast</key>
+	<string>stateEnvironmentDistance</string>
+	<key>independentGraphOffset</key>
+	<string>beginnerVectorOrigin</string>
+	<key>rowJobAcceleration</key>
+	<string>subtleCertificateTension</string>
+	<key>subscriptionSystemTheme</key>
+	<string>handlerFunctionCoord</string>
+	<key>widgetInCommand</key>
+	<string>pageviewSingletonPadding</string>
+</dict>
+</plist>

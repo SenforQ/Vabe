@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCubitTheme</key>
+	<string>gestureAtProcess</string>
+	<key>blocByMode</key>
+	<string>requestForProxy</string>
+	<key>boxValueBrightness</key>
+	<string>currentQueryContrast</string>
+	<key>comprehensiveQueueBorder</key>
+	<string>responsiveProgressbarCount</string>
+	<key>declarativeDescriptionDistance</key>
+	<string>positionedActionOrientation</string>
+	<key>methodPhasePosition</key>
+	<string>diffableLabelRotation</string>
+	<key>rapidTaskHead</key>
+	<string>expandedStructureDirection</string>
+	<key>sessionVarFlags</key>
+	<string>standaloneBrushRight</string>
+</dict>
+</plist>

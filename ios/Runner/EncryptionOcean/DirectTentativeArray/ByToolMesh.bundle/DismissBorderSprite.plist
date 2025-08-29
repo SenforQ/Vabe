@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderForEnvironment</key>
+	<string>uniformEventInset</string>
+	<key>builderOutsideScope</key>
+	<string>explicitServiceHue</string>
+	<key>characterByParam</key>
+	<string>unsortedApertureTail</string>
+	<key>containerBeyondProcess</key>
+	<string>coordinatorChainVisible</string>
+	<key>draggableConfigurationTheme</key>
+	<string>specifyTextureOffset</string>
+	<key>responseObserverFrequency</key>
+	<string>spineAroundVisitor</string>
+	<key>semanticCompleterFlags</key>
+	<string>graphTypeName</string>
+	<key>timerAgainstContext</key>
+	<string>stepStyleTheme</string>
+</dict>
+</plist>

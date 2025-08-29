@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnTempleOffset</key>
+	<string>kernelContainBuffer</string>
+	<key>diffableAllocatorSpeed</key>
+	<string>subpixelDespiteBuffer</string>
+	<key>interactorActivitySkewy</key>
+	<string>hierarchicalLayoutCoord</string>
+	<key>resizableInteractorTheme</key>
+	<string>basicAlphaLocation</string>
+	<key>sinkAgainstAction</key>
+	<string>logThroughTask</string>
+</dict>
+</plist>

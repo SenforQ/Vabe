@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStagePosition</key>
+	<string>compositionCommandRate</string>
+	<key>currentAllocatorVelocity</key>
+	<string>optimizerWithoutInterpreter</string>
+	<key>customChartMomentum</key>
+	<string>explicitTaskSize</string>
+	<key>fixedAnchorFrequency</key>
+	<string>compositionCommandBottom</string>
+	<key>missedMissionCenter</key>
+	<string>inkwellProxyIndex</string>
+	<key>rectInVisitor</key>
+	<string>reductionVarTension</string>
+	<key>sessionBeyondTier</key>
+	<string>significantInjectionTension</string>
+	<key>subpixelLikeNumber</key>
+	<string>inactiveVectorColor</string>
+</dict>
+</plist>

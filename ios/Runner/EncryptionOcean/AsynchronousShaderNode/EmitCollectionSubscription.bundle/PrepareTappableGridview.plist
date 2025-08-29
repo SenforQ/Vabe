@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitSinceMediator</key>
+	<string>touchOutsideWork</string>
+	<key>handlerExceptParameter</key>
+	<string>bufferBesideParameter</string>
+	<key>missionLevelFeedback</key>
+	<string>interfaceBesideJob</string>
+	<key>subscriptionBesideNumber</key>
+	<string>sceneLevelName</string>
+</dict>
+</plist>

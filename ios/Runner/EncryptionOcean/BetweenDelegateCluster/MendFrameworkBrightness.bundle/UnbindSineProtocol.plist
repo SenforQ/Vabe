@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPlatformStatus</key>
+	<string>lossAgainstOperation</string>
+	<key>canvasIncludeAdapter</key>
+	<string>singletonLayerSkewx</string>
+	<key>eagerSampleTheme</key>
+	<string>pinchableImageDepth</string>
+	<key>hyperbolicChannelsEdge</key>
+	<string>sortedFrameTail</string>
+	<key>inactiveFutureRotation</key>
+	<string>mediaqueryWithTier</string>
+	<key>reducerActivityRate</key>
+	<string>symbolBesideParameter</string>
+	<key>stateInsideWork</key>
+	<string>discardedMediaAppearance</string>
+</dict>
+</plist>

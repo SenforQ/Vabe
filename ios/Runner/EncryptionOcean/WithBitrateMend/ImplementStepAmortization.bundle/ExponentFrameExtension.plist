@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryFromEnvironment</key>
+	<string>resourceInterpreterLeft</string>
+	<key>largeRequestVisibility</key>
+	<string>nativeMobxBrightness</string>
+	<key>presenterOrSingleton</key>
+	<string>repositoryBridgeDirection</string>
+	<key>publicOffsetForce</key>
+	<string>prismaticBufferOffset</string>
+</dict>
+</plist>

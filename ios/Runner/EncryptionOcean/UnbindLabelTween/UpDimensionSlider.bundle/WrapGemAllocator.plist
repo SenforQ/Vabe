@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRequestSpacing</key>
+	<string>bufferPlatformOpacity</string>
+	<key>callbackContextTail</key>
+	<string>interactorBesideStyle</string>
+	<key>delegateWithoutChain</key>
+	<string>modalAwayStage</string>
+	<key>dimensionVariableVisible</key>
+	<string>signAsDecorator</string>
+	<key>drawerOrLayer</key>
+	<string>assetFunctionShade</string>
+	<key>mobileSinceSingleton</key>
+	<string>retainedStoryboardInset</string>
+	<key>seamlessReducerScale</key>
+	<string>repositoryInsideForm</string>
+	<key>signatureContextHead</key>
+	<string>signatureShapeTransparency</string>
+</dict>
+</plist>

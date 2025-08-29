@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentAdapterInterval</key>
+	<string>pageviewWithValue</string>
+	<key>mainGroupBrightness</key>
+	<string>parallelArithmeticRotation</string>
+	<key>opaqueRouterDepth</key>
+	<string>multiplicationAsAction</string>
+	<key>progressbarCompositeValidation</key>
+	<string>textureKindTail</string>
+	<key>projectionAgainstShape</key>
+	<string>requestInsideAdapter</string>
+</dict>
+</plist>

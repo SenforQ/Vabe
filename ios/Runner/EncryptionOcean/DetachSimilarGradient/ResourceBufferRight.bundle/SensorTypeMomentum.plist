@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureModeShade</key>
+	<string>progressbarMementoBorder</string>
+	<key>channelsWithKind</key>
+	<string>draggableCapacitiesPosition</string>
+	<key>constMemberVisible</key>
+	<string>entityWorkDuration</string>
+	<key>coordinatorFunctionPadding</key>
+	<string>progressbarObserverAppearance</string>
+	<key>delegateStyleScale</key>
+	<string>channelBridgeOffset</string>
+	<key>petPlatformInterval</key>
+	<string>utilSingletonState</string>
+	<key>tangentAlongStage</key>
+	<string>reducerUntilScope</string>
+</dict>
+</plist>

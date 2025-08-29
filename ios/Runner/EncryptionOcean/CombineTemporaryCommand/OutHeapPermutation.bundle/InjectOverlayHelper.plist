@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStructureBrightness</key>
+	<string>tweenAwayStructure</string>
+	<key>appbarUntilSystem</key>
+	<string>basicWidgetBorder</string>
+	<key>ephemeralUsageDuration</key>
+	<string>subpixelPerBuffer</string>
+	<key>plateJobLocation</key>
+	<string>indicatorChainTail</string>
+	<key>uniformGateAppearance</key>
+	<string>sophisticatedPresenterDensity</string>
+</dict>
+</plist>

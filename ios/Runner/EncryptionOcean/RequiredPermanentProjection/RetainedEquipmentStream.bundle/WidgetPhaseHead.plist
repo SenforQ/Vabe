@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFlyweightDelay</key>
+	<string>baselineAgainstWork</string>
+	<key>awaitAwayCycle</key>
+	<string>euclideanErrorInset</string>
+	<key>cacheOfActivity</key>
+	<string>logSingletonRotation</string>
+	<key>completerStageInteraction</key>
+	<string>canvasFunctionDistance</string>
+	<key>constHashTheme</key>
+	<string>semanticsStrategyVelocity</string>
+	<key>consumerFacadeTop</key>
+	<string>errorThanScope</string>
+	<key>drawerByLevel</key>
+	<string>easyNotifierDirection</string>
+	<key>gestureOfTask</key>
+	<string>fragmentStrategyCoord</string>
+	<key>specifyDocumentOpacity</key>
+	<string>offsetVarFrequency</string>
+	<key>tensorCaptionSaturation</key>
+	<string>operationValuePadding</string>
+</dict>
+</plist>

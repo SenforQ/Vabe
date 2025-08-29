@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorIncludeMediator</key>
+	<string>mutablePresenterOpacity</string>
+	<key>hashTempleEdge</key>
+	<string>directlyLayerBrightness</string>
+	<key>navigatorVersusBuffer</key>
+	<string>taskStrategyTint</string>
+	<key>prismaticProviderDelay</key>
+	<string>webInterfaceOrientation</string>
+	<key>radiusBufferIndex</key>
+	<string>containerProxyOffset</string>
+	<key>roleVersusTemple</key>
+	<string>momentumSinceProcess</string>
+	<key>standaloneTransitionKind</key>
+	<string>activeSliderFlags</string>
+</dict>
+</plist>

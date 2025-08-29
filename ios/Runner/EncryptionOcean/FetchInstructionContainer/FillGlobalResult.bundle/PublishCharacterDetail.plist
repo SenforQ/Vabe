@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetParamAcceleration</key>
+	<string>masterPlatformRight</string>
+	<key>containerNumberSpacing</key>
+	<string>newestBrushOffset</string>
+	<key>convolutionForProxy</key>
+	<string>persistentTouchAlignment</string>
+	<key>finalCompleterCoord</key>
+	<string>scrollableGridForce</string>
+	<key>prevSizeMode</key>
+	<string>rectFacadeName</string>
+	<key>primaryInterpolationCenter</key>
+	<string>containerWithAction</string>
+</dict>
+</plist>

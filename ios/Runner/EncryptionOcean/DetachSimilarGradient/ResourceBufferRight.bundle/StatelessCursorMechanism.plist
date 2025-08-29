@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocDecoratorShape</key>
+	<string>chapterBridgeVisible</string>
+	<key>desktopChecklistBorder</key>
+	<string>heapAsShape</string>
+	<key>errorThroughValue</key>
+	<string>cursorContainChain</string>
+	<key>graphicCompositeSpacing</key>
+	<string>multiplicationAndMediator</string>
+	<key>independentInteractorPadding</key>
+	<string>builderSingletonDepth</string>
+	<key>permanentDialogsLocation</key>
+	<string>coordinatorDecoratorTransparency</string>
+</dict>
+</plist>

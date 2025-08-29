@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBesideDecorator</key>
+	<string>accessibleNotifierDelay</string>
+	<key>cubeTierPressure</key>
+	<string>notifierAdapterAlignment</string>
+	<key>firstResolverRight</key>
+	<string>arithmeticCompositionOffset</string>
+	<key>heroKindInset</key>
+	<string>hierarchicalSizedboxRate</string>
+	<key>materialMementoPadding</key>
+	<string>screenNearFramework</string>
+	<key>singletonStageTheme</key>
+	<string>configurationBesidePlatform</string>
+	<key>sizedboxNumberSaturation</key>
+	<string>resultFacadeDistance</string>
+	<key>viewBridgeBorder</key>
+	<string>sineDuringCommand</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateCacheType</key>
+	<string>immutableEventLocation</string>
+	<key>futureAroundObserver</key>
+	<string>stateMediatorCenter</string>
+	<key>labelProcessOrientation</key>
+	<string>interactiveContractionSpeed</string>
+	<key>segueFromJob</key>
+	<string>flexPatternHue</string>
+	<key>specifierAlongFramework</key>
+	<string>directScrollInset</string>
+	<key>storeTempleName</key>
+	<string>usedSubscriptionBrightness</string>
+	<key>sustainableTextFeedback</key>
+	<string>resultViaPlatform</string>
+</dict>
+</plist>

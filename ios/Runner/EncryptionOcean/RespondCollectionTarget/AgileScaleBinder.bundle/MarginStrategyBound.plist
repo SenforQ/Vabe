@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureByKind</key>
+	<string>tickerLayerFormat</string>
+	<key>interpolationForStage</key>
+	<string>elasticBlocSize</string>
+	<key>mediumGraphHead</key>
+	<string>requiredDescriptorAppearance</string>
+	<key>statefulThroughVariable</key>
+	<string>inheritedRouteFeedback</string>
+</dict>
+</plist>

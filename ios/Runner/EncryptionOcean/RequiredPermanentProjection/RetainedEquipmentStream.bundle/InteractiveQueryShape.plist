@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetVersusFlyweight</key>
+	<string>gridAwayPrototype</string>
+	<key>ignoredTangentKind</key>
+	<string>expandedVersusWork</string>
+	<key>protectedChapterContrast</key>
+	<string>bulletPerStructure</string>
+	<key>requiredCapacitiesKind</key>
+	<string>opaqueGroupOpacity</string>
+	<key>sizeByAdapter</key>
+	<string>repositoryModeEdge</string>
+	<key>themeWithoutWork</key>
+	<string>viewOperationFlags</string>
+</dict>
+</plist>

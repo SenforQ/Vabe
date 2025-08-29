@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorInPattern</key>
+	<string>optimizerIncludeShape</string>
+	<key>cubePerLevel</key>
+	<string>originalCatalystOrientation</string>
+	<key>layoutOrJob</key>
+	<string>resolverSingletonDirection</string>
+	<key>missionLevelCenter</key>
+	<string>toolAndTier</string>
+	<key>observerSingletonRotation</key>
+	<string>pivotalPositionedAppearance</string>
+	<key>particleAboutEnvironment</key>
+	<string>cardAroundKind</string>
+	<key>responsiveConfigurationTransparency</key>
+	<string>responseValueInteraction</string>
+	<key>switchWithoutProcess</key>
+	<string>queueCompositeSize</string>
+</dict>
+</plist>

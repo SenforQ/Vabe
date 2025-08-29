@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAgainstStructure</key>
+	<string>managerCycleSaturation</string>
+	<key>axisDuringCycle</key>
+	<string>widgetOrParam</string>
+	<key>blocLikeSingleton</key>
+	<string>mainTransitionOrientation</string>
+	<key>channelActivityColor</key>
+	<string>priorRadioOffset</string>
+	<key>diffableTransformerAlignment</key>
+	<string>tickerPhaseAppearance</string>
+	<key>mobileDescriptorAcceleration</key>
+	<string>tweenLikeEnvironment</string>
+	<key>pivotalEffectBottom</key>
+	<string>layoutProxyPadding</string>
+	<key>rowOfStrategy</key>
+	<string>symbolWorkPressure</string>
+	<key>variantStrategyType</key>
+	<string>hashNearMode</string>
+</dict>
+</plist>

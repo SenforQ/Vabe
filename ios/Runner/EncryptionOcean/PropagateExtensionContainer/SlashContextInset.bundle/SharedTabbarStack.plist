@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeAnimationFlags</key>
+	<string>optionOutsideCommand</string>
+	<key>gateStyleBrightness</key>
+	<string>animationContainEnvironment</string>
+	<key>gesturedetectorAdapterValidation</key>
+	<string>resolverVarSkewy</string>
+	<key>histogramAsShape</key>
+	<string>textNearProxy</string>
+	<key>inactiveArithmeticTop</key>
+	<string>immutableFactoryTail</string>
+	<key>logDuringTier</key>
+	<string>arithmeticLocalizationEdge</string>
+	<key>mobileJobDensity</key>
+	<string>flexVersusMediator</string>
+</dict>
+</plist>

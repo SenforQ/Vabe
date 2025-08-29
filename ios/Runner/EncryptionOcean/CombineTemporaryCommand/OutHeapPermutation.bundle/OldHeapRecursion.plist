@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentFrameworkShape</key>
+	<string>brushWithoutFunction</string>
+	<key>factoryWithoutFlyweight</key>
+	<string>sophisticatedFrameShape</string>
+	<key>imperativeTangentOrigin</key>
+	<string>factoryAmongContext</string>
+	<key>missedKernelEdge</key>
+	<string>sizedboxActionFormat</string>
+	<key>routerByComposite</key>
+	<string>hashKindSize</string>
+</dict>
+</plist>

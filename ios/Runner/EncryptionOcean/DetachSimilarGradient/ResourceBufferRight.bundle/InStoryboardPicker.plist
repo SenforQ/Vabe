@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitByType</key>
+	<string>staticSpotRotation</string>
+	<key>chapterProcessSaturation</key>
+	<string>originalLoopSpacing</string>
+	<key>diffableBehaviorFeedback</key>
+	<string>modalVersusParameter</string>
+	<key>handlerDuringBuffer</key>
+	<string>keyStepTransparency</string>
+	<key>slashMementoName</key>
+	<string>transitionContextScale</string>
+	<key>specifierAmongForm</key>
+	<string>cacheTierBorder</string>
+</dict>
+</plist>

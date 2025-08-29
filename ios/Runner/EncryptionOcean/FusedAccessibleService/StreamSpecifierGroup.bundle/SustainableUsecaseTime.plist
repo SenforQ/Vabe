@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPhasePosition</key>
+	<string>assetPrototypeInterval</string>
+	<key>associatedCacheAlignment</key>
+	<string>tangentLayerOffset</string>
+	<key>immediateConstraintOrientation</key>
+	<string>referenceContextSpeed</string>
+	<key>matrixByMediator</key>
+	<string>resourceProxyTransparency</string>
+	<key>nativeMapCenter</key>
+	<string>labelOutsideParameter</string>
+	<key>staticUsecaseContrast</key>
+	<string>scaffoldCommandColor</string>
+</dict>
+</plist>

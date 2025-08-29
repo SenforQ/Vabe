@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionWithoutEnvironment</key>
+	<string>callbackCycleFeedback</string>
+	<key>currentCoordinatorType</key>
+	<string>dialogsAmongEnvironment</string>
+	<key>futureIncludeChain</key>
+	<string>offsetAroundFunction</string>
+	<key>gateSinceActivity</key>
+	<string>configurationCompositeFormat</string>
+	<key>interactiveProfileKind</key>
+	<string>playbackChainAlignment</string>
+	<key>logarithmAmongCommand</key>
+	<string>positionForBuffer</string>
+	<key>navigatorChainBound</key>
+	<string>characterKindAlignment</string>
+	<key>subscriptionDuringParam</key>
+	<string>factoryThanNumber</string>
+</dict>
+</plist>

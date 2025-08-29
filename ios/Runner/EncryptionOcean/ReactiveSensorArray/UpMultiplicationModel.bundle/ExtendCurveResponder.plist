@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitCommandDelay</key>
+	<string>temporaryCubitLocation</string>
+	<key>frameChainHead</key>
+	<string>alignmentContainPhase</string>
+	<key>groupByStrategy</key>
+	<string>certificateChainPosition</string>
+	<key>logUntilLayer</key>
+	<string>materialFrameLeft</string>
+	<key>storeInsideFramework</key>
+	<string>finalMethodOpacity</string>
+	<key>uniformEqualizationCenter</key>
+	<string>durationVersusForm</string>
+</dict>
+</plist>

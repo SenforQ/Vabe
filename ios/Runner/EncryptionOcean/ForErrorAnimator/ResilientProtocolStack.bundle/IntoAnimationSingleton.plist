@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaTypeColor</key>
+	<string>mediocreSampleDelay</string>
+	<key>autoRichtextValidation</key>
+	<string>popupVarStyle</string>
+	<key>eventActivityVisible</key>
+	<string>smallServiceRotation</string>
+	<key>lazyLocalizationSkewy</key>
+	<string>handlerParameterShade</string>
+	<key>rapidListenerInterval</key>
+	<string>captionTierVisible</string>
+	<key>remainderFrameworkVisible</key>
+	<string>gradientViaInterpreter</string>
+	<key>synchronousSampleBehavior</key>
+	<string>variantFunctionInset</string>
+</dict>
+</plist>

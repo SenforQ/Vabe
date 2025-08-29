@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionValueTransparency</key>
+	<string>tweenDespitePlatform</string>
+	<key>dialogsOutsideBridge</key>
+	<string>mobileParamContrast</string>
+	<key>discardedSpriteInterval</key>
+	<string>scaleFacadePadding</string>
+	<key>requiredImageDelay</key>
+	<string>respectivePointHue</string>
+	<key>sequentialDimensionState</key>
+	<string>tweenBridgeFrequency</string>
+	<key>textureChainDepth</key>
+	<string>singleProjectionMode</string>
+</dict>
+</plist>

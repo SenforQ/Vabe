@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedListenerAcceleration</key>
+	<string>transitionAgainstTask</string>
+	<key>alignmentBesideWork</key>
+	<string>advancedBorderHue</string>
+	<key>buttonBeyondTier</key>
+	<string>popupStageOrigin</string>
+	<key>checkboxAroundForm</key>
+	<string>skinViaBuffer</string>
+	<key>cupertinoLoopSpacing</key>
+	<string>smartBitrateTail</string>
+	<key>navigatorAdapterKind</key>
+	<string>interactorParamDelay</string>
+</dict>
+</plist>

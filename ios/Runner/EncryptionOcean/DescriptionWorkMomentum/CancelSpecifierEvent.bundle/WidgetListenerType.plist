@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorBufferAcceleration</key>
+	<string>checklistParameterLocation</string>
+	<key>resilientEqualizationValidation</key>
+	<string>tensorTouchResponse</string>
+	<key>themePatternAlignment</key>
+	<string>rowAboutType</string>
+</dict>
+</plist>

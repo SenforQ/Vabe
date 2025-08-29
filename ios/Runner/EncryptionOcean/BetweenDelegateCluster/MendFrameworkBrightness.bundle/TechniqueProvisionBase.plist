@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorIncludeEnvironment</key>
+	<string>delegateOrLevel</string>
+	<key>boxActivityColor</key>
+	<string>boxForFacade</string>
+	<key>channelFormOffset</key>
+	<string>hierarchicalThemeScale</string>
+	<key>cycleStructureHead</key>
+	<string>paddingPatternBorder</string>
+	<key>groupLayerAppearance</key>
+	<string>gateAgainstFlyweight</string>
+</dict>
+</plist>

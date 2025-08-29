@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchOfContext</key>
+	<string>commonRowTransparency</string>
+	<key>blocUntilShape</key>
+	<string>sessionFlyweightTheme</string>
+	<key>buttonDecoratorDistance</key>
+	<string>dependencyExceptSingleton</string>
+	<key>localLayerRate</key>
+	<string>movementAdapterBorder</string>
+	<key>managerForEnvironment</key>
+	<string>consultativeTextureHue</string>
+	<key>marginAwayMode</key>
+	<string>pinchableTernaryBorder</string>
+	<key>numericalPointBound</key>
+	<string>streamOutsideStrategy</string>
+	<key>repositoryFlyweightTheme</key>
+	<string>discardedWidgetTint</string>
+	<key>staticPopupState</key>
+	<string>storeTaskCount</string>
+</dict>
+</plist>

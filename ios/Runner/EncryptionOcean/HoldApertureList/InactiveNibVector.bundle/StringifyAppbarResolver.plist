@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBlocLeft</key>
+	<string>gridWithVar</string>
+	<key>axisExceptType</key>
+	<string>constControllerFrequency</string>
+	<key>eventInterpreterCoord</key>
+	<string>sliderOutsideType</string>
+	<key>giftAwayBuffer</key>
+	<string>factoryAgainstBridge</string>
+	<key>movementPerVar</key>
+	<string>tweenActivityRight</string>
+	<key>otherCellSpeed</key>
+	<string>allocatorParamSpacing</string>
+	<key>radiusSinceForm</key>
+	<string>largeStatelessVisibility</string>
+</dict>
+</plist>

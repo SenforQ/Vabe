@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFormBrightness</key>
+	<string>scaleWithParameter</string>
+	<key>commandPerPattern</key>
+	<string>labelActivityColor</string>
+	<key>inkwellPrototypeAlignment</key>
+	<string>sensorStyleResponse</string>
+	<key>numericalRepositoryIndex</key>
+	<string>resourceNearFramework</string>
+	<key>pivotalSizeForce</key>
+	<string>dropdownbuttonLayerSkewy</string>
+	<key>pointFacadeEdge</key>
+	<string>binaryUntilPhase</string>
+	<key>referenceFromEnvironment</key>
+	<string>cardByProxy</string>
+	<key>singleExceptionDelay</key>
+	<string>modalInterpreterSpacing</string>
+</dict>
+</plist>

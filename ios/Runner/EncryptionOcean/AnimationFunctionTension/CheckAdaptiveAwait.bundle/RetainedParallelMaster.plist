@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAsPhase</key>
+	<string>screenIncludePrototype</string>
+	<key>cosineAsPrototype</key>
+	<string>presenterStructureBottom</string>
+	<key>factoryDuringMediator</key>
+	<string>smallWidgetCenter</string>
+	<key>gestureWithMethod</key>
+	<string>builderInNumber</string>
+	<key>mapViaSingleton</key>
+	<string>denseScrollVelocity</string>
+	<key>navigatorProxyTint</key>
+	<string>playbackTempleDensity</string>
+	<key>sliderParamAlignment</key>
+	<string>statefulColumnCoord</string>
+	<key>subtleCacheIndex</key>
+	<string>routerProcessDelay</string>
+</dict>
+</plist>

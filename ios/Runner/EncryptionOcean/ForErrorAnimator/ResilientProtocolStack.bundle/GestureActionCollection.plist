@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAboutStrategy</key>
+	<string>streamScopeInteraction</string>
+	<key>constButtonEdge</key>
+	<string>mobileDespiteDecorator</string>
+	<key>exceptionDecoratorOrigin</key>
+	<string>diffableThreadInterval</string>
+	<key>gateCycleOrientation</key>
+	<string>uniqueAnimationLeft</string>
+	<key>iterativeWorkflowScale</key>
+	<string>nextQueryAcceleration</string>
+	<key>sceneModeAppearance</key>
+	<string>aspectLayerDirection</string>
+	<key>titleAtObserver</key>
+	<string>localizationValueDuration</string>
+	<key>transitionOutsideStyle</key>
+	<string>independentCupertinoCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveActionScale</key>
+	<string>widgetPrototypeTension</string>
+	<key>animationTempleName</key>
+	<string>accessibleNavigationType</string>
+	<key>axisAroundMethod</key>
+	<string>hashDespiteMethod</string>
+	<key>durationPatternType</key>
+	<string>navigatorStageCenter</string>
+	<key>greatCapacitiesValidation</key>
+	<string>resilientSubpixelState</string>
+	<key>hierarchicalDecorationRate</key>
+	<string>iconPerPlatform</string>
+	<key>slashAndForm</key>
+	<string>labelNearStrategy</string>
+</dict>
+</plist>

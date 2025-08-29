@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistDespiteFlyweight</key>
+	<string>sizeOperationSkewx</string>
+	<key>cubitAwayOperation</key>
+	<string>criticalHeapValidation</string>
+	<key>desktopQueueOffset</key>
+	<string>newestSemanticsDistance</string>
+	<key>equalizationInterpreterValidation</key>
+	<string>apertureSystemSize</string>
+	<key>featureInInterpreter</key>
+	<string>storyboardOfType</string>
+</dict>
+</plist>

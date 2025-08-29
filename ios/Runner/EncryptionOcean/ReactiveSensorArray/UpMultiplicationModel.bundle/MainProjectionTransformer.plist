@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactorLikeDecorator</key>
+	<string>accessibleOffsetState</string>
+	<key>sceneActivityValidation</key>
+	<string>desktopScreenAppearance</string>
+	<key>serviceMementoOpacity</key>
+	<string>widgetAwayPrototype</string>
+</dict>
+</plist>

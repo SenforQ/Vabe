@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationOrSingleton</key>
+	<string>asynchronousModelLocation</string>
+	<key>contractionActionValidation</key>
+	<string>movementPrototypeColor</string>
+	<key>dependencyCyclePadding</key>
+	<string>groupBufferSkewy</string>
+	<key>difficultCardBottom</key>
+	<string>secondCursorTheme</string>
+	<key>inheritedListenerDuration</key>
+	<string>sinkSinceStrategy</string>
+	<key>interpolationActionDuration</key>
+	<string>taskStateAppearance</string>
+	<key>iterativeFrameTail</key>
+	<string>blocFlyweightSaturation</string>
+	<key>routerContainBuffer</key>
+	<string>progressbarAsPhase</string>
+	<key>sortedPositionMomentum</key>
+	<string>coordinatorAgainstFacade</string>
+	<key>viewMediatorScale</key>
+	<string>listenerViaPattern</string>
+</dict>
+</plist>

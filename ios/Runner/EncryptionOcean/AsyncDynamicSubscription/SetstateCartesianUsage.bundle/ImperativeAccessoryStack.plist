@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPhaseTint</key>
+	<string>repositoryExceptPlatform</string>
+	<key>autoCapacitiesStyle</key>
+	<string>arithmeticMediatorFormat</string>
+	<key>checkboxUntilStage</key>
+	<string>cursorUntilKind</string>
+	<key>controllerBufferAcceleration</key>
+	<string>tickerProxyTransparency</string>
+	<key>notificationLayerScale</key>
+	<string>storeAroundForm</string>
+	<key>requiredCertificateBrightness</key>
+	<string>responseExceptSingleton</string>
+	<key>resourceMediatorBottom</key>
+	<string>presenterProxyLeft</string>
+	<key>routerAsInterpreter</key>
+	<string>batchAgainstOperation</string>
+	<key>vectorTypeTag</key>
+	<string>mainTaskMode</string>
+</dict>
+</plist>

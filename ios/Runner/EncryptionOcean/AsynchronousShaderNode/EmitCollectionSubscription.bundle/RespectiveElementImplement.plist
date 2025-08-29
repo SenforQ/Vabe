@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDelegateForce</key>
+	<string>hashOperationBorder</string>
+	<key>fragmentDuringStructure</key>
+	<string>statefulCommandBorder</string>
+	<key>sceneWithoutFacade</key>
+	<string>reusableHeapTop</string>
+	<key>unactivatedModulusEdge</key>
+	<string>consultativeQueueShade</string>
+	<key>uniqueViewName</key>
+	<string>graphPatternBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineDecoratorSpeed</key>
+	<string>movementWithoutPattern</string>
+	<key>configurationCommandInteraction</key>
+	<string>temporaryStoreOffset</string>
+	<key>cupertinoSignTop</key>
+	<string>mobxSystemLocation</string>
+	<key>giftFacadeState</key>
+	<string>webBoxshadowSkewy</string>
+	<key>multiSampleOrientation</key>
+	<string>seamlessDialogsDensity</string>
+	<key>petAboutVisitor</key>
+	<string>richtextContainVisitor</string>
+	<key>requestModeTag</key>
+	<string>requestChainDepth</string>
+	<key>responsiveServiceScale</key>
+	<string>mobileEnvironmentOrientation</string>
+	<key>storyboardByContext</key>
+	<string>promiseActionValidation</string>
+</dict>
+</plist>

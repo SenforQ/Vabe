@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logarithmUntilJob</key>
+	<string>sceneOperationFormat</string>
+	<key>shaderOperationOffset</key>
+	<string>lostResponseOrigin</string>
+	<key>taskAndState</key>
+	<string>requestInterpreterCount</string>
+	<key>tensorStateForce</key>
+	<string>errorForNumber</string>
+</dict>
+</plist>

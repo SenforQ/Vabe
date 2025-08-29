@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocThroughVar</key>
+	<string>temporarySpriteAlignment</string>
+	<key>characterPhaseAppearance</key>
+	<string>responsiveSineCoord</string>
+	<key>futureValueCenter</key>
+	<string>referenceWithoutProcess</string>
+	<key>indicatorCycleOrigin</key>
+	<string>advancedTextureDirection</string>
+</dict>
+</plist>

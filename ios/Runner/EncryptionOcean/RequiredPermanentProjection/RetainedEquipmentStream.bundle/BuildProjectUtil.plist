@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorMementoDirection</key>
+	<string>frameViaJob</string>
+	<key>capacitiesNumberEdge</key>
+	<string>equalizationPerLayer</string>
+	<key>decorationIncludeDecorator</key>
+	<string>responsiveContainerVisibility</string>
+	<key>hierarchicalEqualizationTop</key>
+	<string>flexInsideObserver</string>
+	<key>providerEnvironmentInset</key>
+	<string>taskOperationScale</string>
+	<key>sessionStyleInterval</key>
+	<string>allocatorEnvironmentAppearance</string>
+	<key>topicUntilWork</key>
+	<string>animatedDurationTop</string>
+	<key>uniformActivityBorder</key>
+	<string>newestGraphMomentum</string>
+</dict>
+</plist>

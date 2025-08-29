@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTaskFrequency</key>
+	<string>exponentOutsideFlyweight</string>
+	<key>catalystActivityCoord</key>
+	<string>interactorFromParameter</string>
+	<key>completerWithBridge</key>
+	<string>layoutAlongVisitor</string>
+	<key>fixedModelSaturation</key>
+	<string>awaitChainDepth</string>
+	<key>gateAdapterName</key>
+	<string>currentUsecaseFeedback</string>
+	<key>liteHistogramName</key>
+	<string>characterStateRate</string>
+</dict>
+</plist>

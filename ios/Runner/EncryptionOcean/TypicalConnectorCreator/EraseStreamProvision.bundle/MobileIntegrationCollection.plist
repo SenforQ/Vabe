@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeAnimatedcontainerColor</key>
+	<string>playbackFormContrast</string>
+	<key>providerByComposite</key>
+	<string>managerStyleState</string>
+	<key>publicPreviewRotation</key>
+	<string>matrixAroundNumber</string>
+	<key>themeStyleCoord</key>
+	<string>controllerModeSpacing</string>
+	<key>uniqueMenuBehavior</key>
+	<string>touchOrJob</string>
+</dict>
+</plist>

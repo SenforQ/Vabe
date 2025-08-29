@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBeyondJob</key>
+	<string>sortedManagerRight</string>
+	<key>custompaintObserverInterval</key>
+	<string>grayscaleStyleBound</string>
+	<key>directCardTint</key>
+	<string>adaptiveSizeDelay</string>
+	<key>entityPerStage</key>
+	<string>entityPhaseStyle</string>
+	<key>intensityChainDepth</key>
+	<string>hierarchicalParticleAppearance</string>
+	<key>invisibleMobxCenter</key>
+	<string>decorationDuringLayer</string>
+	<key>mediaqueryOutsideStrategy</key>
+	<string>rowVisitorForce</string>
+	<key>multiHandlerShade</key>
+	<string>animationBridgeInterval</string>
+</dict>
+</plist>

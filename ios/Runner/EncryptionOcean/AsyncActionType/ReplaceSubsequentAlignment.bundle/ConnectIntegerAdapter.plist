@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandPatternIndex</key>
+	<string>exponentAmongVar</string>
+	<key>concurrentRemainderType</key>
+	<string>indicatorSinceNumber</string>
+	<key>constraintBeyondCycle</key>
+	<string>requestExceptTask</string>
+	<key>labelTaskName</key>
+	<string>sharedGemLocation</string>
+	<key>optionForObserver</key>
+	<string>offsetPlatformFormat</string>
+	<key>originalRepositoryInteraction</key>
+	<string>mutableLossCoord</string>
+	<key>priorRequestSpacing</key>
+	<string>currentParticleDuration</string>
+	<key>referenceBeyondContext</key>
+	<string>observerAmongStage</string>
+	<key>similarEventLocation</key>
+	<string>associatedBehaviorShape</string>
+	<key>sinkPhaseTag</key>
+	<string>interfaceContextStatus</string>
+</dict>
+</plist>

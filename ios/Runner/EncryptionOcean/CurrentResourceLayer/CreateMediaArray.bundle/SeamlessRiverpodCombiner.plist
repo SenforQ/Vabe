@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedResolverStyle</key>
+	<string>clipperThroughVar</string>
+	<key>cycleVersusPrototype</key>
+	<string>similarCheckboxShape</string>
+	<key>exceptionTierPressure</key>
+	<string>asynchronousSliderOpacity</string>
+	<key>mediaNearStructure</key>
+	<string>entityParamVelocity</string>
+	<key>notifierAboutVisitor</key>
+	<string>intermediateControllerDepth</string>
+	<key>opaqueDelegateValidation</key>
+	<string>inkwellAdapterTension</string>
+	<key>reducerStageMode</key>
+	<string>buttonFrameworkTension</string>
+	<key>resultSinceStyle</key>
+	<string>callbackVisitorResponse</string>
+	<key>utilBridgeSpeed</key>
+	<string>resizableFeatureDistance</string>
+</dict>
+</plist>

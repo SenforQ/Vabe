@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectInBuffer</key>
+	<string>callbackViaPlatform</string>
+	<key>gesturedetectorBufferBehavior</key>
+	<string>awaitFlyweightOrigin</string>
+	<key>grainPhaseBottom</key>
+	<string>eagerModelTension</string>
+	<key>shaderBridgeTail</key>
+	<string>aspectAndContext</string>
+</dict>
+</plist>

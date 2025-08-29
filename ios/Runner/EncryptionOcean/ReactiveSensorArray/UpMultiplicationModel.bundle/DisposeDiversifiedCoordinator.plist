@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupViaAction</key>
+	<string>singletonThroughStage</string>
+	<key>requestStageValidation</key>
+	<string>capacitiesAmongParameter</string>
+	<key>scrollableInteractorPressure</key>
+	<string>accessiblePageviewForce</string>
+	<key>secondOptimizerScale</key>
+	<string>fixedUsecaseColor</string>
+	<key>spriteByWork</key>
+	<string>progressbarNumberDirection</string>
+	<key>timerInsideBuffer</key>
+	<string>tensorCoordinatorBorder</string>
+	<key>typicalMusicHead</key>
+	<string>featureOutsideTemple</string>
+</dict>
+</plist>

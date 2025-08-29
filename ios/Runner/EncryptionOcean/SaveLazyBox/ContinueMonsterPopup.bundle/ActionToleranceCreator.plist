@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterVisitorBottom</key>
+	<string>elasticRectPressure</string>
+	<key>factoryWithoutType</key>
+	<string>globalRichtextBound</string>
+	<key>mediumSensorBrightness</key>
+	<string>operationStateTint</string>
+	<key>topicAtJob</key>
+	<string>apertureTierSpacing</string>
+</dict>
+</plist>

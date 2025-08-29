@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionExceptType</key>
+	<string>resourceBufferContrast</string>
+	<key>progressbarActionFrequency</key>
+	<string>memberAtOperation</string>
+	<key>providerTaskDistance</key>
+	<string>gridTypeTail</string>
+	<key>rectMementoDirection</key>
+	<string>cartesianMemberOrientation</string>
+	<key>rowForPhase</key>
+	<string>buttonLayerState</string>
+</dict>
+</plist>

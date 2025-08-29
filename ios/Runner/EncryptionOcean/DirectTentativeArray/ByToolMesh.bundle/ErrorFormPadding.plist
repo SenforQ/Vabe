@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableCaptionTransparency</key>
+	<string>symbolLikeProxy</string>
+	<key>mediaProcessInteraction</key>
+	<string>tappableAwaitResponse</string>
+	<key>mutablePageviewDirection</key>
+	<string>brushFromParam</string>
+	<key>responsiveConfigurationFeedback</key>
+	<string>cupertinoThreadShade</string>
+	<key>scrollTaskRate</key>
+	<string>extensionAmongDecorator</string>
+	<key>sessionObserverPadding</key>
+	<string>certificateOutsideMediator</string>
+	<key>stepDuringChain</key>
+	<string>synchronousEqualizationHue</string>
+</dict>
+</plist>

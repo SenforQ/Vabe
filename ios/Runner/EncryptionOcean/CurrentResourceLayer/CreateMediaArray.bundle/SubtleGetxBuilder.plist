@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constCheckboxName</key>
+	<string>checkboxVarVisibility</string>
+	<key>painterStructureOffset</key>
+	<string>decorationContainActivity</string>
+	<key>promiseTypeIndex</key>
+	<string>viewChainFrequency</string>
+	<key>responsiveSegueEdge</key>
+	<string>specifierInsideFacade</string>
+</dict>
+</plist>

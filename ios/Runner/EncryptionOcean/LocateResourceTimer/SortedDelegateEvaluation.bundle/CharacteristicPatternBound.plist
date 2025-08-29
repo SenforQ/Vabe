@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPerPrototype</key>
+	<string>singletonAsVar</string>
+	<key>cartesianTangentMode</key>
+	<string>eventDecoratorCount</string>
+	<key>cupertinoSingletonPressure</key>
+	<string>widgetAlongChain</string>
+	<key>dedicatedRiverpodTint</key>
+	<string>imperativeMasterContrast</string>
+	<key>pageviewProxyPressure</key>
+	<string>transitionVisitorHead</string>
+	<key>rapidTableFeedback</key>
+	<string>aspectratioParameterValidation</string>
+	<key>rowFrameworkFlags</key>
+	<string>boxParameterDelay</string>
+	<key>serviceByStyle</key>
+	<string>accessibleLossCenter</string>
+	<key>sortedMethodBottom</key>
+	<string>builderPrototypeHead</string>
+	<key>taskWorkFeedback</key>
+	<string>tappableSubscriptionTag</string>
+</dict>
+</plist>

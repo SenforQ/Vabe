@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionLayerRotation</key>
+	<string>directObserverSkewx</string>
+	<key>menuFromScope</key>
+	<string>dropdownbuttonParamStyle</string>
+	<key>projectionAmongShape</key>
+	<string>contractionStyleName</string>
+	<key>sceneBridgeFrequency</key>
+	<string>petParameterResponse</string>
+	<key>secondEventContrast</key>
+	<string>queueFlyweightCount</string>
+	<key>segmentSingletonAppearance</key>
+	<string>lossFromAdapter</string>
+</dict>
+</plist>

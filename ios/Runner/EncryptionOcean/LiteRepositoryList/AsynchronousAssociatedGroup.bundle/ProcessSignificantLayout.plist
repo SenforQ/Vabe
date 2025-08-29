@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerRouterSkewx</key>
+	<string>concurrentActionInset</string>
+	<key>channelsExceptAction</key>
+	<string>deferredGrainStatus</string>
+	<key>pageviewNearProxy</key>
+	<string>factoryForContext</string>
+	<key>sliderEnvironmentName</key>
+	<string>mediocreSliderSize</string>
+	<key>stepContextTag</key>
+	<string>layoutUntilDecorator</string>
+</dict>
+</plist>

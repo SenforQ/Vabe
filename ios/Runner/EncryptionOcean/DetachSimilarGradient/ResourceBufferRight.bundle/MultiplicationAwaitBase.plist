@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentThroughStrategy</key>
+	<string>singletonVersusType</string>
+	<key>chapterBesideType</key>
+	<string>responsiveRectLocation</string>
+	<key>denseInjectionColor</key>
+	<string>liteRiverpodBehavior</string>
+	<key>exponentStageOpacity</key>
+	<string>subtlePreviewSpeed</string>
+	<key>matrixLikeActivity</key>
+	<string>deferredCurveType</string>
+	<key>menuParamEdge</key>
+	<string>methodMementoCenter</string>
+	<key>spotVisitorAppearance</key>
+	<string>ternaryAdapterOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDuringProcess</key>
+	<string>responsiveScenePadding</string>
+	<key>globalSubscriptionValidation</key>
+	<string>protectedTickerState</string>
+	<key>popupAndVar</key>
+	<string>constDurationInteraction</string>
+	<key>reductionNumberRotation</key>
+	<string>constraintOperationCenter</string>
+	<key>rowActionVisibility</key>
+	<string>usedStatefulBorder</string>
+	<key>signatureAroundParameter</key>
+	<string>responseUntilEnvironment</string>
+	<key>taskAdapterSkewy</key>
+	<string>bufferActionFrequency</string>
+</dict>
+</plist>

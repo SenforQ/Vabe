@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGraphicColor</key>
+	<string>imperativeLayoutResponse</string>
+	<key>callbackKindHue</key>
+	<string>binaryFromFunction</string>
+	<key>curveAsShape</key>
+	<string>invisibleOverlayMode</string>
+	<key>explicitTransitionCenter</key>
+	<string>resilientButtonVelocity</string>
+	<key>listenerAmongFlyweight</key>
+	<string>interactiveMarginDelay</string>
+	<key>mediaInOperation</key>
+	<string>greatSignatureTransparency</string>
+	<key>requiredDimensionDuration</key>
+	<string>signatureBufferBound</string>
+	<key>toolAmongSystem</key>
+	<string>repositoryMementoShade</string>
+</dict>
+</plist>

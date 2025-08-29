@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarEnvironmentStyle</key>
+	<string>primaryMetadataVisible</string>
+	<key>featureInterpreterCount</key>
+	<string>blocAboutComposite</string>
+	<key>iconAgainstShape</key>
+	<string>entityFromContext</string>
+	<key>mainFactoryInteraction</key>
+	<string>storeCommandInset</string>
+	<key>textureChainFeedback</key>
+	<string>navigationPatternSaturation</string>
+</dict>
+</plist>

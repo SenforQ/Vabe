@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAroundFunction</key>
+	<string>spriteOutsideFunction</string>
+	<key>commandAlongScope</key>
+	<string>gemOutsideLevel</string>
+	<key>rowAmongComposite</key>
+	<string>activityContextTag</string>
+	<key>sampleVersusWork</key>
+	<string>borderDecoratorColor</string>
+</dict>
+</plist>

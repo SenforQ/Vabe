@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAwayJob</key>
+	<string>mainAlphaTheme</string>
+	<key>crudeCompleterInteraction</key>
+	<string>challengeLikeTask</string>
+	<key>isolateShapeSkewy</key>
+	<string>notificationBesideMediator</string>
+	<key>multiMetadataOffset</key>
+	<string>masterAmongMediator</string>
+	<key>sequentialSceneFlags</key>
+	<string>blocDecoratorPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLogBound</key>
+	<string>marginWithoutState</string>
+	<key>globalConfigurationDelay</key>
+	<string>segueSingletonRotation</string>
+	<key>primaryStepStyle</key>
+	<string>crudeAnimationTop</string>
+	<key>storyboardDuringActivity</key>
+	<string>queueProxyTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackLikeMediator</key>
+	<string>functionalExpandedTransparency</string>
+	<key>gridCycleSkewy</key>
+	<string>awaitBesideCycle</string>
+	<key>inkwellKindMargin</key>
+	<string>similarBinaryPadding</string>
+	<key>menuAboutParameter</key>
+	<string>sensorValueFeedback</string>
+	<key>requestOperationCenter</key>
+	<string>tickerVarTension</string>
+</dict>
+</plist>

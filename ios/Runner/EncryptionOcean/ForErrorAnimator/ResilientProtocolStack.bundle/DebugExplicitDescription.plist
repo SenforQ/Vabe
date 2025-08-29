@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistParamCount</key>
+	<string>techniqueOrShape</string>
+	<key>containerVersusKind</key>
+	<string>serviceVariableMode</string>
+	<key>factoryBeyondFacade</key>
+	<string>awaitInScope</string>
+	<key>flexibleInterfaceDistance</key>
+	<string>directMethodShade</string>
+	<key>gemFacadeSpacing</key>
+	<string>inactiveInterfaceContrast</string>
+	<key>menuTypeBottom</key>
+	<string>containerAdapterAppearance</string>
+	<key>providerTempleIndex</key>
+	<string>immutableExpandedCoord</string>
+	<key>stateInsideChain</key>
+	<string>containerBufferOrientation</string>
+	<key>transformerActivityForce</key>
+	<string>scaleLikeLayer</string>
+</dict>
+</plist>

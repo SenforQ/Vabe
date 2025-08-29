@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerAboutOperation</key>
+	<string>catalystWithoutCommand</string>
+	<key>effectUntilStyle</key>
+	<string>loopBufferSize</string>
+	<key>eventViaKind</key>
+	<string>mapAboutState</string>
+	<key>globalStatelessInterval</key>
+	<string>primaryBufferCenter</string>
+	<key>listenerAdapterPadding</key>
+	<string>custompaintContextPosition</string>
+	<key>observerNumberVelocity</key>
+	<string>pageviewShapeState</string>
+	<key>skirtPerVariable</key>
+	<string>callbackOrTask</string>
+	<key>streamByPrototype</key>
+	<string>decorationFlyweightTint</string>
+	<key>transformerChainFeedback</key>
+	<string>statelessLayoutTint</string>
+</dict>
+</plist>

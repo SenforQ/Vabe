@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorSingletonSaturation</key>
+	<string>cardInFacade</string>
+	<key>containerVersusStrategy</key>
+	<string>sizeProcessMode</string>
+	<key>coordinatorValueFrequency</key>
+	<string>localizationFormRate</string>
+	<key>numericalSpriteDistance</key>
+	<string>channelsPerContext</string>
+	<key>subscriptionByLayer</key>
+	<string>sharedRouteLocation</string>
+	<key>sustainableErrorStyle</key>
+	<string>flexibleTabbarInterval</string>
+	<key>symmetricPaddingName</key>
+	<string>equipmentVarFormat</string>
+	<key>tabviewOfStructure</key>
+	<string>resourceInsideTask</string>
+	<key>timerIncludeObserver</key>
+	<string>mutableWorkflowSkewx</string>
+	<key>visibleBuilderTransparency</key>
+	<string>graphicPhaseOrientation</string>
+</dict>
+</plist>

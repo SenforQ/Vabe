@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAdapterForce</key>
+	<string>eagerSliderLocation</string>
+	<key>columnTaskDistance</key>
+	<string>hyperbolicBatchFrequency</string>
+	<key>lazyObserverRotation</key>
+	<string>frameStyleCoord</string>
+	<key>plateInterpreterBound</key>
+	<string>providerPlatformFrequency</string>
+	<key>providerWithoutMemento</key>
+	<string>sortedFactorySpacing</string>
+	<key>resourceAndTemple</key>
+	<string>explicitQueryStyle</string>
+	<key>staticControllerDuration</key>
+	<string>accessibleTouchOrigin</string>
+	<key>zoneShapeShape</key>
+	<string>transitionFlyweightAlignment</string>
+</dict>
+</plist>

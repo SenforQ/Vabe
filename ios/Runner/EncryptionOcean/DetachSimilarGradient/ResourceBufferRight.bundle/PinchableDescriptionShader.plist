@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureFrameworkTransparency</key>
+	<string>asyncQueryOpacity</string>
+	<key>fragmentWorkStatus</key>
+	<string>sliderBesideSingleton</string>
+	<key>futureNearWork</key>
+	<string>seguePerKind</string>
+	<key>imageActionSkewx</key>
+	<string>projectJobType</string>
+	<key>localViewTint</key>
+	<string>aspectAdapterBorder</string>
+	<key>radiusScopeColor</key>
+	<string>sequentialConsumerSize</string>
+	<key>sophisticatedCanvasStatus</key>
+	<string>autoSampleMode</string>
+	<key>sustainableResolverVisibility</key>
+	<string>titleStrategyForce</string>
+</dict>
+</plist>

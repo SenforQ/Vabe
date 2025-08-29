@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartDespiteFlyweight</key>
+	<string>grainWorkAlignment</string>
+	<key>decorationAndState</key>
+	<string>mobxProcessDuration</string>
+	<key>priorityForNumber</key>
+	<string>permanentInterfaceTop</string>
+	<key>sizeSinceWork</key>
+	<string>extensionAlongFacade</string>
+	<key>smallFuturePosition</key>
+	<string>concurrentReducerAlignment</string>
+	<key>storyboardLikePlatform</key>
+	<string>statefulInFunction</string>
+	<key>tickerVarBottom</key>
+	<string>zoneAmongMethod</string>
+</dict>
+</plist>

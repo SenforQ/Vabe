@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartWithoutAction</key>
+	<string>buttonBeyondValue</string>
+	<key>extensionBesideMethod</key>
+	<string>captionInsideDecorator</string>
+	<key>nodeContainStrategy</key>
+	<string>sceneContextMargin</string>
+	<key>queueExceptKind</key>
+	<string>localizationSinceChain</string>
+	<key>rowPerPrototype</key>
+	<string>enabledBrushRight</string>
+	<key>scrollableNavigatorHue</key>
+	<string>touchAsType</string>
+	<key>statelessLikeParam</key>
+	<string>tappableRowRight</string>
+</dict>
+</plist>

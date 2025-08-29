@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFacadeSize</key>
+	<string>accessoryBridgeAcceleration</string>
+	<key>equalizationAroundWork</key>
+	<string>bufferByMediator</string>
+	<key>euclideanSensorInteraction</key>
+	<string>popupFrameworkDuration</string>
+	<key>modelWithoutObserver</key>
+	<string>bufferSingletonMomentum</string>
+	<key>notifierDecoratorTag</key>
+	<string>widgetFormMargin</string>
+	<key>petProcessRate</key>
+	<string>hyperbolicErrorSkewy</string>
+</dict>
+</plist>

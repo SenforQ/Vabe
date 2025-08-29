@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionAsTask</key>
+	<string>diffableEventFormat</string>
+	<key>globalNotificationFeedback</key>
+	<string>textOfPrototype</string>
+	<key>gridviewWithActivity</key>
+	<string>slashOutsideWork</string>
+	<key>sinkBeyondForm</key>
+	<string>cellBeyondStage</string>
+	<key>streamBridgeSaturation</key>
+	<string>chartAgainstForm</string>
+</dict>
+</plist>

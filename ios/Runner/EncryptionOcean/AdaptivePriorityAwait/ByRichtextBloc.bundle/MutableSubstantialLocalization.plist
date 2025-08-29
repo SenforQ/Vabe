@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerThroughFunction</key>
+	<string>animatedcontainerBeyondScope</string>
+	<key>declarativeExceptionTransparency</key>
+	<string>durationPrototypeRate</string>
+	<key>dependencyOperationSaturation</key>
+	<string>transformerLevelSaturation</string>
+	<key>effectInInterpreter</key>
+	<string>cycleProcessBehavior</string>
+	<key>euclideanConstraintMargin</key>
+	<string>loopVariableSpacing</string>
+	<key>gramAsStage</key>
+	<string>eagerCharacterBound</string>
+	<key>hashAmongPattern</key>
+	<string>ignoredUsagePosition</string>
+	<key>localizationAdapterForce</key>
+	<string>signatureTypeRate</string>
+	<key>subscriptionPhaseAppearance</key>
+	<string>discardedOptimizerState</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardVisitorAlignment</key>
+	<string>streamContainLevel</string>
+	<key>dependencyBySingleton</key>
+	<string>handlerMethodLocation</string>
+	<key>stampAsSingleton</key>
+	<string>timerAwayState</string>
+	<key>webModalColor</key>
+	<string>mediocreResourceHue</string>
+</dict>
+</plist>

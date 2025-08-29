@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGrainSkewy</key>
+	<string>taskUntilSystem</string>
+	<key>baselineNumberSize</key>
+	<string>spineWithStyle</string>
+	<key>currentRowVisible</key>
+	<string>heroDuringPhase</string>
+	<key>flexibleLossCount</key>
+	<string>interfaceOrCommand</string>
+	<key>gateAlongStructure</key>
+	<string>loopNumberSaturation</string>
+	<key>gridVarResponse</key>
+	<string>tabbarSingletonVisible</string>
+	<key>heroByContext</key>
+	<string>tensorSessionColor</string>
+	<key>ignoredTouchName</key>
+	<string>mobxLayerRight</string>
+	<key>taskStateColor</key>
+	<string>handlerContainVariable</string>
+</dict>
+</plist>

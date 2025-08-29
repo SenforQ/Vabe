@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitContainFlyweight</key>
+	<string>materialDescriptorOrientation</string>
+	<key>delegateNearTier</key>
+	<string>builderWithProxy</string>
+	<key>disabledControllerColor</key>
+	<string>drawerByContext</string>
+	<key>listenerNumberMode</key>
+	<string>animatedCoordinatorMargin</string>
+	<key>presenterLevelTag</key>
+	<string>storyboardPerMediator</string>
+	<key>routerOfShape</key>
+	<string>callbackOrFacade</string>
+	<key>semanticsByScope</key>
+	<string>sinkBeyondVisitor</string>
+	<key>tabbarActivityTransparency</key>
+	<string>previewOfStrategy</string>
+</dict>
+</plist>

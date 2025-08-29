@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStructurePadding</key>
+	<string>similarTernaryDensity</string>
+	<key>compositionalAnimatedcontainerVisibility</key>
+	<string>reusableEffectSize</string>
+	<key>effectThroughStage</key>
+	<string>menuSystemLeft</string>
+</dict>
+</plist>

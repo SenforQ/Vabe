@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSizeDensity</key>
+	<string>cupertinoChartDuration</string>
+	<key>documentStyleSaturation</key>
+	<string>euclideanStatelessStyle</string>
+	<key>monsterAndActivity</key>
+	<string>spotDespiteProxy</string>
+	<key>synchronousGridviewResponse</key>
+	<string>iconByParam</string>
+</dict>
+</plist>

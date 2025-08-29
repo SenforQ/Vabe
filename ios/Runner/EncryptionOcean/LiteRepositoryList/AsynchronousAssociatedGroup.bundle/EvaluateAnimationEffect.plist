@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorFlyweightBottom</key>
+	<string>providerStrategyBrightness</string>
+	<key>arithmeticActivityBehavior</key>
+	<string>enabledInkwellCenter</string>
+	<key>interactiveAlphaFormat</key>
+	<string>activeLabelBound</string>
+	<key>localizationMementoDuration</key>
+	<string>durationParameterPosition</string>
+	<key>menuPlatformOpacity</key>
+	<string>enabledLabelVelocity</string>
+	<key>rectLikePrototype</key>
+	<string>commonUsecaseBehavior</string>
+	<key>responseFacadeHead</key>
+	<string>boxVisitorCenter</string>
+</dict>
+</plist>

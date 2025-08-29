@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultCompletionKind</key>
+	<string>actionAndActivity</string>
+	<key>discardedViewForce</key>
+	<string>responsiveListviewType</string>
+	<key>frameDuringStructure</key>
+	<string>sensorTypeStyle</string>
+	<key>graphicValueValidation</key>
+	<string>promiseNearFlyweight</string>
+	<key>inactiveMetadataFeedback</key>
+	<string>newestExponentRotation</string>
+	<key>presenterBufferKind</key>
+	<string>adaptiveCapsuleHue</string>
+	<key>resourceFrameworkFeedback</key>
+	<string>materialDimensionSkewx</string>
+</dict>
+</plist>

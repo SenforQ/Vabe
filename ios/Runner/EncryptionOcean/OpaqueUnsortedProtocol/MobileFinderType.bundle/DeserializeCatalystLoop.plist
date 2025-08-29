@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferDecoratorTransparency</key>
+	<string>positionTierCoord</string>
+	<key>capsuleAmongNumber</key>
+	<string>permanentFrameSize</string>
+	<key>largeActivityTheme</key>
+	<string>activatedLayoutSpacing</string>
+	<key>resilientCubitDuration</key>
+	<string>protectedBorderContrast</string>
+	<key>uniqueSpriteFrequency</key>
+	<string>requestAsKind</string>
+</dict>
+</plist>

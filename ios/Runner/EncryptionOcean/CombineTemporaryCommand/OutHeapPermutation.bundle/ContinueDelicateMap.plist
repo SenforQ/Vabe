@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorThroughPrototype</key>
+	<string>graphChainAcceleration</string>
+	<key>checkboxWithPrototype</key>
+	<string>navigatorDuringChain</string>
+	<key>cubitModeBound</key>
+	<string>concurrentLayoutSkewx</string>
+	<key>gridFunctionShape</key>
+	<string>precisionFormTail</string>
+	<key>immediateNavigatorForce</key>
+	<string>mobileAsLevel</string>
+	<key>layerFormOpacity</key>
+	<string>easyRouteSize</string>
+	<key>semanticConstraintScale</key>
+	<string>keyProjectionCenter</string>
+	<key>sizeNumberFrequency</key>
+	<string>playbackBeyondStrategy</string>
+	<key>smartTopicVelocity</key>
+	<string>usecaseBeyondKind</string>
+	<key>viewVisitorShape</key>
+	<string>prismaticApertureState</string>
+</dict>
+</plist>

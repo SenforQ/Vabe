@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertCommandCenter</key>
+	<string>cubitLevelBehavior</string>
+	<key>chartBridgeTint</key>
+	<string>routerTaskInteraction</string>
+	<key>descriptionNearDecorator</key>
+	<string>resourceObserverOffset</string>
+	<key>heroStatePosition</key>
+	<string>aspectDespitePattern</string>
+	<key>localSubscriptionInterval</key>
+	<string>stackThanStage</string>
+	<key>queueFromBuffer</key>
+	<string>dynamicQueueBorder</string>
+	<key>secondHistogramVisibility</key>
+	<string>oldGrainMargin</string>
+	<key>staticAssetDuration</key>
+	<string>managerFrameworkForce</string>
+	<key>storageInChain</key>
+	<string>usecaseThanCommand</string>
+</dict>
+</plist>

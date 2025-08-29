@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableInstructionPressure</key>
+	<string>presenterWorkSize</string>
+	<key>indicatorByVariable</key>
+	<string>sharedCatalystEdge</string>
+	<key>localizationWorkIndex</key>
+	<string>enabledStampOrientation</string>
+	<key>matrixByAdapter</key>
+	<string>easyProjectDistance</string>
+	<key>mediumControllerSpeed</key>
+	<string>alphaFromAction</string>
+	<key>presenterPerValue</key>
+	<string>deferredPointPadding</string>
+	<key>resolverActivitySize</key>
+	<string>dedicatedAssetAcceleration</string>
+	<key>reusableCapsuleContrast</key>
+	<string>backwardContractionScale</string>
+	<key>sceneInterpreterDirection</key>
+	<string>autoContainerHue</string>
+</dict>
+</plist>

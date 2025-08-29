@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderIncludeSingleton</key>
+	<string>spinePerType</string>
+	<key>deferredBulletAlignment</key>
+	<string>equipmentMethodTail</string>
+	<key>dependencyFlyweightCoord</key>
+	<string>reactiveFeatureValidation</string>
+	<key>iconSinceInterpreter</key>
+	<string>streamOrCommand</string>
+	<key>inactiveContainerVisibility</key>
+	<string>responsiveCommandStyle</string>
+	<key>painterDuringAdapter</key>
+	<string>fixedLayoutMargin</string>
+	<key>shaderParameterTransparency</key>
+	<string>delicateWidgetBrightness</string>
+	<key>similarSizedboxType</key>
+	<string>sizeOperationTheme</string>
+	<key>stateOperationInteraction</key>
+	<string>providerAgainstStrategy</string>
+	<key>zoneStrategyAcceleration</key>
+	<string>mobileGrainFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSceneTail</key>
+	<string>descriptionStrategyVelocity</string>
+	<key>finalDurationRotation</key>
+	<string>associatedCubitInset</string>
+	<key>geometricScreenEdge</key>
+	<string>synchronousGrainTransparency</string>
+	<key>localizationCommandDuration</key>
+	<string>hashVersusPrototype</string>
+	<key>richtextFormMode</key>
+	<string>accessibleIndicatorBrightness</string>
+	<key>tickerDecoratorTag</key>
+	<string>sharedToolSize</string>
+	<key>viewOutsideParameter</key>
+	<string>momentumFacadeHue</string>
+</dict>
+</plist>

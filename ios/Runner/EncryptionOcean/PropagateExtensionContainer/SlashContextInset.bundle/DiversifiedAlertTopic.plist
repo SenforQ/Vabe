@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicTransitionEdge</key>
+	<string>invisiblePriorityDepth</string>
+	<key>fragmentOutsideState</key>
+	<string>expandedAsFlyweight</string>
+	<key>localNavigationLeft</key>
+	<string>coordinatorAdapterTop</string>
+	<key>progressbarFromFunction</key>
+	<string>sineActionEdge</string>
+</dict>
+</plist>

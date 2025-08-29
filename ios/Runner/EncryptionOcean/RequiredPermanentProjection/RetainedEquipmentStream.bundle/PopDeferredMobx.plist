@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxTierRate</key>
+	<string>singletonTempleFrequency</string>
+	<key>cubitCommandStatus</key>
+	<string>memberInsideScope</string>
+	<key>offsetInsideMode</key>
+	<string>statefulStreamOffset</string>
+	<key>rectActivityFrequency</key>
+	<string>durationLayerCoord</string>
+	<key>routeVarPressure</key>
+	<string>statefulGroupTransparency</string>
+	<key>stepPerBuffer</key>
+	<string>temporaryTableTail</string>
+	<key>symmetricGetxState</key>
+	<string>transformerThroughMethod</string>
+	<key>unactivatedBuilderInset</key>
+	<string>tweenProcessDistance</string>
+</dict>
+</plist>

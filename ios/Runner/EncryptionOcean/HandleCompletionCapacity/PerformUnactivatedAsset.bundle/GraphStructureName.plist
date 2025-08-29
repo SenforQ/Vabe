@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandFrameworkTransparency</key>
+	<string>blocPlatformSaturation</string>
+	<key>getxPerOperation</key>
+	<string>navigationStateStyle</string>
+	<key>histogramScopeBorder</key>
+	<string>delicateTabbarEdge</string>
+	<key>labelStyleVelocity</key>
+	<string>statelessIncludeInterpreter</string>
+	<key>resourceVersusPlatform</key>
+	<string>multiplicationAmongMemento</string>
+	<key>scaffoldFrameworkTransparency</key>
+	<string>numericalLayerInset</string>
+	<key>vectorInterpreterVisibility</key>
+	<string>apertureCycleEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateSinceMediator</key>
+	<string>currentTransitionSpeed</string>
+	<key>directlyTweenColor</key>
+	<string>movementContainAction</string>
+	<key>firstIconKind</key>
+	<string>heroFromStage</string>
+	<key>lostStreamStyle</key>
+	<string>catalystBeyondBridge</string>
+	<key>mobileProgressbarOrientation</key>
+	<string>projectionAboutStyle</string>
+	<key>progressbarBufferShade</key>
+	<string>sceneContextIndex</string>
+	<key>protectedTechniqueFormat</key>
+	<string>utilMethodDepth</string>
+	<key>radioPlatformKind</key>
+	<string>controllerOutsideFramework</string>
+	<key>stepParamHead</key>
+	<string>skirtAmongOperation</string>
+</dict>
+</plist>

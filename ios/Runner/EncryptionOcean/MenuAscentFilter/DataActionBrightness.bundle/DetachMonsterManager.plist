@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorActivityOrientation</key>
+	<string>grainFromContext</string>
+	<key>dynamicCatalystPadding</key>
+	<string>utilFormBottom</string>
+	<key>effectAdapterBorder</key>
+	<string>cardAsParameter</string>
+	<key>ephemeralModelBound</key>
+	<string>topicDecoratorTension</string>
+	<key>graphAsDecorator</key>
+	<string>behaviorLikeForm</string>
+	<key>labelTypeCoord</key>
+	<string>checklistProcessPressure</string>
+	<key>mobxProxyRotation</key>
+	<string>beginnerRectColor</string>
+	<key>sineBesideComposite</key>
+	<string>scrollableGraphicShade</string>
+	<key>sinkFlyweightContrast</key>
+	<string>streamKindSize</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonFeatureTension</key>
+	<string>characterAroundTask</string>
+	<key>scrollableTaskBrightness</key>
+	<string>builderLayerDistance</string>
+	<key>symbolForFunction</key>
+	<string>inkwellBufferInset</string>
+</dict>
+</plist>

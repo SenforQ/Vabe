@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedWidgetFormat</key>
+	<string>instructionOfStructure</string>
+	<key>builderProxyMode</key>
+	<string>cursorVarScale</string>
+	<key>buttonOutsideProxy</key>
+	<string>accordionNavigatorCount</string>
+	<key>dynamicMarginStatus</key>
+	<string>inheritedUsecaseBorder</string>
+	<key>gridviewVisitorAppearance</key>
+	<string>awaitAmongTask</string>
+	<key>oldActionFeedback</key>
+	<string>sharedSampleShape</string>
+	<key>overlaySinceState</key>
+	<string>queryUntilProcess</string>
+	<key>semanticResourceDensity</key>
+	<string>resolverLikeFunction</string>
+</dict>
+</plist>

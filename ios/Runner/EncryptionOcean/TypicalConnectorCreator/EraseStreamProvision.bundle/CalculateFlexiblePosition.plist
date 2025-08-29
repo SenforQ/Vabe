@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureIncludePlatform</key>
+	<string>keyWidgetShape</string>
+	<key>granularWidgetSize</key>
+	<string>subscriptionParamFeedback</string>
+	<key>subsequentRouteRight</key>
+	<string>autoConstraintRotation</string>
+	<key>tickerFacadeDistance</key>
+	<string>injectionPerBuffer</string>
+	<key>unactivatedQueueHue</key>
+	<string>behaviorFromParameter</string>
+</dict>
+</plist>

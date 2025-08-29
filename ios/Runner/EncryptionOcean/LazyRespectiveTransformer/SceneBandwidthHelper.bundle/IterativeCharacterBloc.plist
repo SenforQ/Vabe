@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>missionFacadeCount</key>
+	<string>reducerDecoratorEdge</string>
+	<key>nibOfType</key>
+	<string>durationValueResponse</string>
+	<key>statefulMissionContrast</key>
+	<string>decorationFacadeBrightness</string>
+	<key>storeCycleBottom</key>
+	<string>fusedSpotFeedback</string>
+	<key>webStreamBottom</key>
+	<string>animationJobInset</string>
+</dict>
+</plist>

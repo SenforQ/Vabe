@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAgainstCommand</key>
+	<string>difficultObserverAcceleration</string>
+	<key>exponentActionStyle</key>
+	<string>themeKindFormat</string>
+	<key>featurePerFlyweight</key>
+	<string>compositionalIntensityAppearance</string>
+	<key>interactorInPlatform</key>
+	<string>factoryTypeDelay</string>
+	<key>pointPlatformKind</key>
+	<string>cupertinoTypeSize</string>
+</dict>
+</plist>

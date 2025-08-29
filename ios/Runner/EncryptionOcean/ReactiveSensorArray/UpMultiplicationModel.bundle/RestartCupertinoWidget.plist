@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStageType</key>
+	<string>directSampleAcceleration</string>
+	<key>catalystAlongStage</key>
+	<string>cubeChainBottom</string>
+	<key>commonTabviewInterval</key>
+	<string>capsuleShapeBorder</string>
+	<key>configurationDecoratorColor</key>
+	<string>overlayOutsideMediator</string>
+	<key>discardedListenerHue</key>
+	<string>scrollableConstraintOffset</string>
+	<key>missionAdapterLocation</key>
+	<string>statefulInsideStrategy</string>
+	<key>threadDecoratorAlignment</key>
+	<string>threadThanScope</string>
+	<key>transformerLikeAdapter</key>
+	<string>utilSinceInterpreter</string>
+</dict>
+</plist>

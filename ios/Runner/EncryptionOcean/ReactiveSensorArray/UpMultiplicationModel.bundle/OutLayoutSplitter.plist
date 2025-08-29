@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTextureAlignment</key>
+	<string>scrollBridgeSize</string>
+	<key>difficultGateBehavior</key>
+	<string>hyperbolicButtonTheme</string>
+	<key>durationTierBrightness</key>
+	<string>loopAmongPlatform</string>
+	<key>nextEntityHead</key>
+	<string>previewLevelOrigin</string>
+	<key>priorityTypeLeft</key>
+	<string>directlyLayerEdge</string>
+	<key>sinkParamRate</key>
+	<string>beginnerControllerSize</string>
+</dict>
+</plist>

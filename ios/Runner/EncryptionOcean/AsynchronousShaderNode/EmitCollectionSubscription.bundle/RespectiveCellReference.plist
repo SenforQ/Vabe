@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphIncludeType</key>
+	<string>finalNormHue</string>
+	<key>mobileChartDepth</key>
+	<string>tabbarVisitorPressure</string>
+	<key>reactiveBatchContrast</key>
+	<string>multiDecorationBorder</string>
+	<key>scrollableTextureOrigin</key>
+	<string>alphaOfTemple</string>
+	<key>sessionPhaseStatus</key>
+	<string>alphaPatternFrequency</string>
+	<key>storageInsideFramework</key>
+	<string>alphaStyleScale</string>
+	<key>swiftLikeFramework</key>
+	<string>associatedMenuVisible</string>
+	<key>usedMultiplicationBorder</key>
+	<string>progressbarDuringNumber</string>
+</dict>
+</plist>

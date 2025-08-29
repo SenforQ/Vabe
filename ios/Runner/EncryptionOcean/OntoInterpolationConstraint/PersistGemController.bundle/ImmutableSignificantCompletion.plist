@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorKindIndex</key>
+	<string>movementFromDecorator</string>
+	<key>eventThroughDecorator</key>
+	<string>dedicatedRequestAcceleration</string>
+	<key>musicBridgeVisibility</key>
+	<string>asynchronousAnimationStatus</string>
+	<key>stateAndTier</key>
+	<string>resizableInteractorMomentum</string>
+	<key>statelessControllerTransparency</key>
+	<string>requestWithCommand</string>
+	<key>subscriptionTypeMomentum</key>
+	<string>geometricIntegerStyle</string>
+	<key>subtleUtilLeft</key>
+	<string>responsivePrecisionDistance</string>
+	<key>techniqueModeState</key>
+	<string>paddingPerStrategy</string>
+	<key>transitionSinceShape</key>
+	<string>repositoryAtDecorator</string>
+</dict>
+</plist>

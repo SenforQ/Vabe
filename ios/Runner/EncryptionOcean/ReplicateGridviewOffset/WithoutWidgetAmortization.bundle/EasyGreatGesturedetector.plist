@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityOfJob</key>
+	<string>elasticTextBound</string>
+	<key>alignmentCompositeFrequency</key>
+	<string>normalVariantDistance</string>
+	<key>concurrentProgressbarMode</key>
+	<string>resultAwayBuffer</string>
+	<key>futureParamMargin</key>
+	<string>displayableMethodState</string>
+	<key>globalNotificationInset</key>
+	<string>radioObserverOpacity</string>
+	<key>labelMediatorLocation</key>
+	<string>criticalCellAppearance</string>
+	<key>scrollViaState</key>
+	<string>materialFactoryType</string>
+	<key>signProxyTheme</key>
+	<string>textBridgeTop</string>
+	<key>singletonFacadeRight</key>
+	<string>titleValueRotation</string>
+</dict>
+</plist>

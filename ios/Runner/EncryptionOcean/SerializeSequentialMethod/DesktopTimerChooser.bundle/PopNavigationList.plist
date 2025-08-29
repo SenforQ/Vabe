@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCanvasTag</key>
+	<string>reusableScrollContrast</string>
+	<key>builderTaskFormat</key>
+	<string>globalBoxValidation</string>
+	<key>checklistAsBridge</key>
+	<string>taskWithoutVisitor</string>
+	<key>interfaceCompositeShape</key>
+	<string>localizationCommandName</string>
+	<key>interfaceSingletonSpeed</key>
+	<string>paddingAboutTier</string>
+	<key>requestOrEnvironment</key>
+	<string>sharedListenerRate</string>
+	<key>reusableReductionMargin</key>
+	<string>metadataByBuffer</string>
+	<key>signatureDespiteTier</key>
+	<string>priorTransitionBehavior</string>
+</dict>
+</plist>

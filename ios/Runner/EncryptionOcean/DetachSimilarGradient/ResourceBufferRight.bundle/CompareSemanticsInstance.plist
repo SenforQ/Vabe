@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateFlyweightPressure</key>
+	<string>sampleForValue</string>
+	<key>groupWithoutKind</key>
+	<string>completionAmongChain</string>
+	<key>nativeTitleType</key>
+	<string>localSegmentTop</string>
+	<key>reducerContextMargin</key>
+	<string>movementCycleValidation</string>
+	<key>spineMethodCoord</key>
+	<string>localizationAboutVisitor</string>
+	<key>viewAwayStrategy</key>
+	<string>normContextMode</string>
+</dict>
+</plist>

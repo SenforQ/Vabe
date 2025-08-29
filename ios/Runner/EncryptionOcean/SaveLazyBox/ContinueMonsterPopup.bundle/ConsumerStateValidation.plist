@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveViewResponse</key>
+	<string>capacitiesDuringCommand</string>
+	<key>alphaPrototypeInteraction</key>
+	<string>cubitActivityInteraction</string>
+	<key>interfaceContextKind</key>
+	<string>newestNormContrast</string>
+	<key>materialAdapterAlignment</key>
+	<string>deferredStoryboardSpacing</string>
+	<key>progressbarInterpreterDensity</key>
+	<string>advancedColumnAppearance</string>
+	<key>semanticVectorCenter</key>
+	<string>graphFunctionRotation</string>
+	<key>specifySpriteContrast</key>
+	<string>cupertinoProviderIndex</string>
+	<key>synchronousHashCoord</key>
+	<string>allocatorDespiteStrategy</string>
+	<key>transformerAlongForm</key>
+	<string>eventExceptJob</string>
+</dict>
+</plist>

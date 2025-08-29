@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionExceptFacade</key>
+	<string>logarithmStructureBrightness</string>
+	<key>iconLayerOpacity</key>
+	<string>requiredCoordinatorBrightness</string>
+	<key>inactiveCardVisible</key>
+	<string>tableProxyPadding</string>
+	<key>navigatorParameterFormat</key>
+	<string>cupertinoConstraintRight</string>
+	<key>numericalInterfaceTint</key>
+	<string>euclideanInterpolationMode</string>
+	<key>previewParameterRight</key>
+	<string>alignmentFacadeSkewy</string>
+	<key>segmentScopeResponse</key>
+	<string>usecaseScopeName</string>
+	<key>transitionFacadeTheme</key>
+	<string>permanentConvolutionOrientation</string>
+</dict>
+</plist>

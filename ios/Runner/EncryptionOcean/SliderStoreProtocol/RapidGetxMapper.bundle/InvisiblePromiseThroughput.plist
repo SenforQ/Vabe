@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeFunctionForce</key>
+	<string>ternaryPerChain</string>
+	<key>indicatorStageDirection</key>
+	<string>intensityKindRotation</string>
+	<key>pivotalRouterLeft</key>
+	<string>switchSingletonEdge</string>
+	<key>standaloneProgressbarIndex</key>
+	<string>cellVisitorHue</string>
+	<key>taskFromContext</key>
+	<string>layoutLevelFormat</string>
+	<key>temporaryHandlerInset</key>
+	<string>hashFromTask</string>
+	<key>zoneWithoutScope</key>
+	<string>themeStyleTension</string>
+</dict>
+</plist>

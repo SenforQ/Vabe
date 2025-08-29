@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerValueMode</key>
+	<string>topicPhaseEdge</string>
+	<key>boxshadowContextValidation</key>
+	<string>commandOfType</string>
+	<key>iconWithoutContext</key>
+	<string>touchObserverOrientation</string>
+	<key>interpolationOfFlyweight</key>
+	<string>overlayContextOrigin</string>
+	<key>localizationContainPattern</key>
+	<string>asyncMultiplicationTop</string>
+	<key>numericalAssetBrightness</key>
+	<string>webCompositionDepth</string>
+</dict>
+</plist>

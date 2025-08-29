@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaIncludeSingleton</key>
+	<string>coordinatorTempleState</string>
+	<key>enabledOperationRate</key>
+	<string>fixedSizePressure</string>
+	<key>layoutActionDepth</key>
+	<string>relationalSwitchCenter</string>
+	<key>modulusWithoutState</key>
+	<string>inheritedSpriteFrequency</string>
+	<key>sophisticatedDecorationTheme</key>
+	<string>dynamicCompleterBottom</string>
+	<key>stateCompositeEdge</key>
+	<string>enabledTimerColor</string>
+</dict>
+</plist>

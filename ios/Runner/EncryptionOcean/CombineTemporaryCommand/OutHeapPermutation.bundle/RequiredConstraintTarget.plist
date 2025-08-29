@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationStylePressure</key>
+	<string>lostMomentumTail</string>
+	<key>draggableTopicTransparency</key>
+	<string>requestStyleVelocity</string>
+	<key>inheritedGridBottom</key>
+	<string>normalBlocFeedback</string>
+	<key>routerActivityPosition</key>
+	<string>subtlePromiseFeedback</string>
+</dict>
+</plist>

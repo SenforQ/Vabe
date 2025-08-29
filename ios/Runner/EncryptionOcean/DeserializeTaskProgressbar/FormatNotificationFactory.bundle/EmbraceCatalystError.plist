@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentAsKind</key>
+	<string>accessoryUntilPrototype</string>
+	<key>integerNearTask</key>
+	<string>hardBaselineRate</string>
+	<key>menuCycleBottom</key>
+	<string>dialogsWorkBehavior</string>
+	<key>requiredIndicatorTop</key>
+	<string>widgetFacadeIndex</string>
+	<key>responseAlongPhase</key>
+	<string>gridviewAsVariable</string>
+	<key>specifyHandlerVisibility</key>
+	<string>specifyViewColor</string>
+	<key>widgetChainName</key>
+	<string>behaviorContextDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPlatformAlignment</key>
+	<string>sharedKernelDepth</string>
+	<key>commonLayerRotation</key>
+	<string>checkboxTempleFeedback</string>
+	<key>drawerAgainstChain</key>
+	<string>activePopupRate</string>
+	<key>equalizationLayerOpacity</key>
+	<string>riverpodPerFramework</string>
+	<key>expandedActionDistance</key>
+	<string>mediaqueryMementoSpacing</string>
+	<key>intensityViaFramework</key>
+	<string>precisionVarValidation</string>
+	<key>intuitiveTaskBehavior</key>
+	<string>activeMethodTransparency</string>
+	<key>mediocreTickerLeft</key>
+	<string>tickerVarCount</string>
+	<key>providerPhaseTint</key>
+	<string>presenterBeyondCycle</string>
+	<key>transformerUntilPlatform</key>
+	<string>oldMovementBottom</string>
+</dict>
+</plist>

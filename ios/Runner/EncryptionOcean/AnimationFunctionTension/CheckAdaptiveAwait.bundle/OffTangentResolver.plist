@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBesidePattern</key>
+	<string>concreteLayoutRotation</string>
+	<key>asynchronousZoneContrast</key>
+	<string>basicIndicatorBrightness</string>
+	<key>builderOutsideContext</key>
+	<string>isolateAtOperation</string>
+	<key>greatRepositorySkewx</key>
+	<string>screenLikeKind</string>
+	<key>observerMethodInteraction</key>
+	<string>semanticBuilderPosition</string>
+	<key>specifyFrameFormat</key>
+	<string>layerOrPhase</string>
+	<key>statefulBorderInteraction</key>
+	<string>allocatorSingletonRotation</string>
+	<key>timerDuringTier</key>
+	<string>lossAndFacade</string>
+</dict>
+</plist>

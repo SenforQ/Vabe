@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInteractorVisibility</key>
+	<string>inkwellPerProxy</string>
+	<key>checkboxDuringPrototype</key>
+	<string>textExceptAdapter</string>
+	<key>checkboxProxyRate</key>
+	<string>constraintVersusWork</string>
+	<key>featureSystemOffset</key>
+	<string>usedIntensityOrigin</string>
+	<key>plateActivityAppearance</key>
+	<string>specifyProviderName</string>
+	<key>storeTaskRate</key>
+	<string>paddingCycleSkewx</string>
+	<key>usageFlyweightPressure</key>
+	<string>pinchableOffsetMargin</string>
+</dict>
+</plist>

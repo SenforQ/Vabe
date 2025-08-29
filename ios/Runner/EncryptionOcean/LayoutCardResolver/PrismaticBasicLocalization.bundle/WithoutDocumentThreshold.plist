@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesForObserver</key>
+	<string>painterCycleFeedback</string>
+	<key>completerUntilBridge</key>
+	<string>riverpodAdapterSpeed</string>
+	<key>mobileButtonCenter</key>
+	<string>zoneTypeCenter</string>
+	<key>offsetWithStructure</key>
+	<string>permanentRadiusLocation</string>
+	<key>reducerUntilLayer</key>
+	<string>scrollableGridStatus</string>
+	<key>stateDuringProcess</key>
+	<string>permanentPreviewLocation</string>
+	<key>statelessInterpreterBrightness</key>
+	<string>navigatorCycleOrigin</string>
+	<key>visibleTopicPressure</key>
+	<string>draggableMatrixInterval</string>
+</dict>
+</plist>

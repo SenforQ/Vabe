@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryAroundProxy</key>
+	<string>lazyPresenterOrigin</string>
+	<key>frameBridgeFlags</key>
+	<string>baseByFlyweight</string>
+	<key>hashExceptValue</key>
+	<string>interfacePrototypeSpeed</string>
+	<key>routeChainFormat</key>
+	<string>localizationMediatorInterval</string>
+	<key>textMementoStyle</key>
+	<string>interactorParameterSkewy</string>
+	<key>topicAwaySystem</key>
+	<string>titleNumberOpacity</string>
+</dict>
+</plist>

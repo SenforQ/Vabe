@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAsMode</key>
+	<string>unsortedModalFeedback</string>
+	<key>allocatorMementoCount</key>
+	<string>positionAgainstShape</string>
+	<key>brushJobRate</key>
+	<string>lazyAnchorPressure</string>
+	<key>delegateAboutJob</key>
+	<string>tickerOrSingleton</string>
+	<key>marginViaChain</key>
+	<string>baseActivityType</string>
+	<key>painterJobOpacity</key>
+	<string>assetModeCenter</string>
+	<key>resourceTempleCount</key>
+	<string>profileLikeFacade</string>
+	<key>smartIndicatorOpacity</key>
+	<string>relationalScaleAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectLayerTint</key>
+	<string>zoneChainHue</string>
+	<key>indicatorOrKind</key>
+	<string>brushVersusProxy</string>
+	<key>labelOfJob</key>
+	<string>completerOfType</string>
+	<key>protocolViaFramework</key>
+	<string>commonHandlerAppearance</string>
+	<key>singleCaptionTail</key>
+	<string>operationSinceOperation</string>
+	<key>subtleMetadataMode</key>
+	<string>declarativeLayoutAcceleration</string>
+	<key>ternaryAndStructure</key>
+	<string>sinkInInterpreter</string>
+</dict>
+</plist>

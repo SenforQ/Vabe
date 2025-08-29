@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSensorMargin</key>
+	<string>singletonPerFramework</string>
+	<key>equalizationOperationForce</key>
+	<string>geometricAxisRate</string>
+	<key>modulusViaPattern</key>
+	<string>accessibleStreamAppearance</string>
+	<key>optimizerBeyondFramework</key>
+	<string>agileDecorationBrightness</string>
+	<key>providerParamEdge</key>
+	<string>independentFlexInteraction</string>
+</dict>
+</plist>

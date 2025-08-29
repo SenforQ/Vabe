@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSystemRotation</key>
+	<string>pointFromFacade</string>
+	<key>completerCycleLeft</key>
+	<string>binaryMementoHue</string>
+	<key>currentPositionInterval</key>
+	<string>zoneWithoutSingleton</string>
+	<key>disabledSliderType</key>
+	<string>geometricFrameCoord</string>
+	<key>movementContainPrototype</key>
+	<string>mapAdapterFormat</string>
+	<key>oldHandlerBehavior</key>
+	<string>pointDespiteBridge</string>
+	<key>remainderStrategyState</key>
+	<string>signFacadeState</string>
+	<key>stepForFlyweight</key>
+	<string>dedicatedGroupInterval</string>
+	<key>widgetTypeDistance</key>
+	<string>rowWithAdapter</string>
+</dict>
+</plist>

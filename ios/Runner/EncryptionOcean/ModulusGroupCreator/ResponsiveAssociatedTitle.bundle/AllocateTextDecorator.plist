@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorDecoratorTail</key>
+	<string>containerTempleDepth</string>
+	<key>dropdownbuttonBeyondSystem</key>
+	<string>deferredControllerEdge</string>
+	<key>popupAwayStrategy</key>
+	<string>customAnimatedcontainerShape</string>
+	<key>semanticSessionStyle</key>
+	<string>cardKindVisibility</string>
+	<key>signatureStructureStatus</key>
+	<string>particleDecoratorTop</string>
+	<key>stampAgainstAction</key>
+	<string>metadataLikeMode</string>
+	<key>textAlongProxy</key>
+	<string>responseMediatorMode</string>
+	<key>usecaseLikeMode</key>
+	<string>activityMediatorFrequency</string>
+	<key>widgetStyleVelocity</key>
+	<string>errorFlyweightRate</string>
+</dict>
+</plist>

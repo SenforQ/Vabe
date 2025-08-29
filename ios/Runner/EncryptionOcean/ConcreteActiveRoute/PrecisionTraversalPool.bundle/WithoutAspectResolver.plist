@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardAwaitContrast</key>
+	<string>transitionAroundSystem</string>
+	<key>dropdownbuttonFrameworkColor</key>
+	<string>normalAllocatorColor</string>
+	<key>elasticStoryboardName</key>
+	<string>permissiveConfigurationAcceleration</string>
+	<key>inactivePageviewRate</key>
+	<string>imageDespiteFacade</string>
+	<key>lostPromiseVelocity</key>
+	<string>builderSingletonPadding</string>
+	<key>mediocreAspectratioTop</key>
+	<string>fixedInjectionDuration</string>
+	<key>observerAboutPlatform</key>
+	<string>intermediateNodeState</string>
+	<key>providerBeyondVar</key>
+	<string>repositoryProcessRate</string>
+	<key>subtlePopupDelay</key>
+	<string>observerAmongStrategy</string>
+</dict>
+</plist>

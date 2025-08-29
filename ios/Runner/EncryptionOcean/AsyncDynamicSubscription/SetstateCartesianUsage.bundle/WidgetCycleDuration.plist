@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePointVisible</key>
+	<string>variantAsShape</string>
+	<key>channelStrategyHue</key>
+	<string>resourceVariableStyle</string>
+	<key>concurrentReferenceTransparency</key>
+	<string>routerAgainstMode</string>
+	<key>coordinatorForStyle</key>
+	<string>scrollPhaseVisibility</string>
+	<key>coordinatorSinceValue</key>
+	<string>granularSpriteResponse</string>
+	<key>firstAnchorVisibility</key>
+	<string>durationStrategyColor</string>
+	<key>materialCycleForce</key>
+	<string>similarCollectionScale</string>
+	<key>primaryStreamInterval</key>
+	<string>invisibleChapterType</string>
+	<key>promiseMediatorAppearance</key>
+	<string>protocolViaSingleton</string>
+	<key>resultAsComposite</key>
+	<string>delegateAndShape</string>
+</dict>
+</plist>

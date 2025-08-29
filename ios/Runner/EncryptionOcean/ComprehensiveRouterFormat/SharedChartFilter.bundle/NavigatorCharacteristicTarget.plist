@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarPlatformSkewy</key>
+	<string>materialTypeDensity</string>
+	<key>curveKindBorder</key>
+	<string>geometricLabelInterval</string>
+	<key>imperativeProjectionInset</key>
+	<string>buttonOutsidePrototype</string>
+	<key>localizationOfPlatform</key>
+	<string>discardedEventDirection</string>
+	<key>operationInsideActivity</key>
+	<string>bulletAsForm</string>
+	<key>seamlessAsyncMode</key>
+	<string>coordinatorOrScope</string>
+	<key>tangentPhaseForce</key>
+	<string>fixedCapacitiesSkewx</string>
+</dict>
+</plist>

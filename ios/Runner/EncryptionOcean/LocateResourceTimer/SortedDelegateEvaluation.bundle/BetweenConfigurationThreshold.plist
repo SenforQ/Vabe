@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedVectorFlags</key>
+	<string>tickerModeState</string>
+	<key>backwardTableOrigin</key>
+	<string>euclideanFutureCoord</string>
+	<key>delegatePerSystem</key>
+	<string>otherSegueScale</string>
+	<key>explicitSubscriptionDensity</key>
+	<string>advancedAssetDirection</string>
+	<key>hardProgressbarOffset</key>
+	<string>easyGridSize</string>
+	<key>interactorAboutMode</key>
+	<string>awaitStyleValidation</string>
+	<key>localizationAmongProxy</key>
+	<string>labelContainMediator</string>
+	<key>memberAdapterTop</key>
+	<string>nativeChecklistTint</string>
+	<key>responseSingletonDelay</key>
+	<string>reactiveManagerStyle</string>
+</dict>
+</plist>

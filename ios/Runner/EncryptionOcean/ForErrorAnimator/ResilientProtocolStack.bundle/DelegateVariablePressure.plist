@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveLayerAcceleration</key>
+	<string>customCubeForce</string>
+	<key>clipperShapeTension</key>
+	<string>immediateChannelBehavior</string>
+	<key>modelInsideVisitor</key>
+	<string>completerTaskDuration</string>
+	<key>musicMementoStyle</key>
+	<string>buttonActionFlags</string>
+	<key>optimizerFrameworkSkewy</key>
+	<string>agileConfigurationTheme</string>
+	<key>resourceIncludeLayer</key>
+	<string>ternaryExceptPattern</string>
+	<key>sinkInterpreterOrigin</key>
+	<string>channelOutsideContext</string>
+	<key>staticKernelSkewy</key>
+	<string>effectFlyweightDistance</string>
+</dict>
+</plist>

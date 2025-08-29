@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>notifierBesideDecorator</key>
+	<string>permanentWidgetVelocity</string>
+	<key>parallelConfigurationOpacity</key>
+	<string>reusableSymbolVisibility</string>
+	<key>profileInsideProcess</key>
+	<string>transformerVariableSize</string>
+</dict>
+</plist>

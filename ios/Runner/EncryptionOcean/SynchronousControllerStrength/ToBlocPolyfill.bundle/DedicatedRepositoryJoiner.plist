@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorDecoratorValidation</key>
+	<string>configurationBesideSingleton</string>
+	<key>interactiveAlignmentTint</key>
+	<string>lastConstraintFeedback</string>
+	<key>modalPatternName</key>
+	<string>anchorInTier</string>
+	<key>parallelPageviewHead</key>
+	<string>cartesianAccessoryInteraction</string>
+	<key>petMethodMode</key>
+	<string>asynchronousSwiftFrequency</string>
+	<key>queryFunctionOpacity</key>
+	<string>queryMethodInterval</string>
+</dict>
+</plist>

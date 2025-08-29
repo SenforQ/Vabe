@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorInsideFunction</key>
+	<string>blocModeForce</string>
+	<key>builderAdapterMomentum</key>
+	<string>routeSingletonLocation</string>
+	<key>gridFlyweightEdge</key>
+	<string>assetLevelDelay</string>
+	<key>groupNumberStatus</key>
+	<string>lazyCatalystMode</string>
+	<key>localizationInOperation</key>
+	<string>graphicStrategyDirection</string>
+	<key>menuDuringJob</key>
+	<string>completerTierVisibility</string>
+	<key>movementVisitorTop</key>
+	<string>axisLayerOrientation</string>
+	<key>resultCompositeSkewx</key>
+	<string>handlerTypeCenter</string>
+	<key>transformerCommandTail</key>
+	<string>retainedSlashFrequency</string>
+</dict>
+</plist>

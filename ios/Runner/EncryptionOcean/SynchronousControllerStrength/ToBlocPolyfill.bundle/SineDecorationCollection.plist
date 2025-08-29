@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineThroughBuffer</key>
+	<string>accordionStorageLeft</string>
+	<key>commonSingletonScale</key>
+	<string>mutableProjectHue</string>
+	<key>disabledTransitionMode</key>
+	<string>animatedcontainerActivityBehavior</string>
+	<key>keyIntensityBrightness</key>
+	<string>frameStateTheme</string>
+	<key>navigatorAlongFunction</key>
+	<string>callbackViaState</string>
+	<key>offsetWithWork</key>
+	<string>canvasTierPosition</string>
+	<key>stampNearAdapter</key>
+	<string>sinePhaseContrast</string>
+	<key>subtleTouchFlags</key>
+	<string>grainNumberName</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyLayerAppearance</key>
+	<string>nodeUntilLevel</string>
+	<key>gridTierOrigin</key>
+	<string>synchronousProfileEdge</string>
+	<key>nativeEqualizationType</key>
+	<string>frameChainRate</string>
+	<key>navigatorProcessDelay</key>
+	<string>interactiveAssetInterval</string>
+	<key>reductionWithoutForm</key>
+	<string>mediocreQueueTail</string>
+	<key>streamAlongTask</key>
+	<string>dimensionInBridge</string>
+</dict>
+</plist>

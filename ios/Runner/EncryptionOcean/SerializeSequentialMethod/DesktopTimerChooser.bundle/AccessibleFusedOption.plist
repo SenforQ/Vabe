@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSpriteEdge</key>
+	<string>blocLevelMode</string>
+	<key>eventDuringProcess</key>
+	<string>materialConvolutionCenter</string>
+	<key>handlerStyleOrigin</key>
+	<string>robustSegmentTheme</string>
+	<key>injectionExceptInterpreter</key>
+	<string>taskIncludeStyle</string>
+	<key>lastDependencyFormat</key>
+	<string>missionStructureSaturation</string>
+	<key>numericalConstraintOrientation</key>
+	<string>completionCycleDirection</string>
+	<key>routerKindShape</key>
+	<string>gridviewByActivity</string>
+	<key>rowWithObserver</key>
+	<string>fragmentDuringEnvironment</string>
+</dict>
+</plist>

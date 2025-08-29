@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAtPhase</key>
+	<string>textfieldNearPhase</string>
+	<key>compositionalAlignmentType</key>
+	<string>declarativeSwitchKind</string>
+	<key>groupFunctionBorder</key>
+	<string>symmetricInterpolationRight</string>
+	<key>integerAroundValue</key>
+	<string>effectCompositeOrientation</string>
+	<key>menuDecoratorAppearance</key>
+	<string>concreteReductionSize</string>
+	<key>missedObserverFormat</key>
+	<string>actionOfStage</string>
+	<key>smartThreadMode</key>
+	<string>significantEqualizationMargin</string>
+</dict>
+</plist>

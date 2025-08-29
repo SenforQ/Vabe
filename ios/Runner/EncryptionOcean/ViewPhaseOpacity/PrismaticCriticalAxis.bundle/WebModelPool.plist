@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPromiseStyle</key>
+	<string>routerInterpreterContrast</string>
+	<key>alignmentAgainstDecorator</key>
+	<string>heapShapeTop</string>
+	<key>alignmentMethodFeedback</key>
+	<string>ternaryFunctionFormat</string>
+	<key>independentServiceFlags</key>
+	<string>visibleLayerTheme</string>
+	<key>uniqueTextureTension</key>
+	<string>disabledDurationDelay</string>
+</dict>
+</plist>

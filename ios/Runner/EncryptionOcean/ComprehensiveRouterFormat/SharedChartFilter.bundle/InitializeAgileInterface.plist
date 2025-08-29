@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateProcessTransparency</key>
+	<string>capsuleThroughStrategy</string>
+	<key>diffableEffectLocation</key>
+	<string>adaptiveExpandedInset</string>
+	<key>factoryAmongOperation</key>
+	<string>mobileCellCoord</string>
+	<key>masterLikeVar</key>
+	<string>cupertinoMaterialRight</string>
+	<key>mobxObserverOffset</key>
+	<string>channelAndVariable</string>
+	<key>optimizerOrSingleton</key>
+	<string>resultFromProxy</string>
+	<key>tabviewBeyondVariable</key>
+	<string>grainThanMediator</string>
+	<key>usecaseThroughChain</key>
+	<string>toolAmongInterpreter</string>
+	<key>utilDespiteComposite</key>
+	<string>offsetKindState</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocLevelLeft</key>
+	<string>backwardRowDistance</string>
+	<key>builderPatternDistance</key>
+	<string>normStructureHue</string>
+	<key>completerAtType</key>
+	<string>symbolCycleBottom</string>
+	<key>disabledBlocPadding</key>
+	<string>pointInsideProcess</string>
+	<key>fragmentBesideCycle</key>
+	<string>hyperbolicPainterIndex</string>
+	<key>responseAdapterDelay</key>
+	<string>multiCompletionContrast</string>
+	<key>shaderAroundType</key>
+	<string>smartPopupOpacity</string>
+</dict>
+</plist>

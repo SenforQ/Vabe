@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferFunctionShape</key>
+	<string>cubitPerVisitor</string>
+	<key>decorationModeSize</key>
+	<string>subscriptionAtPhase</string>
+	<key>dimensionMediatorName</key>
+	<string>presenterStateFormat</string>
+	<key>euclideanNibBehavior</key>
+	<string>drawerByVariable</string>
+	<key>mobileGraphIndex</key>
+	<string>usecaseProxyInteraction</string>
+	<key>mobxInTask</key>
+	<string>curveSingletonKind</string>
+	<key>skirtWithoutStrategy</key>
+	<string>customThemeDistance</string>
+	<key>symmetricQueryTail</key>
+	<string>immediateDurationInteraction</string>
+</dict>
+</plist>

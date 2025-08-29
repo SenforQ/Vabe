@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGrainInteraction</key>
+	<string>enabledAlphaHue</string>
+	<key>directlyStorageFrequency</key>
+	<string>animationNearValue</string>
+	<key>errorInsideState</key>
+	<string>assetBeyondContext</string>
+	<key>mediaqueryAndContext</key>
+	<string>enabledAspectratioFlags</string>
+	<key>specifierBufferSaturation</key>
+	<string>screenContainFunction</string>
+	<key>subscriptionMediatorColor</key>
+	<string>aspectratioOutsideActivity</string>
+	<key>transformerThroughFramework</key>
+	<string>storeStateRight</string>
+	<key>unactivatedModelTail</key>
+	<string>usecaseMediatorAlignment</string>
+</dict>
+</plist>

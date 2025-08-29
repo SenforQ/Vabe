@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorDecoratorName</key>
+	<string>containerOfComposite</string>
+	<key>getxPerStyle</key>
+	<string>missionNumberVelocity</string>
+	<key>graphInsideFlyweight</key>
+	<string>axisModeInteraction</string>
+	<key>resultFromMode</key>
+	<string>cubitProcessPadding</string>
+	<key>unsortedInterfaceSkewx</key>
+	<string>axisProcessMomentum</string>
+</dict>
+</plist>

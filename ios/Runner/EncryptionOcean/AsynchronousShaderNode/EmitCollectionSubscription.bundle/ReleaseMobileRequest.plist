@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPainterVisible</key>
+	<string>hierarchicalLogSpeed</string>
+	<key>declarativeFrameAcceleration</key>
+	<string>customizedSceneCenter</string>
+	<key>lazyFrameOffset</key>
+	<string>viewNumberDistance</string>
+	<key>mobxBeyondNumber</key>
+	<string>streamStageMomentum</string>
+	<key>streamAmongNumber</key>
+	<string>prevNotificationInterval</string>
+	<key>tableStateDelay</key>
+	<string>matrixBridgePressure</string>
+	<key>viewAndScope</key>
+	<string>listenerFromScope</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxAroundPrototype</key>
+	<string>animatedRowSkewy</string>
+	<key>declarativeTweenAppearance</key>
+	<string>dropdownbuttonMementoCenter</string>
+	<key>overlayContextAlignment</key>
+	<string>topicModeHue</string>
+	<key>sizeWithValue</key>
+	<string>prismaticTextInset</string>
+	<key>uniformDelegateContrast</key>
+	<string>topicAboutVisitor</string>
+</dict>
+</plist>

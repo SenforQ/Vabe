@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledBehaviorResponse</key>
+	<string>primaryGraphicBound</string>
+	<key>mediumPetFeedback</key>
+	<string>reusableGroupOrigin</string>
+	<key>notificationAgainstJob</key>
+	<string>associatedLayoutTint</string>
+	<key>zoneWorkTail</key>
+	<string>requiredTopicVisible</string>
+</dict>
+</plist>

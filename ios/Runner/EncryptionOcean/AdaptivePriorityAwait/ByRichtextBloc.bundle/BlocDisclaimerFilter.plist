@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customDimensionLeft</key>
+	<string>storeTaskRight</string>
+	<key>draggableObserverMode</key>
+	<string>asynchronousMediaqueryPadding</string>
+	<key>invisibleMetadataMode</key>
+	<string>discardedInstructionAcceleration</string>
+	<key>sizeWithProcess</key>
+	<string>collectionExceptCycle</string>
+	<key>spineNearVisitor</key>
+	<string>navigationThroughProcess</string>
+</dict>
+</plist>

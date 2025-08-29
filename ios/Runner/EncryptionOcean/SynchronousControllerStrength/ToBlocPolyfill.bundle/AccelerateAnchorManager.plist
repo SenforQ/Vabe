@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBesideShape</key>
+	<string>smartButtonMargin</string>
+	<key>interpolationViaPhase</key>
+	<string>imperativeChannelKind</string>
+	<key>loopWithPhase</key>
+	<string>hardCoordinatorTop</string>
+	<key>lostTopicTail</key>
+	<string>localizationObserverStyle</string>
+</dict>
+</plist>

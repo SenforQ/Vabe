@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationObserverValidation</key>
+	<string>bitrateStructureContrast</string>
+	<key>pinchableDelegateForce</key>
+	<string>smartRadiusBrightness</string>
+	<key>projectionLevelResponse</key>
+	<string>flexibleSinkRate</string>
+	<key>rapidCommandSpeed</key>
+	<string>baseOfVar</string>
+	<key>sustainableScaffoldPressure</key>
+	<string>resultInObserver</string>
+</dict>
+</plist>

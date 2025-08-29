@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineChainTheme</key>
+	<string>referenceInStrategy</string>
+	<key>mapProcessHead</key>
+	<string>previewAmongStructure</string>
+	<key>multiResourceAcceleration</key>
+	<string>stackForType</string>
+	<key>navigatorStageDirection</key>
+	<string>layoutParameterDirection</string>
+	<key>offsetOutsideMediator</key>
+	<string>tabbarWorkDensity</string>
+	<key>parallelConfigurationMargin</key>
+	<string>interactorExceptPattern</string>
+	<key>precisionNearObserver</key>
+	<string>routerAsComposite</string>
+	<key>shaderForMode</key>
+	<string>presenterLayerSpacing</string>
+	<key>taskOfDecorator</key>
+	<string>dependencyInsideProxy</string>
+</dict>
+</plist>

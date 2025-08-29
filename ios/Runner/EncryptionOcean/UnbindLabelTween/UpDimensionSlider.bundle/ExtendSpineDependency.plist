@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableDependencyDirection</key>
+	<string>serviceByFlyweight</string>
+	<key>layerLevelHead</key>
+	<string>serviceNearBridge</string>
+	<key>liteAlertEdge</key>
+	<string>transitionIncludeCommand</string>
+	<key>normalConfigurationInterval</key>
+	<string>layerAroundPlatform</string>
+	<key>reductionDuringFunction</key>
+	<string>independentCellHue</string>
+	<key>textfieldForFunction</key>
+	<string>timerFormBound</string>
+</dict>
+</plist>

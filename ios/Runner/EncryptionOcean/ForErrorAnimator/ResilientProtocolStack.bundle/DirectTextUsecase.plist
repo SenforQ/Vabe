@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionThroughStyle</key>
+	<string>constActionSkewy</string>
+	<key>coordinatorStructureTag</key>
+	<string>movementPerJob</string>
+	<key>expandedPerEnvironment</key>
+	<string>eagerActivityTint</string>
+	<key>immediateParticleMargin</key>
+	<string>controllerAgainstEnvironment</string>
+	<key>mobileAboutMediator</key>
+	<string>mediaInterpreterState</string>
+	<key>publicSubscriptionSkewy</key>
+	<string>lossFunctionPadding</string>
+	<key>reusableProgressbarCoord</key>
+	<string>callbackForWork</string>
+	<key>storyboardSystemOpacity</key>
+	<string>eventLikeValue</string>
+</dict>
+</plist>

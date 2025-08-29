@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitWithJob</key>
+	<string>relationalThreadColor</string>
+	<key>handlerOutsideTask</key>
+	<string>topicForSingleton</string>
+	<key>projectionInFramework</key>
+	<string>storeAtCommand</string>
+	<key>resultCommandPadding</key>
+	<string>factoryContainVariable</string>
+	<key>sceneNearBridge</key>
+	<string>topicAboutEnvironment</string>
+	<key>uniformSceneFlags</key>
+	<string>flexibleKernelAcceleration</string>
+</dict>
+</plist>

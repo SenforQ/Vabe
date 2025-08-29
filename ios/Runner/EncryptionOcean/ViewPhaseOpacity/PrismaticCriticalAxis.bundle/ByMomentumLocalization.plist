@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandChainAlignment</key>
+	<string>groupMethodTop</string>
+	<key>lazySensorTail</key>
+	<string>lazyAssetKind</string>
+	<key>mobileControllerSaturation</key>
+	<string>checklistFormHue</string>
+	<key>navigatorInParameter</key>
+	<string>asyncOperationPosition</string>
+	<key>swiftMediatorVisibility</key>
+	<string>progressbarLikeFlyweight</string>
+	<key>tweenVariableName</key>
+	<string>channelBufferDirection</string>
+</dict>
+</plist>

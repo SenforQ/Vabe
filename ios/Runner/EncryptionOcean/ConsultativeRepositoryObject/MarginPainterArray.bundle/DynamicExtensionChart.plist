@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDescriptionOpacity</key>
+	<string>rectActionResponse</string>
+	<key>directDropdownbuttonOpacity</key>
+	<string>cursorVersusBuffer</string>
+	<key>observerPlatformFeedback</key>
+	<string>mediocreGrayscaleFeedback</string>
+	<key>persistentLoopSaturation</key>
+	<string>errorByParam</string>
+	<key>prevStreamDuration</key>
+	<string>canvasExceptParameter</string>
+	<key>repositoryThroughPattern</key>
+	<string>responseAroundLevel</string>
+	<key>riverpodDecoratorForce</key>
+	<string>loopPlatformHead</string>
+	<key>sophisticatedTextureAcceleration</key>
+	<string>effectThroughProxy</string>
+	<key>storageProxyForce</key>
+	<string>gramPatternSpeed</string>
+</dict>
+</plist>

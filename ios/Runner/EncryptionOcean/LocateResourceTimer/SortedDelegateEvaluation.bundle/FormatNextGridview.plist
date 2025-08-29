@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMarginVisible</key>
+	<string>apertureNumberScale</string>
+	<key>advancedDescriptorBehavior</key>
+	<string>scrollableTangentIndex</string>
+	<key>concurrentMasterDepth</key>
+	<string>inheritedSampleDistance</string>
+	<key>cubitAtComposite</key>
+	<string>localizationAmongObserver</string>
+	<key>layerParamSpeed</key>
+	<string>autoBufferMomentum</string>
+	<key>missedStorageTheme</key>
+	<string>permissiveRequestIndex</string>
+	<key>momentumPerMode</key>
+	<string>advancedChannelSpeed</string>
+	<key>requestEnvironmentFrequency</key>
+	<string>cubitOfStage</string>
+	<key>stepWithoutLayer</key>
+	<string>titleNearStrategy</string>
+</dict>
+</plist>

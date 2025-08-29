@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySystemShade</key>
+	<string>groupBeyondFlyweight</string>
+	<key>explicitTextfieldFormat</key>
+	<string>elasticIndicatorOrigin</string>
+	<key>firstAspectSpeed</key>
+	<string>controllerAtLevel</string>
+	<key>lazyDelegateLocation</key>
+	<string>temporaryObserverDelay</string>
+	<key>materialInkwellEdge</key>
+	<string>routerAroundMethod</string>
+	<key>mobileResourceHead</key>
+	<string>deferredMatrixRotation</string>
+	<key>stateExceptFacade</key>
+	<string>particleOfFlyweight</string>
+	<key>synchronousResourceAcceleration</key>
+	<string>parallelRectDepth</string>
+	<key>timerValueStatus</key>
+	<string>histogramBeyondStrategy</string>
+</dict>
+</plist>

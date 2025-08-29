@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisActivityVisible</key>
+	<string>metadataViaActivity</string>
+	<key>collectionDuringCommand</key>
+	<string>widgetUntilPattern</string>
+	<key>grainPhaseLocation</key>
+	<string>touchPerPrototype</string>
+	<key>liteCoordinatorInset</key>
+	<string>giftExceptCycle</string>
+	<key>mediaLevelSkewy</key>
+	<string>offsetDecoratorCoord</string>
+	<key>missionBeyondMemento</key>
+	<string>singleAnimationOrientation</string>
+	<key>repositoryNumberMargin</key>
+	<string>unsortedModulusTail</string>
+	<key>riverpodNearPlatform</key>
+	<string>eventMementoTheme</string>
+	<key>storageFlyweightBottom</key>
+	<string>workflowCompositeDistance</string>
+</dict>
+</plist>

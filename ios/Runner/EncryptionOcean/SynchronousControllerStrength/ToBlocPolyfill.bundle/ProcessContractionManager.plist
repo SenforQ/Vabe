@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricTimerStyle</key>
+	<string>checkboxTempleInset</string>
+	<key>projectOutsideStage</key>
+	<string>isolateAlongFramework</string>
+	<key>titleStrategyOffset</key>
+	<string>stateViaStage</string>
+	<key>transitionMementoAlignment</key>
+	<string>opaqueStreamResponse</string>
+</dict>
+</plist>

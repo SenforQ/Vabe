@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerMethodIndex</key>
+	<string>positionContextDirection</string>
+	<key>controllerProxyPosition</key>
+	<string>temporaryScreenDensity</string>
+	<key>decorationOrContext</key>
+	<string>euclideanDelegateDelay</string>
+	<key>eagerButtonPadding</key>
+	<string>metadataFrameworkOrigin</string>
+	<key>featureTypeBorder</key>
+	<string>injectionWorkPadding</string>
+	<key>tickerSystemTop</key>
+	<string>semanticStreamResponse</string>
+</dict>
+</plist>

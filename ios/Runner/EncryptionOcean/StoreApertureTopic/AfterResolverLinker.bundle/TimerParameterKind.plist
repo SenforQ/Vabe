@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStageSize</key>
+	<string>alignmentAgainstMemento</string>
+	<key>constCallbackFeedback</key>
+	<string>resourceOutsideDecorator</string>
+	<key>interactorWorkColor</key>
+	<string>animationForScope</string>
+	<key>mobileFrameworkTheme</key>
+	<string>subscriptionVersusStructure</string>
+	<key>richtextStyleBorder</key>
+	<string>compositionBesideDecorator</string>
+	<key>vectorUntilAction</key>
+	<string>protocolWithoutBridge</string>
+</dict>
+</plist>

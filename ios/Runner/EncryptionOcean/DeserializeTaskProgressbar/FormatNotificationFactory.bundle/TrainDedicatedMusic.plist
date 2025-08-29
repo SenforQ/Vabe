@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTaskStyle</key>
+	<string>ephemeralVariantAppearance</string>
+	<key>flexContainVisitor</key>
+	<string>asyncMissionSpacing</string>
+	<key>localCursorCount</key>
+	<string>inheritedBuilderCenter</string>
+	<key>materialPopupRate</key>
+	<string>tickerIncludeBuffer</string>
+	<key>projectMethodAlignment</key>
+	<string>liteGraphicDirection</string>
+</dict>
+</plist>

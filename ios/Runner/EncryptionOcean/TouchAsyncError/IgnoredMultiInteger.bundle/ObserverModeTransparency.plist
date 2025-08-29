@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupUntilState</key>
+	<string>durationUntilStrategy</string>
+	<key>isolateBesideWork</key>
+	<string>containerLayerPressure</string>
+	<key>techniqueTypeRate</key>
+	<string>reactivePreviewInteraction</string>
+</dict>
+</plist>

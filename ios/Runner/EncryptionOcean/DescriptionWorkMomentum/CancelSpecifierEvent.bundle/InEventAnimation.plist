@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseStateDuration</key>
+	<string>factoryJobEdge</string>
+	<key>commonChartVisible</key>
+	<string>materialModeAlignment</string>
+	<key>greatLocalizationSize</key>
+	<string>mainScreenTag</string>
+	<key>menuFromActivity</key>
+	<string>matrixAlongStructure</string>
+	<key>popupOutsideEnvironment</key>
+	<string>fragmentProcessShape</string>
+	<key>tappableWidgetShade</key>
+	<string>semanticDecorationMode</string>
+	<key>tickerFunctionState</key>
+	<string>resilientTernaryCount</string>
+</dict>
+</plist>

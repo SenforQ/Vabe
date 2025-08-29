@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionResourceFlags</key>
+	<string>basicResourceBrightness</string>
+	<key>activityPlatformColor</key>
+	<string>independentTransitionSpeed</string>
+	<key>arithmeticEntityShape</key>
+	<string>timerLevelRate</string>
+	<key>baselineProcessRight</key>
+	<string>seamlessMediaPadding</string>
+	<key>expandedPhaseBottom</key>
+	<string>responsiveMomentumTag</string>
+	<key>operationThanPlatform</key>
+	<string>beginnerModelPadding</string>
+	<key>rectUntilProcess</key>
+	<string>chapterStrategyDelay</string>
+	<key>similarSymbolMomentum</key>
+	<string>effectSingletonFlags</string>
+	<key>singleProviderColor</key>
+	<string>borderFlyweightValidation</string>
+</dict>
+</plist>

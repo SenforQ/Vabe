@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncButtonAcceleration</key>
+	<string>variantFormDelay</string>
+	<key>capacitiesPerKind</key>
+	<string>grayscaleMethodDepth</string>
+	<key>cupertinoCurveBorder</key>
+	<string>labelFrameworkSaturation</string>
+	<key>hyperbolicButtonDirection</key>
+	<string>staticFutureOrigin</string>
+	<key>interfaceStructureSkewy</key>
+	<string>subscriptionContainProxy</string>
+	<key>particleFromValue</key>
+	<string>singletonStructureTheme</string>
+	<key>sessionWithoutComposite</key>
+	<string>usecaseFunctionHue</string>
+	<key>statelessStoreAppearance</key>
+	<string>activityAdapterContrast</string>
+	<key>toolLikeParam</key>
+	<string>hierarchicalDependencyFrequency</string>
+</dict>
+</plist>

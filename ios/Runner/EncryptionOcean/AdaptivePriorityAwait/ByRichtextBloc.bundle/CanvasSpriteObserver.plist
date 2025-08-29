@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedChannelOrientation</key>
+	<string>cupertinoAsContext</string>
+	<key>instructionValueMargin</key>
+	<string>localizationJobValidation</string>
+	<key>operationActivityBehavior</key>
+	<string>constraintExceptCycle</string>
+	<key>protectedGetxDensity</key>
+	<string>basicResultLeft</string>
+	<key>radiusParamDepth</key>
+	<string>topicJobOffset</string>
+	<key>sessionSystemSize</key>
+	<string>themeValueDirection</string>
+	<key>singletonCycleRight</key>
+	<string>roleWithoutAction</string>
+</dict>
+</plist>

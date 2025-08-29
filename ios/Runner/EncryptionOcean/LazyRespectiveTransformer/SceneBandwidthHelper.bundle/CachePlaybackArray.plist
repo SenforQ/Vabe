@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferVariableRotation</key>
+	<string>interfaceChainHead</string>
+	<key>explicitGetxAlignment</key>
+	<string>decorationOutsideShape</string>
+	<key>normalStorageValidation</key>
+	<string>characterBufferTheme</string>
+	<key>requestLayerFrequency</key>
+	<string>lazyResourceDistance</string>
+</dict>
+</plist>

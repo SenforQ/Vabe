@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureVisitorOpacity</key>
+	<string>baseVisitorOrientation</string>
+	<key>borderTaskValidation</key>
+	<string>widgetChainOpacity</string>
+	<key>layoutFromStrategy</key>
+	<string>staticMatrixTint</string>
+	<key>notificationTempleFrequency</key>
+	<string>pinchableOffsetShape</string>
+	<key>resizableServiceDuration</key>
+	<string>accordionAnimationRate</string>
+	<key>responseLevelFrequency</key>
+	<string>lossWithoutSystem</string>
+	<key>storeAwayFlyweight</key>
+	<string>positionedAsEnvironment</string>
+	<key>tappableTitleAlignment</key>
+	<string>dimensionSingletonStatus</string>
+	<key>touchObserverOffset</key>
+	<string>cursorAmongPrototype</string>
+</dict>
+</plist>

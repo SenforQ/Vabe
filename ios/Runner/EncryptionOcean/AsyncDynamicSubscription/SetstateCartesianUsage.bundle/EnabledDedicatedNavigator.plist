@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentWithStage</key>
+	<string>activePositionIndex</string>
+	<key>animationBufferPosition</key>
+	<string>radiusStateColor</string>
+	<key>crudeEquipmentSkewy</key>
+	<string>sessionActionName</string>
+	<key>indicatorWithoutCycle</key>
+	<string>hyperbolicFrameOffset</string>
+	<key>permissiveGemOrientation</key>
+	<string>respectiveGridviewDistance</string>
+	<key>slashForAdapter</key>
+	<string>dialogsInsideProcess</string>
+	<key>tappableRequestContrast</key>
+	<string>globalCheckboxSkewx</string>
+</dict>
+</plist>

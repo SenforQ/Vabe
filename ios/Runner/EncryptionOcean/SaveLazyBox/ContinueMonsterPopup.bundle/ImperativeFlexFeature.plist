@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDependencyInteraction</key>
+	<string>handlerStyleState</string>
+	<key>beginnerAnchorTransparency</key>
+	<string>easyMenuPosition</string>
+	<key>commandByAction</key>
+	<string>equalizationAndEnvironment</string>
+	<key>curveThroughStyle</key>
+	<string>mainGateRate</string>
+	<key>grainThanWork</key>
+	<string>servicePrototypeType</string>
+	<key>nodeFromTier</key>
+	<string>popupContextColor</string>
+	<key>precisionAwayProcess</key>
+	<string>awaitMementoAppearance</string>
+	<key>promiseOutsideMediator</key>
+	<string>titleInterpreterVisibility</string>
+</dict>
+</plist>

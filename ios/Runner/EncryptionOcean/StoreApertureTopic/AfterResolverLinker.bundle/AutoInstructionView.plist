@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationThroughFacade</key>
+	<string>concreteCharacterSkewx</string>
+	<key>bitrateAgainstPlatform</key>
+	<string>alertOperationSize</string>
+	<key>singletonScopeSize</key>
+	<string>spriteForMediator</string>
+	<key>stepFacadeBehavior</key>
+	<string>concreteIsolateOffset</string>
+	<key>uniformBuilderScale</key>
+	<string>providerIncludeMemento</string>
+</dict>
+</plist>

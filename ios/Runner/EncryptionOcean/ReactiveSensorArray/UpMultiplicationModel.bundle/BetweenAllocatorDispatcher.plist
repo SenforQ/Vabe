@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customEntityEdge</key>
+	<string>globalSizeTag</string>
+	<key>gramByOperation</key>
+	<string>grainFromMemento</string>
+	<key>graphShapeMode</key>
+	<string>builderVersusLayer</string>
+	<key>pointVariableBehavior</key>
+	<string>globalFutureEdge</string>
+	<key>swiftBufferTheme</key>
+	<string>cosineProcessSkewy</string>
+</dict>
+</plist>

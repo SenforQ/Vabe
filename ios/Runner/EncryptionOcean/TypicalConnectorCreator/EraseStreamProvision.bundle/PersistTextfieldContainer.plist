@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAnimationName</key>
+	<string>inheritedDecorationPressure</string>
+	<key>ephemeralScaffoldBound</key>
+	<string>expandedViaContext</string>
+	<key>featureContainValue</key>
+	<string>finalLocalizationFlags</string>
+	<key>hierarchicalControllerDelay</key>
+	<string>firstSliderCenter</string>
+	<key>metadataPhaseDirection</key>
+	<string>titleOutsideParameter</string>
+	<key>skinFrameworkFormat</key>
+	<string>fragmentVarFormat</string>
+	<key>tableShapePosition</key>
+	<string>prevReducerAlignment</string>
+	<key>unactivatedZoneEdge</key>
+	<string>techniqueFrameworkTransparency</string>
+</dict>
+</plist>

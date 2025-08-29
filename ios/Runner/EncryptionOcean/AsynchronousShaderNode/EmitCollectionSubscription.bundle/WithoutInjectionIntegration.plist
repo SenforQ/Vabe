@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyIncludeStructure</key>
+	<string>compositionalCurveDistance</string>
+	<key>materialPerStage</key>
+	<string>resultFunctionOrigin</string>
+	<key>presenterVarSkewy</key>
+	<string>directlySkinTheme</string>
+	<key>primaryGestureCount</key>
+	<string>gestureDuringFlyweight</string>
+	<key>uniqueMonsterOpacity</key>
+	<string>independentSlashKind</string>
+	<key>variantWithStructure</key>
+	<string>decorationScopeFeedback</string>
+	<key>zoneChainContrast</key>
+	<string>commonDimensionDepth</string>
+</dict>
+</plist>

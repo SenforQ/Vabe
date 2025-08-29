@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchTypeKind</key>
+	<string>progressbarMethodFlags</string>
+	<key>loopOutsideScope</key>
+	<string>protectedChannelBound</string>
+	<key>oldTransitionOrigin</key>
+	<string>requiredControllerTint</string>
+	<key>pageviewLikeCycle</key>
+	<string>instructionPatternSkewx</string>
+	<key>responsiveGradientSize</key>
+	<string>cartesianFrameInterval</string>
+	<key>scrollableOperationDensity</key>
+	<string>activeCosineSaturation</string>
+	<key>stateDecoratorFrequency</key>
+	<string>playbackFormHue</string>
+	<key>taskFormBorder</key>
+	<string>monsterVisitorFlags</string>
+</dict>
+</plist>

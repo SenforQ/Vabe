@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationStrategyOrigin</key>
+	<string>gestureOutsideStructure</string>
+	<key>dimensionCommandMomentum</key>
+	<string>reactiveUsecaseCoord</string>
+	<key>newestDecorationTag</key>
+	<string>navigationLevelBound</string>
+	<key>nibAdapterPadding</key>
+	<string>commandThroughFramework</string>
+	<key>presenterAgainstStrategy</key>
+	<string>nodeParameterBrightness</string>
+	<key>richtextEnvironmentCount</key>
+	<string>specifyRouteTail</string>
+	<key>routeForPlatform</key>
+	<string>delegateForFlyweight</string>
+</dict>
+</plist>

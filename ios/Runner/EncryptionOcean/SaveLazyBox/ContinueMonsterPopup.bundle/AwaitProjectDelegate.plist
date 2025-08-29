@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticThroughInterpreter</key>
+	<string>zoneActionTag</string>
+	<key>axisObserverBorder</key>
+	<string>decorationAboutMode</string>
+	<key>brushInMediator</key>
+	<string>reusableSegmentFrequency</string>
+	<key>isolateAwayType</key>
+	<string>localRouteDelay</string>
+	<key>keyManagerPosition</key>
+	<string>curveAdapterRight</string>
+	<key>multiDocumentInteraction</key>
+	<string>webWorkflowLeft</string>
+	<key>robustPainterValidation</key>
+	<string>layoutProxyKind</string>
+	<key>utilContainParam</key>
+	<string>resizableNodeKind</string>
+</dict>
+</plist>

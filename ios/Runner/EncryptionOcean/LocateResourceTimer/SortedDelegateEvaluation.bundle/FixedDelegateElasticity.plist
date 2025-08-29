@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRowDelay</key>
+	<string>navigatorDespitePattern</string>
+	<key>handlerInterpreterSize</key>
+	<string>resourceBeyondMediator</string>
+	<key>liteSpineType</key>
+	<string>inheritedInteractorStatus</string>
+	<key>parallelPopupLocation</key>
+	<string>gestureAgainstPattern</string>
+	<key>sizeContextDensity</key>
+	<string>cardSystemState</string>
+	<key>storageAtKind</key>
+	<string>nativeRadiusTint</string>
+	<key>tappableMetadataTransparency</key>
+	<string>inkwellAndShape</string>
+	<key>techniqueFrameworkVisibility</key>
+	<string>interfaceScopeShade</string>
+</dict>
+</plist>

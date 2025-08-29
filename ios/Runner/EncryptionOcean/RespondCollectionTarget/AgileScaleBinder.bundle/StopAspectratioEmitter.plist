@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLikeState</key>
+	<string>animatedCheckboxOpacity</string>
+	<key>clipperCycleBorder</key>
+	<string>usageStyleDirection</string>
+	<key>hashLevelPosition</key>
+	<string>scrollableThemeType</string>
+	<key>semanticsChainTop</key>
+	<string>constraintStructureRotation</string>
+</dict>
+</plist>

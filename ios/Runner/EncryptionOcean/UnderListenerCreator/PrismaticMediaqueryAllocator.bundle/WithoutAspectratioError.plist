@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartDecoratorPosition</key>
+	<string>mediaProcessMode</string>
+	<key>currentSubpixelOffset</key>
+	<string>getxFacadeContrast</string>
+	<key>eagerLabelCount</key>
+	<string>deferredSegmentKind</string>
+	<key>imageTaskContrast</key>
+	<string>hardBlocDensity</string>
+	<key>layerFrameworkStyle</key>
+	<string>graphActionPosition</string>
+	<key>providerFromKind</key>
+	<string>viewExceptMethod</string>
+	<key>providerModeVisible</key>
+	<string>materialSlashTail</string>
+	<key>symbolWithoutNumber</key>
+	<string>mainProviderAppearance</string>
+	<key>tickerAmongComposite</key>
+	<string>awaitBeyondMode</string>
+	<key>timerAboutAdapter</key>
+	<string>adaptiveCompositionVisible</string>
+</dict>
+</plist>

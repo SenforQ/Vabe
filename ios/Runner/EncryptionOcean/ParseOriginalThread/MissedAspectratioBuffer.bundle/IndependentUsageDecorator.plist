@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentNearBridge</key>
+	<string>exceptionSinceProcess</string>
+	<key>documentWithSystem</key>
+	<string>accordionQueueDelay</string>
+	<key>draggableRequestName</key>
+	<string>touchExceptObserver</string>
+	<key>euclideanSizeFeedback</key>
+	<string>grayscaleLikeShape</string>
+	<key>observerActivityHead</key>
+	<string>borderProcessTail</string>
+	<key>permanentSymbolMargin</key>
+	<string>smartReducerShade</string>
+	<key>resourceVersusState</key>
+	<string>frameDecoratorOffset</string>
+	<key>transitionPerDecorator</key>
+	<string>queueTaskOrigin</string>
+</dict>
+</plist>

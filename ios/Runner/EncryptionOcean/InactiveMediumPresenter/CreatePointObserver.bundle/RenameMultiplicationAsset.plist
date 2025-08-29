@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoRadiusInteraction</key>
+	<string>bufferLayerInset</string>
+	<key>denseApertureBehavior</key>
+	<string>resourceDespiteFramework</string>
+	<key>storyboardWithoutNumber</key>
+	<string>optimizerFacadeAcceleration</string>
+	<key>widgetCycleName</key>
+	<string>nodeTaskEdge</string>
+</dict>
+</plist>

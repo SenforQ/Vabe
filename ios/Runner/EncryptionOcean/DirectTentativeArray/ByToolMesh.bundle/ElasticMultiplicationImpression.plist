@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledTransitionMomentum</key>
+	<string>themeAroundCommand</string>
+	<key>gemBeyondAdapter</key>
+	<string>materialMementoSize</string>
+	<key>navigatorInsideCommand</key>
+	<string>movementFromFacade</string>
+	<key>radioAboutState</key>
+	<string>alignmentCommandKind</string>
+	<key>sampleVarAlignment</key>
+	<string>responsiveInkwellSpacing</string>
+	<key>usecaseLikeLayer</key>
+	<string>decorationPlatformTop</string>
+</dict>
+</plist>

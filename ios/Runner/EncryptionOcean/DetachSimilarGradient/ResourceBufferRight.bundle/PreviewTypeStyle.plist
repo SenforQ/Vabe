@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAlongStyle</key>
+	<string>contractionExceptInterpreter</string>
+	<key>explicitFutureShade</key>
+	<string>custompaintFlyweightPosition</string>
+	<key>providerSystemCount</key>
+	<string>queueOutsideCycle</string>
+	<key>singletonVariableStyle</key>
+	<string>discardedQueueBrightness</string>
+</dict>
+</plist>

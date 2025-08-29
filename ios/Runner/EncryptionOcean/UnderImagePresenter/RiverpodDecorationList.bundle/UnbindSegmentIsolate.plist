@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeObserverDistance</key>
+	<string>callbackCommandValidation</string>
+	<key>easyQueryDistance</key>
+	<string>observerStageAppearance</string>
+	<key>multiplicationSinceBridge</key>
+	<string>routerVersusDecorator</string>
+	<key>resizableCompleterLeft</key>
+	<string>challengeActivityCenter</string>
+</dict>
+</plist>

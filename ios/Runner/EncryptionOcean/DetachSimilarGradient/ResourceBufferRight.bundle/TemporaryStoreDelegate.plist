@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionStyleFlags</key>
+	<string>protocolProcessName</string>
+	<key>intensityDuringDecorator</key>
+	<string>unactivatedResolverFormat</string>
+	<key>kernelStyleMode</key>
+	<string>injectionScopeSpeed</string>
+	<key>navigatorOutsideVisitor</key>
+	<string>sortedHistogramSkewx</string>
+	<key>widgetOutsideLayer</key>
+	<string>stateFrameworkBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushIncludeChain</key>
+	<string>builderVariableVisible</string>
+	<key>compositionFromStyle</key>
+	<string>builderThroughLevel</string>
+	<key>gesturedetectorAlongChain</key>
+	<string>matrixViaOperation</string>
+	<key>granularClipperStyle</key>
+	<string>resolverDuringCycle</string>
+	<key>loopLevelBottom</key>
+	<string>protectedVectorFeedback</string>
+	<key>progressbarNearContext</key>
+	<string>backwardAnimationColor</string>
+	<key>queryStagePressure</key>
+	<string>builderFunctionRotation</string>
+	<key>reducerFrameworkMargin</key>
+	<string>containerShapeStatus</string>
+	<key>significantHeapLeft</key>
+	<string>overlayObserverColor</string>
+	<key>titleStructureOrientation</key>
+	<string>fusedEntropyDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxBeyondAction</key>
+	<string>activatedGemHead</string>
+	<key>cubitWorkSpeed</key>
+	<string>mobileTypeInset</string>
+	<key>effectObserverState</key>
+	<string>stateKindBrightness</string>
+	<key>layerAwayPlatform</key>
+	<string>animationPerStage</string>
+	<key>opaqueMarginDirection</key>
+	<string>navigatorNumberCenter</string>
+	<key>routerAtType</key>
+	<string>constraintFacadeOrigin</string>
+	<key>signStructureSkewy</key>
+	<string>sizeBeyondFacade</string>
+	<key>singleModalInteraction</key>
+	<string>usedReducerHue</string>
+	<key>uniqueMarginMargin</key>
+	<string>particleKindRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionWithStrategy</key>
+	<string>spriteFunctionVisibility</string>
+	<key>arithmeticEventBehavior</key>
+	<string>nativeExpandedValidation</string>
+	<key>dependencyThanInterpreter</key>
+	<string>composableSizeColor</string>
+	<key>nativeSwitchDistance</key>
+	<string>tickerSinceMemento</string>
+	<key>profileStructureVisibility</key>
+	<string>tweenVariableInterval</string>
+	<key>queryVarInset</key>
+	<string>prevListviewPadding</string>
+	<key>repositoryThanBridge</key>
+	<string>effectStyleInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAllocatorPadding</key>
+	<string>permissiveBitrateBound</string>
+	<key>alignmentDuringAction</key>
+	<string>offsetOfForm</string>
+	<key>apertureMediatorFlags</key>
+	<string>gramActivityKind</string>
+	<key>decorationOfPhase</key>
+	<string>animationOutsideProxy</string>
+	<key>routeByProxy</key>
+	<string>sequentialSymbolDuration</string>
+	<key>scaleAndMode</key>
+	<string>basicLocalizationTag</string>
+	<key>segmentCycleValidation</key>
+	<string>retainedRichtextLocation</string>
+	<key>skirtThanActivity</key>
+	<string>injectionValuePressure</string>
+	<key>tappableCoordinatorSkewy</key>
+	<string>routeInChain</string>
+</dict>
+</plist>

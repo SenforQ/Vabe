@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryThanParam</key>
+	<string>playbackContainKind</string>
+	<key>cursorBeyondShape</key>
+	<string>localizationPatternValidation</string>
+	<key>dialogsMediatorRate</key>
+	<string>missedExtensionPosition</string>
+	<key>loopAwayInterpreter</key>
+	<string>activatedAssetDirection</string>
+	<key>signAlongPattern</key>
+	<string>listviewInterpreterEdge</string>
+</dict>
+</plist>

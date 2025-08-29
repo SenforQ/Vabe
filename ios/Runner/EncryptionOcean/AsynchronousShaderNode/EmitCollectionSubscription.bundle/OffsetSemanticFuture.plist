@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileWidgetKind</key>
+	<string>singletonPerProcess</string>
+	<key>awaitSinceMediator</key>
+	<string>enabledChapterTheme</string>
+	<key>eventAroundFlyweight</key>
+	<string>managerCommandMargin</string>
+	<key>independentAwaitBehavior</key>
+	<string>delegateParamOpacity</string>
+	<key>loopIncludePattern</key>
+	<string>animationFlyweightPressure</string>
+	<key>mutableStoryboardSaturation</key>
+	<string>beginnerSliderTop</string>
+	<key>popupFrameworkState</key>
+	<string>errorScopeKind</string>
+	<key>streamOrCycle</key>
+	<string>streamViaActivity</string>
+</dict>
+</plist>

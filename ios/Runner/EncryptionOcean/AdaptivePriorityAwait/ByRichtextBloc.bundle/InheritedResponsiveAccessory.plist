@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyMetadataRate</key>
+	<string>immutableBulletHue</string>
+	<key>eagerCoordinatorRotation</key>
+	<string>interfaceByProxy</string>
+	<key>fragmentAtMediator</key>
+	<string>queryAtParameter</string>
+	<key>intensityThroughVariable</key>
+	<string>imageFlyweightTheme</string>
+	<key>iterativeChecklistResponse</key>
+	<string>buttonThroughComposite</string>
+	<key>logarithmViaStructure</key>
+	<string>gestureFacadeAcceleration</string>
+	<key>timerAgainstSystem</key>
+	<string>responseDuringContext</string>
+	<key>usageInterpreterSkewy</key>
+	<string>riverpodStructureRight</string>
+	<key>widgetSingletonDistance</key>
+	<string>progressbarStrategyDirection</string>
+</dict>
+</plist>

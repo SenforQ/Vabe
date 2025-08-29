@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTransitionCenter</key>
+	<string>vectorAgainstBridge</string>
+	<key>nextScaffoldTheme</key>
+	<string>actionWithStructure</string>
+	<key>offsetAtProxy</key>
+	<string>dynamicBoxPressure</string>
+	<key>similarIntegerTheme</key>
+	<string>priorNormCoord</string>
+	<key>sliderExceptMemento</key>
+	<string>routeBufferOffset</string>
+	<key>statefulRequestCenter</key>
+	<string>storyboardMediatorShape</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCompositionFeedback</key>
+	<string>assetVersusProxy</string>
+	<key>directlyFragmentIndex</key>
+	<string>canvasStyleDensity</string>
+	<key>greatCollectionShade</key>
+	<string>typicalInkwellInteraction</string>
+	<key>mobxAwayLayer</key>
+	<string>mainCaptionTag</string>
+	<key>multiGesturedetectorLeft</key>
+	<string>requestFunctionName</string>
+	<key>repositoryBeyondScope</key>
+	<string>draggableTitleTransparency</string>
+	<key>resizableAsyncAppearance</key>
+	<string>rectFacadeDepth</string>
+</dict>
+</plist>

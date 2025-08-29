@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAboutMethod</key>
+	<string>callbackContainCycle</string>
+	<key>alignmentFlyweightSkewx</key>
+	<string>factoryVarVisibility</string>
+	<key>crudeTextfieldInterval</key>
+	<string>statefulBesideForm</string>
+	<key>indicatorForFramework</key>
+	<string>animatedConfigurationScale</string>
+	<key>intensityOfFramework</key>
+	<string>checkboxSystemCenter</string>
+	<key>mutableParticleStyle</key>
+	<string>drawerAlongProcess</string>
+	<key>persistentTouchTheme</key>
+	<string>semanticEqualizationDelay</string>
+	<key>prevRadiusDistance</key>
+	<string>zoneBesideFunction</string>
+	<key>tickerStageInterval</key>
+	<string>techniquePerAction</string>
+	<key>timerAlongTask</key>
+	<string>rectInStage</string>
+</dict>
+</plist>

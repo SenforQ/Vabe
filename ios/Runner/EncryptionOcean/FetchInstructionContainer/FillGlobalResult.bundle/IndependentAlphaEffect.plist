@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBridgeSize</key>
+	<string>greatAlignmentTint</string>
+	<key>referenceOperationBehavior</key>
+	<string>assetAndBuffer</string>
+	<key>requiredSymbolHead</key>
+	<string>cupertinoSystemName</string>
+	<key>samplePerPrototype</key>
+	<string>parallelObserverOffset</string>
+	<key>statefulBesideState</key>
+	<string>invisibleEffectEdge</string>
+	<key>symbolInVar</key>
+	<string>asyncSinceLevel</string>
+</dict>
+</plist>

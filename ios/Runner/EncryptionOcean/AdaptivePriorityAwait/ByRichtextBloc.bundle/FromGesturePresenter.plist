@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedMusicCenter</key>
+	<string>constraintAndSingleton</string>
+	<key>statefulStoreBehavior</key>
+	<string>intensityOutsideAction</string>
+	<key>textThroughVisitor</key>
+	<string>completerAndType</string>
+	<key>usageCycleLeft</key>
+	<string>vectorAtVar</string>
+	<key>viewAroundTemple</key>
+	<string>mutableAnimationStatus</string>
+</dict>
+</plist>

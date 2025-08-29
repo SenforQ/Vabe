@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGemFeedback</key>
+	<string>sessionSingletonTheme</string>
+	<key>callbackObserverAppearance</key>
+	<string>assetCycleCenter</string>
+	<key>cupertinoResourceAppearance</key>
+	<string>deferredRouteType</string>
+	<key>getxFlyweightStyle</key>
+	<string>protocolBufferName</string>
+	<key>interfaceFunctionDuration</key>
+	<string>featureCompositeType</string>
+	<key>intermediateSlashInset</key>
+	<string>bufferOrEnvironment</string>
+	<key>localizationInterpreterAcceleration</key>
+	<string>compositionNearLayer</string>
+	<key>marginContextOffset</key>
+	<string>allocatorSingletonScale</string>
+	<key>sampleKindTheme</key>
+	<string>reducerCompositeTransparency</string>
+	<key>statefulTernaryTransparency</key>
+	<string>pointCycleValidation</string>
+</dict>
+</plist>

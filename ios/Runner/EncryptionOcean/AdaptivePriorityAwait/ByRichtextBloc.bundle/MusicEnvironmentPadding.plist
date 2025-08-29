@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarContextTag</key>
+	<string>ignoredCosineAppearance</string>
+	<key>cubitUntilFacade</key>
+	<string>synchronousChartAcceleration</string>
+	<key>intermediateExpandedOpacity</key>
+	<string>activityBufferFrequency</string>
+	<key>navigatorBeyondForm</key>
+	<string>responsiveHandlerVisible</string>
+	<key>overlayBesidePhase</key>
+	<string>optimizerAsFlyweight</string>
+	<key>stateNearMode</key>
+	<string>resolverDespiteCycle</string>
+	<key>streamFacadeAlignment</key>
+	<string>widgetVersusTask</string>
+</dict>
+</plist>

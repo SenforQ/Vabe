@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonVersusKind</key>
+	<string>consumerMethodCenter</string>
+	<key>completerOutsideShape</key>
+	<string>equalizationFunctionBehavior</string>
+	<key>nextViewDirection</key>
+	<string>accessibleTextState</string>
+	<key>secondInteractorTransparency</key>
+	<string>queueIncludeStyle</string>
+	<key>tweenLayerKind</key>
+	<string>accordionAnimationTag</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerUntilTier</key>
+	<string>cubitBridgeHue</string>
+	<key>gateForActivity</key>
+	<string>subscriptionBesideTask</string>
+	<key>nodeFromParameter</key>
+	<string>queueInFunction</string>
+	<key>notificationCommandAppearance</key>
+	<string>tensorPromiseInteraction</string>
+	<key>routeKindForce</key>
+	<string>numericalProgressbarBottom</string>
+	<key>scaleAsActivity</key>
+	<string>textParameterValidation</string>
+</dict>
+</plist>

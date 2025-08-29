@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedControllerOffset</key>
+	<string>checklistOperationInset</string>
+	<key>cycleWorkName</key>
+	<string>checklistStructureShape</string>
+	<key>equalizationMementoRight</key>
+	<string>sampleContainFlyweight</string>
+	<key>iconOutsideParam</key>
+	<string>hierarchicalMetadataInset</string>
+	<key>navigatorLevelVisible</key>
+	<string>ignoredViewOpacity</string>
+	<key>particleParamEdge</key>
+	<string>timerContainBuffer</string>
+	<key>resolverAmongWork</key>
+	<string>curveAlongScope</string>
+	<key>sceneDuringCycle</key>
+	<string>allocatorDespiteSingleton</string>
+	<key>stateProcessSaturation</key>
+	<string>arithmeticDelegateSize</string>
+	<key>tableModeSkewy</key>
+	<string>flexAlongMemento</string>
+</dict>
+</plist>

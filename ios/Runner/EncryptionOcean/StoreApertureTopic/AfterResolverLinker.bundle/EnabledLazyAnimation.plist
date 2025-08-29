@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferProcessAlignment</key>
+	<string>respectiveMetadataVisibility</string>
+	<key>completionForVisitor</key>
+	<string>asynchronousBorderPosition</string>
+	<key>compositionalDrawerAppearance</key>
+	<string>cubitTaskVelocity</string>
+	<key>diffableGramMode</key>
+	<string>draggableChannelSize</string>
+	<key>durationVisitorPressure</key>
+	<string>unsortedCapacitiesHue</string>
+	<key>eagerGramOrigin</key>
+	<string>hierarchicalSliderOrientation</string>
+	<key>graphUntilTemple</key>
+	<string>advancedAnimationSkewy</string>
+	<key>managerTaskSpacing</key>
+	<string>musicTierDepth</string>
+	<key>modalTypeTransparency</key>
+	<string>capsuleFromEnvironment</string>
+</dict>
+</plist>

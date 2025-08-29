@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertCommandScale</key>
+	<string>cubitAroundProxy</string>
+	<key>animationActionBorder</key>
+	<string>retainedCertificateRotation</string>
+	<key>cosineBridgeSpeed</key>
+	<string>prevSessionFeedback</string>
+	<key>exceptionInsideProcess</key>
+	<string>certificateOrMode</string>
+	<key>mainResourceBottom</key>
+	<string>allocatorJobTint</string>
+	<key>resourceTaskAppearance</key>
+	<string>descriptorLevelShade</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAdapterTension</key>
+	<string>inkwellFormFrequency</string>
+	<key>chartFlyweightVisible</key>
+	<string>progressbarOrProcess</string>
+	<key>exceptionStateValidation</key>
+	<string>gridviewPrototypeInteraction</string>
+	<key>hashCycleCenter</key>
+	<string>curveDespitePhase</string>
+	<key>pinchableScaffoldSize</key>
+	<string>unsortedUsageBrightness</string>
+	<key>providerStrategyOrigin</key>
+	<string>statelessLevelFormat</string>
+	<key>semanticsInterpreterHue</key>
+	<string>toolProxyLeft</string>
+	<key>storyboardLikeOperation</key>
+	<string>previewUntilVisitor</string>
+	<key>tabbarVariablePressure</key>
+	<string>columnAgainstObserver</string>
+</dict>
+</plist>

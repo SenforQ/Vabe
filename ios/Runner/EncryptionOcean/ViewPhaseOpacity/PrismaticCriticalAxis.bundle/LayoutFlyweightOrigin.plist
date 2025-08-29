@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentLayerIndex</key>
+	<string>gridAgainstBridge</string>
+	<key>arithmeticCycleBottom</key>
+	<string>sequentialPositionBehavior</string>
+	<key>capsuleMementoMode</key>
+	<string>smartStorageInteraction</string>
+	<key>instructionScopeAlignment</key>
+	<string>routePrototypeSkewy</string>
+	<key>missedCompositionSkewy</key>
+	<string>tappableBitrateFormat</string>
+	<key>routeProxyTop</key>
+	<string>tensorStateRotation</string>
+	<key>tappableCharacterOrientation</key>
+	<string>themeParamStatus</string>
+</dict>
+</plist>

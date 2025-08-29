@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSlashDistance</key>
+	<string>descriptorViaEnvironment</string>
+	<key>baselineAboutStructure</key>
+	<string>indicatorTypePadding</string>
+	<key>chartContainAction</key>
+	<string>respectiveDelegateFlags</string>
+	<key>descriptorForForm</key>
+	<string>pointDuringTask</string>
+	<key>dialogsOutsideFunction</key>
+	<string>intermediateInterfaceIndex</string>
+	<key>observerPatternOrigin</key>
+	<string>activatedMethodTag</string>
+	<key>resilientLayoutFeedback</key>
+	<string>actionMementoStyle</string>
+	<key>textfieldAroundFunction</key>
+	<string>futureSinceObserver</string>
+	<key>widgetNearTier</key>
+	<string>toolMediatorOrigin</string>
+</dict>
+</plist>

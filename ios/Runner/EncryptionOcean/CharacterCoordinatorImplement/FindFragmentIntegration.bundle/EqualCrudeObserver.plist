@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetMediatorCoord</key>
+	<string>segueDecoratorTheme</string>
+	<key>cardScopeRight</key>
+	<string>bulletStateLocation</string>
+	<key>characterPerDecorator</key>
+	<string>anchorInDecorator</string>
+	<key>groupIncludeLevel</key>
+	<string>criticalViewSize</string>
+	<key>handlerValueAppearance</key>
+	<string>normObserverInset</string>
+	<key>intermediateRouterHue</key>
+	<string>challengeFromDecorator</string>
+	<key>reactiveTabbarTop</key>
+	<string>numericalMobileCount</string>
+	<key>rowFormLeft</key>
+	<string>permanentSubpixelMode</string>
+</dict>
+</plist>

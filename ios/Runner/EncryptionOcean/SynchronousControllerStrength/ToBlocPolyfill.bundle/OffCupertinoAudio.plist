@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableStoryboardLeft</key>
+	<string>transitionIncludeForm</string>
+	<key>displayableGrayscaleInset</key>
+	<string>activityContextTint</string>
+	<key>eagerObserverResponse</key>
+	<string>subscriptionOutsideSingleton</string>
+	<key>handlerDuringMemento</key>
+	<string>directDimensionContrast</string>
+	<key>intermediateTextKind</key>
+	<string>stateBesideProxy</string>
+	<key>managerTaskRight</key>
+	<string>reusableMapShape</string>
+	<key>metadataNearScope</key>
+	<string>unaryVarCenter</string>
+	<key>radiusPrototypeInset</key>
+	<string>menuInCycle</string>
+	<key>storeLayerMode</key>
+	<string>titleLikeChain</string>
+</dict>
+</plist>

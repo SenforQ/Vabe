@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBridgeVelocity</key>
+	<string>desktopInstructionDensity</string>
+	<key>bulletObserverStatus</key>
+	<string>movementMediatorSkewx</string>
+	<key>constEventLeft</key>
+	<string>sequentialNavigatorDelay</string>
+	<key>dropdownbuttonNearStrategy</key>
+	<string>tweenStateRight</string>
+	<key>flexibleFrameCount</key>
+	<string>taskFunctionTransparency</string>
+	<key>scrollableRouterFormat</key>
+	<string>tappableCollectionState</string>
+</dict>
+</plist>

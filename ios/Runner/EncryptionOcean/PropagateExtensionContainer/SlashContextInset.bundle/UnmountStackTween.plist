@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultAppbarResponse</key>
+	<string>spriteForParam</string>
+	<key>enabledStateKind</key>
+	<string>radioOrBridge</string>
+	<key>integerOutsideTask</key>
+	<string>pinchableMonsterPadding</string>
+	<key>specifierOutsideKind</key>
+	<string>otherPlaybackScale</string>
+	<key>streamMementoVelocity</key>
+	<string>discardedSegueAppearance</string>
+	<key>textFacadeLeft</key>
+	<string>reusableNibDirection</string>
+</dict>
+</plist>

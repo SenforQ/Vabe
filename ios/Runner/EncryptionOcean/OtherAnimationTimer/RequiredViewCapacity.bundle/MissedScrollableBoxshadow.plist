@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonByAction</key>
+	<string>methodSystemOrientation</string>
+	<key>custompaintBufferDistance</key>
+	<string>widgetInsideJob</string>
+	<key>interfaceOutsideFlyweight</key>
+	<string>providerWithoutStrategy</string>
+	<key>layoutStructureDelay</key>
+	<string>normalHeroMode</string>
+	<key>notificationInFlyweight</key>
+	<string>directlyStreamAlignment</string>
+	<key>scrollForMemento</key>
+	<string>listenerStageSpeed</string>
+	<key>ternaryVarRotation</key>
+	<string>autoStatefulValidation</string>
+	<key>transitionProxyRight</key>
+	<string>intermediateActivityFlags</string>
+</dict>
+</plist>

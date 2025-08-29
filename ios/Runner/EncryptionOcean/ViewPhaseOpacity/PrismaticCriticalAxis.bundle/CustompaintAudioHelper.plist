@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentScopeTransparency</key>
+	<string>rowOperationContrast</string>
+	<key>entityExceptParam</key>
+	<string>buttonBufferScale</string>
+	<key>errorParamFlags</key>
+	<string>retainedScrollDelay</string>
+	<key>intuitiveViewLocation</key>
+	<string>mediumSpineTransparency</string>
+	<key>mediumSegmentTint</key>
+	<string>comprehensiveResourceFormat</string>
+	<key>reactiveCubitDensity</key>
+	<string>serviceLevelBottom</string>
+	<key>requestSinceTier</key>
+	<string>delegateFlyweightDensity</string>
+</dict>
+</plist>

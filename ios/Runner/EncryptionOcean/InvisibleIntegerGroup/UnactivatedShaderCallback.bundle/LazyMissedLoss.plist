@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchBesideType</key>
+	<string>constActivityRight</string>
+	<key>bitrateAwayChain</key>
+	<string>previewAwayBuffer</string>
+	<key>flexNearChain</key>
+	<string>entropyFunctionBehavior</string>
+	<key>observerValueMargin</key>
+	<string>dynamicBaselineSaturation</string>
+	<key>positionedPerLevel</key>
+	<string>zoneEnvironmentIndex</string>
+</dict>
+</plist>

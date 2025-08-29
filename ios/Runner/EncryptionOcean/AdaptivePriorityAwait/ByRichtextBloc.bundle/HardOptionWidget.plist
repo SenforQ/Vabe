@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStepKind</key>
+	<string>unactivatedStorageMargin</string>
+	<key>effectFormVisibility</key>
+	<string>controllerDuringForm</string>
+	<key>equipmentDuringOperation</key>
+	<string>agileSkinState</string>
+	<key>factoryUntilComposite</key>
+	<string>storeBridgeInset</string>
+	<key>instructionStructureForce</key>
+	<string>similarBehaviorVisible</string>
+	<key>interfaceTempleShade</key>
+	<string>spineAgainstChain</string>
+	<key>metadataWithCycle</key>
+	<string>boxshadowObserverEdge</string>
+	<key>missedControllerState</key>
+	<string>mutableMethodVisibility</string>
+</dict>
+</plist>

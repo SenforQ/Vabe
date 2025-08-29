@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAgainstStrategy</key>
+	<string>declarativeLabelLocation</string>
+	<key>channelWithoutMediator</key>
+	<string>getxChainIndex</string>
+	<key>completerUntilNumber</key>
+	<string>serviceDecoratorDepth</string>
+	<key>topicLayerForce</key>
+	<string>independentListviewDuration</string>
+	<key>uniqueBinaryBrightness</key>
+	<string>resolverVersusFlyweight</string>
+</dict>
+</plist>

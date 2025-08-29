@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperIncludeVar</key>
+	<string>entityByShape</string>
+	<key>constraintStyleAppearance</key>
+	<string>dedicatedFrameBehavior</string>
+	<key>loopActionInteraction</key>
+	<string>tensorNotificationColor</string>
+	<key>mobxValueResponse</key>
+	<string>radioFacadeStatus</string>
+	<key>primaryMonsterDuration</key>
+	<string>equipmentViaStage</string>
+</dict>
+</plist>

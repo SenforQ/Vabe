@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableButtonContrast</key>
+	<string>dependencySingletonTop</string>
+	<key>dropdownbuttonSingletonSkewx</key>
+	<string>resizableHistogramHue</string>
+	<key>grainTypeScale</key>
+	<string>shaderFunctionCount</string>
+	<key>rectAroundFlyweight</key>
+	<string>semanticSensorScale</string>
+	<key>respectiveSpriteLocation</key>
+	<string>contractionSinceVariable</string>
+	<key>statelessChainRate</key>
+	<string>symmetricBorderVisible</string>
+	<key>synchronousMissionSkewy</key>
+	<string>similarTimerAppearance</string>
+</dict>
+</plist>

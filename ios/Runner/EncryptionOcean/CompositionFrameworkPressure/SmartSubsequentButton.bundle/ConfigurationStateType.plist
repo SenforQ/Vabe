@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstChain</key>
+	<string>inkwellDecoratorState</string>
+	<key>frameActivitySkewy</key>
+	<string>spriteInsideChain</string>
+	<key>gradientPerSystem</key>
+	<string>giftMediatorMode</string>
+	<key>independentLogarithmInteraction</key>
+	<string>painterStructureFrequency</string>
+	<key>spineVariableColor</key>
+	<string>fixedWidgetPosition</string>
+</dict>
+</plist>

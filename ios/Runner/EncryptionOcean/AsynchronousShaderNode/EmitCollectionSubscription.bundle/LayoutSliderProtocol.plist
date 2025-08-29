@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetPerEnvironment</key>
+	<string>inkwellProxyHead</string>
+	<key>flexTaskAcceleration</key>
+	<string>layoutSingletonForce</string>
+	<key>gramAwayNumber</key>
+	<string>momentumActivityBehavior</string>
+	<key>permanentSegmentInterval</key>
+	<string>listviewIncludeLayer</string>
+	<key>permissiveAllocatorSpeed</key>
+	<string>singleTransitionOffset</string>
+	<key>positionedDespiteCommand</key>
+	<string>richtextStageDirection</string>
+	<key>requestFunctionTag</key>
+	<string>constraintFormType</string>
+	<key>seamlessCaptionSpacing</key>
+	<string>specifierActivityDistance</string>
+</dict>
+</plist>

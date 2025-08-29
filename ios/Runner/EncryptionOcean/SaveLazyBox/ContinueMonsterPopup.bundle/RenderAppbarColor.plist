@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFrameFlags</key>
+	<string>chapterVariableBrightness</string>
+	<key>heapThroughInterpreter</key>
+	<string>publicMatrixSpacing</string>
+	<key>interpolationNearLayer</key>
+	<string>sinkStageTint</string>
+	<key>metadataAgainstWork</key>
+	<string>oldStatelessVisibility</string>
+	<key>movementViaJob</key>
+	<string>specifyCallbackState</string>
+	<key>previewModeRotation</key>
+	<string>displayableMethodOffset</string>
+	<key>textureDecoratorState</key>
+	<string>eagerScrollVisible</string>
+</dict>
+</plist>

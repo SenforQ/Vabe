@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAndFramework</key>
+	<string>menuScopeSkewx</string>
+	<key>completionPlatformContrast</key>
+	<string>liteStepMode</string>
+	<key>cycleMementoCenter</key>
+	<string>transformerProcessMode</string>
+	<key>fixedTabbarTheme</key>
+	<string>listenerThroughActivity</string>
+	<key>handlerAgainstVisitor</key>
+	<string>robustExceptionAlignment</string>
+	<key>positionNearActivity</key>
+	<string>baseMethodEdge</string>
+	<key>relationalBufferSkewy</key>
+	<string>reactiveStorageRotation</string>
+	<key>transitionOperationInteraction</key>
+	<string>exceptionFromFunction</string>
+</dict>
+</plist>

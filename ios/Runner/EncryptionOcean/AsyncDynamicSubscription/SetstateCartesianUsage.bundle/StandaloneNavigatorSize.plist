@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFromMediator</key>
+	<string>cellCommandCenter</string>
+	<key>catalystDuringState</key>
+	<string>symbolLevelSkewy</string>
+	<key>configurationNearShape</key>
+	<string>gridviewWorkFeedback</string>
+	<key>coordinatorBufferSpeed</key>
+	<string>interactorBeyondVariable</string>
+	<key>dependencyIncludeShape</key>
+	<string>repositoryDuringTier</string>
+	<key>loopFunctionRate</key>
+	<string>awaitDuringVisitor</string>
+	<key>modelExceptInterpreter</key>
+	<string>frameOfLayer</string>
+	<key>navigatorTypeType</key>
+	<string>configurationMediatorVisible</string>
+	<key>normalListenerDensity</key>
+	<string>bufferCompositeFeedback</string>
+	<key>unactivatedUnaryTop</key>
+	<string>greatButtonInteraction</string>
+</dict>
+</plist>

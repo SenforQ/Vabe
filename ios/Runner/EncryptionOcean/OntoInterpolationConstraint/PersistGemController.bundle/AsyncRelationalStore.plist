@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorVersusMode</key>
+	<string>brushForVar</string>
+	<key>constraintActivityVisibility</key>
+	<string>instructionChainSpacing</string>
+	<key>denseBoxshadowTag</key>
+	<string>priorityStageBorder</string>
+	<key>interpolationThroughValue</key>
+	<string>independentGradientType</string>
+	<key>kernelAsContext</key>
+	<string>binarySinceActivity</string>
+	<key>localAxisFormat</key>
+	<string>fragmentSinceBridge</string>
+	<key>segueStrategyTint</key>
+	<string>sliderInsideComposite</string>
+	<key>usedSpritePosition</key>
+	<string>semanticSegmentContrast</string>
+</dict>
+</plist>

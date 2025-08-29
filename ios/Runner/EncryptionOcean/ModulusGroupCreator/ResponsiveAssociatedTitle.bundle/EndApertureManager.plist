@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramUntilSingleton</key>
+	<string>intuitiveTimerVelocity</string>
+	<key>kernelUntilFunction</key>
+	<string>hashInterpreterVelocity</string>
+	<key>logarithmActivityVisible</key>
+	<string>statelessMonsterVisibility</string>
+	<key>nodeFormCount</key>
+	<string>permissiveChapterCoord</string>
+	<key>primaryModelDensity</key>
+	<string>enabledProviderDelay</string>
+	<key>sceneStructureType</key>
+	<string>topicScopeTop</string>
+	<key>statelessSizedboxBottom</key>
+	<string>reducerOutsideCommand</string>
+</dict>
+</plist>

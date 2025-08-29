@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedConstraintBottom</key>
+	<string>scaffoldObserverStyle</string>
+	<key>configurationAroundTask</key>
+	<string>serviceCycleBrightness</string>
+	<key>localizationMediatorFlags</key>
+	<string>cubitSingletonPosition</string>
+	<key>loopModeVisibility</key>
+	<string>transformerJobCount</string>
+	<key>operationScopeForce</key>
+	<string>intuitiveProgressbarHead</string>
+	<key>subtleLoopFlags</key>
+	<string>bufferParamShape</string>
+</dict>
+</plist>

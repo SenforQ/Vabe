@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableRectMargin</key>
+	<string>animatedcontainerStateInset</string>
+	<key>inkwellAgainstMediator</key>
+	<string>extensionInTier</string>
+	<key>pageviewViaStrategy</key>
+	<string>mediocreContainerSkewy</string>
+	<key>resourceBufferIndex</key>
+	<string>materialUtilOffset</string>
+	<key>signInPlatform</key>
+	<string>transitionParameterDensity</string>
+</dict>
+</plist>

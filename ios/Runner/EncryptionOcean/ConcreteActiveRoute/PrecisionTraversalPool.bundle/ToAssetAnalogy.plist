@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorVersusCycle</key>
+	<string>beginnerQueueVelocity</string>
+	<key>cursorPatternFlags</key>
+	<string>documentModeBottom</string>
+	<key>dynamicFactoryValidation</key>
+	<string>statelessWorkInteraction</string>
+	<key>factoryAlongMode</key>
+	<string>storageMementoInterval</string>
+	<key>persistentCurvePadding</key>
+	<string>alignmentCompositeAlignment</string>
+	<key>utilByState</key>
+	<string>customizedDependencyFrequency</string>
+</dict>
+</plist>

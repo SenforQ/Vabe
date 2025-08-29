@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStageStyle</key>
+	<string>animationSinceBuffer</string>
+	<key>coordinatorAroundMemento</key>
+	<string>scaffoldMediatorFlags</string>
+	<key>dialogsAtValue</key>
+	<string>chapterViaLayer</string>
+	<key>expandedAsFunction</key>
+	<string>prevStateStyle</string>
+	<key>presenterProcessStyle</key>
+	<string>stepActivitySpeed</string>
+	<key>sensorNumberPadding</key>
+	<string>sizeSingletonPosition</string>
+	<key>themeDespiteFlyweight</key>
+	<string>scaffoldSingletonHead</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAboutInterpreter</key>
+	<string>similarObserverSkewy</string>
+	<key>discardedBufferTag</key>
+	<string>isolateWithoutPlatform</string>
+	<key>dynamicSliderFrequency</key>
+	<string>gradientVersusFramework</string>
+	<key>errorViaPlatform</key>
+	<string>pivotalGramShape</string>
+	<key>pivotalPaddingForce</key>
+	<string>independentTextureFlags</string>
+	<key>typicalSliderSpeed</key>
+	<string>indicatorCompositeTop</string>
+</dict>
+</plist>

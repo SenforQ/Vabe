@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxVariableAppearance</key>
+	<string>concurrentMusicShape</string>
+	<key>containerMediatorFlags</key>
+	<string>screenPrototypeHue</string>
+	<key>enabledUtilFlags</key>
+	<string>disabledSignatureLeft</string>
+	<key>handlerStructureBehavior</key>
+	<string>indicatorStateDensity</string>
+	<key>ignoredGridOpacity</key>
+	<string>euclideanShaderFrequency</string>
+	<key>interactiveTabbarSkewx</key>
+	<string>exponentCompositeSize</string>
+	<key>lastToolTension</key>
+	<string>gesturedetectorShapeType</string>
+	<key>layoutParameterRotation</key>
+	<string>cacheCompositeDelay</string>
+	<key>queueAwayPlatform</key>
+	<string>riverpodStyleSaturation</string>
+	<key>timerShapeValidation</key>
+	<string>painterAsFramework</string>
+</dict>
+</plist>

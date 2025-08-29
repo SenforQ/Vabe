@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeThroughLevel</key>
+	<string>equipmentMethodShade</string>
+	<key>currentCallbackForce</key>
+	<string>enabledZoneLocation</string>
+	<key>materialAlphaEdge</key>
+	<string>spotStrategyEdge</string>
+	<key>nibBeyondParameter</key>
+	<string>storeAmongTier</string>
+</dict>
+</plist>

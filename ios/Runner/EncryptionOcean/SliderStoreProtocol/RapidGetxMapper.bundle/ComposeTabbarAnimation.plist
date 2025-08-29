@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDocumentPadding</key>
+	<string>easyRadiusRight</string>
+	<key>blocFromParameter</key>
+	<string>stepParamOpacity</string>
+	<key>capsuleBesideTemple</key>
+	<string>spineBesideContext</string>
+	<key>currentTitleCenter</key>
+	<string>singleTopicTheme</string>
+	<key>extensionFacadeValidation</key>
+	<string>functionalGradientName</string>
+	<key>mutableCapsuleMode</key>
+	<string>pivotalVectorDistance</string>
+	<key>nativeVariantInset</key>
+	<string>interactorWithStructure</string>
+	<key>singletonWithoutBridge</key>
+	<string>robustKernelLocation</string>
+</dict>
+</plist>

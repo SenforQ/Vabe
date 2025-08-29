@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDespiteChain</key>
+	<string>compositionViaFramework</string>
+	<key>decorationFunctionDelay</key>
+	<string>popupCompositeBorder</string>
+	<key>memberScopeEdge</key>
+	<string>mutableToolForce</string>
+	<key>mobileAllocatorKind</key>
+	<string>allocatorContainMemento</string>
+	<key>spriteInWork</key>
+	<string>intermediateNavigatorEdge</string>
+</dict>
+</plist>

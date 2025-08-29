@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterContainKind</key>
+	<string>sequentialLayoutScale</string>
+	<key>collectionParameterRate</key>
+	<string>overlayLikePlatform</string>
+	<key>cubitOutsideCycle</key>
+	<string>projectionVersusTask</string>
+	<key>geometricControllerBorder</key>
+	<string>mutableTabviewSpeed</string>
+	<key>modelStateContrast</key>
+	<string>observerSingletonSize</string>
+	<key>notifierAsAdapter</key>
+	<string>cosineModeStyle</string>
+	<key>pinchableDurationPadding</key>
+	<string>parallelScreenBorder</string>
+	<key>repositoryStageRotation</key>
+	<string>responseAroundStructure</string>
+	<key>resolverStructureCenter</key>
+	<string>routerAgainstLevel</string>
+	<key>substantialButtonForce</key>
+	<string>gemStyleLocation</string>
+</dict>
+</plist>

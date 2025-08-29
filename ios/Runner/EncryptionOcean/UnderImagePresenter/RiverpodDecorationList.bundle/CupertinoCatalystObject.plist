@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedRadioOrientation</key>
+	<string>standaloneTangentMode</string>
+	<key>managerAgainstBridge</key>
+	<string>sinkInterpreterValidation</string>
+	<key>nextCapacitiesTransparency</key>
+	<string>respectiveResultShade</string>
+	<key>optionLikeCycle</key>
+	<string>cubitActivityShade</string>
+	<key>pivotalHeapInset</key>
+	<string>sinkAgainstComposite</string>
+	<key>promiseNumberOpacity</key>
+	<string>semanticUnaryInteraction</string>
+</dict>
+</plist>

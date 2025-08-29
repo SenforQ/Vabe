@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameDuringParam</key>
+	<string>cubitFrameworkStyle</string>
+	<key>liteLogTail</key>
+	<string>segueScopeOpacity</string>
+	<key>numericalIndicatorShape</key>
+	<string>bufferShapeVisibility</string>
+</dict>
+</plist>

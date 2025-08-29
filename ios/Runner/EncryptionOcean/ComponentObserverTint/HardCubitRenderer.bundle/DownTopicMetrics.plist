@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperBesideVar</key>
+	<string>lastMissionMomentum</string>
+	<key>largeMarginRotation</key>
+	<string>inheritedNodeSpeed</string>
+	<key>layoutOutsideMemento</key>
+	<string>positionValueEdge</string>
+	<key>positionLikeParameter</key>
+	<string>sharedAnimationSaturation</string>
+	<key>presenterActivityTop</key>
+	<string>otherAlignmentShape</string>
+	<key>radiusAlongCommand</key>
+	<string>nextDecorationKind</string>
+	<key>smartCapsuleLocation</key>
+	<string>taskInMediator</string>
+</dict>
+</plist>

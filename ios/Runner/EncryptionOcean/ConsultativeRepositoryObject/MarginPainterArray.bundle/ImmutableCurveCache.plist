@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interfaceValueFlags</key>
+	<string>lazyMaterialName</string>
+	<key>observerInterpreterSaturation</key>
+	<string>disabledCaptionSkewx</string>
+	<key>storeTaskInteraction</key>
+	<string>storyboardVersusMemento</string>
+	<key>textfieldAmongParam</key>
+	<string>durationAboutStage</string>
+	<key>widgetMethodSpeed</key>
+	<string>lostGrainRate</string>
+</dict>
+</plist>

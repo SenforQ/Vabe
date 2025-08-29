@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousBlocAlignment</key>
+	<string>collectionChainTop</string>
+	<key>boxshadowKindVisible</key>
+	<string>featurePatternBehavior</string>
+	<key>rowStructureTransparency</key>
+	<string>entityExceptStructure</string>
+	<key>sessionDecoratorFlags</key>
+	<string>channelOrParameter</string>
+	<key>taskBeyondScope</key>
+	<string>heapNumberFrequency</string>
+	<key>workflowAlongStructure</key>
+	<string>semanticsBeyondBridge</string>
+</dict>
+</plist>

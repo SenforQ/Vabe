@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedChecklistColor</key>
+	<string>batchMethodResponse</string>
+	<key>handlerBufferStatus</key>
+	<string>capsuleAndSingleton</string>
+	<key>imageForProxy</key>
+	<string>nodeNearFlyweight</string>
+	<key>largeRemainderCount</key>
+	<string>positionedAmongBridge</string>
+	<key>mainLocalizationVelocity</key>
+	<string>gradientWithPlatform</string>
+	<key>normViaFacade</key>
+	<string>sliderCompositeDelay</string>
+	<key>resourceLikeForm</key>
+	<string>controllerStyleLocation</string>
+	<key>sizedboxActivityTension</key>
+	<string>borderTaskFeedback</string>
+	<key>symmetricServiceAppearance</key>
+	<string>futureTypeKind</string>
+</dict>
+</plist>

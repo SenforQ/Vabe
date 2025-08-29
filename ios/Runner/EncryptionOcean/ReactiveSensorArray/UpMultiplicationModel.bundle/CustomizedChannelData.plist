@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDelegateInterval</key>
+	<string>stackLevelShade</string>
+	<key>adaptiveHashCoord</key>
+	<string>usecaseLevelType</string>
+	<key>controllerAndScope</key>
+	<string>asyncLabelValidation</string>
+	<key>eagerAlertMargin</key>
+	<string>skirtObserverBehavior</string>
+	<key>flexibleUtilFrequency</key>
+	<string>scrollableProviderPosition</string>
+	<key>navigationBeyondStage</key>
+	<string>sustainableChapterKind</string>
+	<key>navigationChainInset</key>
+	<string>blocVersusSingleton</string>
+	<key>parallelBitrateBound</key>
+	<string>responsiveProviderDirection</string>
+	<key>queryStageInset</key>
+	<string>permanentAsyncDirection</string>
+	<key>vectorFlyweightAppearance</key>
+	<string>variantValueSize</string>
+</dict>
+</plist>

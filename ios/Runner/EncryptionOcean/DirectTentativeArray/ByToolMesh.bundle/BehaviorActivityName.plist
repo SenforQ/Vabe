@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateDespiteShape</key>
+	<string>blocUntilEnvironment</string>
+	<key>challengeOutsideMediator</key>
+	<string>presenterDespiteShape</string>
+	<key>completerContainState</key>
+	<string>graphicVersusWork</string>
+	<key>exceptionPlatformShape</key>
+	<string>hyperbolicControllerLocation</string>
+	<key>permissiveDurationStatus</key>
+	<string>mobileSinceBuffer</string>
+	<key>unsortedAccessoryAcceleration</key>
+	<string>errorPatternInterval</string>
+</dict>
+</plist>

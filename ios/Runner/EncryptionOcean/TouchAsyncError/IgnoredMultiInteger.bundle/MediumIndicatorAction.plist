@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTypeOffset</key>
+	<string>liteTimerOrigin</string>
+	<key>alignmentAroundInterpreter</key>
+	<string>tabviewPlatformSize</string>
+	<key>boxshadowFromProxy</key>
+	<string>smallIndicatorCenter</string>
+	<key>delegateAndComposite</key>
+	<string>normalPreviewFeedback</string>
+	<key>numericalWidgetAppearance</key>
+	<string>particleLevelTag</string>
+	<key>resourceStrategyColor</key>
+	<string>standaloneLayerValidation</string>
+	<key>semanticGradientTail</key>
+	<string>liteDependencySpeed</string>
+	<key>unsortedTopicDensity</key>
+	<string>durationParamOrigin</string>
+</dict>
+</plist>

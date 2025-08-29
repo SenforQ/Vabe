@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationContextPosition</key>
+	<string>nodeStageInteraction</string>
+	<key>effectFromParam</key>
+	<string>heroAdapterBottom</string>
+	<key>nodeDuringContext</key>
+	<string>commandSingletonDuration</string>
+	<key>queueVersusInterpreter</key>
+	<string>slashNearComposite</string>
+	<key>sizedboxOrSystem</key>
+	<string>titleWithoutForm</string>
+	<key>statelessDurationContrast</key>
+	<string>resizableSubscriptionAppearance</string>
+	<key>vectorVarInteraction</key>
+	<string>textureStageCoord</string>
+</dict>
+</plist>

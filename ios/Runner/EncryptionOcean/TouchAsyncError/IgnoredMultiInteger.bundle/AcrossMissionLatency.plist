@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeOperationAcceleration</key>
+	<string>grainAndLayer</string>
+	<key>fixedGrainBottom</key>
+	<string>providerAroundLevel</string>
+	<key>lastWidgetIndex</key>
+	<string>activatedBlocPressure</string>
+	<key>navigatorFacadeTransparency</key>
+	<string>dialogsInStrategy</string>
+</dict>
+</plist>

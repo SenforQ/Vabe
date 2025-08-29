@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorPrototypeCoord</key>
+	<string>entityLayerTint</string>
+	<key>deferredGraphValidation</key>
+	<string>radioWithPrototype</string>
+	<key>explicitMenuFlags</key>
+	<string>alertMementoShape</string>
+	<key>mediocreEventAlignment</key>
+	<string>cacheVersusCommand</string>
+	<key>menuStructureMode</key>
+	<string>intensityProxyVisibility</string>
+	<key>notificationViaCommand</key>
+	<string>tensorStorageOrientation</string>
+	<key>tabbarMediatorVisibility</key>
+	<string>iconAroundDecorator</string>
+</dict>
+</plist>

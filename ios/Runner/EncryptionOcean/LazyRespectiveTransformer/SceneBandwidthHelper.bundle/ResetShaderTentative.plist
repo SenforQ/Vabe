@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMethodStyle</key>
+	<string>captionActivityOpacity</string>
+	<key>collectionBufferInterval</key>
+	<string>providerCommandTransparency</string>
+	<key>consumerBridgeInterval</key>
+	<string>spriteValueIndex</string>
+	<key>controllerCompositeForce</key>
+	<string>customizedBufferColor</string>
+	<key>gesturedetectorInterpreterCount</key>
+	<string>seamlessStatelessFormat</string>
+	<key>newestFactoryDensity</key>
+	<string>buttonDecoratorScale</string>
+	<key>offsetActivityInteraction</key>
+	<string>operationParamStatus</string>
+	<key>rowNearMediator</key>
+	<string>gridviewAboutStructure</string>
+	<key>skinAlongVariable</key>
+	<string>factoryExceptLevel</string>
+	<key>transformerAlongBridge</key>
+	<string>unactivatedCellInset</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarMementoIndex</key>
+	<string>spriteLevelStyle</string>
+	<key>beginnerGemSpeed</key>
+	<string>responseStyleBehavior</string>
+	<key>gridviewPerCommand</key>
+	<string>sinkParameterStyle</string>
+	<key>independentNibRight</key>
+	<string>positionUntilState</string>
+	<key>intensityViaPhase</key>
+	<string>injectionActionPressure</string>
+	<key>opaqueBorderLeft</key>
+	<string>specifyServiceFlags</string>
+	<key>requestCommandSkewy</key>
+	<string>viewAndCommand</string>
+	<key>storageFormSize</key>
+	<string>scrollableResourceFeedback</string>
+	<key>taskParamDelay</key>
+	<string>pointBeyondMediator</string>
+</dict>
+</plist>

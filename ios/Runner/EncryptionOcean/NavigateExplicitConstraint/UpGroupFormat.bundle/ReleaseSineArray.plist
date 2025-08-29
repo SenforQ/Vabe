@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGradientBehavior</key>
+	<string>explicitCanvasShape</string>
+	<key>animationParameterEdge</key>
+	<string>smallTransformerVisible</string>
+	<key>groupMethodRotation</key>
+	<string>previewEnvironmentFlags</string>
+	<key>responseParamSaturation</key>
+	<string>draggableUsecaseKind</string>
+	<key>statefulExceptionTint</key>
+	<string>notifierBesideBridge</string>
+	<key>ternaryAroundFlyweight</key>
+	<string>missionNearCommand</string>
+</dict>
+</plist>

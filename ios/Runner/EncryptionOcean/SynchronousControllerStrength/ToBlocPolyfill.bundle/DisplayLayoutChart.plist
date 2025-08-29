@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowCommandVelocity</key>
+	<string>isolateJobFeedback</string>
+	<key>checklistVariableShade</key>
+	<string>capsuleOutsideVar</string>
+	<key>coordinatorAdapterRotation</key>
+	<string>cubitTierTint</string>
+	<key>criticalViewTransparency</key>
+	<string>observerStrategySaturation</string>
+	<key>eagerSpecifierLocation</key>
+	<string>firstEventFeedback</string>
+	<key>firstTransitionRate</key>
+	<string>featureSingletonVisibility</string>
+	<key>layoutSingletonCoord</key>
+	<string>assetFlyweightTransparency</string>
+	<key>missionCommandRotation</key>
+	<string>pivotalBatchMode</string>
+	<key>radioTierDelay</key>
+	<string>remainderViaProcess</string>
+	<key>stepAboutBuffer</key>
+	<string>queueThanMethod</string>
+</dict>
+</plist>

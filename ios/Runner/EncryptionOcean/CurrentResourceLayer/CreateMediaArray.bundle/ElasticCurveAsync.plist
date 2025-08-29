@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyDrawerInset</key>
+	<string>cupertinoViaType</string>
+	<key>grainTypeEdge</key>
+	<string>asyncStrategyRotation</string>
+	<key>materialNotificationInset</key>
+	<string>semanticsOfParam</string>
+	<key>positionedActionCount</key>
+	<string>optionObserverCount</string>
+	<key>subscriptionPerValue</key>
+	<string>typicalSubscriptionEdge</string>
+</dict>
+</plist>

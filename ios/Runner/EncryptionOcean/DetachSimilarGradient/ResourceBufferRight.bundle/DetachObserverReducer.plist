@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitProcessOpacity</key>
+	<string>accordionSliderDuration</string>
+	<key>featureFromLevel</key>
+	<string>standalonePopupOffset</string>
+	<key>gesturedetectorThanBridge</key>
+	<string>touchBeyondParameter</string>
+	<key>multiChannelsAlignment</key>
+	<string>frameTaskTag</string>
+	<key>stackUntilPattern</key>
+	<string>localizationOfParam</string>
+	<key>symmetricMediaTheme</key>
+	<string>smartPromiseTheme</string>
+</dict>
+</plist>

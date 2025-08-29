@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionActionTint</key>
+	<string>entropyPatternShade</string>
+	<key>chapterInterpreterMargin</key>
+	<string>layoutLikeNumber</string>
+	<key>lastInterfaceShape</key>
+	<string>capsuleInsideStage</string>
+	<key>observerSingletonAcceleration</key>
+	<string>granularThemeRotation</string>
+	<key>pinchableSingletonPressure</key>
+	<string>spotCycleSkewy</string>
+	<key>reductionOperationSkewy</key>
+	<string>canvasAtShape</string>
+</dict>
+</plist>

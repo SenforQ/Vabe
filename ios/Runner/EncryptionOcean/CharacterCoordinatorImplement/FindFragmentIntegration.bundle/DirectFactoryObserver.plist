@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSignResponse</key>
+	<string>serviceVersusKind</string>
+	<key>firstMissionBrightness</key>
+	<string>visibleResultVelocity</string>
+	<key>interpolationTierHue</key>
+	<string>canvasStagePadding</string>
+	<key>localizationSincePrototype</key>
+	<string>difficultPetOrigin</string>
+	<key>missedEntityColor</key>
+	<string>taskKindCount</string>
+	<key>prevScreenRotation</key>
+	<string>prismaticStoreRotation</string>
+	<key>prismaticRouteName</key>
+	<string>permissiveSpecifierName</string>
+	<key>signatureStructureFrequency</key>
+	<string>multiDimensionType</string>
+	<key>transformerParameterHead</key>
+	<string>gestureFlyweightShape</string>
+	<key>uniqueRoleTail</key>
+	<string>firstCanvasStyle</string>
+</dict>
+</plist>

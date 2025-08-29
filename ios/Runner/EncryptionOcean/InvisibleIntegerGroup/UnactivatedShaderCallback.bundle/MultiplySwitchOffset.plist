@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncWithoutTask</key>
+	<string>basicAnimationShade</string>
+	<key>coordinatorVersusShape</key>
+	<string>masterBesideDecorator</string>
+	<key>durationInterpreterMode</key>
+	<string>backwardViewSaturation</string>
+	<key>requestAroundStyle</key>
+	<string>eagerWidgetIndex</string>
+	<key>sizeStateSize</key>
+	<string>localPromiseRotation</string>
+	<key>tweenAlongType</key>
+	<string>pivotalIndicatorSkewy</string>
+</dict>
+</plist>

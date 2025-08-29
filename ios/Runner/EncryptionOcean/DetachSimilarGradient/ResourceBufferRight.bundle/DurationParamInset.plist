@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityOrParameter</key>
+	<string>managerPhaseRate</string>
+	<key>geometricTouchBottom</key>
+	<string>delicateTabviewPadding</string>
+	<key>normFlyweightRotation</key>
+	<string>explicitNodeStatus</string>
+	<key>publicStampFormat</key>
+	<string>primaryHeapVelocity</string>
+	<key>tabbarLevelBehavior</key>
+	<string>containerWorkRotation</string>
+</dict>
+</plist>

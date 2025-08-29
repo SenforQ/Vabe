@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackSingletonContrast</key>
+	<string>asynchronousSwiftEdge</string>
+	<key>completerIncludeSystem</key>
+	<string>draggableSpotBorder</string>
+	<key>compositionInsideTier</key>
+	<string>denseViewInteraction</string>
+	<key>enabledPageviewShade</key>
+	<string>cosineTierOrientation</string>
+	<key>hyperbolicAlignmentVelocity</key>
+	<string>taskIncludeForm</string>
+	<key>queueTempleBorder</key>
+	<string>channelAlongLevel</string>
+	<key>rolePerCommand</key>
+	<string>mediaByCommand</string>
+	<key>routerFromInterpreter</key>
+	<string>storageVarSkewx</string>
+	<key>significantSubpixelStatus</key>
+	<string>reductionVariableDepth</string>
+</dict>
+</plist>

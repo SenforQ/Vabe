@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushStyleTension</key>
+	<string>customTernaryOrigin</string>
+	<key>gridviewFromComposite</key>
+	<string>bufferThroughPlatform</string>
+	<key>localizationScopeOpacity</key>
+	<string>singletonNearValue</string>
+	<key>persistentTitleAppearance</key>
+	<string>intuitiveExpandedCount</string>
+	<key>protectedWidgetOffset</key>
+	<string>hardRowRight</string>
+</dict>
+</plist>

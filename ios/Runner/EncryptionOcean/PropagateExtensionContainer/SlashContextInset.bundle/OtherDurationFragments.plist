@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionLabelAppearance</key>
+	<string>catalystMethodBrightness</string>
+	<key>actionExceptContext</key>
+	<string>viewCommandDepth</string>
+	<key>actionKindCoord</key>
+	<string>sharedProviderBottom</string>
+	<key>difficultProgressbarSpacing</key>
+	<string>storageCommandDelay</string>
+	<key>fusedHeapBorder</key>
+	<string>seamlessSinkDepth</string>
+	<key>graphKindAlignment</key>
+	<string>sceneTaskName</string>
+	<key>inheritedChannelFlags</key>
+	<string>providerActivityHead</string>
+	<key>playbackSingletonFlags</key>
+	<string>progressbarNearLayer</string>
+	<key>storyboardOutsideParam</key>
+	<string>gramExceptSystem</string>
+</dict>
+</plist>

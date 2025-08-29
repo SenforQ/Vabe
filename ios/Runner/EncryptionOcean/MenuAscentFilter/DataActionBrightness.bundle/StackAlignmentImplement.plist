@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleStackStyle</key>
+	<string>switchSinceStage</string>
+	<key>constraintExceptStyle</key>
+	<string>buttonCycleIndex</string>
+	<key>featureInType</key>
+	<string>significantSingletonVisible</string>
+	<key>fixedConvolutionTint</key>
+	<string>associatedChartOrigin</string>
+	<key>missionAwayFlyweight</key>
+	<string>instructionNearParameter</string>
+	<key>responsiveInjectionVisible</key>
+	<string>appbarPlatformFeedback</string>
+	<key>sophisticatedQueryShade</key>
+	<string>statelessGramAlignment</string>
+	<key>statefulTierOrigin</key>
+	<string>sessionThanPhase</string>
+	<key>storeMediatorStatus</key>
+	<string>matrixChainForce</string>
+</dict>
+</plist>

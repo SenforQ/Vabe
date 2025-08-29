@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateMethodFrequency</key>
+	<string>interfaceOfCommand</string>
+	<key>ephemeralPresenterOffset</key>
+	<string>entityStyleBottom</string>
+	<key>euclideanBlocScale</key>
+	<string>lastBlocBrightness</string>
+	<key>localFlexSkewx</key>
+	<string>mutableManagerTension</string>
+	<key>loopEnvironmentSize</key>
+	<string>routeParamOpacity</string>
+	<key>mediaqueryPlatformBottom</key>
+	<string>switchOutsideShape</string>
+</dict>
+</plist>

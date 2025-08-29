@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStrategyFlags</key>
+	<string>explicitDialogsVisibility</string>
+	<key>autoMethodSpeed</key>
+	<string>textWithForm</string>
+	<key>controllerOrPattern</key>
+	<string>asynchronousLocalizationTransparency</string>
+	<key>curveMementoDepth</key>
+	<string>entityMediatorCount</string>
+	<key>fragmentBesideType</key>
+	<string>opaqueStepColor</string>
+	<key>gramFacadeHue</key>
+	<string>completerAroundJob</string>
+	<key>managerOfEnvironment</key>
+	<string>notifierPatternCenter</string>
+	<key>standaloneCheckboxScale</key>
+	<string>heroTaskBrightness</string>
+	<key>widgetWorkStatus</key>
+	<string>resilientAllocatorPosition</string>
+</dict>
+</plist>

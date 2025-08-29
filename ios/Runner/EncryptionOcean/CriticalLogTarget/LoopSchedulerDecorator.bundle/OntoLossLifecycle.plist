@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineIncludeCommand</key>
+	<string>custompaintThroughComposite</string>
+	<key>canvasFromFlyweight</key>
+	<string>radiusOfPattern</string>
+	<key>customTangentForce</key>
+	<string>elasticConfigurationCoord</string>
+	<key>exponentByTask</key>
+	<string>aspectratioCycleDepth</string>
+	<key>labelPlatformBrightness</key>
+	<string>rowAndTask</string>
+	<key>listenerParameterSpeed</key>
+	<string>inactiveScreenTension</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperAboutShape</key>
+	<string>currentSineFrequency</string>
+	<key>delegateDuringNumber</key>
+	<string>hyperbolicSubpixelPosition</string>
+	<key>durationVersusAdapter</key>
+	<string>inheritedSubpixelStatus</string>
+	<key>observerActivityAlignment</key>
+	<string>movementContextOpacity</string>
+	<key>previewDuringCycle</key>
+	<string>hierarchicalResourceFormat</string>
+	<key>responsiveOffsetBound</key>
+	<string>cupertinoEnvironmentIndex</string>
+	<key>semanticAwaitHead</key>
+	<string>alphaAsFacade</string>
+	<key>themeDuringCommand</key>
+	<string>metadataMementoMargin</string>
+</dict>
+</plist>

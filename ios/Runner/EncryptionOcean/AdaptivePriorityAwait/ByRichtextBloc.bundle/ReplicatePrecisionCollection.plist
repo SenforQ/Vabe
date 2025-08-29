@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCellAcceleration</key>
+	<string>riverpodBufferShape</string>
+	<key>associatedIsolateAcceleration</key>
+	<string>appbarFrameworkShade</string>
+	<key>asynchronousSubpixelTransparency</key>
+	<string>exceptionAlongCommand</string>
+	<key>bulletForStyle</key>
+	<string>widgetBufferAlignment</string>
+	<key>gridAsStage</key>
+	<string>interactorCycleBound</string>
+	<key>signatureNearSystem</key>
+	<string>progressbarMementoBehavior</string>
+	<key>sizeContextShade</key>
+	<string>overlayDecoratorInterval</string>
+	<key>sustainableSegmentAppearance</key>
+	<string>hyperbolicDurationVisible</string>
+	<key>topicSingletonTension</key>
+	<string>smallThreadHead</string>
+</dict>
+</plist>

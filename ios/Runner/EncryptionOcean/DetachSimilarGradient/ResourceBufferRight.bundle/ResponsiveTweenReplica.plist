@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityContainInterpreter</key>
+	<string>tappableSubscriptionVelocity</string>
+	<key>asyncUtilFrequency</key>
+	<string>dynamicChecklistOpacity</string>
+	<key>baselineTaskOffset</key>
+	<string>transformerFlyweightAlignment</string>
+	<key>builderLayerOpacity</key>
+	<string>fixedConsumerTransparency</string>
+	<key>checkboxScopeSkewy</key>
+	<string>fragmentActionMargin</string>
+	<key>expandedShapeState</key>
+	<string>usecaseContainLayer</string>
+	<key>optionChainVelocity</key>
+	<string>sinkAboutBridge</string>
+	<key>uniformExceptionDuration</key>
+	<string>interfaceOperationTop</string>
+</dict>
+</plist>

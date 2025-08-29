@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>framePatternOpacity</key>
+	<string>screenFrameworkLeft</string>
+	<key>interactorOfSingleton</key>
+	<string>routerBesideDecorator</string>
+	<key>mobilePerPlatform</key>
+	<string>capacitiesWithMethod</string>
+	<key>presenterDecoratorVisible</key>
+	<string>skirtUntilBridge</string>
+	<key>primaryServiceShade</key>
+	<string>routeActionState</string>
+	<key>progressbarObserverIndex</key>
+	<string>optionBufferSize</string>
+	<key>queryIncludeEnvironment</key>
+	<string>toolAwayStage</string>
+	<key>richtextBridgeRotation</key>
+	<string>futureTypeMomentum</string>
+</dict>
+</plist>

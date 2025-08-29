@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMultiplicationBehavior</key>
+	<string>ignoredNodeSpacing</string>
+	<key>composableRadiusDirection</key>
+	<string>publicToolInset</string>
+	<key>containerAlongAdapter</key>
+	<string>kernelPlatformTop</string>
+	<key>delegateStateBehavior</key>
+	<string>agileTopicRotation</string>
+	<key>functionalFutureFeedback</key>
+	<string>instructionAmongTask</string>
+	<key>immediateServiceKind</key>
+	<string>granularCompleterTag</string>
+	<key>interactorWithoutCommand</key>
+	<string>prismaticSwiftInterval</string>
+	<key>pivotalDurationCoord</key>
+	<string>coordinatorWorkBottom</string>
+	<key>requiredNotifierFeedback</key>
+	<string>futureActionAcceleration</string>
+</dict>
+</plist>

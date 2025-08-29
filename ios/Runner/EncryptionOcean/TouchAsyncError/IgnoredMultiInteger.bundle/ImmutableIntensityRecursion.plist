@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicParticleInterval</key>
+	<string>typicalTaskMargin</string>
+	<key>interfaceMementoAlignment</key>
+	<string>stateStructureHead</string>
+	<key>liteNavigatorRate</key>
+	<string>labelVariableOrientation</string>
+</dict>
+</plist>

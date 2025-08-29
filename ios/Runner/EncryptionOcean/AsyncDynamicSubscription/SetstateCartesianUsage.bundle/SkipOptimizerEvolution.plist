@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterOperationTransparency</key>
+	<string>uniqueRichtextSpacing</string>
+	<key>compositionalProfileDelay</key>
+	<string>sessionVersusTask</string>
+	<key>consumerFormRight</key>
+	<string>popupMementoTag</string>
+	<key>effectUntilContext</key>
+	<string>iconAtType</string>
+	<key>lostNavigatorForce</key>
+	<string>routeAsFacade</string>
+	<key>symmetricSessionMode</key>
+	<string>metadataAboutNumber</string>
+	<key>tweenOrMediator</key>
+	<string>serviceAlongFacade</string>
+</dict>
+</plist>

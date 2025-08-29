@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layerEnvironmentPadding</key>
+	<string>substantialInteractorAcceleration</string>
+	<key>sliderIncludeForm</key>
+	<string>chartVariableInterval</string>
+	<key>switchInterpreterDelay</key>
+	<string>basicChartRotation</string>
+	<key>switchNumberFormat</key>
+	<string>timerParameterInterval</string>
+	<key>uniqueHeroOrientation</key>
+	<string>secondCurveDelay</string>
+</dict>
+</plist>

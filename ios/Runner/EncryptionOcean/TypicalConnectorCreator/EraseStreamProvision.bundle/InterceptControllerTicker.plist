@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyFormContrast</key>
+	<string>hashFacadeContrast</string>
+	<key>dynamicGrayscaleFormat</key>
+	<string>crudeArithmeticCenter</string>
+	<key>featureWorkDirection</key>
+	<string>reusableStepMode</string>
+	<key>gesturedetectorForVariable</key>
+	<string>desktopAnchorSpeed</string>
+	<key>graphicLevelColor</key>
+	<string>sequentialZoneTag</string>
+	<key>kernelLevelSaturation</key>
+	<string>taskStageKind</string>
+	<key>listenerContainVar</key>
+	<string>layerAlongDecorator</string>
+	<key>sineCompositeVisibility</key>
+	<string>intermediateBuilderSpacing</string>
+	<key>statefulDecoratorTail</key>
+	<string>channelEnvironmentSkewx</string>
+</dict>
+</plist>

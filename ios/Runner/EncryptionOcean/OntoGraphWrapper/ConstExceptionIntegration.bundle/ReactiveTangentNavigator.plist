@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGroupFeedback</key>
+	<string>cartesianBatchBrightness</string>
+	<key>constraintAsVariable</key>
+	<string>buttonForFunction</string>
+	<key>listenerSinceVariable</key>
+	<string>particleDecoratorAcceleration</string>
+	<key>numericalCurveRate</key>
+	<string>normalRichtextTag</string>
+	<key>staticEventOpacity</key>
+	<string>characterLikeScope</string>
+	<key>timerActivitySpacing</key>
+	<string>textLevelTheme</string>
+</dict>
+</plist>

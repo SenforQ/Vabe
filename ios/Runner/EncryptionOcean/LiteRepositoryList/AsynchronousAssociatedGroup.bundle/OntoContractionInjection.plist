@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorUntilCycle</key>
+	<string>curveProcessCoord</string>
+	<key>catalystAtNumber</key>
+	<string>monsterContainComposite</string>
+	<key>delegateOfStage</key>
+	<string>cubeActionTint</string>
+	<key>isolateOperationBehavior</key>
+	<string>scaffoldCycleSize</string>
+	<key>opaqueInterfaceTint</key>
+	<string>streamVarName</string>
+	<key>priorityTypeInterval</key>
+	<string>ephemeralScaffoldShade</string>
+	<key>reactiveLogarithmTint</key>
+	<string>permanentSingletonScale</string>
+	<key>requestIncludeVisitor</key>
+	<string>durationUntilStyle</string>
+</dict>
+</plist>

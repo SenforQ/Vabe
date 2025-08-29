@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineTempleOffset</key>
+	<string>sharedGridInset</string>
+	<key>constraintAsOperation</key>
+	<string>mediocreGroupBound</string>
+	<key>invisibleObserverHue</key>
+	<string>deferredMediaqueryInteraction</string>
+	<key>nibTypeInset</key>
+	<string>getxStageOrientation</string>
+	<key>paddingSingletonPadding</key>
+	<string>groupParameterValidation</string>
+	<key>tabviewBridgeLeft</key>
+	<string>streamVisitorCenter</string>
+</dict>
+</plist>

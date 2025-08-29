@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertKindDensity</key>
+	<string>completerAgainstVisitor</string>
+	<key>boxAgainstVisitor</key>
+	<string>aspectForChain</string>
+	<key>diffableInstructionStatus</key>
+	<string>bufferLikeMediator</string>
+	<key>enabledGestureLocation</key>
+	<string>mediaTierFeedback</string>
+	<key>transitionValueResponse</key>
+	<string>modelShapeShade</string>
+</dict>
+</plist>

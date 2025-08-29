@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeBuilderShade</key>
+	<string>labelPerLevel</string>
+	<key>durationBeyondJob</key>
+	<string>lazyAspectSkewx</string>
+	<key>heroFlyweightFrequency</key>
+	<string>composablePreviewTag</string>
+	<key>singletonOutsideStyle</key>
+	<string>providerFormVisible</string>
+	<key>titleSystemShape</key>
+	<string>effectModeContrast</string>
+</dict>
+</plist>

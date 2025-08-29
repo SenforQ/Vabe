@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryIncludeEnvironment</key>
+	<string>otherConfigurationBrightness</string>
+	<key>axisAlongJob</key>
+	<string>groupProcessVisible</string>
+	<key>buttonStrategyOffset</key>
+	<string>cupertinoOfParameter</string>
+	<key>isolateOutsideComposite</key>
+	<string>enabledFramePressure</string>
+	<key>secondSignInterval</key>
+	<string>greatDelegateDistance</string>
+	<key>serviceScopeOrigin</key>
+	<string>multiplicationPhaseRight</string>
+	<key>usecaseOfFacade</key>
+	<string>easySegueRotation</string>
+</dict>
+</plist>

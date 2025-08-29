@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAgainstTask</key>
+	<string>cupertinoOrParameter</string>
+	<key>awaitTaskCoord</key>
+	<string>particleAroundMode</string>
+	<key>groupParamKind</key>
+	<string>mapAroundStrategy</string>
+	<key>observerChainInteraction</key>
+	<string>observerViaValue</string>
+	<key>screenOrMediator</key>
+	<string>bitrateOutsideProcess</string>
+	<key>shaderObserverAcceleration</key>
+	<string>concreteBuilderFeedback</string>
+	<key>similarMarginTop</key>
+	<string>statefulSystemDuration</string>
+	<key>transitionNearType</key>
+	<string>routerVersusEnvironment</string>
+	<key>widgetMementoMode</key>
+	<string>sinkAroundTier</string>
+</dict>
+</plist>

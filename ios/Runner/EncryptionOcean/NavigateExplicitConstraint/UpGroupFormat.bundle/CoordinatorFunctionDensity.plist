@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystEnvironmentType</key>
+	<string>grayscaleForFunction</string>
+	<key>graphShapeFeedback</key>
+	<string>framePerSystem</string>
+	<key>inheritedSampleBound</key>
+	<string>difficultResponseKind</string>
+	<key>intuitiveConsumerSpeed</key>
+	<string>declarativeLocalizationPosition</string>
+	<key>primaryCompleterContrast</key>
+	<string>utilBesideWork</string>
+	<key>prismaticSymbolSpeed</key>
+	<string>eagerCoordinatorValidation</string>
+	<key>progressbarJobBehavior</key>
+	<string>intermediateManagerTheme</string>
+	<key>providerFromJob</key>
+	<string>clipperFlyweightMargin</string>
+</dict>
+</plist>

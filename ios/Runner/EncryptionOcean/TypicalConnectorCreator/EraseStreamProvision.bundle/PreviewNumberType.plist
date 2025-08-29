@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileExpandedInterval</key>
+	<string>precisionSingletonFeedback</string>
+	<key>mobxOutsideKind</key>
+	<string>cubitMementoVisibility</string>
+	<key>nodeWithProcess</key>
+	<string>concurrentCubitAcceleration</string>
+	<key>routeAlongParameter</key>
+	<string>viewProxyAlignment</string>
+	<key>symmetricZonePadding</key>
+	<string>viewUntilPrototype</string>
+</dict>
+</plist>

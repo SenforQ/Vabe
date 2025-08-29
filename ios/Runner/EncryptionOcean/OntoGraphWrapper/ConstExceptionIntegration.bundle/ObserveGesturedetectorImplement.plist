@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasForPhase</key>
+	<string>bufferOperationMomentum</string>
+	<key>globalLocalizationEdge</key>
+	<string>disabledReductionForce</string>
+	<key>largeQueryRotation</key>
+	<string>musicVarRate</string>
+	<key>missedDelegatePadding</key>
+	<string>menuOperationPadding</string>
+	<key>routePrototypeSize</key>
+	<string>petWithoutBuffer</string>
+</dict>
+</plist>

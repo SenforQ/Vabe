@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBridgeBrightness</key>
+	<string>nodeVarResponse</string>
+	<key>declarativeShaderVisibility</key>
+	<string>labelAwayBuffer</string>
+	<key>managerExceptBuffer</key>
+	<string>pageviewCommandSpacing</string>
+	<key>uniformScaleSpeed</key>
+	<string>radiusLayerOffset</string>
+</dict>
+</plist>

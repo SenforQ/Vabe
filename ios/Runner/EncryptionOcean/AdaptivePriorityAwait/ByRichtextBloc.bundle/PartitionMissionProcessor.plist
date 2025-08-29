@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsLevelCenter</key>
+	<string>hierarchicalButtonHead</string>
+	<key>intuitiveChecklistPadding</key>
+	<string>imageDecoratorPadding</string>
+	<key>subscriptionContextTransparency</key>
+	<string>streamBufferName</string>
+	<key>titleTierColor</key>
+	<string>textOutsideValue</string>
+	<key>unaryObserverCount</key>
+	<string>gridBridgeLeft</string>
+</dict>
+</plist>

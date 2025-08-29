@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPhaseFeedback</key>
+	<string>alignmentPlatformVisible</string>
+	<key>buttonStructureBorder</key>
+	<string>slashFormOpacity</string>
+	<key>checkboxVariableBorder</key>
+	<string>sliderOperationDuration</string>
+	<key>cursorTaskVisible</key>
+	<string>scrollableTransformerTheme</string>
+	<key>curveTempleTop</key>
+	<string>methodBridgeSpacing</string>
+	<key>eagerEquipmentAppearance</key>
+	<string>precisionThroughScope</string>
+	<key>positionTempleRotation</key>
+	<string>sophisticatedControllerHead</string>
+	<key>riverpodStructureState</key>
+	<string>multiplicationVarBehavior</string>
+	<key>spotProxyBehavior</key>
+	<string>stampPerStage</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionInterpreterDepth</key>
+	<string>respectiveMultiplicationTransparency</string>
+	<key>interactiveScrollSkewy</key>
+	<string>paddingChainRotation</string>
+	<key>specifyPreviewOffset</key>
+	<string>integerByPattern</string>
+</dict>
+</plist>

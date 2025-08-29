@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorCommandFlags</key>
+	<string>globalCallbackDirection</string>
+	<key>blocAmongShape</key>
+	<string>nodeStyleTop</string>
+	<key>methodExceptStyle</key>
+	<string>spriteFrameworkBound</string>
+	<key>positionedAwayFramework</key>
+	<string>significantStoreType</string>
+	<key>unactivatedDelegateTint</key>
+	<string>sliderTypeIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicActionAcceleration</key>
+	<string>collectionTaskOrigin</string>
+	<key>dialogsAroundPattern</key>
+	<string>clipperThroughMode</string>
+	<key>directlyGesturedetectorContrast</key>
+	<string>overlayBufferHue</string>
+	<key>fixedLossIndex</key>
+	<string>tangentOperationInteraction</string>
+	<key>heapWithoutEnvironment</key>
+	<string>skirtExceptComposite</string>
+	<key>interactiveInteractorRotation</key>
+	<string>opaqueRouteOpacity</string>
+	<key>listviewLikeInterpreter</key>
+	<string>specifierContainForm</string>
+	<key>multiResourceName</key>
+	<string>precisionWithState</string>
+	<key>toolAwayProxy</key>
+	<string>protectedBlocPosition</string>
+</dict>
+</plist>

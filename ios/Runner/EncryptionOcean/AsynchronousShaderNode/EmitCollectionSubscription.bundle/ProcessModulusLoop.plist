@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionKindDistance</key>
+	<string>aspectratioNearPattern</string>
+	<key>interactorChainScale</key>
+	<string>scrollStageAcceleration</string>
+	<key>interpolationViaForm</key>
+	<string>advancedLocalizationMomentum</string>
+	<key>popupChainOrigin</key>
+	<string>reusableCubitValidation</string>
+	<key>protectedPreviewLeft</key>
+	<string>sortedMultiplicationVisible</string>
+	<key>semanticExtensionLeft</key>
+	<string>globalDurationTheme</string>
+</dict>
+</plist>

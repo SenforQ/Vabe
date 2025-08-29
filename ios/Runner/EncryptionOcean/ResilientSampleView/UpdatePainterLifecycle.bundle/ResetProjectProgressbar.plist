@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitBehaviorHead</key>
+	<string>eventAsParam</string>
+	<key>injectionFrameworkCount</key>
+	<string>unaryPatternRate</string>
+	<key>sceneAndSystem</key>
+	<string>prevTransitionBottom</string>
+	<key>timerVersusProxy</key>
+	<string>shaderVersusOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorChainTransparency</key>
+	<string>navigatorBeyondOperation</string>
+	<key>fixedHashVisibility</key>
+	<string>remainderWithAction</string>
+	<key>metadataFromFlyweight</key>
+	<string>interactiveDocumentAppearance</string>
+	<key>navigatorMethodResponse</key>
+	<string>hashAroundPlatform</string>
+	<key>referenceOutsideProxy</key>
+	<string>operationCycleFormat</string>
+	<key>sensorProxyVisibility</key>
+	<string>queueBridgeVelocity</string>
+	<key>tweenCycleOrientation</key>
+	<string>chartChainBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleModalMomentum</key>
+	<string>integerActivityOpacity</string>
+	<key>animationPrototypeDuration</key>
+	<string>ternaryMediatorVisibility</string>
+	<key>coordinatorThroughPrototype</key>
+	<string>titleKindSaturation</string>
+	<key>cubitMediatorDistance</key>
+	<string>statefulWorkSpacing</string>
+	<key>dependencyAdapterDepth</key>
+	<string>nodeStructureSkewx</string>
+	<key>durationShapeRotation</key>
+	<string>riverpodCommandOrigin</string>
+	<key>fusedBasePadding</key>
+	<string>providerBeyondVisitor</string>
+	<key>singletonKindVelocity</key>
+	<string>isolateLevelAppearance</string>
+	<key>textLevelBound</key>
+	<string>priorityModeSize</string>
+</dict>
+</plist>

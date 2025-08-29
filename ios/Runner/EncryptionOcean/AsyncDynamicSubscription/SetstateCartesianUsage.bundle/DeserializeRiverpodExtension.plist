@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorFormEdge</key>
+	<string>channelsFlyweightType</string>
+	<key>allocatorThroughCommand</key>
+	<string>blocVersusSingleton</string>
+	<key>compositionProcessCenter</key>
+	<string>metadataAboutProcess</string>
+	<key>dialogsAlongMediator</key>
+	<string>opaqueChartScale</string>
+	<key>textSinceFacade</key>
+	<string>stateWithMemento</string>
+</dict>
+</plist>

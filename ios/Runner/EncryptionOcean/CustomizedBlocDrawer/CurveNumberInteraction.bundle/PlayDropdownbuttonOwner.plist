@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardProjectBehavior</key>
+	<string>playbackStrategyOpacity</string>
+	<key>crucialGroupPressure</key>
+	<string>modalDuringFacade</string>
+	<key>delegateObserverTag</key>
+	<string>disabledCheckboxDelay</string>
+	<key>descriptionMediatorResponse</key>
+	<string>materialParameterCount</string>
+	<key>gestureFromMemento</key>
+	<string>specifyCatalystRight</string>
+	<key>marginPerStyle</key>
+	<string>plateSinceType</string>
+	<key>stateUntilProcess</key>
+	<string>buttonFunctionShade</string>
+</dict>
+</plist>

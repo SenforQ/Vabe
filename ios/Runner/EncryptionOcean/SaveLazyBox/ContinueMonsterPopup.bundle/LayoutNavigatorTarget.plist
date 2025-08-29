@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOfLevel</key>
+	<string>numericalColumnFormat</string>
+	<key>dropdownbuttonModeAlignment</key>
+	<string>featureAsSingleton</string>
+	<key>inkwellObserverPressure</key>
+	<string>textInVar</string>
+	<key>interpolationStructureDirection</key>
+	<string>mobileFacadeSpeed</string>
+	<key>managerContainContext</key>
+	<string>smartButtonAlignment</string>
+	<key>reactivePositionDirection</key>
+	<string>rapidListenerVisibility</string>
+	<key>reusableVariantScale</key>
+	<string>subpixelKindOffset</string>
+	<key>textfieldPlatformBottom</key>
+	<string>threadStateContrast</string>
+</dict>
+</plist>

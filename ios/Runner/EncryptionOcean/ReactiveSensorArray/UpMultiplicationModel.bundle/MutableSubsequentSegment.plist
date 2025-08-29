@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCapsuleDelay</key>
+	<string>interpolationProxyPosition</string>
+	<key>grainBufferCount</key>
+	<string>managerCycleVelocity</string>
+	<key>resilientDelegateTag</key>
+	<string>specifierAdapterPressure</string>
+	<key>taskWithoutEnvironment</key>
+	<string>priorityCycleDuration</string>
+	<key>viewTempleAppearance</key>
+	<string>transitionSystemType</string>
+</dict>
+</plist>

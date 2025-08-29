@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarActivityOffset</key>
+	<string>typicalDependencyInset</string>
+	<key>cosineModeSpacing</key>
+	<string>futureTierTransparency</string>
+	<key>elasticObserverSpacing</key>
+	<string>largeAlignmentVelocity</string>
+	<key>futureActionBorder</key>
+	<string>directlyDecorationColor</string>
+	<key>responsiveResourceForce</key>
+	<string>queryPhaseVisibility</string>
+	<key>tweenSinceProcess</key>
+	<string>spriteAtVariable</string>
+</dict>
+</plist>

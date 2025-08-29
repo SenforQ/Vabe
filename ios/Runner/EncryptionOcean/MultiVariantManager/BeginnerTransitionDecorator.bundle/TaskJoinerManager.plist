@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarInterpreterBehavior</key>
+	<string>slashProcessStatus</string>
+	<key>curveCommandLocation</key>
+	<string>otherWidgetDensity</string>
+	<key>exceptionParamTag</key>
+	<string>scrollableAlphaDensity</string>
+	<key>parallelWidgetLeft</key>
+	<string>notificationObserverColor</string>
+	<key>unactivatedOperationInteraction</key>
+	<string>threadFlyweightDuration</string>
+</dict>
+</plist>

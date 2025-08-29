@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAgainstCycle</key>
+	<string>reusablePointIndex</string>
+	<key>containerFormOffset</key>
+	<string>disabledEffectCenter</string>
+	<key>mobileExceptStage</key>
+	<string>routeTaskRight</string>
+	<key>responseAtTier</key>
+	<string>parallelBinaryDelay</string>
+	<key>stackValueResponse</key>
+	<string>newestCompleterCoord</string>
+	<key>storeFacadeFrequency</key>
+	<string>primarySubscriptionSpeed</string>
+	<key>tappableLabelInset</key>
+	<string>animationUntilMode</string>
+</dict>
+</plist>

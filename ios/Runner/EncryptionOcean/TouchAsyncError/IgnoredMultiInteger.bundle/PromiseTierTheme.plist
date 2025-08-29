@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystCommandTheme</key>
+	<string>resizableChallengeBound</string>
+	<key>chapterByObserver</key>
+	<string>ephemeralPresenterTag</string>
+	<key>commandContainObserver</key>
+	<string>persistentAxisInteraction</string>
+	<key>graphIncludeProcess</key>
+	<string>managerNearStyle</string>
+	<key>profileVersusLevel</key>
+	<string>mobxInDecorator</string>
+	<key>queryWithoutProxy</key>
+	<string>globalDurationSkewy</string>
+	<key>roleScopeSpacing</key>
+	<string>behaviorFormOffset</string>
+	<key>textAroundAction</key>
+	<string>notifierThanPlatform</string>
+	<key>transitionTypeType</key>
+	<string>liteUtilStatus</string>
+</dict>
+</plist>

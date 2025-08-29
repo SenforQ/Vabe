@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStateBottom</key>
+	<string>loopForStage</string>
+	<key>draggableImageRotation</key>
+	<string>inkwellProxySpacing</string>
+	<key>inheritedResultState</key>
+	<string>constStorageSize</string>
+	<key>paddingTaskShape</key>
+	<string>borderValueDelay</string>
+	<key>segueExceptBuffer</key>
+	<string>variantOrType</string>
+	<key>sizedboxUntilParam</key>
+	<string>channelAboutScope</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerLevelOpacity</key>
+	<string>compositionalChannelStyle</string>
+	<key>errorMediatorScale</key>
+	<string>ternaryInMemento</string>
+	<key>gestureNumberSkewy</key>
+	<string>themeProxyBrightness</string>
+	<key>mobileWorkflowIndex</key>
+	<string>entropyKindValidation</string>
+	<key>resizableObserverFlags</key>
+	<string>unactivatedBatchDelay</string>
+	<key>skinCycleFlags</key>
+	<string>commonMasterVisibility</string>
+	<key>stateFrameworkKind</key>
+	<string>requestVisitorTint</string>
+</dict>
+</plist>

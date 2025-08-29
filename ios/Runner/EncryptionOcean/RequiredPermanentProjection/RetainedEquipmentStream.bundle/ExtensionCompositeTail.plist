@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalFrameSize</key>
+	<string>binaryStatePressure</string>
+	<key>customLabelSpacing</key>
+	<string>cupertinoDescriptionEdge</string>
+	<key>listenerAroundBridge</key>
+	<string>completerOfForm</string>
+	<key>mediocreLabelRight</key>
+	<string>alphaVisitorOffset</string>
+	<key>widgetAdapterState</key>
+	<string>imageInComposite</string>
+</dict>
+</plist>

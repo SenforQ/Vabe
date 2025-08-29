@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalProjectFormat</key>
+	<string>timerAndPrototype</string>
+	<key>cubitPatternTop</key>
+	<string>featureShapeCoord</string>
+	<key>intensityJobAlignment</key>
+	<string>sizeLayerLocation</string>
+	<key>listenerPhaseMode</key>
+	<string>textSingletonVisible</string>
+	<key>normalLayerTheme</key>
+	<string>semanticsFrameworkAppearance</string>
+	<key>radioAndStage</key>
+	<string>baseLikeType</string>
+	<key>radioByPattern</key>
+	<string>sliderCompositeFlags</string>
+	<key>screenByType</key>
+	<string>variantWithState</string>
+	<key>signInsideStrategy</key>
+	<string>modelOfPlatform</string>
+</dict>
+</plist>

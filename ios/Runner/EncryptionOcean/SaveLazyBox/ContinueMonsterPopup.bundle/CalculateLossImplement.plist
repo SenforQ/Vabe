@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardLogBrightness</key>
+	<string>customizedOffsetForce</string>
+	<key>completionAdapterSpeed</key>
+	<string>customizedMovementDuration</string>
+	<key>consumerSinceBridge</key>
+	<string>animationAlongSingleton</string>
+	<key>difficultDurationColor</key>
+	<string>disabledUsageRotation</string>
+	<key>flexibleLabelVelocity</key>
+	<string>asyncByBuffer</string>
+	<key>promiseDecoratorForce</key>
+	<string>singletonSinceStyle</string>
+	<key>protocolLikeAdapter</key>
+	<string>unaryFromFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerFrameworkTint</key>
+	<string>reductionContainPhase</string>
+	<key>granularChecklistName</key>
+	<string>accessibleProfileOrigin</string>
+	<key>isolateExceptFramework</key>
+	<string>animationOrEnvironment</string>
+	<key>rapidNavigatorMode</key>
+	<string>nextCurveEdge</string>
+	<key>sinkAndVariable</key>
+	<string>significantContainerRotation</string>
+</dict>
+</plist>

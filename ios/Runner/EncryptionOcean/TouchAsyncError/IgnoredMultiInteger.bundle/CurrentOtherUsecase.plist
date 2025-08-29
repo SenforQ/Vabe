@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioFlyweightOpacity</key>
+	<string>petDecoratorBorder</string>
+	<key>inkwellVersusStage</key>
+	<string>dependencyObserverOrientation</string>
+	<key>seamlessCupertinoContrast</key>
+	<string>sliderAmongChain</string>
+	<key>statelessAnimationTint</key>
+	<string>baseUntilParameter</string>
+	<key>stepThroughEnvironment</key>
+	<string>transitionModeSize</string>
+</dict>
+</plist>

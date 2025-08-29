@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudePresenterValidation</key>
+	<string>iterativeNormFlags</string>
+	<key>effectFlyweightRight</key>
+	<string>secondQueryShade</string>
+	<key>elasticSubpixelKind</key>
+	<string>disabledWidgetDuration</string>
+	<key>ignoredRowSpacing</key>
+	<string>loopAndShape</string>
+	<key>inkwellVisitorHead</key>
+	<string>discardedControllerDepth</string>
+	<key>layoutStrategyDepth</key>
+	<string>disabledLayerAlignment</string>
+	<key>queryCycleBorder</key>
+	<string>dynamicGramTail</string>
+	<key>routeKindBottom</key>
+	<string>bufferUntilPattern</string>
+	<key>standaloneNavigatorFlags</key>
+	<string>awaitJobPadding</string>
+</dict>
+</plist>

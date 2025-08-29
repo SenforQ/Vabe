@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerPerBridge</key>
+	<string>deferredTangentMode</string>
+	<key>elasticAwaitAlignment</key>
+	<string>specifySegmentIndex</string>
+	<key>futureTierOrientation</key>
+	<string>tickerStyleDensity</string>
+	<key>graphAsStyle</key>
+	<string>temporaryScrollSkewy</string>
+	<key>positionAboutPattern</key>
+	<string>lazyEquipmentSpeed</string>
+	<key>resultStyleBrightness</key>
+	<string>globalVariantCount</string>
+	<key>robustBatchTint</key>
+	<string>entropyStyleVisible</string>
+	<key>symbolContextOffset</key>
+	<string>uniformInterpolationVisible</string>
+	<key>uniformInterpolationFormat</key>
+	<string>groupStageTail</string>
+	<key>unsortedChecklistDensity</key>
+	<string>newestSampleSpacing</string>
+</dict>
+</plist>

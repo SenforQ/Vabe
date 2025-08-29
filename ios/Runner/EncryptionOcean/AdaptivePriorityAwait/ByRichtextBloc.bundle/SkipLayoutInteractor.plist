@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFromStructure</key>
+	<string>flexibleInteractorSkewx</string>
+	<key>delegateThanStyle</key>
+	<string>fusedDelegateHead</string>
+	<key>managerInsideInterpreter</key>
+	<string>managerFrameworkVisible</string>
+	<key>resilientActionVisible</key>
+	<string>agileCallbackOrientation</string>
+</dict>
+</plist>

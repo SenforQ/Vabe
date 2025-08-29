@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackStructureSkewx</key>
+	<string>tabviewVarVisible</string>
+	<key>collectionInProcess</key>
+	<string>interactorSystemOrientation</string>
+	<key>decorationPerTask</key>
+	<string>localizationOutsideInterpreter</string>
+	<key>elasticEntitySkewy</key>
+	<string>requestBeyondValue</string>
+	<key>interfaceAndChain</key>
+	<string>overlayInPattern</string>
+	<key>largeWidgetRotation</key>
+	<string>similarCompositionVelocity</string>
+	<key>metadataWorkBorder</key>
+	<string>managerOfCommand</string>
+	<key>permissiveNavigatorTint</key>
+	<string>firstEntityAlignment</string>
+	<key>resolverPlatformLocation</key>
+	<string>subscriptionContextIndex</string>
+</dict>
+</plist>

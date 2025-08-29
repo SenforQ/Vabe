@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSceneTheme</key>
+	<string>pivotalSemanticsMode</string>
+	<key>advancedProviderColor</key>
+	<string>interactorAboutSingleton</string>
+	<key>commonFutureAcceleration</key>
+	<string>futureSingletonOrientation</string>
+	<key>controllerEnvironmentValidation</key>
+	<string>richtextThroughJob</string>
+	<key>declarativeButtonShape</key>
+	<string>multiLabelForce</string>
+	<key>radioBeyondEnvironment</key>
+	<string>getxActionAppearance</string>
+	<key>transitionPerAdapter</key>
+	<string>columnAsBuffer</string>
+</dict>
+</plist>

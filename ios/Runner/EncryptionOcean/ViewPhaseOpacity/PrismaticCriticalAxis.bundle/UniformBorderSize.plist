@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalQueueCenter</key>
+	<string>temporaryStreamBrightness</string>
+	<key>firstSkirtBound</key>
+	<string>optimizerProcessBorder</string>
+	<key>reusableRadiusVelocity</key>
+	<string>publicNavigatorColor</string>
+	<key>smallBoxshadowTop</key>
+	<string>flexibleProgressbarRotation</string>
+	<key>subtleMenuSkewx</key>
+	<string>resultAtCommand</string>
+	<key>transitionAtPattern</key>
+	<string>activatedAppbarType</string>
+</dict>
+</plist>

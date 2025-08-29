@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartOfCycle</key>
+	<string>gridviewValueEdge</string>
+	<key>gestureNumberStyle</key>
+	<string>diffableChartStatus</string>
+	<key>immutableCurveVelocity</key>
+	<string>widgetSingletonFrequency</string>
+	<key>navigatorWithoutCommand</key>
+	<string>intensityNearProcess</string>
+	<key>otherModelRotation</key>
+	<string>providerSinceParameter</string>
+	<key>sequentialBlocInset</key>
+	<string>overlayFlyweightInteraction</string>
+	<key>singleTimerState</key>
+	<string>consultativeRouteInteraction</string>
+	<key>titleBeyondPattern</key>
+	<string>normalLocalizationInset</string>
+	<key>zoneActionTint</key>
+	<string>ephemeralLocalizationTension</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAsParam</key>
+	<string>transitionSinceLevel</string>
+	<key>blocCompositeHue</key>
+	<string>standaloneGestureCount</string>
+	<key>callbackPatternTop</key>
+	<string>blocActionLeft</string>
+	<key>containerFacadeMode</key>
+	<string>taskContainScope</string>
+	<key>scrollStructureRate</key>
+	<string>mapTierAlignment</string>
+	<key>sliderContextMargin</key>
+	<string>notifierForPlatform</string>
+</dict>
+</plist>

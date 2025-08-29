@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetWithoutMode</key>
+	<string>diffableDecorationValidation</string>
+	<key>binaryDecoratorAppearance</key>
+	<string>groupCycleSaturation</string>
+	<key>builderWorkTheme</key>
+	<string>usedAlignmentState</string>
+	<key>coordinatorStrategyTransparency</key>
+	<string>cubitOfCommand</string>
+	<key>menuParamAppearance</key>
+	<string>integerNumberOrientation</string>
+	<key>transitionContextBehavior</key>
+	<string>composableCubitKind</string>
+</dict>
+</plist>

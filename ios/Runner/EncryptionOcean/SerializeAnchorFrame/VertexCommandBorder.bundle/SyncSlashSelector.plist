@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPrototypeRight</key>
+	<string>kernelNumberSpacing</string>
+	<key>boxshadowStructureAppearance</key>
+	<string>crudeCommandTop</string>
+	<key>completerSingletonName</key>
+	<string>descriptionWithoutMethod</string>
+	<key>containerStructureShape</key>
+	<string>listenerPatternRight</string>
+	<key>euclideanChartBehavior</key>
+	<string>customInteractorRotation</string>
+	<key>previewPlatformName</key>
+	<string>boxshadowSingletonInset</string>
+	<key>projectStateAppearance</key>
+	<string>futureCommandVelocity</string>
+	<key>routeThroughProxy</key>
+	<string>durationViaCommand</string>
+	<key>tickerBridgeInterval</key>
+	<string>widgetProxyVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitStructureTint</key>
+	<string>providerFromKind</string>
+	<key>directlyOperationOrigin</key>
+	<string>titleCommandRight</string>
+	<key>movementByBridge</key>
+	<string>routeUntilCommand</string>
+	<key>nibVarHead</key>
+	<string>mainDelegateOrigin</string>
+	<key>spriteJobTransparency</key>
+	<string>nibChainCount</string>
+	<key>tabbarAndSingleton</key>
+	<string>numericalHistogramPressure</string>
+</dict>
+</plist>

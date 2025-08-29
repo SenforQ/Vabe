@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>popupEnvironmentStyle</key>
+	<string>blocDuringStyle</string>
+	<key>segueBesideActivity</key>
+	<string>factoryOutsideState</string>
+	<key>statefulGemStyle</key>
+	<string>numericalDependencyVelocity</string>
+	<key>streamProcessTransparency</key>
+	<string>immediateThemeIndex</string>
+	<key>zoneOperationEdge</key>
+	<string>kernelProxySkewx</string>
+</dict>
+</plist>

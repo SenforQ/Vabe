@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionDecoratorInset</key>
+	<string>queryVersusKind</string>
+	<key>layerAndLevel</key>
+	<string>radioWithObserver</string>
+	<key>parallelChapterFeedback</key>
+	<string>animatedListviewScale</string>
+	<key>statelessRemainderOpacity</key>
+	<string>paddingTierFlags</string>
+</dict>
+</plist>

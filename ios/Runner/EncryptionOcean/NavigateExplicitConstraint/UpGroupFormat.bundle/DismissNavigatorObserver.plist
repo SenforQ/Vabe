@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionAlongBridge</key>
+	<string>swiftOrPrototype</string>
+	<key>dependencyOrShape</key>
+	<string>mediaOutsidePlatform</string>
+	<key>promiseAtStructure</key>
+	<string>resultCommandPosition</string>
+	<key>rowParamSpacing</key>
+	<string>vectorFlyweightOpacity</string>
+	<key>sizeAgainstParam</key>
+	<string>containerPrototypeSaturation</string>
+	<key>statelessHandlerRotation</key>
+	<string>accessibleDimensionOrigin</string>
+</dict>
+</plist>

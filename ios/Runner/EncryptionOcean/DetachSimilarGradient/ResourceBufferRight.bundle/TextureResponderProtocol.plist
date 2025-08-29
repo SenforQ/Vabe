@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerCompositeBrightness</key>
+	<string>opaqueGrainInteraction</string>
+	<key>effectInsideOperation</key>
+	<string>symbolPatternScale</string>
+	<key>petShapeOrientation</key>
+	<string>cupertinoAndMediator</string>
+	<key>progressbarSinceStyle</key>
+	<string>cartesianCubitColor</string>
+	<key>resolverCompositeTension</key>
+	<string>priorLoopVisible</string>
+</dict>
+</plist>

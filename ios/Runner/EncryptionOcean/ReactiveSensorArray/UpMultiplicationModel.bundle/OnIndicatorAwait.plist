@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedPlaybackType</key>
+	<string>desktopStoryboardPadding</string>
+	<key>checklistWithStage</key>
+	<string>activatedChapterCount</string>
+	<key>completionByPattern</key>
+	<string>modulusModeAcceleration</string>
+	<key>cursorAndMethod</key>
+	<string>subscriptionUntilBuffer</string>
+	<key>effectSingletonTransparency</key>
+	<string>streamStageDirection</string>
+	<key>localizationSystemInterval</key>
+	<string>delicateRemainderSaturation</string>
+	<key>previewWithoutPrototype</key>
+	<string>scaleCycleSkewy</string>
+	<key>promiseScopeRate</key>
+	<string>smallAssetSize</string>
+	<key>statelessCompletionState</key>
+	<string>plateWorkVisibility</string>
+</dict>
+</plist>

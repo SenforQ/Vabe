@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashEnvironmentShape</key>
+	<string>numericalDelegateTag</string>
+	<key>interactorPlatformName</key>
+	<string>statefulTransformerCoord</string>
+	<key>isolateWithBridge</key>
+	<string>swiftActivitySpeed</string>
+	<key>originalObserverCount</key>
+	<string>invisibleSlashMomentum</string>
+	<key>requiredPopupFeedback</key>
+	<string>mobxStateDelay</string>
+</dict>
+</plist>

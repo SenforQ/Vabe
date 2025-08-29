@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCacheFlags</key>
+	<string>constCellContrast</string>
+	<key>cellWithObserver</key>
+	<string>borderFromProxy</string>
+	<key>curveVisitorSkewx</key>
+	<string>explicitReducerTension</string>
+	<key>liteSingletonTail</key>
+	<string>fragmentBufferOrigin</string>
+	<key>opaqueCallbackLeft</key>
+	<string>offsetTaskIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintSystemStatus</key>
+	<string>workflowOperationHue</string>
+	<key>directCurveLocation</key>
+	<string>chartChainSkewx</string>
+	<key>intuitiveCollectionMode</key>
+	<string>apertureStageFrequency</string>
+	<key>modalValueBound</key>
+	<string>associatedNavigationSize</string>
+	<key>normalCommandForce</key>
+	<string>zoneJobState</string>
+	<key>robustVectorInset</key>
+	<string>modelBridgeLocation</string>
+	<key>sophisticatedSliderDelay</key>
+	<string>commandLayerDuration</string>
+</dict>
+</plist>

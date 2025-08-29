@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBesideProcess</key>
+	<string>constraintChainSpacing</string>
+	<key>cupertinoLikeMediator</key>
+	<string>heroBesideState</string>
+	<key>futureKindTint</key>
+	<string>mediumDelegateTint</string>
+	<key>largeSwiftCenter</key>
+	<string>lastConfigurationSaturation</string>
+	<key>loopPerFlyweight</key>
+	<string>declarativeConsumerOrientation</string>
+	<key>monsterBeyondValue</key>
+	<string>durationWorkSaturation</string>
+	<key>normalEqualizationDepth</key>
+	<string>immutableAspectAlignment</string>
+	<key>relationalCertificateFlags</key>
+	<string>largeActivityRate</string>
+	<key>statelessPatternRotation</key>
+	<string>modalAtCommand</string>
+</dict>
+</plist>

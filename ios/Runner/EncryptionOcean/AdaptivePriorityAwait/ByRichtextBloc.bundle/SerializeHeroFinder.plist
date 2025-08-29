@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertDecoratorTheme</key>
+	<string>controllerMethodOpacity</string>
+	<key>customBlocSkewy</key>
+	<string>columnSinceFlyweight</string>
+	<key>responsiveListenerVisibility</key>
+	<string>channelBeyondDecorator</string>
+	<key>signatureVarSize</key>
+	<string>typicalTextureShade</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorPerPlatform</key>
+	<string>activePointOrientation</string>
+	<key>composablePriorityRight</key>
+	<string>callbackBeyondValue</string>
+	<key>coordinatorBufferFeedback</key>
+	<string>elasticUsecaseValidation</string>
+	<key>gemBesideState</key>
+	<string>factoryViaActivity</string>
+	<key>grainNearTask</key>
+	<string>unaryIncludeCycle</string>
+	<key>navigationOfAdapter</key>
+	<string>graphContextType</string>
+	<key>storeParameterBound</key>
+	<string>protocolDespitePattern</string>
+	<key>timerAndBuffer</key>
+	<string>projectOfInterpreter</string>
+</dict>
+</plist>

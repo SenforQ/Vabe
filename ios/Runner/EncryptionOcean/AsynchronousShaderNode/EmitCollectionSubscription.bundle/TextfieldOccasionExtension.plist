@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMethodTransparency</key>
+	<string>requestSystemBorder</string>
+	<key>smallPrecisionLocation</key>
+	<string>extensionVarBrightness</string>
+	<key>taskByFramework</key>
+	<string>diffableSizedboxTheme</string>
+	<key>textureShapeOffset</key>
+	<string>independentNibFlags</string>
+	<key>webEntityOffset</key>
+	<string>descriptorAwayDecorator</string>
+</dict>
+</plist>

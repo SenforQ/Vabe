@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorContextAlignment</key>
+	<string>allocatorForLayer</string>
+	<key>independentAppbarTension</key>
+	<string>widgetOrCommand</string>
+	<key>navigationStructureMode</key>
+	<string>painterBufferLocation</string>
+	<key>routeOperationStyle</key>
+	<string>builderFrameworkInteraction</string>
+	<key>scalePhaseForce</key>
+	<string>convolutionViaChain</string>
+	<key>sharedScaleMomentum</key>
+	<string>customFragmentTop</string>
+	<key>sustainableObserverFormat</key>
+	<string>modalMethodForce</string>
+</dict>
+</plist>

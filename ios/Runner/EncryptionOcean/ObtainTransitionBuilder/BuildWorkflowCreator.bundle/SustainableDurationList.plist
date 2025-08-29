@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMethodValidation</key>
+	<string>axisStrategyValidation</string>
+	<key>cellAmongTier</key>
+	<string>symbolModeBottom</string>
+	<key>containerWithPrototype</key>
+	<string>storyboardWithoutParam</string>
+	<key>ignoredCatalystRotation</key>
+	<string>servicePerProxy</string>
+	<key>memberBesideFunction</key>
+	<string>comprehensiveGesturedetectorTint</string>
+	<key>metadataLikeCommand</key>
+	<string>streamIncludePattern</string>
+	<key>protocolAlongWork</key>
+	<string>sliderMementoVisibility</string>
+	<key>spineVariableShade</key>
+	<string>profileJobValidation</string>
+	<key>tappableSingletonValidation</key>
+	<string>pinchableResourceName</string>
+</dict>
+</plist>

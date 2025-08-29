@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCapacitiesPosition</key>
+	<string>statefulColumnBound</string>
+	<key>cellVariableRate</key>
+	<string>elasticGesturedetectorScale</string>
+	<key>delegateVarInset</key>
+	<string>fusedFrameShape</string>
+	<key>matrixVarRotation</key>
+	<string>cartesianTextBottom</string>
+	<key>retainedRadiusStyle</key>
+	<string>tableInterpreterOrientation</string>
+	<key>temporaryPointTheme</key>
+	<string>nativeEffectInteraction</string>
+</dict>
+</plist>

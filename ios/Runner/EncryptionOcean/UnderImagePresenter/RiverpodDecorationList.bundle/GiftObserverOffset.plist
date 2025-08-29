@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphVisitorPressure</key>
+	<string>dialogsLevelSaturation</string>
+	<key>lossUntilState</key>
+	<string>materialLocalizationIndex</string>
+	<key>nodeAlongTask</key>
+	<string>grainAgainstTask</string>
+	<key>numericalBaselineSpeed</key>
+	<string>imageLayerIndex</string>
+	<key>otherCanvasAcceleration</key>
+	<string>eventTierForce</string>
+	<key>sortedFlexSkewx</key>
+	<string>tensorBatchCount</string>
+	<key>titlePrototypeDelay</key>
+	<string>graphicInInterpreter</string>
+</dict>
+</plist>

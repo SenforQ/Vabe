@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableProjectionVisibility</key>
+	<string>techniqueUntilActivity</string>
+	<key>firstCommandType</key>
+	<string>injectionUntilInterpreter</string>
+	<key>fusedButtonInteraction</key>
+	<string>sharedDialogsDirection</string>
+	<key>mediocreOverlayAppearance</key>
+	<string>utilInsideAdapter</string>
+	<key>progressbarDespiteCommand</key>
+	<string>descriptorNumberKind</string>
+	<key>semanticGraphHue</key>
+	<string>backwardDependencyType</string>
+	<key>transformerSingletonOrigin</key>
+	<string>optimizerScopeCount</string>
+</dict>
+</plist>

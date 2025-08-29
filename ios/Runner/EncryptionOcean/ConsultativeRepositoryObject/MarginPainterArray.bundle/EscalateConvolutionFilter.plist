@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAtAction</key>
+	<string>zoneMementoKind</string>
+	<key>cubitFrameworkBehavior</key>
+	<string>screenAtMethod</string>
+	<key>getxStageLeft</key>
+	<string>graphicStrategyVisibility</string>
+	<key>injectionInsideComposite</key>
+	<string>mobxParameterKind</string>
+	<key>popupValueSpacing</key>
+	<string>fragmentJobLocation</string>
+	<key>reductionIncludeFunction</key>
+	<string>injectionValueName</string>
+	<key>serviceAlongScope</key>
+	<string>activeToolPosition</string>
+</dict>
+</plist>

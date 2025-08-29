@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentPlaybackInteraction</key>
+	<string>retainedViewState</string>
+	<key>disparateRequestSpacing</key>
+	<string>builderFrameworkSkewy</string>
+	<key>firstCursorIndex</key>
+	<string>mediaqueryThanParameter</string>
+	<key>optionChainTheme</key>
+	<string>coordinatorCompositeOpacity</string>
+	<key>parallelButtonLeft</key>
+	<string>nextManagerOffset</string>
+	<key>sustainableIntensityOpacity</key>
+	<string>featureWithMethod</string>
+	<key>symmetricCellShade</key>
+	<string>canvasLikeFunction</string>
+</dict>
+</plist>

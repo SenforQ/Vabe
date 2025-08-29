@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProjectionOpacity</key>
+	<string>sizePrototypeSkewy</string>
+	<key>diffableRouteFeedback</key>
+	<string>hashSingletonSize</string>
+	<key>dynamicIntegerLeft</key>
+	<string>frameThroughFunction</string>
+	<key>labelContextDepth</key>
+	<string>providerThroughVar</string>
+	<key>previewForNumber</key>
+	<string>exceptionByMemento</string>
+	<key>variantForState</key>
+	<string>sliderTypeMode</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTransformerFeedback</key>
+	<string>iterativeLayoutFeedback</string>
+	<key>baselineOrStage</key>
+	<string>pointIncludeDecorator</string>
+	<key>decorationSystemIndex</key>
+	<string>commonRouteMode</string>
+	<key>ignoredExponentTension</key>
+	<string>adaptiveSizeShape</string>
+	<key>intuitiveCompleterScale</key>
+	<string>blocKindAppearance</string>
+	<key>loopNearStructure</key>
+	<string>missionContainCommand</string>
+	<key>requiredVectorSkewx</key>
+	<string>channelStageBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleShaderSkewy</key>
+	<string>hashOutsideFramework</string>
+	<key>actionAtValue</key>
+	<string>cacheSinceProcess</string>
+	<key>delegateAmongLayer</key>
+	<string>originalGradientMode</string>
+	<key>easyBufferAcceleration</key>
+	<string>dimensionFromChain</string>
+	<key>effectScopeTheme</key>
+	<string>unactivatedOffsetRotation</string>
+	<key>entityValueSpeed</key>
+	<string>textAboutFlyweight</string>
+	<key>priorityTempleSpacing</key>
+	<string>configurationInsideLayer</string>
+	<key>rectContextKind</key>
+	<string>associatedIntensityKind</string>
+	<key>timerPhaseVisible</key>
+	<string>loopVariableCount</string>
+</dict>
+</plist>

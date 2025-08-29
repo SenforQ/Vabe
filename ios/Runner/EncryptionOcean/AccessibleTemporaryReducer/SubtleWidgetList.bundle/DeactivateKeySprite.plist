@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionForFacade</key>
+	<string>instructionTypeFormat</string>
+	<key>gridviewAndJob</key>
+	<string>grainStrategyName</string>
+	<key>imageStageOpacity</key>
+	<string>tensorGraphicHue</string>
+	<key>instructionInVariable</key>
+	<string>inactiveIconBottom</string>
+	<key>labelThroughMediator</key>
+	<string>delegateDecoratorDuration</string>
+	<key>riverpodPlatformSpeed</key>
+	<string>uniformBrushBrightness</string>
+	<key>scaffoldProcessTail</key>
+	<string>coordinatorStyleColor</string>
+</dict>
+</plist>

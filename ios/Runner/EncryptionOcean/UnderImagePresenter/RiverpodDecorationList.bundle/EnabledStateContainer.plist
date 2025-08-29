@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocWorkVisibility</key>
+	<string>frameNearCommand</string>
+	<key>channelStrategyRate</key>
+	<string>storyboardOrCommand</string>
+	<key>difficultFeatureAppearance</key>
+	<string>layoutSingletonMargin</string>
+	<key>effectVarResponse</key>
+	<string>delegateScopeInset</string>
+	<key>finalPrecisionFrequency</key>
+	<string>radiusOrParam</string>
+	<key>listenerContainVar</key>
+	<string>unaryViaBridge</string>
+	<key>mutableControllerContrast</key>
+	<string>customizedActionRate</string>
+	<key>rowOfBridge</key>
+	<string>substantialMethodOrigin</string>
+</dict>
+</plist>

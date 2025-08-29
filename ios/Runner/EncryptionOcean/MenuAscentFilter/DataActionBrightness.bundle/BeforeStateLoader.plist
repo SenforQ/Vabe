@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedTickerTag</key>
+	<string>desktopCharacterPressure</string>
+	<key>groupContainStyle</key>
+	<string>slashAndFacade</string>
+	<key>independentRowRotation</key>
+	<string>layerExceptForm</string>
+	<key>mediumSpotSize</key>
+	<string>crucialResultVisibility</string>
+	<key>resizableChannelsOrigin</key>
+	<string>characterInBuffer</string>
+	<key>routerFacadeType</key>
+	<string>webChannelHead</string>
+	<key>rowKindDepth</key>
+	<string>profileLayerTail</string>
+	<key>stateFrameworkMargin</key>
+	<string>loopPrototypeRotation</string>
+</dict>
+</plist>

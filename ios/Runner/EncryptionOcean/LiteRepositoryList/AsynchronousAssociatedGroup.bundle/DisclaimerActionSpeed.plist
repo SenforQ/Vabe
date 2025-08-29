@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicStackDirection</key>
+	<string>radioLevelInteraction</string>
+	<key>observerWithFlyweight</key>
+	<string>flexibleUsecaseBehavior</string>
+	<key>oldPainterResponse</key>
+	<string>listviewBufferState</string>
+	<key>popupPlatformInteraction</key>
+	<string>providerVarInset</string>
+	<key>spotVarDirection</key>
+	<string>transitionStateDepth</string>
+</dict>
+</plist>

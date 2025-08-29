@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentChannelInteraction</key>
+	<string>imageForKind</string>
+	<key>cubeUntilPhase</key>
+	<string>newestAxisEdge</string>
+	<key>futureObserverDirection</key>
+	<string>sceneWithKind</string>
+	<key>getxNearProxy</key>
+	<string>layoutValueTint</string>
+	<key>immediateGridOrientation</key>
+	<string>pageviewBeyondStyle</string>
+	<key>intensityPhaseType</key>
+	<string>sampleNearMethod</string>
+	<key>matrixProcessTail</key>
+	<string>axisFromPlatform</string>
+	<key>respectiveAssetSkewy</key>
+	<string>criticalIntegerFrequency</string>
+</dict>
+</plist>

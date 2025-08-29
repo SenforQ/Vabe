@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAroundJob</key>
+	<string>storyboardTaskAcceleration</string>
+	<key>consumerNearActivity</key>
+	<string>menuContainJob</string>
+	<key>grayscaleChainDelay</key>
+	<string>missedVariantInteraction</string>
+	<key>memberOfTier</key>
+	<string>sizeVariableAcceleration</string>
+	<key>observerBeyondBridge</key>
+	<string>groupMethodTop</string>
+	<key>publicStatefulOpacity</key>
+	<string>hardInstructionTransparency</string>
+	<key>serviceVersusFunction</key>
+	<string>sortedUsecaseDuration</string>
+	<key>similarCoordinatorStyle</key>
+	<string>otherReducerBehavior</string>
+</dict>
+</plist>

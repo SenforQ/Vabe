@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncWorkTransparency</key>
+	<string>gateDuringProcess</string>
+	<key>commandInsideFlyweight</key>
+	<string>mutableOperationDistance</string>
+	<key>diffableLayerLocation</key>
+	<string>responsiveControllerCoord</string>
+	<key>frameTypeRight</key>
+	<string>dynamicGradientState</string>
+	<key>rectContainFlyweight</key>
+	<string>capsuleViaDecorator</string>
+	<key>resourceStageLeft</key>
+	<string>projectionSingletonName</string>
+	<key>robustAspectTop</key>
+	<string>symmetricExceptionVisible</string>
+	<key>sinkNumberMomentum</key>
+	<string>visibleLoopBehavior</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableApertureTheme</key>
+	<string>topicOperationIndex</string>
+	<key>fixedExceptionBrightness</key>
+	<string>basicStorageCoord</string>
+	<key>opaqueTweenDistance</key>
+	<string>themeInterpreterCoord</string>
+	<key>popupAroundMethod</key>
+	<string>textureDecoratorPosition</string>
+	<key>queryStyleBound</key>
+	<string>streamAdapterFlags</string>
+</dict>
+</plist>

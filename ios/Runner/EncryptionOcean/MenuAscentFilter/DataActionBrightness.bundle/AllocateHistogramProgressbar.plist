@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarCommandSpacing</key>
+	<string>hierarchicalCapsuleDelay</string>
+	<key>buttonOfMemento</key>
+	<string>directRichtextBottom</string>
+	<key>firstNavigatorSpeed</key>
+	<string>liteIsolateAcceleration</string>
+	<key>interfaceActionFrequency</key>
+	<string>accessibleResponseOrigin</string>
+	<key>normOutsideTemple</key>
+	<string>autoActivityOpacity</string>
+	<key>segmentOrBridge</key>
+	<string>materialAnchorVisibility</string>
+	<key>sessionPerFramework</key>
+	<string>subscriptionModeDuration</string>
+	<key>tableAroundStyle</key>
+	<string>timerOrProcess</string>
+</dict>
+</plist>

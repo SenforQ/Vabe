@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOfStyle</key>
+	<string>channelThroughBridge</string>
+	<key>channelViaTask</key>
+	<string>eventInterpreterTag</string>
+	<key>controllerPatternCoord</key>
+	<string>synchronousAnimationInset</string>
+	<key>directlyAnimationHead</key>
+	<string>constraintDespiteStage</string>
+	<key>gesturedetectorDuringPhase</key>
+	<string>difficultChapterTop</string>
+	<key>methodByJob</key>
+	<string>alignmentByBuffer</string>
+	<key>overlayPerLevel</key>
+	<string>effectMethodDepth</string>
+	<key>tangentAdapterEdge</key>
+	<string>taskFrameworkAcceleration</string>
+</dict>
+</plist>

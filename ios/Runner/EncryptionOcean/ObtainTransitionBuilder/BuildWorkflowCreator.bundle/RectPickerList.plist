@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferUntilBuffer</key>
+	<string>apertureByFacade</string>
+	<key>builderPatternShade</key>
+	<string>flexParamBorder</string>
+	<key>effectPlatformLocation</key>
+	<string>semanticDependencyRight</string>
+	<key>normalPainterMargin</key>
+	<string>buttonDecoratorMode</string>
+	<key>prismaticBorderDensity</key>
+	<string>sinkAroundSystem</string>
+	<key>uniqueResponseScale</key>
+	<string>delegateChainBorder</string>
+</dict>
+</plist>

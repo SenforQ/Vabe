@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationParameterType</key>
+	<string>permanentResourceFrequency</string>
+	<key>callbackWithoutFlyweight</key>
+	<string>blocParamCoord</string>
+	<key>dedicatedZoneEdge</key>
+	<string>difficultRemainderResponse</string>
+	<key>mobileOrTask</key>
+	<string>baselineIncludeJob</string>
+	<key>promisePatternAlignment</key>
+	<string>vectorAndProcess</string>
+	<key>resourceContextStyle</key>
+	<string>geometricAnimationBrightness</string>
+	<key>sequentialOffsetPressure</key>
+	<string>gramVariableCount</string>
+	<key>subtleGraphContrast</key>
+	<string>serviceShapeCoord</string>
+</dict>
+</plist>

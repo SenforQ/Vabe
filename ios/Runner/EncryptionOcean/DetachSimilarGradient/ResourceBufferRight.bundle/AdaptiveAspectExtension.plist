@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseTextLocation</key>
+	<string>radioInPattern</string>
+	<key>offsetStrategyCoord</key>
+	<string>repositoryAndStrategy</string>
+	<key>progressbarNumberName</key>
+	<string>curveContainKind</string>
+	<key>stateVarBehavior</key>
+	<string>adaptiveTaskShade</string>
+	<key>unsortedHistogramRate</key>
+	<string>coordinatorBufferLeft</string>
+</dict>
+</plist>

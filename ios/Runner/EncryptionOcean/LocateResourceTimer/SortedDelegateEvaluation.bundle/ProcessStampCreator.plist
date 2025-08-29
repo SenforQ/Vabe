@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitParamValidation</key>
+	<string>timerAwayContext</string>
+	<key>declarativeContainerBottom</key>
+	<string>otherTransitionVisibility</string>
+	<key>eventSincePhase</key>
+	<string>queryBridgeAppearance</string>
+	<key>hashWithCommand</key>
+	<string>segueStrategyColor</string>
+	<key>listenerJobDepth</key>
+	<string>sampleDuringInterpreter</string>
+	<key>paddingVarScale</key>
+	<string>loopBridgeLeft</string>
+	<key>progressbarForComposite</key>
+	<string>slashProcessShade</string>
+	<key>routeStructureSize</key>
+	<string>projectAtActivity</string>
+</dict>
+</plist>

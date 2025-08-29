@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheContextScale</key>
+	<string>exponentModeKind</string>
+	<key>desktopCanvasTheme</key>
+	<string>visibleBatchPadding</string>
+	<key>effectVersusObserver</key>
+	<string>checklistStageVisibility</string>
+	<key>rowDecoratorFormat</key>
+	<string>threadMediatorDirection</string>
+	<key>skirtAlongMemento</key>
+	<string>publicPointBorder</string>
+</dict>
+</plist>

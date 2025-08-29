@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedConvolutionMargin</key>
+	<string>tensorProgressbarLeft</string>
+	<key>graphicAmongBuffer</key>
+	<string>chartOutsideContext</string>
+	<key>interfaceTaskOffset</key>
+	<string>usedListviewLeft</string>
+	<key>lastViewBehavior</key>
+	<string>skinLikeProxy</string>
+	<key>newestTickerCenter</key>
+	<string>heapAwayEnvironment</string>
+	<key>textureActionSkewy</key>
+	<string>priorityIncludeWork</string>
+</dict>
+</plist>

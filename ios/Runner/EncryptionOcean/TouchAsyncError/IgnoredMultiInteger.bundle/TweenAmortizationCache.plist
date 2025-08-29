@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleFeatureDepth</key>
+	<string>overlayOutsideFacade</string>
+	<key>concretePositionEdge</key>
+	<string>materialCanvasName</string>
+	<key>eventTierFeedback</key>
+	<string>eagerStoreTheme</string>
+	<key>instructionProcessAlignment</key>
+	<string>robustErrorAlignment</string>
+	<key>interactiveExponentTheme</key>
+	<string>materialViewName</string>
+	<key>navigatorMethodMode</key>
+	<string>modulusModeSize</string>
+	<key>reductionInCycle</key>
+	<string>switchDecoratorPadding</string>
+	<key>utilScopeOpacity</key>
+	<string>instructionOutsideTier</string>
+	<key>zoneAsFacade</key>
+	<string>mapAwayAdapter</string>
+</dict>
+</plist>

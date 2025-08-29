@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureActionMargin</key>
+	<string>activeGridviewTheme</string>
+	<key>assetObserverHue</key>
+	<string>timerMediatorOpacity</string>
+	<key>associatedCupertinoTop</key>
+	<string>controllerContextRotation</string>
+	<key>isolateInStyle</key>
+	<string>observerAroundMode</string>
+	<key>matrixAtCommand</key>
+	<string>labelDespiteStyle</string>
+	<key>queryLevelTint</key>
+	<string>layerProxyPressure</string>
+	<key>scrollPerOperation</key>
+	<string>managerFlyweightColor</string>
+	<key>subscriptionTaskLeft</key>
+	<string>eagerAllocatorKind</string>
+</dict>
+</plist>

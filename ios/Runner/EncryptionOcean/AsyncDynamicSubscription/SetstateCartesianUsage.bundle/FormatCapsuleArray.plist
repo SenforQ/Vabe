@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOrFacade</key>
+	<string>bufferLevelDelay</string>
+	<key>delegatePerCycle</key>
+	<string>fragmentUntilMemento</string>
+	<key>enabledInstructionHead</key>
+	<string>curveObserverInteraction</string>
+	<key>layerStageSaturation</key>
+	<string>requestAwayLevel</string>
+	<key>permanentTitleStyle</key>
+	<string>localizationFlyweightName</string>
+	<key>robustSizedboxSpeed</key>
+	<string>referenceFunctionForce</string>
+</dict>
+</plist>

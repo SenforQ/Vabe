@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGroupTheme</key>
+	<string>lossFacadeRotation</string>
+	<key>appbarOrOperation</key>
+	<string>allocatorNumberRight</string>
+	<key>basicAppbarDistance</key>
+	<string>keyOptionSkewy</string>
+	<key>channelFromEnvironment</key>
+	<string>touchStateBehavior</string>
+	<key>mainErrorRotation</key>
+	<string>flexCycleSkewy</string>
+	<key>methodLikeTask</key>
+	<string>ignoredDescriptionDepth</string>
+	<key>resolverOutsideFacade</key>
+	<string>injectionDecoratorVisible</string>
+	<key>respectiveResultDensity</key>
+	<string>protocolCompositeSkewy</string>
+	<key>robustLayerBrightness</key>
+	<string>entropyBesideLevel</string>
+	<key>variantFromComposite</key>
+	<string>containerAdapterKind</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletValueFormat</key>
+	<string>spriteOrStyle</string>
+	<key>currentChapterStatus</key>
+	<string>euclideanMetadataAppearance</string>
+	<key>gesturedetectorAdapterDuration</key>
+	<string>resourceInsideLayer</string>
+	<key>modalMementoTop</key>
+	<string>gridVersusTier</string>
+	<key>routerScopeShape</key>
+	<string>remainderVarOrigin</string>
+	<key>statelessCoordinatorPosition</key>
+	<string>storyboardOfCommand</string>
+	<key>titleStateStatus</key>
+	<string>comprehensivePromiseEdge</string>
+	<key>transitionNearState</key>
+	<string>cubitSingletonTint</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerLayerCount</key>
+	<string>hashActivityShade</string>
+	<key>cursorAmongStyle</key>
+	<string>curveBufferPadding</string>
+	<key>frameLayerKind</key>
+	<string>rowStateScale</string>
+	<key>newestHandlerContrast</key>
+	<string>navigationFormDensity</string>
+	<key>responsiveRadiusDirection</key>
+	<string>visibleBoxTag</string>
+	<key>rowOutsideMethod</key>
+	<string>exponentJobBottom</string>
+</dict>
+</plist>

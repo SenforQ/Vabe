@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerBesidePrototype</key>
+	<string>baselineChainVisible</string>
+	<key>documentBeyondKind</key>
+	<string>loopAboutChain</string>
+	<key>equalizationTaskColor</key>
+	<string>finalResponseVisible</string>
+	<key>labelPhaseFeedback</key>
+	<string>requestDespitePhase</string>
+	<key>scrollInsideCycle</key>
+	<string>entityAroundForm</string>
+</dict>
+</plist>

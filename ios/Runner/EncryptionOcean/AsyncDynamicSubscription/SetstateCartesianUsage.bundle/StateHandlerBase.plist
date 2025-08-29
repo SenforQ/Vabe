@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDecorationDuration</key>
+	<string>firstListenerEdge</string>
+	<key>constraintKindTransparency</key>
+	<string>custompaintLevelState</string>
+	<key>functionalAspectOffset</key>
+	<string>heapAmongStructure</string>
+	<key>layoutWithoutStructure</key>
+	<string>curveBeyondVariable</string>
+	<key>originalConsumerKind</key>
+	<string>kernelInterpreterVelocity</string>
+	<key>widgetFacadeBottom</key>
+	<string>columnAlongCycle</string>
+</dict>
+</plist>

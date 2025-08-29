@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorWorkPressure</key>
+	<string>singleRoleRight</string>
+	<key>mediumErrorAlignment</key>
+	<string>vectorAdapterFormat</string>
+	<key>permissiveSizeFormat</key>
+	<string>overlayWorkSkewx</string>
+	<key>progressbarSinceComposite</key>
+	<string>effectValueSkewx</string>
+	<key>publicCurveInterval</key>
+	<string>completerUntilPlatform</string>
+	<key>publicPromiseOrientation</key>
+	<string>blocActivityVelocity</string>
+	<key>serviceWithoutState</key>
+	<string>robustHashPosition</string>
+	<key>viewAsMode</key>
+	<string>singleChallengeLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackParameterSpacing</key>
+	<string>localizationSincePrototype</string>
+	<key>effectActionDuration</key>
+	<string>permanentApertureVelocity</string>
+	<key>gridCompositeStyle</key>
+	<string>usecaseAtProxy</string>
+	<key>loopIncludeStrategy</key>
+	<string>elasticPopupTint</string>
+	<key>movementSinceFlyweight</key>
+	<string>threadMediatorForce</string>
+	<key>protocolSingletonMomentum</key>
+	<string>composableChallengeVisible</string>
+</dict>
+</plist>

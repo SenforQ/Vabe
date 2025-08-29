@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFacadeFeedback</key>
+	<string>viewWithoutStage</string>
+	<key>associatedApertureLeft</key>
+	<string>fragmentStyleScale</string>
+	<key>commandInEnvironment</key>
+	<string>sequentialNodeTension</string>
+	<key>eventPerFlyweight</key>
+	<string>explicitCursorDirection</string>
+	<key>reactiveRequestLocation</key>
+	<string>curveActionDirection</string>
+</dict>
+</plist>

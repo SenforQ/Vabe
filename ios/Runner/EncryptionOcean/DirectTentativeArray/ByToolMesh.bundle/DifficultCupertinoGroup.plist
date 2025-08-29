@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengePlatformDensity</key>
+	<string>uniqueStorageLocation</string>
+	<key>controllerDecoratorBehavior</key>
+	<string>allocatorValueMargin</string>
+	<key>isolateCycleVisibility</key>
+	<string>pointFromAction</string>
+	<key>layoutLikeContext</key>
+	<string>utilPrototypeSpeed</string>
+	<key>managerBesidePlatform</key>
+	<string>tangentLevelDuration</string>
+	<key>secondPageviewPadding</key>
+	<string>curveNumberBound</string>
+</dict>
+</plist>

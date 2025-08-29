@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentInjectionBound</key>
+	<string>animationInFramework</string>
+	<key>movementExceptTier</key>
+	<string>featureAlongActivity</string>
+	<key>prismaticIntensityRate</key>
+	<string>particleBufferCenter</string>
+	<key>protocolAndDecorator</key>
+	<string>reactiveChartType</string>
+	<key>queryStructureAppearance</key>
+	<string>bufferInProxy</string>
+	<key>tickerFrameworkFrequency</key>
+	<string>frameWithoutValue</string>
+	<key>typicalParticleBrightness</key>
+	<string>rectVarDuration</string>
+</dict>
+</plist>

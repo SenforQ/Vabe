@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanServiceDuration</key>
+	<string>configurationFunctionAppearance</string>
+	<key>expandedActionVisibility</key>
+	<string>keyMobileCenter</string>
+	<key>momentumInterpreterOpacity</key>
+	<string>reactiveSceneContrast</string>
+	<key>pinchableRemainderInteraction</key>
+	<string>alignmentTaskTag</string>
+	<key>popupVersusVariable</key>
+	<string>touchViaStructure</string>
+	<key>tangentWorkFlags</key>
+	<string>requestContextSize</string>
+</dict>
+</plist>

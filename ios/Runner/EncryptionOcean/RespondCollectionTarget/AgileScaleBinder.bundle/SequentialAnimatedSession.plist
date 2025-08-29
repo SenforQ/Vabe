@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonLikeBuffer</key>
+	<string>featureModeBottom</string>
+	<key>compositionalAxisInteraction</key>
+	<string>previewDuringPhase</string>
+	<key>logarithmJobStatus</key>
+	<string>widgetOutsideMemento</string>
+	<key>taskPlatformDistance</key>
+	<string>getxForActivity</string>
+	<key>viewParamLeft</key>
+	<string>borderTaskFeedback</string>
+</dict>
+</plist>

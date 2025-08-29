@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocUntilDecorator</key>
+	<string>aperturePerProcess</string>
+	<key>certificateLayerBehavior</key>
+	<string>fragmentMethodState</string>
+	<key>configurationThroughLayer</key>
+	<string>mediaFacadeContrast</string>
+	<key>customAnimationDirection</key>
+	<string>allocatorBesideSingleton</string>
+	<key>dedicatedScaleStyle</key>
+	<string>controllerLikeStage</string>
+	<key>desktopNormDelay</key>
+	<string>sliderVisitorDistance</string>
+	<key>documentCommandHead</key>
+	<string>cartesianGradientOrigin</string>
+	<key>equipmentDuringNumber</key>
+	<string>promiseOutsideInterpreter</string>
+	<key>substantialApertureInteraction</key>
+	<string>functionalPositionedTransparency</string>
+</dict>
+</plist>

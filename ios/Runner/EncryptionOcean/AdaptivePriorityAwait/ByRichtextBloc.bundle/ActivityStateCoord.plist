@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTimerSaturation</key>
+	<string>commandOperationVisibility</string>
+	<key>appbarForMemento</key>
+	<string>methodFromCommand</string>
+	<key>compositionalPaddingFeedback</key>
+	<string>storyboardDuringEnvironment</string>
+	<key>loopStyleValidation</key>
+	<string>responseBridgeCoord</string>
+	<key>missedAllocatorBound</key>
+	<string>agileSpriteCoord</string>
+	<key>paddingAroundPattern</key>
+	<string>cupertinoIsolateCoord</string>
+	<key>previewVersusMethod</key>
+	<string>independentRowForce</string>
+	<key>substantialWidgetDistance</key>
+	<string>relationalNotifierBorder</string>
+	<key>textThroughType</key>
+	<string>reactiveBehaviorInterval</string>
+</dict>
+</plist>

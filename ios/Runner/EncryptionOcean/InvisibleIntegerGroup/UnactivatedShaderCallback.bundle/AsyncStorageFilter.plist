@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBridgeOrientation</key>
+	<string>canvasUntilPhase</string>
+	<key>buttonValueTop</key>
+	<string>controllerActionRotation</string>
+	<key>consumerSinceContext</key>
+	<string>pinchableProjectColor</string>
+	<key>entityLevelMargin</key>
+	<string>timerTierAcceleration</string>
+	<key>modelMediatorValidation</key>
+	<string>constraintStyleShape</string>
+	<key>navigatorVariableMomentum</key>
+	<string>resilientButtonType</string>
+	<key>sharedCupertinoBehavior</key>
+	<string>queryPhaseAcceleration</string>
+	<key>unactivatedContractionTheme</key>
+	<string>similarInteractorOrigin</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectStrategyShape</key>
+	<string>isolateAroundDecorator</string>
+	<key>constResolverOpacity</key>
+	<string>assetOfStyle</string>
+	<key>elasticStepEdge</key>
+	<string>configurationDecoratorBottom</string>
+	<key>functionalDropdownbuttonMode</key>
+	<string>concurrentFrameAcceleration</string>
+	<key>granularViewMode</key>
+	<string>providerExceptType</string>
+	<key>newestProfileAcceleration</key>
+	<string>threadValueStatus</string>
+	<key>pinchableStorageRight</key>
+	<string>uniqueConvolutionTop</string>
+	<key>taskAsTier</key>
+	<string>ephemeralStackVelocity</string>
+</dict>
+</plist>

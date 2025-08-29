@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionPerParameter</key>
+	<string>columnAgainstAction</string>
+	<key>exceptionVarVisible</key>
+	<string>greatEffectCoord</string>
+	<key>invisibleControllerVisible</key>
+	<string>painterBeyondAction</string>
+	<key>observerOperationTheme</key>
+	<string>builderVariableLocation</string>
+	<key>offsetLayerRotation</key>
+	<string>resolverObserverRight</string>
+	<key>repositoryValueInset</key>
+	<string>themeProcessSkewy</string>
+	<key>sharedBaselineValidation</key>
+	<string>mobxActivityPosition</string>
+	<key>smallObserverPosition</key>
+	<string>secondStoreVisibility</string>
+	<key>subsequentStatefulBottom</key>
+	<string>allocatorStrategyCoord</string>
+</dict>
+</plist>
