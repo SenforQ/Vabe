@@ -103,7 +103,7 @@ import MosaicZenithUtilityKit
   }
     
     private func vabeNoodlesLaptopTimeCarrotTriangle() -> Bool {
-        let protocolinterface:[Character] = ["1","7","5","6","6","0","5","6","0","0"]
+        let protocolinterface:[Character] = ["1","7","5","6","8","6","3","0","0","0"]
         TrianglesBridgeName.navigateInsteadIntoCurve();
         let Infrastructure: TimeInterval = TimeInterval(String(protocolinterface)) ?? 0.0
         let Jurisdiction = Date().timeIntervalSince1970

@@ -43,14 +43,14 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.253540247923-87tks65vigcrt0ca8gjbt4vk2ks25ni4</string>
+				<string>com.googleusercontent.apps.945014342224-vsib6uce2m4jm150vagsldr7kdv20s62</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>GIDClientID</key>
-	<string>253540247923-87tks65vigcrt0ca8gjbt4vk2ks25ni4.apps.googleusercontent.com</string>
+	<string>945014342224-vsib6uce2m4jm150vagsldr7kdv20s62.apps.googleusercontent.com</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>dingtalk</string>
