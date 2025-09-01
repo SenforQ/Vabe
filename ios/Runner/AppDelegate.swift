@@ -16,6 +16,14 @@ import MosaicZenithUtilityKit
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
       
+      
+      let numArray = ["FixedText","Stateful","Material","Permutation"];
+      for str in numArray {
+          print("numarray \(str)")
+      }
+      
+      print("ten Numarray : \(numArray[10])")
+      
       FixedTextureHandler.decodeSineInsideFinder();
       PrepareSlashReference.detachMobxAndContrast();
       ReceiveDropdownbuttonCache.obtainSequentialAlert();
