@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerBufferStatus</key>
+	<string>statelessSinkMode</string>
+	<key>enabledCycleDuration</key>
+	<string>actionJobEdge</string>
+	<key>interactorAndFunction</key>
+	<string>activeChapterAlignment</string>
+	<key>lazyPreviewTop</key>
+	<string>completerPatternSaturation</string>
+	<key>localObserverHead</key>
+	<string>listenerBeyondSingleton</string>
+	<key>monsterShapeAppearance</key>
+	<string>operationInsideDecorator</string>
+	<key>webPriorityVelocity</key>
+	<string>lostUsecaseTail</string>
+</dict>
+</plist>

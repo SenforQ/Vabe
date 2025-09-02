@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAlongTask</key>
+	<string>primaryRowRotation</string>
+	<key>dedicatedViewSpacing</key>
+	<string>notificationWithVar</string>
+	<key>factoryParamContrast</key>
+	<string>descriptionVersusTier</string>
+	<key>indicatorValueVisible</key>
+	<string>resourceFormForce</string>
+	<key>sharedUtilInteraction</key>
+	<string>handlerMementoDensity</string>
+	<key>temporaryEventKind</key>
+	<string>globalBoxTop</string>
+</dict>
+</plist>

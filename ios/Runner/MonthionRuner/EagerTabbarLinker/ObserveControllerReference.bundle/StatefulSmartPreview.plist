@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateRectRight</key>
+	<string>accordionCommandShape</string>
+	<key>lazyCatalystAppearance</key>
+	<string>mobxShapeRight</string>
+	<key>lostLocalizationTheme</key>
+	<string>routerAsTemple</string>
+	<key>parallelSubscriptionOffset</key>
+	<string>bufferEnvironmentTop</string>
+	<key>prismaticInkwellBehavior</key>
+	<string>fixedProjectionFlags</string>
+</dict>
+</plist>

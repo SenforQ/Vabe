@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDelegateDepth</key>
+	<string>sineDuringBuffer</string>
+	<key>dependencyExceptMemento</key>
+	<string>monsterOfLevel</string>
+	<key>navigationAmongVar</key>
+	<string>smartBatchSpeed</string>
+	<key>queryOrMemento</key>
+	<string>cycleInsideSingleton</string>
+	<key>queueTaskCount</key>
+	<string>intensityParamFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureSinceContext</key>
+	<string>routerVarSaturation</string>
+	<key>channelsAndLevel</key>
+	<string>topicBeyondStage</string>
+	<key>containerNearType</key>
+	<string>mediumEquipmentType</string>
+	<key>cubitEnvironmentAcceleration</key>
+	<string>constLoopSkewy</string>
+	<key>exceptionAroundProxy</key>
+	<string>threadLikeFlyweight</string>
+	<key>permanentTransitionStatus</key>
+	<string>sophisticatedMobileStyle</string>
+	<key>positionCommandValidation</key>
+	<string>inheritedGroupName</string>
+</dict>
+</plist>

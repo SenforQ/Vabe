@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasBeyondBridge</key>
+	<string>chartLayerDepth</string>
+	<key>consumerInsideBuffer</key>
+	<string>navigatorLayerRight</string>
+	<key>ignoredReductionAppearance</key>
+	<string>radiusFunctionMargin</string>
+	<key>radiusSinceJob</key>
+	<string>transitionFrameworkBottom</string>
+	<key>referenceNearFlyweight</key>
+	<string>navigatorSystemFeedback</string>
+	<key>retainedGestureInset</key>
+	<string>adaptiveTransitionSkewx</string>
+</dict>
+</plist>

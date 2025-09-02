@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonAroundWork</key>
+	<string>grayscaleVersusWork</string>
+	<key>nativeRowPadding</key>
+	<string>functionalMarginStatus</string>
+	<key>notificationTypeSpacing</key>
+	<string>frameSinceAction</string>
+	<key>otherTabviewHue</key>
+	<string>functionalPresenterVelocity</string>
+	<key>reducerViaCommand</key>
+	<string>adaptiveButtonOpacity</string>
+</dict>
+</plist>

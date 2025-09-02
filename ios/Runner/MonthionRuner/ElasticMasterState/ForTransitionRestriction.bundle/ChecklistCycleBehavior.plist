@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTickerResponse</key>
+	<string>screenAsAdapter</string>
+	<key>flexibleResolverInset</key>
+	<string>normMediatorDelay</string>
+	<key>layoutThroughLayer</key>
+	<string>immutableRichtextVisible</string>
+	<key>listviewNearBuffer</key>
+	<string>assetActivityInteraction</string>
+	<key>missionAroundBuffer</key>
+	<string>tweenAgainstEnvironment</string>
+	<key>resizableDependencyStatus</key>
+	<string>accordionBrushBorder</string>
+	<key>responseScopeFlags</key>
+	<string>providerOutsideStage</string>
+	<key>ternaryLikeMediator</key>
+	<string>unaryForChain</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAgainstSingleton</key>
+	<string>composableIconDelay</string>
+	<key>materialWidgetFeedback</key>
+	<string>widgetValueTint</string>
+	<key>retainedQueueStyle</key>
+	<string>observerShapeAppearance</string>
+	<key>tableInsideBridge</key>
+	<string>unactivatedSkirtTag</string>
+	<key>textStageSpeed</key>
+	<string>transitionParamOrientation</string>
+</dict>
+</plist>

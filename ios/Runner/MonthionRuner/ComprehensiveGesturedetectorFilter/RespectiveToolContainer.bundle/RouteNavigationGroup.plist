@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAboutPattern</key>
+	<string>swiftPlatformSpacing</string>
+	<key>beginnerTextureSkewy</key>
+	<string>chapterVariableSpacing</string>
+	<key>channelActionBrightness</key>
+	<string>collectionPlatformOpacity</string>
+	<key>frameStyleResponse</key>
+	<string>borderScopeDuration</string>
+	<key>gridAsStrategy</key>
+	<string>semanticContainerFeedback</string>
+	<key>hyperbolicCoordinatorSpacing</key>
+	<string>resultPerContext</string>
+	<key>optionInValue</key>
+	<string>screenPerStyle</string>
+	<key>standaloneConstraintPosition</key>
+	<string>documentWithoutKind</string>
+	<key>standaloneIsolateTransparency</key>
+	<string>previewExceptContext</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedStoryboardSpacing</key>
+	<string>reactiveResponseTop</string>
+	<key>cubitStylePadding</key>
+	<string>scrollableGrainTransparency</string>
+	<key>curveBeyondSingleton</key>
+	<string>inkwellParameterTop</string>
+	<key>semanticAllocatorInset</key>
+	<string>otherNavigatorBorder</string>
+	<key>smartSwiftInterval</key>
+	<string>behaviorFormTint</string>
+	<key>storageVisitorBound</key>
+	<string>sizeInFramework</string>
+	<key>substantialGestureSpacing</key>
+	<string>spotByContext</string>
+</dict>
+</plist>

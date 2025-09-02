@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitDuringType</key>
+	<string>methodKindDelay</string>
+	<key>factoryInsideTier</key>
+	<string>displayableProviderLocation</string>
+	<key>navigatorPlatformTop</key>
+	<string>handlerStageColor</string>
+	<key>requiredRouterBorder</key>
+	<string>singletonUntilSingleton</string>
+	<key>scrollPerJob</key>
+	<string>axisTypeShade</string>
+	<key>tickerAwayPattern</key>
+	<string>layerModeSpacing</string>
+	<key>uniformStateTag</key>
+	<string>immutableTopicDepth</string>
+</dict>
+</plist>

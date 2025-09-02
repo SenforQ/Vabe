@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDialogsCount</key>
+	<string>appbarAsStructure</string>
+	<key>basicCupertinoVisible</key>
+	<string>cupertinoProfileIndex</string>
+	<key>borderBeyondTask</key>
+	<string>adaptiveEffectEdge</string>
+	<key>curveObserverPadding</key>
+	<string>optimizerAwaySingleton</string>
+	<key>explicitTimerDensity</key>
+	<string>labelPrototypeTransparency</string>
+	<key>modalAwayFunction</key>
+	<string>advancedTransformerBound</string>
+	<key>responsePerLevel</key>
+	<string>hierarchicalDecorationSaturation</string>
+	<key>sustainablePetSkewx</key>
+	<string>modelChainRate</string>
+	<key>touchLayerTop</key>
+	<string>mobileMaterialInteraction</string>
+</dict>
+</plist>

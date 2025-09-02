@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryFlyweightFormat</key>
+	<string>seamlessTernaryOrientation</string>
+	<key>chartStageIndex</key>
+	<string>responsiveCosineTop</string>
+	<key>controllerOfPrototype</key>
+	<string>sliderVariableTension</string>
+	<key>mobxStateFormat</key>
+	<string>sizeBesideEnvironment</string>
+	<key>optimizerInterpreterTint</key>
+	<string>layerViaJob</string>
+	<key>singleProgressbarPressure</key>
+	<string>delegateViaTier</string>
+	<key>sliderVisitorLocation</key>
+	<string>standaloneDelegateContrast</string>
+	<key>spotBesideObserver</key>
+	<string>awaitThroughSingleton</string>
+	<key>storyboardTempleCount</key>
+	<string>responseInsideObserver</string>
+</dict>
+</plist>

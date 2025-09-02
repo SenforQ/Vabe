@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>masterObserverAppearance</key>
+	<string>featureTierBehavior</string>
+	<key>observerWorkDuration</key>
+	<string>characterCommandResponse</string>
+	<key>reducerWithoutCommand</key>
+	<string>standaloneBufferAlignment</string>
+	<key>resourceIncludeBridge</key>
+	<string>dependencyIncludeFramework</string>
+	<key>stateBesideWork</key>
+	<string>staticSinkDirection</string>
+	<key>tableFacadeSkewx</key>
+	<string>asyncThreadTension</string>
+	<key>threadBufferInterval</key>
+	<string>loopAmongShape</string>
+</dict>
+</plist>

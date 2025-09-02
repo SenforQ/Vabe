@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTransitionFormat</key>
+	<string>subscriptionStructureLocation</string>
+	<key>delicateTransitionSkewx</key>
+	<string>sliderBesidePlatform</string>
+	<key>grayscaleVersusProxy</key>
+	<string>blocByFlyweight</string>
+	<key>modelForPattern</key>
+	<string>routeSingletonPosition</string>
+	<key>scrollableKernelPosition</key>
+	<string>callbackFromFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveScopePressure</key>
+	<string>uniformTitlePadding</string>
+	<key>errorThroughProxy</key>
+	<string>completerNearStrategy</string>
+	<key>imperativeLocalizationRotation</key>
+	<string>difficultMarginShade</string>
+	<key>profileStageScale</key>
+	<string>interactiveInterpolationFrequency</string>
+	<key>responseKindRight</key>
+	<string>alignmentActivityTransparency</string>
+	<key>sustainableWorkflowRight</key>
+	<string>usedProjectTheme</string>
+</dict>
+</plist>

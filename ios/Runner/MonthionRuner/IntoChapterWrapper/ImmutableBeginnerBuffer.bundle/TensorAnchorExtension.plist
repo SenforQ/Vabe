@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationChainContrast</key>
+	<string>histogramAmongFacade</string>
+	<key>commandFlyweightVisible</key>
+	<string>functionalViewVelocity</string>
+	<key>discardedGestureFeedback</key>
+	<string>modelViaAdapter</string>
+	<key>firstGrayscaleDepth</key>
+	<string>originalIsolateVisible</string>
+	<key>originalScaffoldStyle</key>
+	<string>controllerOutsideFramework</string>
+</dict>
+</plist>

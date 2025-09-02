@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterSincePlatform</key>
+	<string>menuFormDuration</string>
+	<key>multiInterfaceSpeed</key>
+	<string>gestureWorkPressure</string>
+	<key>paddingVersusValue</key>
+	<string>futureLayerInteraction</string>
+	<key>queryFromFramework</key>
+	<string>boxshadowDuringStyle</string>
+	<key>roleBufferKind</key>
+	<string>nativeRectContrast</string>
+	<key>shaderCompositePosition</key>
+	<string>metadataByObserver</string>
+	<key>tabviewFrameworkAppearance</key>
+	<string>tableSinceKind</string>
+	<key>transitionContextScale</key>
+	<string>isolateAboutStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAgainstLevel</key>
+	<string>captionAmongBridge</string>
+	<key>chapterOrStage</key>
+	<string>iconLayerPadding</string>
+	<key>collectionAwayCycle</key>
+	<string>originalMovementHue</string>
+	<key>dedicatedUsecaseSize</key>
+	<string>constStoryboardInset</string>
+	<key>mediumRectForce</key>
+	<string>subscriptionWorkVisible</string>
+	<key>positionedTaskInteraction</key>
+	<string>constraintWorkForce</string>
+</dict>
+</plist>

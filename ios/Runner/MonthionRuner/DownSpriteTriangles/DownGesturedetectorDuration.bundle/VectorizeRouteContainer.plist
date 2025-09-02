@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocViaStyle</key>
+	<string>screenSinceBridge</string>
+	<key>descriptorAtInterpreter</key>
+	<string>customDrawerTop</string>
+	<key>graphThroughKind</key>
+	<string>pageviewSystemOffset</string>
+	<key>logarithmTaskDensity</key>
+	<string>priorityStrategyLocation</string>
+	<key>nativeEffectSaturation</key>
+	<string>decorationOrShape</string>
+	<key>storyboardByStructure</key>
+	<string>beginnerDecorationScale</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellNearMethod</key>
+	<string>expandedAgainstBridge</string>
+	<key>dependencyActionTint</key>
+	<string>opaqueMatrixRate</string>
+	<key>smallUtilVisible</key>
+	<string>builderMediatorPadding</string>
+	<key>tickerCycleTag</key>
+	<string>catalystAgainstInterpreter</string>
+</dict>
+</plist>

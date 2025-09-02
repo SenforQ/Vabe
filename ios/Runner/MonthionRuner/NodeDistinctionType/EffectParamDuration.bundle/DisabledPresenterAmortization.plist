@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionEnvironmentScale</key>
+	<string>alignmentByObserver</string>
+	<key>navigatorPlatformMomentum</key>
+	<string>tappableRadioBorder</string>
+	<key>priorPageviewTheme</key>
+	<string>localizationAroundSingleton</string>
+	<key>scaleThroughFlyweight</key>
+	<string>indicatorOutsideEnvironment</string>
+	<key>tensorGrayscaleDistance</key>
+	<string>persistentServiceScale</string>
+</dict>
+</plist>

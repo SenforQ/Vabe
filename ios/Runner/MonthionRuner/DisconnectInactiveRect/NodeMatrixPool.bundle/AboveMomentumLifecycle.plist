@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchModeRotation</key>
+	<string>effectIncludeInterpreter</string>
+	<key>dynamicProtocolAlignment</key>
+	<string>customizedApertureAppearance</string>
+	<key>resolverShapeInteraction</key>
+	<string>zoneCompositeScale</string>
+	<key>signatureTierHead</key>
+	<string>statelessNibResponse</string>
+	<key>taskByComposite</key>
+	<string>standalonePetSaturation</string>
+	<key>visibleOptionMode</key>
+	<string>requestVersusTier</string>
+</dict>
+</plist>

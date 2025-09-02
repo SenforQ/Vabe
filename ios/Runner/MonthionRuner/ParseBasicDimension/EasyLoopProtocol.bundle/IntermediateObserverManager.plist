@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAtSingleton</key>
+	<string>handlerStageTheme</string>
+	<key>callbackDespiteFlyweight</key>
+	<string>switchStageCount</string>
+	<key>diffableLocalizationTop</key>
+	<string>descriptionActionOrigin</string>
+	<key>dimensionSinceVisitor</key>
+	<string>capacitiesFromFlyweight</string>
+	<key>errorActivitySkewy</key>
+	<string>normalOverlayRate</string>
+	<key>labelVisitorSpeed</key>
+	<string>deferredRadiusMode</string>
+	<key>sizedboxInFlyweight</key>
+	<string>interactiveMobileKind</string>
+	<key>titleProxyVisibility</key>
+	<string>chapterPhaseLeft</string>
+</dict>
+</plist>

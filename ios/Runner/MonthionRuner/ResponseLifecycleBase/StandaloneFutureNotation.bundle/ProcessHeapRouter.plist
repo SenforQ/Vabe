@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerThroughPattern</key>
+	<string>priorResultInteraction</string>
+	<key>containerAsPattern</key>
+	<string>viewFlyweightSaturation</string>
+	<key>customScaleRight</key>
+	<string>movementAgainstCycle</string>
+	<key>equalizationWithoutShape</key>
+	<string>previewVarInteraction</string>
+	<key>graphContainValue</key>
+	<string>isolateFrameworkTension</string>
+	<key>materialResponseName</key>
+	<string>resourceAndPattern</string>
+	<key>memberNearPlatform</key>
+	<string>robustBlocRight</string>
+	<key>presenterCommandTint</key>
+	<string>graphTypeOffset</string>
+	<key>tangentChainMode</key>
+	<string>accordionDelegateRight</string>
+</dict>
+</plist>

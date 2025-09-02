@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopFragmentOrigin</key>
+	<string>logarithmFrameworkPosition</string>
+	<key>dynamicInteractorName</key>
+	<string>builderChainMode</string>
+	<key>indicatorLikeMethod</key>
+	<string>persistentEntityStatus</string>
+	<key>indicatorViaMethod</key>
+	<string>anchorPhaseStyle</string>
+	<key>lazyTabviewEdge</key>
+	<string>painterFromBridge</string>
+	<key>statelessDecorationDuration</key>
+	<string>hardMonsterBehavior</string>
+	<key>sustainableShaderMode</key>
+	<string>boxDespiteValue</string>
+	<key>transitionFromTask</key>
+	<string>intensityPrototypeResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCoordinatorContrast</key>
+	<string>subpixelAndProcess</string>
+	<key>brushInsideStyle</key>
+	<string>anchorCycleState</string>
+	<key>bufferExceptPattern</key>
+	<string>visibleOperationInterval</string>
+	<key>cupertinoMobileInterval</key>
+	<string>coordinatorStructurePosition</string>
+	<key>labelScopeDistance</key>
+	<string>tweenAsAction</string>
+	<key>listviewAlongFlyweight</key>
+	<string>queryInsideVisitor</string>
+	<key>nibViaCycle</key>
+	<string>frameFromType</string>
+	<key>providerKindAlignment</key>
+	<string>popupProxyMargin</string>
+	<key>sceneStageCenter</key>
+	<string>cosineAndContext</string>
+	<key>shaderAndMethod</key>
+	<string>transformerStateDensity</string>
+</dict>
+</plist>

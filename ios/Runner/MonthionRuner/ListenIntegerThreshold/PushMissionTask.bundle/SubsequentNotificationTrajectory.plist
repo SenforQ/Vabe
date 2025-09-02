@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeCommandFrequency</key>
+	<string>segmentByShape</string>
+	<key>firstThemeFrequency</key>
+	<string>routerAndValue</string>
+	<key>memberOutsideSystem</key>
+	<string>navigatorPlatformBehavior</string>
+	<key>navigatorFunctionVisibility</key>
+	<string>blocDespiteStage</string>
+	<key>parallelTaskHead</key>
+	<string>ignoredLoopPressure</string>
+	<key>providerViaObserver</key>
+	<string>delegatePatternStatus</string>
+	<key>subscriptionInterpreterVisibility</key>
+	<string>stackShapeHue</string>
+	<key>utilPatternFlags</key>
+	<string>alertSingletonTransparency</string>
+</dict>
+</plist>

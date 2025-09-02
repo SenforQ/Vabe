@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackPrototypeMode</key>
+	<string>temporaryDrawerDensity</string>
+	<key>dropdownbuttonValueDelay</key>
+	<string>characterContextBrightness</string>
+	<key>gesturedetectorOperationCenter</key>
+	<string>handlerContextOrientation</string>
+	<key>lostSemanticsOffset</key>
+	<string>diffableDelegateColor</string>
+	<key>sinkAgainstFlyweight</key>
+	<string>extensionActivityFlags</string>
+</dict>
+</plist>

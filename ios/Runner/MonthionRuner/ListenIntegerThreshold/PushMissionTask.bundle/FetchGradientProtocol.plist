@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisPhaseCenter</key>
+	<string>immediatePositionedDistance</string>
+	<key>borderAwayAdapter</key>
+	<string>skirtProcessTint</string>
+	<key>boxVarBehavior</key>
+	<string>granularTransitionOffset</string>
+	<key>draggableTextInterval</key>
+	<string>sizeBeyondComposite</string>
+	<key>sceneBufferSkewx</key>
+	<string>modulusPhaseDepth</string>
+	<key>streamEnvironmentOrigin</key>
+	<string>serviceDuringType</string>
+	<key>temporaryNavigatorShade</key>
+	<string>particlePerEnvironment</string>
+</dict>
+</plist>

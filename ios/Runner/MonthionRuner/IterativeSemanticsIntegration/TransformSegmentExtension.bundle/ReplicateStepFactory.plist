@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerAndKind</key>
+	<string>nextCupertinoInteraction</string>
+	<key>pageviewDuringPlatform</key>
+	<string>compositionalNotifierAcceleration</string>
+	<key>skirtOutsideOperation</key>
+	<string>storageAgainstEnvironment</string>
+	<key>ternaryAndPhase</key>
+	<string>iterativeDescriptionMargin</string>
+</dict>
+</plist>

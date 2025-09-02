@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPhaseMargin</key>
+	<string>cupertinoConstraintOffset</string>
+	<key>asyncPlaybackValidation</key>
+	<string>originalCompleterHue</string>
+	<key>convolutionBesideStrategy</key>
+	<string>mediaBridgeColor</string>
+	<key>declarativeArithmeticVisible</key>
+	<string>cartesianSlashCount</string>
+	<key>nextCompositionBehavior</key>
+	<string>timerLayerShade</string>
+	<key>sampleAroundScope</key>
+	<string>adaptiveSpineLeft</string>
+	<key>sizedboxParamDirection</key>
+	<string>signaturePhaseVisibility</string>
+	<key>substantialChannelFlags</key>
+	<string>compositionIncludeInterpreter</string>
+	<key>textProcessOrigin</key>
+	<string>featureForProcess</string>
+</dict>
+</plist>

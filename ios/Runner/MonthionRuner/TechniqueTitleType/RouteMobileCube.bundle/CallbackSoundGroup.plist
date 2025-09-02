@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeOptimizerBehavior</key>
+	<string>interactorFormIndex</string>
+	<key>canvasScopeTail</key>
+	<string>synchronousRowMode</string>
+	<key>checklistProxyInset</key>
+	<string>offsetVarShape</string>
+	<key>disabledChartFlags</key>
+	<string>particleAtVariable</string>
+	<key>disparateEquipmentDirection</key>
+	<string>providerFlyweightColor</string>
+	<key>mobileReducerTransparency</key>
+	<string>staticRouteFrequency</string>
+	<key>positionUntilMemento</key>
+	<string>chapterScopeInterval</string>
+	<key>subsequentResponseFeedback</key>
+	<string>listenerDuringMediator</string>
+	<key>usecaseSingletonPressure</key>
+	<string>protectedCursorVisibility</string>
+</dict>
+</plist>

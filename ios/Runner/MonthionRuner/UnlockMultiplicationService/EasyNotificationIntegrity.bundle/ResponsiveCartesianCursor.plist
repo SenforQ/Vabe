@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintOperationDirection</key>
+	<string>taskExceptActivity</string>
+	<key>decorationCycleOpacity</key>
+	<string>petTempleOpacity</string>
+	<key>functionalLoopSize</key>
+	<string>widgetVersusMediator</string>
+	<key>functionalResourceDensity</key>
+	<string>repositoryInsideMediator</string>
+	<key>mobxPerObserver</key>
+	<string>cupertinoSignRight</string>
+	<key>radiusPerActivity</key>
+	<string>buttonScopeDepth</string>
+	<key>unsortedMapVisible</key>
+	<string>displayableZoneInterval</string>
+</dict>
+</plist>

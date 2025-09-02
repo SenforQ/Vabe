@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAboutActivity</key>
+	<string>effectUntilVariable</string>
+	<key>effectJobVisibility</key>
+	<string>scrollableCoordinatorOrientation</string>
+	<key>intensityAmongSingleton</key>
+	<string>activatedSizeOpacity</string>
+	<key>keyNavigationDirection</key>
+	<string>chartCycleTint</string>
+	<key>positionedOfScope</key>
+	<string>completerObserverStyle</string>
+	<key>progressbarAroundActivity</key>
+	<string>tickerBridgeLeft</string>
+	<key>textAmongNumber</key>
+	<string>graphStrategyDuration</string>
+</dict>
+</plist>

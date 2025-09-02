@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionParamHead</key>
+	<string>methodPerStrategy</string>
+	<key>globalGestureOrientation</key>
+	<string>imperativeGrainTheme</string>
+	<key>positionCycleBottom</key>
+	<string>permanentMatrixInset</string>
+	<key>requiredPetOrientation</key>
+	<string>graphAlongStyle</string>
+	<key>resultIncludeBuffer</key>
+	<string>delegateVisitorSize</string>
+	<key>skirtTypePadding</key>
+	<string>listviewMethodCount</string>
+</dict>
+</plist>

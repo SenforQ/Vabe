@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBridgeName</key>
+	<string>cursorVersusDecorator</string>
+	<key>desktopStateBehavior</key>
+	<string>streamCycleDelay</string>
+	<key>flexVariableBound</key>
+	<string>baselineAboutStrategy</string>
+	<key>futureAndTask</key>
+	<string>denseControllerTransparency</string>
+	<key>segmentStructureOffset</key>
+	<string>enabledPositionKind</string>
+</dict>
+</plist>

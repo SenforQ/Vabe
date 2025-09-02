@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorFacadeBorder</key>
+	<string>modalObserverStatus</string>
+	<key>descriptorOutsideFacade</key>
+	<string>durationBeyondBuffer</string>
+	<key>factoryActivityName</key>
+	<string>completerAtBridge</string>
+	<key>factoryIncludeChain</key>
+	<string>previewIncludeMethod</string>
+	<key>gridMementoResponse</key>
+	<string>visibleMovementShape</string>
+	<key>metadataDuringMode</key>
+	<string>previewStageDirection</string>
+	<key>specifierBesideMemento</key>
+	<string>statelessCubeFrequency</string>
+	<key>subscriptionNearPhase</key>
+	<string>resourceViaValue</string>
+	<key>tensorLayoutSpacing</key>
+	<string>gridMediatorShape</string>
+</dict>
+</plist>

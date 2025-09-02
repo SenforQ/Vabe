@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basePlatformValidation</key>
+	<string>tableSincePhase</string>
+	<key>extensionMementoDelay</key>
+	<string>requestStateDelay</string>
+	<key>robustPresenterTransparency</key>
+	<string>inactiveVectorTheme</string>
+	<key>routeInCycle</key>
+	<string>denseModalOffset</string>
+	<key>specifierOfStructure</key>
+	<string>configurationProcessVisibility</string>
+	<key>textOfParam</key>
+	<string>futureSinceInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMetadataInterval</key>
+	<string>globalRadiusSize</string>
+	<key>constraintViaMemento</key>
+	<string>resourceByProcess</string>
+	<key>easyGroupHue</key>
+	<string>cycleShapeVelocity</string>
+	<key>managerContextDistance</key>
+	<string>gridVariableTint</string>
+	<key>seamlessActivityLocation</key>
+	<string>anchorTempleSaturation</string>
+	<key>significantMediaHead</key>
+	<string>graphicMethodRate</string>
+	<key>transitionFromPrototype</key>
+	<string>isolateStructureDepth</string>
+</dict>
+</plist>

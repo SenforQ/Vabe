@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerFlyweightVisibility</key>
+	<string>cartesianTouchInset</string>
+	<key>graphicFrameworkTail</key>
+	<string>scaleOrPhase</string>
+	<key>nativeCardFlags</key>
+	<string>temporarySliderInset</string>
+	<key>observerPlatformCount</key>
+	<string>completionStructureAppearance</string>
+	<key>reusablePageviewBrightness</key>
+	<string>borderPrototypeDelay</string>
+</dict>
+</plist>

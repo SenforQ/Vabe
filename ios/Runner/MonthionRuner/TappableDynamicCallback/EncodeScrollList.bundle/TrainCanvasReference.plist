@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPerStructure</key>
+	<string>effectAtWork</string>
+	<key>animationDuringScope</key>
+	<string>associatedReducerOffset</string>
+	<key>behaviorFunctionCoord</key>
+	<string>optimizerVarSaturation</string>
+	<key>boxPerPlatform</key>
+	<string>exponentMediatorType</string>
+	<key>newestProfileMomentum</key>
+	<string>spotValueVelocity</string>
+	<key>positionedChainBorder</key>
+	<string>gateBeyondContext</string>
+	<key>stateMementoSpacing</key>
+	<string>storeDuringFacade</string>
+	<key>webTransitionPosition</key>
+	<string>labelWithoutChain</string>
+</dict>
+</plist>

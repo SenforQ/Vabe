@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalConstraintName</key>
+	<string>layerStrategyOpacity</string>
+	<key>painterAmongMemento</key>
+	<string>completerPerValue</string>
+	<key>robustSegmentBehavior</key>
+	<string>durationMementoBound</string>
+	<key>routeOrDecorator</key>
+	<string>particleMethodInteraction</string>
+	<key>scrollOrForm</key>
+	<string>nodePhaseSize</string>
+	<key>sequentialSkinRate</key>
+	<string>cellInCycle</string>
+	<key>sliderStateLeft</key>
+	<string>permanentDelegateInterval</string>
+</dict>
+</plist>

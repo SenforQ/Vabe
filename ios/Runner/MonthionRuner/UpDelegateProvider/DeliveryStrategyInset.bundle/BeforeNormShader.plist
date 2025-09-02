@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardProviderOrigin</key>
+	<string>nodePrototypeFeedback</string>
+	<key>compositionalStreamOrientation</key>
+	<string>streamAroundAction</string>
+	<key>enabledAsyncBehavior</key>
+	<string>backwardWidgetHead</string>
+	<key>mainAlphaLocation</key>
+	<string>layerDecoratorHue</string>
+	<key>sizeViaSystem</key>
+	<string>graphicPatternEdge</string>
+</dict>
+</plist>

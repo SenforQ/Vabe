@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartActivityMargin</key>
+	<string>extensionFromStrategy</string>
+	<key>firstCoordinatorBound</key>
+	<string>disparateColumnSaturation</string>
+	<key>permissiveGridDirection</key>
+	<string>pageviewNearCommand</string>
+	<key>smallServiceSpeed</key>
+	<string>blocDecoratorTransparency</string>
+	<key>temporaryTextVisibility</key>
+	<string>apertureValueOffset</string>
+	<key>themeContainBuffer</key>
+	<string>cycleAlongState</string>
+</dict>
+</plist>

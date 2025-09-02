@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerContainCommand</key>
+	<string>themeActionState</string>
+	<key>navigationOrPlatform</key>
+	<string>interfaceAdapterKind</string>
+	<key>permissiveBoxFlags</key>
+	<string>storagePlatformOrientation</string>
+	<key>topicContainVisitor</key>
+	<string>iconFunctionScale</string>
+	<key>tweenOrState</key>
+	<string>backwardTaskColor</string>
+</dict>
+</plist>

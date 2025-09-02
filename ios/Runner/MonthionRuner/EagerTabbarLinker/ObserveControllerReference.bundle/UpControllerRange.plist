@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryValuePosition</key>
+	<string>tickerCommandTop</string>
+	<key>delegateKindContrast</key>
+	<string>typicalRowAlignment</string>
+	<key>immediateGridSaturation</key>
+	<string>deferredBrushAcceleration</string>
+	<key>intensityIncludeMemento</key>
+	<string>vectorObserverPadding</string>
+	<key>playbackNearMemento</key>
+	<string>invisibleInstructionState</string>
+	<key>smartErrorMomentum</key>
+	<string>statefulAllocatorRight</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseChainSkewy</key>
+	<string>layerAroundShape</string>
+	<key>commandPerChain</key>
+	<string>dependencyWithLayer</string>
+	<key>instructionObserverColor</key>
+	<string>globalProfileForce</string>
+	<key>layerInsideLayer</key>
+	<string>touchStructureTheme</string>
+	<key>lossUntilPrototype</key>
+	<string>ternaryFromMemento</string>
+	<key>scalePlatformScale</key>
+	<string>chartNumberEdge</string>
+	<key>segueMementoInteraction</key>
+	<string>arithmeticVariantShade</string>
+	<key>segueTaskFrequency</key>
+	<string>diffableProgressbarIndex</string>
+	<key>topicWorkCoord</key>
+	<string>menuKindOpacity</string>
+</dict>
+</plist>

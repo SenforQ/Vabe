@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderByParameter</key>
+	<string>drawerScopeFlags</string>
+	<key>descriptionByVisitor</key>
+	<string>axisStateVisible</string>
+	<key>mediaTypeDuration</key>
+	<string>painterAsState</string>
+	<key>playbackAlongMethod</key>
+	<string>callbackProcessMargin</string>
+	<key>remainderVarCount</key>
+	<string>bufferPhaseFlags</string>
+	<key>resolverVariableSpacing</key>
+	<string>mapMethodOffset</string>
+	<key>segueAwayVisitor</key>
+	<string>interactorThroughMediator</string>
+	<key>touchTaskPadding</key>
+	<string>unactivatedCapsuleBorder</string>
+</dict>
+</plist>

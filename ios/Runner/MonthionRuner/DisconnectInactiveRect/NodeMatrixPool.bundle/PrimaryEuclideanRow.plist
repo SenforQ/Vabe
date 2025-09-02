@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentTimerValidation</key>
+	<string>resolverModeSize</string>
+	<key>fixedResolverBrightness</key>
+	<string>agileSubscriptionLocation</string>
+	<key>fusedViewPosition</key>
+	<string>pinchableSymbolFeedback</string>
+	<key>independentGraphSpacing</key>
+	<string>topicNearSystem</string>
+	<key>multiTangentSkewy</key>
+	<string>topicInterpreterShape</string>
+	<key>oldStreamBorder</key>
+	<string>graphicBridgeSkewy</string>
+	<key>sliderContextTint</key>
+	<string>managerBridgeShade</string>
+	<key>temporaryManagerContrast</key>
+	<string>inheritedProtocolHead</string>
+</dict>
+</plist>

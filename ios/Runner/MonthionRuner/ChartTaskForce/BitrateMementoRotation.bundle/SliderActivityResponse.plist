@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChapterRight</key>
+	<string>alignmentExceptCycle</string>
+	<key>callbackAsFramework</key>
+	<string>associatedInteractorStyle</string>
+	<key>decorationActivityName</key>
+	<string>sequentialCollectionInterval</string>
+	<key>lostBehaviorEdge</key>
+	<string>challengeOrComposite</string>
+	<key>resultFacadeVisibility</key>
+	<string>dedicatedAnimatedcontainerDensity</string>
+	<key>temporaryKernelBorder</key>
+	<string>boxOperationRate</string>
+</dict>
+</plist>

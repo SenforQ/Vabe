@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMobxBehavior</key>
+	<string>heroOrForm</string>
+	<key>capsuleMethodInteraction</key>
+	<string>grainFacadeIndex</string>
+	<key>crudePrecisionDuration</key>
+	<string>memberAboutOperation</string>
+	<key>localFactoryValidation</key>
+	<string>modelStrategyLocation</string>
+	<key>mediaqueryScopeTop</key>
+	<string>tabbarVarTransparency</string>
+	<key>permanentConstraintTint</key>
+	<string>notifierPlatformTag</string>
+	<key>subsequentChapterTheme</key>
+	<string>concreteMenuSpacing</string>
+	<key>symmetricTextfieldDensity</key>
+	<string>specifierTaskAppearance</string>
+	<key>unactivatedChecklistRate</key>
+	<string>timerVersusComposite</string>
+</dict>
+</plist>

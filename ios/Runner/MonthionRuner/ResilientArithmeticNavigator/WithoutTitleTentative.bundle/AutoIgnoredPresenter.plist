@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularListenerDepth</key>
+	<string>metadataAndInterpreter</string>
+	<key>interactorExceptFlyweight</key>
+	<string>promiseSystemDuration</string>
+	<key>retainedCoordinatorState</key>
+	<string>drawerInsideObserver</string>
+	<key>reusableConstraintKind</key>
+	<string>semanticsDespiteProxy</string>
+	<key>singleGesturedetectorTheme</key>
+	<string>resizableServiceSkewx</string>
+	<key>substantialInkwellContrast</key>
+	<string>actionOutsideScope</string>
+	<key>timerActionRotation</key>
+	<string>publicResultOffset</string>
+</dict>
+</plist>

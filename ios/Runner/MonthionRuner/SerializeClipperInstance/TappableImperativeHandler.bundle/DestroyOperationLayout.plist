@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitCompositeAlignment</key>
+	<string>dependencyAtMethod</string>
+	<key>entityScopeFormat</key>
+	<string>interactiveSessionVisible</string>
+	<key>fragmentAsKind</key>
+	<string>nodeMethodVisible</string>
+	<key>sortedIntegerMode</key>
+	<string>dialogsAlongPlatform</string>
+	<key>themeAlongTemple</key>
+	<string>methodUntilLayer</string>
+	<key>webRouteDistance</key>
+	<string>hashForLayer</string>
+</dict>
+</plist>

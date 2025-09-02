@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardSymbolMargin</key>
+	<string>sortedConstraintRight</string>
+	<key>dependencyPerLayer</key>
+	<string>variantBesideLayer</string>
+	<key>grayscaleCycleOrigin</key>
+	<string>newestGraphStatus</string>
+	<key>pointModePosition</key>
+	<string>requestVersusState</string>
+	<key>similarMethodPosition</key>
+	<string>liteStatelessStyle</string>
+	<key>specifyLayoutOpacity</key>
+	<string>sampleNearFlyweight</string>
+	<key>usecaseFunctionCount</key>
+	<string>bufferThanAdapter</string>
+	<key>widgetAsState</key>
+	<string>cupertinoFactoryDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocLikeCommand</key>
+	<string>textNumberFeedback</string>
+	<key>commandVersusMethod</key>
+	<string>localThreadLeft</string>
+	<key>deferredCapsuleFrequency</key>
+	<string>tensorCycleSpacing</string>
+	<key>deferredProgressbarInterval</key>
+	<string>profileWithPattern</string>
+	<key>diffableActivityOrientation</key>
+	<string>blocWithTask</string>
+	<key>offsetAgainstActivity</key>
+	<string>observerProxyBottom</string>
+	<key>priorToolCoord</key>
+	<string>ignoredDialogsFeedback</string>
+	<key>sequentialGetxVisible</key>
+	<string>graphicOfJob</string>
+</dict>
+</plist>

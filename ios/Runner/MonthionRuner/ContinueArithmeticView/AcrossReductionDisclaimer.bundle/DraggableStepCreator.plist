@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletBufferSize</key>
+	<string>viewForEnvironment</string>
+	<key>difficultBrushPosition</key>
+	<string>smallFactoryName</string>
+	<key>elasticReducerSpeed</key>
+	<string>sliderAboutStage</string>
+	<key>gesturedetectorForTask</key>
+	<string>effectDuringComposite</string>
+	<key>mobileEqualizationOrigin</key>
+	<string>synchronousTransformerLeft</string>
+	<key>prevDependencyContrast</key>
+	<string>handlerContextFormat</string>
+	<key>querySinceMethod</key>
+	<string>taskInsidePattern</string>
+	<key>stepStyleVisible</key>
+	<string>loopStageHue</string>
+</dict>
+</plist>

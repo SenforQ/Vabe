@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetWorkBehavior</key>
+	<string>popupExceptAdapter</string>
+	<key>delegateBesideForm</key>
+	<string>subsequentWidgetDensity</string>
+	<key>delicateFrameFrequency</key>
+	<string>positionParamBorder</string>
+	<key>promiseBridgeInteraction</key>
+	<string>difficultViewStatus</string>
+	<key>requiredLayoutDensity</key>
+	<string>usedUsecaseBehavior</string>
+</dict>
+</plist>

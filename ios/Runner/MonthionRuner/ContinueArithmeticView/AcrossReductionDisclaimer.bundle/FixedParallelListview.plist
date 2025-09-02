@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedSceneAppearance</key>
+	<string>certificateProcessFormat</string>
+	<key>painterFormValidation</key>
+	<string>immediateRowFormat</string>
+	<key>permissiveMobileInterval</key>
+	<string>responsiveMediaRate</string>
+	<key>smartDescriptorIndex</key>
+	<string>synchronousAppbarInteraction</string>
+	<key>stateFunctionRate</key>
+	<string>invisibleBoxHead</string>
+	<key>subscriptionTaskBehavior</key>
+	<string>mutableDurationBehavior</string>
+</dict>
+</plist>

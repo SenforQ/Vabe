@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProviderPosition</key>
+	<string>cursorCycleOpacity</string>
+	<key>catalystNumberType</key>
+	<string>permanentRowSpeed</string>
+	<key>constraintFromState</key>
+	<string>chapterPatternState</string>
+	<key>getxVersusState</key>
+	<string>reducerMediatorAcceleration</string>
+	<key>hashTaskInteraction</key>
+	<string>projectAlongCycle</string>
+	<key>lastTimerType</key>
+	<string>durationForCommand</string>
+	<key>radiusOperationAcceleration</key>
+	<string>sizeFlyweightFeedback</string>
+	<key>specifierVersusCommand</key>
+	<string>deferredAlphaTint</string>
+</dict>
+</plist>

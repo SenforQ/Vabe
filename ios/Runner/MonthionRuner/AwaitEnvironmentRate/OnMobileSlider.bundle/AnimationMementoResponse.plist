@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaBufferShape</key>
+	<string>disparateCellColor</string>
+	<key>axisAroundLevel</key>
+	<string>disparateFactoryColor</string>
+	<key>channelsAtStructure</key>
+	<string>typicalSliderSkewx</string>
+	<key>significantLayoutCoord</key>
+	<string>synchronousCursorFeedback</string>
+</dict>
+</plist>

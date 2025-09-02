@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterSinceFlyweight</key>
+	<string>actionFromLayer</string>
+	<key>cycleInBridge</key>
+	<string>rowPerLevel</string>
+	<key>easyViewAcceleration</key>
+	<string>tappableGraphInteraction</string>
+	<key>relationalTitleAppearance</key>
+	<string>concreteMetadataSkewy</string>
+	<key>resizableEntityInterval</key>
+	<string>timerAsSingleton</string>
+	<key>smartInteractorCoord</key>
+	<string>chapterFlyweightInteraction</string>
+</dict>
+</plist>

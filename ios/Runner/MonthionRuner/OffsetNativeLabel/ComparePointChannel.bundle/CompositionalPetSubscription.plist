@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventMementoInset</key>
+	<string>viewModeFeedback</string>
+	<key>gridWithoutMemento</key>
+	<string>localizationAlongMethod</string>
+	<key>immutableFeatureValidation</key>
+	<string>bitrateNumberStatus</string>
+	<key>listenerStrategyRotation</key>
+	<string>borderAroundPlatform</string>
+	<key>reactiveCubeCount</key>
+	<string>easyStatelessVisibility</string>
+	<key>scrollableTickerKind</key>
+	<string>advancedServiceShade</string>
+	<key>visibleSegueMode</key>
+	<string>resourceAmongFramework</string>
+</dict>
+</plist>

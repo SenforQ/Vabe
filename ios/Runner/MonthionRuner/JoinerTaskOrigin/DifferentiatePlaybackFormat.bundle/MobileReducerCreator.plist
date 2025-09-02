@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferParamForce</key>
+	<string>storeAgainstFacade</string>
+	<key>imageOrCycle</key>
+	<string>boxshadowByShape</string>
+	<key>immutableFactoryFrequency</key>
+	<string>originalMediaqueryFlags</string>
+	<key>numericalLogVisible</key>
+	<string>inheritedPositionFrequency</string>
+	<key>queryStageVisible</key>
+	<string>permissiveBinaryCoord</string>
+	<key>requestTypeFormat</key>
+	<string>delegateOutsideMediator</string>
+	<key>specifyChannelAppearance</key>
+	<string>spotDecoratorLeft</string>
+</dict>
+</plist>

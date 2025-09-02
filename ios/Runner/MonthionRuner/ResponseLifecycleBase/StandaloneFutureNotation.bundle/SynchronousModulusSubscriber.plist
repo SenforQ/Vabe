@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalStorageAlignment</key>
+	<string>specifyActionOrientation</string>
+	<key>dimensionStageShape</key>
+	<string>immutableTextRight</string>
+	<key>opaqueGraphPosition</key>
+	<string>presenterForTier</string>
+	<key>scaleThroughLayer</key>
+	<string>publicAssetCount</string>
+	<key>transitionEnvironmentBottom</key>
+	<string>activityLevelBehavior</string>
+</dict>
+</plist>

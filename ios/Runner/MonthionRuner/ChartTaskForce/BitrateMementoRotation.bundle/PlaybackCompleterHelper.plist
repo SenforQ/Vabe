@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandBesideBridge</key>
+	<string>flexibleBehaviorDelay</string>
+	<key>dependencyVariableValidation</key>
+	<string>blocPhaseVisibility</string>
+	<key>enabledAsyncShape</key>
+	<string>hierarchicalResolverLocation</string>
+	<key>isolateFrameworkValidation</key>
+	<string>animatedcontainerFunctionHue</string>
+	<key>mobileUsecaseBorder</key>
+	<string>basicPainterScale</string>
+	<key>presenterAtState</key>
+	<string>taskVariableAlignment</string>
+	<key>spriteFunctionDirection</key>
+	<string>documentLikeSystem</string>
+	<key>usedMovementBehavior</key>
+	<string>operationDespiteWork</string>
+</dict>
+</plist>

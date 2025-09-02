@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveNavigatorBrightness</key>
+	<string>hierarchicalDelegateDistance</string>
+	<key>advancedCallbackSpacing</key>
+	<string>resilientLabelAlignment</string>
+	<key>alertStrategyMargin</key>
+	<string>arithmeticModeAlignment</string>
+	<key>borderWithOperation</key>
+	<string>layoutStateTransparency</string>
+	<key>delegateTaskTransparency</key>
+	<string>resourceMethodState</string>
+	<key>inkwellModeMomentum</key>
+	<string>sensorUntilWork</string>
+	<key>prismaticDependencyHue</key>
+	<string>stepValueBrightness</string>
+	<key>streamAsEnvironment</key>
+	<string>unactivatedUtilOrigin</string>
+</dict>
+</plist>

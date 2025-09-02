@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInteractorOffset</key>
+	<string>rectPlatformFeedback</string>
+	<key>constraintStrategyAcceleration</key>
+	<string>commandStyleRight</string>
+	<key>criticalBlocSkewx</key>
+	<string>curveSinceOperation</string>
+	<key>gridviewContainMemento</key>
+	<string>difficultCharacterOrientation</string>
+	<key>hierarchicalCapacitiesTransparency</key>
+	<string>tickerNearActivity</string>
+	<key>synchronousOffsetShade</key>
+	<string>granularRadiusHue</string>
+</dict>
+</plist>

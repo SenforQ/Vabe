@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxUntilForm</key>
+	<string>methodAdapterBehavior</string>
+	<key>effectStructureBorder</key>
+	<string>resizableHashBrightness</string>
+	<key>grainOutsideScope</key>
+	<string>grayscaleShapeVelocity</string>
+	<key>matrixAmongPattern</key>
+	<string>hyperbolicStoreTint</string>
+	<key>seamlessCosineCoord</key>
+	<string>synchronousCanvasDelay</string>
+	<key>usageWithoutFacade</key>
+	<string>permissiveTransformerIndex</string>
+</dict>
+</plist>

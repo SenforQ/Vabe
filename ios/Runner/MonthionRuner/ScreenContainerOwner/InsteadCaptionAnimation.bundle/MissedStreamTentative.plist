@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCharacterBehavior</key>
+	<string>pivotalTickerSkewy</string>
+	<key>behaviorFormLeft</key>
+	<string>popupWithInterpreter</string>
+	<key>originalEventInset</key>
+	<string>boxAndAction</string>
+	<key>radiusAndBridge</key>
+	<string>histogramAlongVariable</string>
+	<key>tableWithVar</key>
+	<string>permissiveFeatureEdge</string>
+</dict>
+</plist>

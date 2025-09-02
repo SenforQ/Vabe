@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intensityChainBorder</key>
+	<string>delegateAroundAction</string>
+	<key>menuSystemBottom</key>
+	<string>symbolLikeSystem</string>
+	<key>normStrategyTheme</key>
+	<string>widgetViaFramework</string>
+	<key>radiusByDecorator</key>
+	<string>numericalRouterForce</string>
+	<key>textFunctionStatus</key>
+	<string>granularTickerState</string>
+	<key>transformerContextInset</key>
+	<string>behaviorLevelTransparency</string>
+	<key>transformerPhaseMode</key>
+	<string>gramEnvironmentOpacity</string>
+</dict>
+</plist>

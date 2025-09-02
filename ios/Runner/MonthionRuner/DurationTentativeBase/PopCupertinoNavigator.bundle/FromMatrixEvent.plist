@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionProcessDistance</key>
+	<string>exponentSinceMode</string>
+	<key>denseEffectMode</key>
+	<string>pinchableTitleFormat</string>
+	<key>documentSingletonAppearance</key>
+	<string>managerAsScope</string>
+	<key>functionalBlocFlags</key>
+	<string>extensionAmongScope</string>
+	<key>overlayOperationVisible</key>
+	<string>builderParameterValidation</string>
+	<key>sizedboxTierPadding</key>
+	<string>painterOperationScale</string>
+	<key>taskOutsideKind</key>
+	<string>crucialBrushContrast</string>
+</dict>
+</plist>

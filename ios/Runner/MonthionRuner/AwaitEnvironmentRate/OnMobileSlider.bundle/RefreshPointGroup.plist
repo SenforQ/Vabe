@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationJobAlignment</key>
+	<string>expandedAgainstTask</string>
+	<key>bufferCycleFlags</key>
+	<string>permanentQueueAcceleration</string>
+	<key>liteSessionTransparency</key>
+	<string>fixedProfileMode</string>
+	<key>nodeNearParam</key>
+	<string>allocatorDuringActivity</string>
+	<key>pageviewWorkValidation</key>
+	<string>channelAndStyle</string>
+	<key>symmetricCollectionMomentum</key>
+	<string>rowLikeKind</string>
+	<key>tabviewPrototypeInteraction</key>
+	<string>factoryPerMethod</string>
+</dict>
+</plist>

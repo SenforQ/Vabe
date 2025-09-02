@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPatternState</key>
+	<string>navigationTierShade</string>
+	<key>awaitAmongTier</key>
+	<string>subtlePriorityDensity</string>
+	<key>geometricEqualizationInterval</key>
+	<string>rowCompositeEdge</string>
+	<key>momentumPrototypeCount</key>
+	<string>denseGestureCenter</string>
+</dict>
+</plist>

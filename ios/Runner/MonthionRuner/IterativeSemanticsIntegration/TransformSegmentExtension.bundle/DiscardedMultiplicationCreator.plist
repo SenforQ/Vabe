@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorVarDelay</key>
+	<string>brushDecoratorColor</string>
+	<key>difficultTickerSpacing</key>
+	<string>gesturePhaseAcceleration</string>
+	<key>nodeWorkRotation</key>
+	<string>decorationAsParam</string>
+	<key>prismaticSegmentIndex</key>
+	<string>delicateConstraintMode</string>
+	<key>seamlessBuilderEdge</key>
+	<string>mobileInsideType</string>
+	<key>serviceParamOrientation</key>
+	<string>retainedResponseBehavior</string>
+	<key>sessionBeyondPattern</key>
+	<string>stampEnvironmentInteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileScaleCount</key>
+	<string>usageInFlyweight</string>
+	<key>clipperNearType</key>
+	<string>dedicatedFutureDirection</string>
+	<key>dimensionWithoutFacade</key>
+	<string>opaqueIndicatorRotation</string>
+	<key>metadataStyleAcceleration</key>
+	<string>dynamicStateLocation</string>
+	<key>navigationVisitorMargin</key>
+	<string>documentMementoShape</string>
+	<key>rectFromOperation</key>
+	<string>protocolThroughForm</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitWithoutLayer</key>
+	<string>effectCommandTint</string>
+	<key>boxInsideShape</key>
+	<string>diffableContainerDepth</string>
+	<key>eventViaStage</key>
+	<string>resilientLayerVisibility</string>
+	<key>presenterWorkSize</key>
+	<string>firstPreviewDuration</string>
+	<key>queryTaskState</key>
+	<string>activatedBlocAppearance</string>
+</dict>
+</plist>

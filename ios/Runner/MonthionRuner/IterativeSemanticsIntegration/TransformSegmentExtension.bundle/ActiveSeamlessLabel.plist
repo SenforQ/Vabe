@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellLevelRotation</key>
+	<string>eventValueSkewx</string>
+	<key>heroTaskSize</key>
+	<string>unsortedActionAcceleration</string>
+	<key>managerVariableType</key>
+	<string>deferredAllocatorAppearance</string>
+	<key>mediocreRoleColor</key>
+	<string>errorAwayComposite</string>
+	<key>semanticResultMode</key>
+	<string>scaleCommandAppearance</string>
+</dict>
+</plist>

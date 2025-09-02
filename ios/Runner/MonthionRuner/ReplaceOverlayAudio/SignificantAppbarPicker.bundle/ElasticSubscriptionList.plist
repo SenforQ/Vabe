@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorProcessAcceleration</key>
+	<string>offsetAroundVariable</string>
+	<key>blocAmongMemento</key>
+	<string>heapProxyBorder</string>
+	<key>completerActionAlignment</key>
+	<string>rectVersusAdapter</string>
+	<key>grayscaleBridgeFeedback</key>
+	<string>flexibleGradientStatus</string>
+	<key>modelAwayNumber</key>
+	<string>delegateForFramework</string>
+	<key>previewScopePressure</key>
+	<string>materialRadiusRotation</string>
+	<key>reusableListviewSkewx</key>
+	<string>composableReducerFrequency</string>
+</dict>
+</plist>

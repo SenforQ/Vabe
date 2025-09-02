@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorOrStyle</key>
+	<string>textfieldAsPrototype</string>
+	<key>channelsIncludeFacade</key>
+	<string>serviceTypeVelocity</string>
+	<key>retainedModelColor</key>
+	<string>explicitDecorationType</string>
+	<key>screenFrameworkHue</key>
+	<string>referenceAroundMediator</string>
+	<key>smartWidgetBehavior</key>
+	<string>bufferBesideProcess</string>
+</dict>
+</plist>

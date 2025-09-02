@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarCycleDistance</key>
+	<string>resultOutsideFacade</string>
+	<key>collectionVersusMediator</key>
+	<string>pivotalScaleDelay</string>
+	<key>commonDecorationSize</key>
+	<string>imageContainProcess</string>
+	<key>disabledPlateLeft</key>
+	<string>kernelDecoratorRotation</string>
+	<key>frameWorkOrientation</key>
+	<string>immediateBatchIndex</string>
+	<key>globalProtocolTint</key>
+	<string>relationalTextPosition</string>
+	<key>indicatorEnvironmentType</key>
+	<string>particleProcessAlignment</string>
+	<key>statelessAwaitHead</key>
+	<string>temporaryColumnPressure</string>
+</dict>
+</plist>

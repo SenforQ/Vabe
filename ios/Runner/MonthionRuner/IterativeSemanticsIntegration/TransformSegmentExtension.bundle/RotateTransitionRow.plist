@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBesideAction</key>
+	<string>accessibleSingletonOpacity</string>
+	<key>dependencyInsidePrototype</key>
+	<string>resolverOrSystem</string>
+	<key>intensityProxyDistance</key>
+	<string>canvasVariableBottom</string>
+	<key>navigatorTierHue</key>
+	<string>sliderValueInteraction</string>
+	<key>prismaticTickerOrientation</key>
+	<string>widgetObserverPadding</string>
+	<key>progressbarAboutPlatform</key>
+	<string>captionActivityValidation</string>
+	<key>radioAroundVar</key>
+	<string>buttonOutsideOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTaskDirection</key>
+	<string>sharedRectFrequency</string>
+	<key>delegateCyclePosition</key>
+	<string>layoutByScope</string>
+	<key>enabledCupertinoContrast</key>
+	<string>boxContextRight</string>
+	<key>fusedSymbolFrequency</key>
+	<string>transformerOperationAlignment</string>
+	<key>pointAroundPhase</key>
+	<string>prismaticDimensionInteraction</string>
+	<key>stateThroughStyle</key>
+	<string>toolAlongMemento</string>
+	<key>typicalSubscriptionMomentum</key>
+	<string>geometricConsumerDirection</string>
+</dict>
+</plist>

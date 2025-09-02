@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureAgainstVisitor</key>
+	<string>mobxAboutSystem</string>
+	<key>decorationChainHue</key>
+	<string>aspectActivityBottom</string>
+	<key>eagerTransitionKind</key>
+	<string>canvasIncludePhase</string>
+	<key>flexiblePointTop</key>
+	<string>visibleDurationHead</string>
+	<key>integerFunctionPosition</key>
+	<string>composableResolverRight</string>
+	<key>materialCubitSize</key>
+	<string>batchBufferHead</string>
+	<key>multiSensorHue</key>
+	<string>textureAroundAction</string>
+	<key>observerPatternDensity</key>
+	<string>projectContainFacade</string>
+	<key>resolverFunctionBottom</key>
+	<string>commonMenuOpacity</string>
+	<key>significantTweenSaturation</key>
+	<string>eagerBuilderTransparency</string>
+</dict>
+</plist>

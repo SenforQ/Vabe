@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFrameIndex</key>
+	<string>substantialNavigatorDistance</string>
+	<key>denseChartKind</key>
+	<string>textAroundBridge</string>
+	<key>layoutDuringFacade</key>
+	<string>explicitNavigatorVisibility</string>
+	<key>offsetDecoratorAcceleration</key>
+	<string>numericalTransformerMode</string>
+	<key>promiseDuringForm</key>
+	<string>reusableListenerSaturation</string>
+</dict>
+</plist>

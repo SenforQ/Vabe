@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerDespiteEnvironment</key>
+	<string>storageBridgeDistance</string>
+	<key>localAnchorBrightness</key>
+	<string>presenterFormContrast</string>
+	<key>sensorAwayObserver</key>
+	<string>otherCurveFeedback</string>
+	<key>storeNearPrototype</key>
+	<string>giftContextOrigin</string>
+	<key>tickerMementoDelay</key>
+	<string>signatureAndOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAsAdapter</key>
+	<string>playbackForForm</string>
+	<key>equalizationLevelMode</key>
+	<string>cartesianTextBorder</string>
+	<key>intuitiveRadiusTransparency</key>
+	<string>displayableMetadataInset</string>
+	<key>numericalCellFeedback</key>
+	<string>resilientInjectionInteraction</string>
+	<key>permissivePopupLeft</key>
+	<string>lazyRequestBottom</string>
+	<key>resultFormValidation</key>
+	<string>scaleProcessCenter</string>
+	<key>scrollableGesturedetectorFlags</key>
+	<string>shaderFacadeStyle</string>
+	<key>similarPrecisionAcceleration</key>
+	<string>requestLevelSize</string>
+</dict>
+</plist>

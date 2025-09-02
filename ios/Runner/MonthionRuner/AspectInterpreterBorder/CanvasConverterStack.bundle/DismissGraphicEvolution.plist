@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityInPrototype</key>
+	<string>decorationPhaseName</string>
+	<key>buttonNearFlyweight</key>
+	<string>lostStorageOrientation</string>
+	<key>cupertinoVersusParam</key>
+	<string>grainOperationIndex</string>
+	<key>gramFacadeVisibility</key>
+	<string>musicWithPattern</string>
+	<key>nibInsideMode</key>
+	<string>routerSingletonVelocity</string>
+</dict>
+</plist>

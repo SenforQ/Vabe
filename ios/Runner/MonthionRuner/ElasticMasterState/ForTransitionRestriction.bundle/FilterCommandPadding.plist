@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAdapterInteraction</key>
+	<string>lossActivityFrequency</string>
+	<key>buttonAndEnvironment</key>
+	<string>getxFacadeCoord</string>
+	<key>mediaModeMode</key>
+	<string>visibleResultDepth</string>
+	<key>resourceInsideAdapter</key>
+	<string>stampTypeTransparency</string>
+</dict>
+</plist>

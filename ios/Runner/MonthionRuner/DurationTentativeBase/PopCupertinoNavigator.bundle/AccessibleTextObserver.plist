@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constScalePosition</key>
+	<string>transformerTaskCenter</string>
+	<key>interactorFromVariable</key>
+	<string>customOffsetPadding</string>
+	<key>kernelCompositeSkewy</key>
+	<string>webPresenterOffset</string>
+</dict>
+</plist>

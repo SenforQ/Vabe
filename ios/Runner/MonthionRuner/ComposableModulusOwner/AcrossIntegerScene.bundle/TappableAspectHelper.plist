@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAdapterDuration</key>
+	<string>boxUntilTier</string>
+	<key>interactiveStorageCoord</key>
+	<string>dropdownbuttonCommandVisibility</string>
+	<key>semanticTaskDensity</key>
+	<string>progressbarCommandOrigin</string>
+	<key>singletonOutsideMethod</key>
+	<string>hardResolverPosition</string>
+	<key>unsortedCosineBrightness</key>
+	<string>asynchronousMethodShade</string>
+	<key>usedReferenceDirection</key>
+	<string>sophisticatedPresenterVisible</string>
+	<key>webPointName</key>
+	<string>baselineBesideAdapter</string>
+</dict>
+</plist>

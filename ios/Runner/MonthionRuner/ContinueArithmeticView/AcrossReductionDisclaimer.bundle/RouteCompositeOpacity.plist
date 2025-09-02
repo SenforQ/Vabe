@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationCompositeResponse</key>
+	<string>rapidWidgetMomentum</string>
+	<key>fusedPositionSaturation</key>
+	<string>seamlessSegueCenter</string>
+	<key>nextOperationStyle</key>
+	<string>basicMetadataVelocity</string>
+	<key>spriteInsidePrototype</key>
+	<string>eagerFutureShape</string>
+	<key>statelessEqualizationIndex</key>
+	<string>canvasInsideParameter</string>
+	<key>widgetFlyweightDistance</key>
+	<string>animationAroundState</string>
+</dict>
+</plist>

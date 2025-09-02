@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentThreadKind</key>
+	<string>alignmentSinceSystem</string>
+	<key>entropyAlongScope</key>
+	<string>boxWorkValidation</string>
+	<key>gemFrameworkRotation</key>
+	<string>activityMediatorTint</string>
+	<key>mediaqueryViaFramework</key>
+	<string>disabledAwaitFlags</string>
+	<key>pivotalEventDistance</key>
+	<string>projectOperationVisibility</string>
+	<key>previewBeyondObserver</key>
+	<string>diversifiedPriorityForce</string>
+	<key>spineAmongScope</key>
+	<string>ternaryActivitySpacing</string>
+	<key>sustainableBlocFormat</key>
+	<string>masterAboutBridge</string>
+	<key>utilContainMode</key>
+	<string>sinkAboutObserver</string>
+</dict>
+</plist>

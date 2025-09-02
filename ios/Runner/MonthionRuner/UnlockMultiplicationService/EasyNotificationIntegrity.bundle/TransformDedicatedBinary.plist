@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSubscriptionShade</key>
+	<string>respectiveLoopDensity</string>
+	<key>cellTierTransparency</key>
+	<string>visibleSizeEdge</string>
+	<key>cupertinoLoopOffset</key>
+	<string>delegateOrParam</string>
+	<key>denseRectType</key>
+	<string>effectLikeDecorator</string>
+	<key>resilientRouteDensity</key>
+	<string>brushAndScope</string>
+	<key>sequentialSwitchBrightness</key>
+	<string>monsterOperationVelocity</string>
+	<key>serviceAmongLayer</key>
+	<string>configurationAlongPhase</string>
+	<key>stateAgainstMediator</key>
+	<string>arithmeticConfigurationPadding</string>
+</dict>
+</plist>

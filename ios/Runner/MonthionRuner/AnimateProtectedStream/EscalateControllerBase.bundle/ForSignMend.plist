@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteNavigatorRate</key>
+	<string>catalystContextFrequency</string>
+	<key>delegateFunctionOffset</key>
+	<string>animationPatternSpacing</string>
+	<key>delegatePhaseSpacing</key>
+	<string>inheritedVectorColor</string>
+	<key>gestureBeyondPlatform</key>
+	<string>slashOrProxy</string>
+	<key>paddingNumberFlags</key>
+	<string>graphicActivityLocation</string>
+	<key>touchBeyondType</key>
+	<string>stepAndState</string>
+</dict>
+</plist>

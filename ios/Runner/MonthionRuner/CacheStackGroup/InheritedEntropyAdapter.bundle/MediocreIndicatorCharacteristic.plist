@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAndAction</key>
+	<string>decorationVarSize</string>
+	<key>coordinatorStructureAcceleration</key>
+	<string>largeSceneFrequency</string>
+	<key>dropdownbuttonInterpreterOffset</key>
+	<string>difficultQueueRotation</string>
+	<key>fusedTaskBorder</key>
+	<string>pageviewInsideType</string>
+	<key>labelParameterKind</key>
+	<string>mainMapKind</string>
+	<key>sceneInterpreterMode</key>
+	<string>persistentChallengeBottom</string>
+	<key>specifierStateName</key>
+	<string>blocLikeSingleton</string>
+	<key>tangentMementoValidation</key>
+	<string>prevActionRate</string>
+	<key>zoneSinceStage</key>
+	<string>coordinatorPlatformValidation</string>
+</dict>
+</plist>

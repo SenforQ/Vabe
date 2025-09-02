@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridNumberMode</key>
+	<string>seamlessGestureMode</string>
+	<key>inactiveTableInset</key>
+	<string>seamlessSineDensity</string>
+	<key>interfaceAsMode</key>
+	<string>mobileInterpolationPressure</string>
+	<key>loopScopeBehavior</key>
+	<string>asyncInMethod</string>
+	<key>materialQueueTag</key>
+	<string>exceptionPerStrategy</string>
+	<key>positionedVarForce</key>
+	<string>permanentEqualizationContrast</string>
+	<key>resilientBlocMode</key>
+	<string>sliderParameterStatus</string>
+	<key>sophisticatedChannelInset</key>
+	<string>spriteProxyType</string>
+	<key>tensorKernelShape</key>
+	<string>oldDurationLeft</string>
+</dict>
+</plist>

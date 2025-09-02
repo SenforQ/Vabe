@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPerAction</key>
+	<string>globalAllocatorMode</string>
+	<key>beginnerResolverShape</key>
+	<string>controllerVarLocation</string>
+	<key>builderAdapterHead</key>
+	<string>semanticErrorDensity</string>
+	<key>cubitOfStage</key>
+	<string>permanentCoordinatorBound</string>
+	<key>easyProjectionStatus</key>
+	<string>grainCommandKind</string>
+	<key>hardSegueResponse</key>
+	<string>screenParameterDelay</string>
+	<key>movementProcessMomentum</key>
+	<string>serviceInsideKind</string>
+	<key>requiredEventPadding</key>
+	<string>tensorTickerPosition</string>
+	<key>shaderOperationDensity</key>
+	<string>intermediateRepositoryBottom</string>
+</dict>
+</plist>

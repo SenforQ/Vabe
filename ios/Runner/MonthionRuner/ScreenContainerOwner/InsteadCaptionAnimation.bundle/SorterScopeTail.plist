@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocContextBrightness</key>
+	<string>mapModeTransparency</string>
+	<key>decorationSingletonShape</key>
+	<string>delegateFunctionColor</string>
+	<key>draggableProviderDelay</key>
+	<string>transitionAtSingleton</string>
+	<key>eventContainMode</key>
+	<string>pivotalBulletSkewx</string>
+	<key>hardNormTag</key>
+	<string>utilFlyweightBrightness</string>
+	<key>progressbarLayerDuration</key>
+	<string>handlerDecoratorCenter</string>
+</dict>
+</plist>

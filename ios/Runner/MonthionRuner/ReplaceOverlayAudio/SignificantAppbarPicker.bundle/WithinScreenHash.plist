@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeRowRight</key>
+	<string>painterContextFeedback</string>
+	<key>delegateInterpreterScale</key>
+	<string>visibleDelegateFormat</string>
+	<key>desktopSingletonFeedback</key>
+	<string>staticNodeVisibility</string>
+	<key>fusedButtonFormat</key>
+	<string>fragmentPrototypeTransparency</string>
+	<key>nativeQueryStyle</key>
+	<string>playbackCycleContrast</string>
+	<key>queueBesideActivity</key>
+	<string>oldButtonBehavior</string>
+	<key>scaffoldFrameworkIndex</key>
+	<string>normBeyondMediator</string>
+	<key>sceneActionShade</key>
+	<string>parallelResponseAlignment</string>
+	<key>signatureCompositeKind</key>
+	<string>progressbarValueHead</string>
+	<key>subsequentErrorBottom</key>
+	<string>specifierUntilOperation</string>
+</dict>
+</plist>

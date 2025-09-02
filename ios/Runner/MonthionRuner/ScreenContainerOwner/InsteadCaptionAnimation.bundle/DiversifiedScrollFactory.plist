@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedLossTheme</key>
+	<string>appbarThanNumber</string>
+	<key>discardedErrorValidation</key>
+	<string>cubitTaskAcceleration</string>
+	<key>optimizerInterpreterResponse</key>
+	<string>singletonVarSpacing</string>
+	<key>presenterUntilActivity</key>
+	<string>crucialServiceTail</string>
+	<key>sceneAndObserver</key>
+	<string>modelLevelKind</string>
+	<key>smartStampDistance</key>
+	<string>optimizerPhaseTension</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationBridgeForce</key>
+	<string>groupFrameworkPosition</string>
+	<key>cubitBeyondStrategy</key>
+	<string>responseJobType</string>
+	<key>popupFacadeKind</key>
+	<string>alphaForParameter</string>
+	<key>resultInterpreterCount</key>
+	<string>ternaryParameterAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonChartBottom</key>
+	<string>cubitOrAdapter</string>
+	<key>injectionAmongStage</key>
+	<string>observerInsideFramework</string>
+	<key>missedServiceInterval</key>
+	<string>pointWorkSpeed</string>
+	<key>newestGroupHead</key>
+	<string>notifierForCommand</string>
+	<key>otherContainerDirection</key>
+	<string>storeViaParameter</string>
+	<key>parallelOptimizerVisible</key>
+	<string>sharedSignatureKind</string>
+	<key>prismaticChartHead</key>
+	<string>invisibleModelOpacity</string>
+	<key>significantLayoutHead</key>
+	<string>sequentialMediaBrightness</string>
+	<key>titleAndTier</key>
+	<string>decorationVersusAction</string>
+	<key>visibleQuerySize</key>
+	<string>assetThanChain</string>
+</dict>
+</plist>

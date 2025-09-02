@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeActionBehavior</key>
+	<string>custompaintStructurePosition</string>
+	<key>flexibleOptimizerType</key>
+	<string>uniformAnimatedcontainerValidation</string>
+	<key>grainOutsideState</key>
+	<string>directObserverScale</string>
+	<key>modelPatternDuration</key>
+	<string>logarithmJobFeedback</string>
+	<key>seamlessIntegerForce</key>
+	<string>riverpodSinceStructure</string>
+</dict>
+</plist>

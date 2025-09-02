@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveTitleState</key>
+	<string>delegateFacadeStyle</string>
+	<key>flexSinceFramework</key>
+	<string>tabviewByPhase</string>
+	<key>fusedManagerInset</key>
+	<string>routeDespiteMediator</string>
+	<key>largeAccessoryFormat</key>
+	<string>timerWithoutBuffer</string>
+	<key>optionInActivity</key>
+	<string>frameBufferTheme</string>
+	<key>resizableLabelForce</key>
+	<string>decorationStylePressure</string>
+	<key>streamPhaseSaturation</key>
+	<string>tweenPerMemento</string>
+	<key>zoneProxyAcceleration</key>
+	<string>previewSinceChain</string>
+</dict>
+</plist>

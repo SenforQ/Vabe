@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoExponentInteraction</key>
+	<string>accordionConstraintTail</string>
+	<key>completerOutsideKind</key>
+	<string>protectedManagerAlignment</string>
+	<key>publicActionOffset</key>
+	<string>managerTaskBrightness</string>
+	<key>topicThroughStyle</key>
+	<string>viewOfInterpreter</string>
+	<key>tweenMethodFeedback</key>
+	<string>granularUtilDepth</string>
+	<key>usageTaskOpacity</key>
+	<string>effectObserverKind</string>
+</dict>
+</plist>

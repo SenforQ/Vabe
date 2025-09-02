@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushBesideComposite</key>
+	<string>cubitFacadeSpacing</string>
+	<key>buttonWithBuffer</key>
+	<string>buttonAtAdapter</string>
+	<key>cursorNearLevel</key>
+	<string>durationAndVisitor</string>
+	<key>fusedNibBottom</key>
+	<string>listenerDuringPrototype</string>
+	<key>streamAndMethod</key>
+	<string>tickerOrVar</string>
+	<key>streamTempleShade</key>
+	<string>baselineInPattern</string>
+	<key>utilContainStrategy</key>
+	<string>sequentialAxisMode</string>
+</dict>
+</plist>

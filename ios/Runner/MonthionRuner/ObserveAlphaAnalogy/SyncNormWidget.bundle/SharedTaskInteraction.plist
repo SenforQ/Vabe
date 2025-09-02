@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertModeForce</key>
+	<string>borderAtCommand</string>
+	<key>checklistSystemBehavior</key>
+	<string>layerInterpreterState</string>
+	<key>momentumDuringJob</key>
+	<string>awaitByInterpreter</string>
+	<key>previewJobScale</key>
+	<string>checkboxCycleVisible</string>
+	<key>unactivatedMediaStatus</key>
+	<string>cupertinoCompositeCenter</string>
+	<key>utilCycleDistance</key>
+	<string>subscriptionVisitorSize</string>
+</dict>
+</plist>

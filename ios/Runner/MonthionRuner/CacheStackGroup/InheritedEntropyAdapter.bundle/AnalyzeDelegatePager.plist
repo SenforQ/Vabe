@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentParameterSpeed</key>
+	<string>musicAndStructure</string>
+	<key>columnAtScope</key>
+	<string>gridviewWithoutStrategy</string>
+	<key>draggableConfigurationVelocity</key>
+	<string>widgetAwayShape</string>
+	<key>effectVariableOpacity</key>
+	<string>singleCellMargin</string>
+	<key>errorWithOperation</key>
+	<string>invisibleNavigatorInset</string>
+	<key>metadataTierValidation</key>
+	<string>denseProviderSkewx</string>
+</dict>
+</plist>

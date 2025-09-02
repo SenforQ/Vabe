@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonMethodDuration</key>
+	<string>displayableCycleHead</string>
+	<key>equalizationPerFramework</key>
+	<string>modulusCompositeScale</string>
+	<key>heroTierBrightness</key>
+	<string>positionModeTail</string>
+	<key>particleDuringFlyweight</key>
+	<string>inheritedConstraintStatus</string>
+	<key>radiusActivityFeedback</key>
+	<string>parallelInterpolationCount</string>
+	<key>textfieldMethodLeft</key>
+	<string>substantialListenerSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetStateBound</key>
+	<string>scaleActionFeedback</string>
+	<key>baselineByCommand</key>
+	<string>crucialAssetInset</string>
+	<key>errorStructureState</key>
+	<string>advancedMethodVisible</string>
+	<key>extensionDuringBuffer</key>
+	<string>pinchableProviderTransparency</string>
+	<key>mutableRectSpacing</key>
+	<string>descriptorFunctionVisibility</string>
+	<key>responsiveSubscriptionCenter</key>
+	<string>profileValueLocation</string>
+	<key>usedKernelForce</key>
+	<string>blocPerPlatform</string>
+</dict>
+</plist>

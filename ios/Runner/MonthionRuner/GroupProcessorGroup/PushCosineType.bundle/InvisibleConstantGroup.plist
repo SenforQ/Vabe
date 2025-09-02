@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleFacadeVisible</key>
+	<string>criticalZoneRotation</string>
+	<key>denseVectorDelay</key>
+	<string>awaitOutsideFacade</string>
+	<key>geometricSwiftStyle</key>
+	<string>promiseInsideSingleton</string>
+	<key>lossVariableBorder</key>
+	<string>tensorSpriteBrightness</string>
+	<key>nodeInsideCycle</key>
+	<string>ephemeralScreenDirection</string>
+	<key>referenceAgainstComposite</key>
+	<string>gramMediatorLocation</string>
+	<key>remainderAwayActivity</key>
+	<string>durationTaskFeedback</string>
+</dict>
+</plist>

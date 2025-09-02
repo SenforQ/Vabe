@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAgainstBuffer</key>
+	<string>positionUntilVisitor</string>
+	<key>serviceBesideEnvironment</key>
+	<string>interactorEnvironmentTint</string>
+	<key>sliderPrototypeTop</key>
+	<string>greatTouchLeft</string>
+	<key>transitionVariableCenter</key>
+	<string>lostAnimationTail</string>
+</dict>
+</plist>

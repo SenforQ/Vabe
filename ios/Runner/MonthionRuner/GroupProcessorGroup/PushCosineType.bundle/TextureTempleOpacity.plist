@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicBufferFlags</key>
+	<string>shaderLevelType</string>
+	<key>featureOfOperation</key>
+	<string>enabledStatefulCenter</string>
+	<key>frameCompositeAcceleration</key>
+	<string>alphaFormCoord</string>
+	<key>gradientStageHue</key>
+	<string>multiModulusOrientation</string>
+	<key>histogramShapeCount</key>
+	<string>textureOrStyle</string>
+	<key>providerThroughCycle</key>
+	<string>positionedScopeTint</string>
+	<key>resourceStrategyMode</key>
+	<string>completionFrameworkLeft</string>
+	<key>roleMementoPosition</key>
+	<string>animatedEventDistance</string>
+	<key>sequentialTextRight</key>
+	<string>significantVectorIndex</string>
+	<key>shaderJobAcceleration</key>
+	<string>prismaticEntropyCoord</string>
+</dict>
+</plist>

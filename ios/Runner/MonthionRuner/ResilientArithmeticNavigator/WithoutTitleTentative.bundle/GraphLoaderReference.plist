@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGestureMargin</key>
+	<string>explicitStoreDensity</string>
+	<key>activatedScaffoldFeedback</key>
+	<string>immutableHandlerSpacing</string>
+	<key>delicateTaskShape</key>
+	<string>blocLayerFeedback</string>
+	<key>prismaticNodeEdge</key>
+	<string>delicateViewRight</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectTypePadding</key>
+	<string>tappableTransitionInterval</string>
+	<key>configurationAndSingleton</key>
+	<string>invisibleQueueInteraction</string>
+	<key>delicateProgressbarAcceleration</key>
+	<string>liteCompletionAcceleration</string>
+	<key>effectCycleRate</key>
+	<string>batchForActivity</string>
+	<key>lazyPaddingTail</key>
+	<string>futureStageMode</string>
+	<key>mediumTangentTag</key>
+	<string>segueAsNumber</string>
+	<key>nextHashSpeed</key>
+	<string>reusableExpandedHead</string>
+	<key>resourceTypeRate</key>
+	<string>statefulRouteStatus</string>
+	<key>topicPrototypeVelocity</key>
+	<string>binaryByChain</string>
+	<key>viewProcessOffset</key>
+	<string>publicHashDistance</string>
+</dict>
+</plist>

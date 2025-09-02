@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferViaVariable</key>
+	<string>largeAssetMode</string>
+	<key>controllerDecoratorFeedback</key>
+	<string>capacitiesSingletonColor</string>
+	<key>disparateSizeFeedback</key>
+	<string>accessiblePetSpeed</string>
+	<key>eagerEffectShape</key>
+	<string>resourceLevelDuration</string>
+	<key>finalCupertinoAppearance</key>
+	<string>listviewParamFlags</string>
+	<key>metadataPatternBehavior</key>
+	<string>decorationNumberFeedback</string>
+</dict>
+</plist>

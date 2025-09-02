@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorScopeVisibility</key>
+	<string>extensionForStyle</string>
+	<key>cellContainStage</key>
+	<string>composableAnimationFormat</string>
+	<key>columnFacadeInterval</key>
+	<string>queueStructureResponse</string>
+	<key>interfaceActionSaturation</key>
+	<string>blocKindScale</string>
+	<key>mainMenuBorder</key>
+	<string>asynchronousScreenDelay</string>
+	<key>momentumLevelHead</key>
+	<string>animatedIntensityOrientation</string>
+	<key>scaleParameterSaturation</key>
+	<string>momentumSystemKind</string>
+	<key>smartBaselineInteraction</key>
+	<string>concreteCertificatePadding</string>
+	<key>statefulBufferAcceleration</key>
+	<string>clipperProcessResponse</string>
+</dict>
+</plist>

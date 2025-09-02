@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTimerInterval</key>
+	<string>positionedNearFlyweight</string>
+	<key>buttonOutsideObserver</key>
+	<string>firstResponseTransparency</string>
+	<key>monsterWithSingleton</key>
+	<string>smallManagerPadding</string>
+	<key>nibStrategyDepth</key>
+	<string>callbackCommandBottom</string>
+	<key>prevTextfieldResponse</key>
+	<string>heroOfScope</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateBesideComposite</key>
+	<string>animatedcontainerBridgeVelocity</string>
+	<key>menuViaPrototype</key>
+	<string>menuBesideDecorator</string>
+	<key>respectiveSineVisibility</key>
+	<string>skirtAmongPrototype</string>
+	<key>sinkLayerCoord</key>
+	<string>resolverDuringCommand</string>
+	<key>staticCellMode</key>
+	<string>baselineNumberValidation</string>
+	<key>staticProtocolScale</key>
+	<string>uniqueDurationTransparency</string>
+	<key>sustainableSinkShape</key>
+	<string>multiTransitionForce</string>
+	<key>touchStagePosition</key>
+	<string>semanticMethodVisibility</string>
+	<key>viewAtForm</key>
+	<string>futurePlatformBrightness</string>
+</dict>
+</plist>

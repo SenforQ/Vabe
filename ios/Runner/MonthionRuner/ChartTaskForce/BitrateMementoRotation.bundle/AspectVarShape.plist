@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitValueValidation</key>
+	<string>precisionFacadeShade</string>
+	<key>baselineAndContext</key>
+	<string>resourceContextFlags</string>
+	<key>certificateAwayStyle</key>
+	<string>asyncPatternEdge</string>
+	<key>constStackAcceleration</key>
+	<string>instructionTypeOrientation</string>
+	<key>gridviewCycleContrast</key>
+	<string>batchAndStyle</string>
+	<key>scrollableIsolateBottom</key>
+	<string>nextGroupLeft</string>
+	<key>sharedQueueVisibility</key>
+	<string>checklistCommandBorder</string>
+	<key>sinkBesideEnvironment</key>
+	<string>certificateFromCycle</string>
+</dict>
+</plist>

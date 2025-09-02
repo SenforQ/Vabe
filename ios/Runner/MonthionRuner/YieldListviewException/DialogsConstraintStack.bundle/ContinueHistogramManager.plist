@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitPatternInterval</key>
+	<string>activeTextInterval</string>
+	<key>bulletFormCoord</key>
+	<string>requiredPresenterSaturation</string>
+	<key>cubeBeyondPrototype</key>
+	<string>radiusPlatformAcceleration</string>
+	<key>graphicStrategyOpacity</key>
+	<string>providerBufferMode</string>
+	<key>transitionWorkContrast</key>
+	<string>resolverUntilShape</string>
+</dict>
+</plist>

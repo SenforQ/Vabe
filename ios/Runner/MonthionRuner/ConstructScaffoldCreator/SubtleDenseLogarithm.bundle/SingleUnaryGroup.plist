@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleLabelState</key>
+	<string>rapidCycleOrientation</string>
+	<key>assetPatternShade</key>
+	<string>operationCycleFeedback</string>
+	<key>contractionParamTension</key>
+	<string>contractionByMethod</string>
+	<key>dependencyForKind</key>
+	<string>providerContainMethod</string>
+	<key>getxStrategyVisible</key>
+	<string>batchForState</string>
+	<key>globalErrorFrequency</key>
+	<string>cellBufferHue</string>
+	<key>offsetByMethod</key>
+	<string>substantialInterfaceLeft</string>
+	<key>riverpodFunctionBrightness</key>
+	<string>mainResourceBorder</string>
+	<key>textureStateBehavior</key>
+	<string>instructionPlatformRate</string>
+</dict>
+</plist>

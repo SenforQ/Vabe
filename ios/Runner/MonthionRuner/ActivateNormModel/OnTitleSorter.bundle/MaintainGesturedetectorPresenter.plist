@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>optionBesideMode</key>
+	<string>textAtParam</string>
+	<key>rapidResponseCount</key>
+	<string>activityStateFeedback</string>
+	<key>storageStrategyHead</key>
+	<string>intuitiveNavigationHue</string>
+	<key>themeWithoutInterpreter</key>
+	<string>cupertinoCompletionColor</string>
+	<key>unsortedRouteRight</key>
+	<string>crudePrioritySpacing</string>
+</dict>
+</plist>

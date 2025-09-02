@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedModelKind</key>
+	<string>constCoordinatorFlags</string>
+	<key>layoutAlongParameter</key>
+	<string>queueParamLocation</string>
+	<key>lostWidgetAcceleration</key>
+	<string>textureFromOperation</string>
+	<key>scaffoldNearShape</key>
+	<string>themeKindTheme</string>
+	<key>sensorPrototypeResponse</key>
+	<string>actionDecoratorMargin</string>
+	<key>subscriptionDuringPlatform</key>
+	<string>consumerFacadeRate</string>
+	<key>subscriptionTypeOrigin</key>
+	<string>asyncStageSpacing</string>
+</dict>
+</plist>

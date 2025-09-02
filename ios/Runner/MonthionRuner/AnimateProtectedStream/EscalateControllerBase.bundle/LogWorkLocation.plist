@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAroundDecorator</key>
+	<string>constraintOutsideMediator</string>
+	<key>builderDecoratorMode</key>
+	<string>offsetAmongFramework</string>
+	<key>currentNibBehavior</key>
+	<string>originalClipperDensity</string>
+	<key>delicateSemanticsBehavior</key>
+	<string>resizableSwiftColor</string>
+	<key>spritePrototypeScale</key>
+	<string>unactivatedLoopKind</string>
+</dict>
+</plist>

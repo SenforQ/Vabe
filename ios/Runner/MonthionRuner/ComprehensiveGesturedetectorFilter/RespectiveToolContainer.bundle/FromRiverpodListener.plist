@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorPatternIndex</key>
+	<string>disabledMapBehavior</string>
+	<key>errorStageFormat</key>
+	<string>missionFormCount</string>
+	<key>featureInsideStructure</key>
+	<string>criticalCompletionVelocity</string>
+	<key>isolateFlyweightShade</key>
+	<string>batchOperationRotation</string>
+	<key>monsterStyleContrast</key>
+	<string>toolFromStage</string>
+	<key>plateOfContext</key>
+	<string>transitionSystemBehavior</string>
+	<key>radioModeCount</key>
+	<string>scaleOfPattern</string>
+	<key>reactiveQueueContrast</key>
+	<string>actionWithJob</string>
+	<key>tabviewNumberShape</key>
+	<string>gestureValueDuration</string>
+</dict>
+</plist>

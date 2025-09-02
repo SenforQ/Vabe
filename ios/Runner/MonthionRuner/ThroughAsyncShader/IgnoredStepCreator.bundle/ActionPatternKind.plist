@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionMediatorMargin</key>
+	<string>constBehaviorHead</string>
+	<key>containerStrategyCoord</key>
+	<string>iterativeStampFlags</string>
+	<key>mobileRouteMode</key>
+	<string>iconVersusScope</string>
+	<key>switchViaStage</key>
+	<string>queryVisitorPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonIncludeParam</key>
+	<string>alignmentCompositeInterval</string>
+	<key>flexibleAssetInteraction</key>
+	<string>sortedSymbolName</string>
+	<key>mediaExceptValue</key>
+	<string>activeChannelEdge</string>
+	<key>profileActivityCoord</key>
+	<string>euclideanTimerHue</string>
+	<key>profileAndValue</key>
+	<string>permanentEntropyTint</string>
+	<key>reusableRichtextShape</key>
+	<string>sustainableOffsetState</string>
+	<key>sliderBeyondAction</key>
+	<string>semanticAspectDepth</string>
+	<key>uniqueStreamState</key>
+	<string>draggableRadiusBrightness</string>
+	<key>unsortedInjectionFeedback</key>
+	<string>subscriptionPatternOffset</string>
+</dict>
+</plist>

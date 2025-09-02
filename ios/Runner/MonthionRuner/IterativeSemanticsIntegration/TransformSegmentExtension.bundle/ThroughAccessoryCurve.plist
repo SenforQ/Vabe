@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFacadeBehavior</key>
+	<string>mapInsideSingleton</string>
+	<key>controllerAtNumber</key>
+	<string>draggableWidgetOrigin</string>
+	<key>hashCommandSkewx</key>
+	<string>allocatorOfActivity</string>
+	<key>layoutVersusMethod</key>
+	<string>inkwellProxyDelay</string>
+	<key>scaffoldScopeOrigin</key>
+	<string>richtextTierType</string>
+	<key>semanticMetadataSaturation</key>
+	<string>criticalGraphicTransparency</string>
+	<key>singletonDuringLayer</key>
+	<string>toolAroundProxy</string>
+</dict>
+</plist>

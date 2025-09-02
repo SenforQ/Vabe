@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousFrameFlags</key>
+	<string>effectCycleRight</string>
+	<key>futureOrObserver</key>
+	<string>managerInTask</string>
+	<key>notifierLikePrototype</key>
+	<string>draggableAssetContrast</string>
+	<key>sizedboxSinceEnvironment</key>
+	<string>gemOperationTag</string>
+</dict>
+</plist>

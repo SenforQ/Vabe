@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTitleShade</key>
+	<string>chartWithMethod</string>
+	<key>coordinatorSinceAdapter</key>
+	<string>frameViaState</string>
+	<key>cubitContextFormat</key>
+	<string>firstAnchorDepth</string>
+	<key>elasticAwaitTransparency</key>
+	<string>reactiveRouteAlignment</string>
+	<key>gridBufferVisibility</key>
+	<string>viewStateCount</string>
+	<key>metadataMementoDepth</key>
+	<string>challengeContainForm</string>
+	<key>positionedDuringBridge</key>
+	<string>mobileUnaryLeft</string>
+	<key>widgetChainDistance</key>
+	<string>curveValueFeedback</string>
+</dict>
+</plist>

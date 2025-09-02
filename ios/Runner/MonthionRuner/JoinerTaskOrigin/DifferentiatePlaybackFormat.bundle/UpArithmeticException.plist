@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEntityShape</key>
+	<string>explicitPainterVisibility</string>
+	<key>delicateMarginIndex</key>
+	<string>offsetPerObserver</string>
+	<key>featureFlyweightTension</key>
+	<string>scrollableRectInteraction</string>
+	<key>inactiveWidgetMode</key>
+	<string>vectorOutsideFacade</string>
+	<key>observerAtFramework</key>
+	<string>grayscaleOutsideFlyweight</string>
+	<key>projectOrParam</key>
+	<string>decorationValueDensity</string>
+	<key>radiusBeyondProxy</key>
+	<string>tensorAppbarColor</string>
+	<key>retainedStoreDelay</key>
+	<string>associatedClipperPosition</string>
+</dict>
+</plist>

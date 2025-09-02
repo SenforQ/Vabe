@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationTypeVisibility</key>
+	<string>screenExceptForm</string>
+	<key>directAnchorIndex</key>
+	<string>customPositionedSpacing</string>
+	<key>gestureMethodBehavior</key>
+	<string>disabledLabelValidation</string>
+	<key>overlayLikeSingleton</key>
+	<string>featureUntilFunction</string>
+	<key>resolverCompositeOpacity</key>
+	<string>sliderPlatformEdge</string>
+	<key>sortedOverlaySkewx</key>
+	<string>richtextAndFlyweight</string>
+</dict>
+</plist>

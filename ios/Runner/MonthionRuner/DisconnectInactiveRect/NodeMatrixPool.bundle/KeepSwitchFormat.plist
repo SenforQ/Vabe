@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertActionInterval</key>
+	<string>actionDuringJob</string>
+	<key>exceptionTaskVelocity</key>
+	<string>particleInPrototype</string>
+	<key>layoutIncludeInterpreter</key>
+	<string>resourceWorkSize</string>
+	<key>paddingStyleOffset</key>
+	<string>modelInsideForm</string>
+	<key>routerAdapterKind</key>
+	<string>otherButtonTop</string>
+</dict>
+</plist>

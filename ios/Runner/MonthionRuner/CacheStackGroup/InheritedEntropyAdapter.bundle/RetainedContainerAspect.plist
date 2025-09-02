@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerVisitorFormat</key>
+	<string>cartesianSizeLeft</string>
+	<key>containerFlyweightOrientation</key>
+	<string>allocatorInsideTemple</string>
+	<key>mutableSizeCoord</key>
+	<string>tensorSwitchEdge</string>
+</dict>
+</plist>

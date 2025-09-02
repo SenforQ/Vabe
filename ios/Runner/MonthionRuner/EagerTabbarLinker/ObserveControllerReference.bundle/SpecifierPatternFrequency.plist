@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedEqualizationMode</key>
+	<string>memberFromValue</string>
+	<key>dependencyByPhase</key>
+	<string>observerLevelTransparency</string>
+	<key>presenterPerStyle</key>
+	<string>priorStreamOffset</string>
+	<key>publicCompletionSize</key>
+	<string>spriteExceptAction</string>
+	<key>rectEnvironmentShape</key>
+	<string>optimizerShapeTail</string>
+	<key>taskAroundMode</key>
+	<string>resourceModeFrequency</string>
+	<key>unsortedPaddingStyle</key>
+	<string>displayableCubitBrightness</string>
+</dict>
+</plist>

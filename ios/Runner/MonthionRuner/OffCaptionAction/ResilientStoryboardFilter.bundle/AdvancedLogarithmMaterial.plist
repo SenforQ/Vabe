@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAwayMode</key>
+	<string>sizeThroughDecorator</string>
+	<key>callbackByStrategy</key>
+	<string>certificateAlongState</string>
+	<key>normalDrawerFeedback</key>
+	<string>alphaKindResponse</string>
+	<key>popupBesideType</key>
+	<string>controllerObserverEdge</string>
+</dict>
+</plist>

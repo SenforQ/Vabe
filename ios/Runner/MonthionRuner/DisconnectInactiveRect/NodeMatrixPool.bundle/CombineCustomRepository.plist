@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameFromMode</key>
+	<string>smartProviderAppearance</string>
+	<key>managerPlatformContrast</key>
+	<string>dropdownbuttonDuringFacade</string>
+	<key>mediaScopeOrigin</key>
+	<string>asynchronousBorderHead</string>
+	<key>optionFacadeKind</key>
+	<string>elasticObserverDistance</string>
+	<key>originalDescriptionStatus</key>
+	<string>buttonObserverFeedback</string>
+	<key>persistentMapIndex</key>
+	<string>declarativeControllerStatus</string>
+	<key>segmentFacadeVisibility</key>
+	<string>sophisticatedIsolateStatus</string>
+	<key>sequentialTernaryShape</key>
+	<string>denseCanvasTail</string>
+	<key>webMissionAppearance</key>
+	<string>dimensionFlyweightTint</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphBufferOpacity</key>
+	<string>masterFormFormat</string>
+	<key>progressbarBesideWork</key>
+	<string>assetCyclePosition</string>
+	<key>streamAndAction</key>
+	<string>constraintStatePadding</string>
+	<key>usageStateFeedback</key>
+	<string>lazyCacheTint</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredStoreTransparency</key>
+	<string>batchBeyondTask</string>
+	<key>explicitDialogsPressure</key>
+	<string>resultMethodKind</string>
+	<key>radioWithPrototype</key>
+	<string>singletonAtPhase</string>
+	<key>unactivatedDurationTail</key>
+	<string>associatedRectHue</string>
+</dict>
+</plist>

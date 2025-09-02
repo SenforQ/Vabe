@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystBufferSkewx</key>
+	<string>anchorWithoutProxy</string>
+	<key>intensityIncludeValue</key>
+	<string>tickerPlatformSize</string>
+	<key>mainSemanticsType</key>
+	<string>descriptionExceptActivity</string>
+	<key>missedResponseBound</key>
+	<string>typicalOverlayTint</string>
+	<key>observerCompositeSpacing</key>
+	<string>statefulNodeDensity</string>
+	<key>permissiveSineInteraction</key>
+	<string>interactorViaChain</string>
+	<key>sliderKindBottom</key>
+	<string>previewPlatformFeedback</string>
+	<key>symmetricCardPressure</key>
+	<string>hashNearWork</string>
+	<key>temporaryCapsuleSkewx</key>
+	<string>containerInType</string>
+</dict>
+</plist>

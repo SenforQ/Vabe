@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionWithoutType</key>
+	<string>texturePlatformOrientation</string>
+	<key>featureExceptSystem</key>
+	<string>cosineKindSpeed</string>
+	<key>granularSessionEdge</key>
+	<string>scaleInMethod</string>
+	<key>hashOrStrategy</key>
+	<string>singleDecorationAcceleration</string>
+	<key>immediateBuilderDelay</key>
+	<string>protocolSinceStage</string>
+	<key>indicatorValueInteraction</key>
+	<string>radiusAsParam</string>
+	<key>iterativeBoxshadowRotation</key>
+	<string>firstGridTail</string>
+	<key>oldIconScale</key>
+	<string>delicateMethodRotation</string>
+	<key>presenterFrameworkTop</key>
+	<string>declarativeQueueStyle</string>
+</dict>
+</plist>

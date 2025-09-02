@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistAtSystem</key>
+	<string>bitrateThroughSingleton</string>
+	<key>containerContainFlyweight</key>
+	<string>sharedInterpolationOrientation</string>
+	<key>coordinatorMediatorFrequency</key>
+	<string>listviewMethodOrientation</string>
+	<key>directlySampleContrast</key>
+	<string>functionalHeroCount</string>
+	<key>grainExceptMediator</key>
+	<string>resourceFunctionCount</string>
+	<key>iconScopeOpacity</key>
+	<string>sizeValueOrientation</string>
+	<key>sequentialIsolateRotation</key>
+	<string>geometricUsecaseTag</string>
+</dict>
+</plist>

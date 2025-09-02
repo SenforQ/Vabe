@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellDecoratorStatus</key>
+	<string>stackEnvironmentValidation</string>
+	<key>channelAndFlyweight</key>
+	<string>stampBridgeOpacity</string>
+	<key>difficultQueryOrientation</key>
+	<string>instructionThroughInterpreter</string>
+	<key>exceptionDecoratorStyle</key>
+	<string>accessibleMemberShade</string>
+	<key>semanticMusicState</key>
+	<string>ternaryAsEnvironment</string>
+</dict>
+</plist>

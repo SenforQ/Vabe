@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChecklistPadding</key>
+	<string>resolverSystemEdge</string>
+	<key>bufferTierVelocity</key>
+	<string>coordinatorTierSkewx</string>
+	<key>cubitObserverFeedback</key>
+	<string>mediocreTitleKind</string>
+	<key>heapFunctionSpeed</key>
+	<string>mutableZoneSkewy</string>
+	<key>mobileCycleState</key>
+	<string>aspectShapeCenter</string>
+	<key>rapidServicePosition</key>
+	<string>pivotalGroupPadding</string>
+	<key>responseActivityShade</key>
+	<string>geometricTaskBound</string>
+	<key>serviceUntilStyle</key>
+	<string>playbackStyleBehavior</string>
+	<key>tappableFlexSkewx</key>
+	<string>modelPlatformInset</string>
+</dict>
+</plist>

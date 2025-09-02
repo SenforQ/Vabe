@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSkinName</key>
+	<string>normalLoopBrightness</string>
+	<key>diversifiedSymbolVelocity</key>
+	<string>inactiveTextureBehavior</string>
+	<key>interpolationOfDecorator</key>
+	<string>presenterAmongDecorator</string>
+	<key>memberExceptBuffer</key>
+	<string>invisibleParticleAlignment</string>
+	<key>methodPerShape</key>
+	<string>handlerAmongShape</string>
+	<key>requiredScreenStyle</key>
+	<string>cycleWithFacade</string>
+	<key>sophisticatedMethodKind</key>
+	<string>cubitParameterPosition</string>
+	<key>streamAboutMediator</key>
+	<string>lastProviderForce</string>
+</dict>
+</plist>

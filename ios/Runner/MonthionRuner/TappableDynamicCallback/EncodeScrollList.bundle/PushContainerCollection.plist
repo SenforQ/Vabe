@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateDuringSingleton</key>
+	<string>spinePrototypeSkewx</string>
+	<key>largeReducerTheme</key>
+	<string>modulusAroundNumber</string>
+	<key>layoutOrComposite</key>
+	<string>paddingMementoAppearance</string>
+	<key>mediumConfigurationPadding</key>
+	<string>resultActivityAcceleration</string>
+	<key>missedProviderState</key>
+	<string>opaqueStoryboardDepth</string>
+	<key>progressbarNumberLeft</key>
+	<string>routerNearValue</string>
+	<key>specifierContainPlatform</key>
+	<string>challengeFromPlatform</string>
+	<key>switchFrameworkShape</key>
+	<string>brushAtType</string>
+	<key>synchronousQueryMargin</key>
+	<string>singletonTempleDirection</string>
+</dict>
+</plist>

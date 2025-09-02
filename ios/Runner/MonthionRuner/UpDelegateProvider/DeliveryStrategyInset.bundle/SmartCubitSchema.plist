@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveNearProcess</key>
+	<string>petPlatformSize</string>
+	<key>dynamicStateFlags</key>
+	<string>resourceOutsideStyle</string>
+	<key>flexibleFactorySkewx</key>
+	<string>dedicatedRadioDistance</string>
+	<key>fusedAsyncDirection</key>
+	<string>popupAtTask</string>
+	<key>interactiveGrayscaleTag</key>
+	<string>anchorVarFlags</string>
+	<key>persistentCacheTension</key>
+	<string>serviceIncludeAction</string>
+	<key>profileBesideFramework</key>
+	<string>previewLikeBuffer</string>
+	<key>scaleFrameworkOrigin</key>
+	<string>tappableCoordinatorBound</string>
+	<key>stateSinceTemple</key>
+	<string>criticalInjectionRotation</string>
+</dict>
+</plist>

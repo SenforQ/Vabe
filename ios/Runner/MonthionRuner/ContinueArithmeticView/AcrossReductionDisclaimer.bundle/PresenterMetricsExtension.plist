@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorForMediator</key>
+	<string>graphFacadeRate</string>
+	<key>draggableListenerDepth</key>
+	<string>singleCompositionCount</string>
+	<key>integerInsidePlatform</key>
+	<string>asyncBatchSpacing</string>
+	<key>intensityOfPrototype</key>
+	<string>originalRichtextHue</string>
+	<key>mainScaffoldType</key>
+	<string>consumerLayerCenter</string>
+	<key>parallelLabelSkewx</key>
+	<string>cellFromKind</string>
+	<key>positionAroundStage</key>
+	<string>petDespitePattern</string>
+	<key>switchAmongWork</key>
+	<string>responsiveActivityFlags</string>
+	<key>transitionFormVelocity</key>
+	<string>radioViaLevel</string>
+</dict>
+</plist>

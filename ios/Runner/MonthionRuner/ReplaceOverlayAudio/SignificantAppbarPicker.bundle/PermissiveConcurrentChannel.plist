@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactivePainterDirection</key>
+	<string>observerInValue</string>
+	<key>largePrecisionContrast</key>
+	<string>cosineMethodIndex</string>
+	<key>observerContextSaturation</key>
+	<string>decorationVisitorAcceleration</string>
+	<key>storyboardOperationSkewx</key>
+	<string>layoutExceptBuffer</string>
+	<key>uniformContainerType</key>
+	<string>metadataSinceType</string>
+</dict>
+</plist>

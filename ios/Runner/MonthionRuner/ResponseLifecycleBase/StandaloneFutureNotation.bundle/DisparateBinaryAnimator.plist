@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackContainAction</key>
+	<string>mainChartTint</string>
+	<key>directFlexIndex</key>
+	<string>constraintIncludeValue</string>
+	<key>iterativeStateVisible</key>
+	<string>robustRectDistance</string>
+	<key>progressbarAwayVar</key>
+	<string>permanentOptionShade</string>
+	<key>storeByDecorator</key>
+	<string>transitionStrategyDistance</string>
+	<key>viewViaObserver</key>
+	<string>uniqueStreamDuration</string>
+</dict>
+</plist>

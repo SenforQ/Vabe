@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileOverlayAlignment</key>
+	<string>crudeBorderOrientation</string>
+	<key>appbarFromCycle</key>
+	<string>persistentTitleBottom</string>
+	<key>chartExceptEnvironment</key>
+	<string>ignoredSkinName</string>
+	<key>intermediateModalShape</key>
+	<string>sensorMethodState</string>
+	<key>invisibleProjectionShade</key>
+	<string>visibleMobxVisibility</string>
+	<key>mapAroundFunction</key>
+	<string>mediocreTernaryEdge</string>
+	<key>operationStageInset</key>
+	<string>uniformProgressbarAppearance</string>
+	<key>smallMaterialSpacing</key>
+	<string>backwardTopicColor</string>
+	<key>tangentKindOpacity</key>
+	<string>gradientMediatorFormat</string>
+</dict>
+</plist>

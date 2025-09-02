@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocActionPadding</key>
+	<string>transitionExceptStyle</string>
+	<key>cartesianUnaryBound</key>
+	<string>resilientConsumerDistance</string>
+	<key>delegateAmongMediator</key>
+	<string>deferredBufferBehavior</string>
+	<key>dynamicProviderVelocity</key>
+	<string>subtleShaderVelocity</string>
+	<key>layoutOrPlatform</key>
+	<string>columnVersusTask</string>
+	<key>permissiveNibTint</key>
+	<string>sensorWithoutChain</string>
+	<key>prevDialogsPressure</key>
+	<string>alignmentAwayScope</string>
+	<key>profileChainInterval</key>
+	<string>radiusParamShape</string>
+</dict>
+</plist>

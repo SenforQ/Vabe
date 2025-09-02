@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorExceptProcess</key>
+	<string>tabviewBesideValue</string>
+	<key>builderInterpreterAcceleration</key>
+	<string>smallRequestOrientation</string>
+	<key>diffableConfigurationTint</key>
+	<string>permanentRowScale</string>
+	<key>hyperbolicNavigatorVisible</key>
+	<string>modelFunctionBorder</string>
+	<key>interfaceOrTier</key>
+	<string>borderPlatformOrigin</string>
+	<key>requestAmongPlatform</key>
+	<string>presenterWorkMargin</string>
+	<key>secondScrollTheme</key>
+	<string>layoutLikePattern</string>
+	<key>streamBufferBehavior</key>
+	<string>momentumInMediator</string>
+	<key>titleLikePrototype</key>
+	<string>methodAroundTask</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleByProxy</key>
+	<string>asynchronousCapsuleDensity</string>
+	<key>cubitFromValue</key>
+	<string>grainStagePosition</string>
+	<key>extensionExceptKind</key>
+	<string>animatedCallbackTop</string>
+	<key>remainderAndChain</key>
+	<string>primaryEntityOpacity</string>
+</dict>
+</plist>

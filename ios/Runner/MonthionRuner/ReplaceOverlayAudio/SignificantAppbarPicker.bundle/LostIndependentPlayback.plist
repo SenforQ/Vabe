@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAsStage</key>
+	<string>customAnimationPadding</string>
+	<key>disabledGraphOrientation</key>
+	<string>cellCompositeContrast</string>
+	<key>eventSingletonDirection</key>
+	<string>memberForLevel</string>
+	<key>menuStageFormat</key>
+	<string>dynamicHeapBound</string>
+	<key>notificationLevelDelay</key>
+	<string>factoryExceptOperation</string>
+	<key>relationalProviderRate</key>
+	<string>mobxCommandFeedback</string>
+	<key>rowContainStyle</key>
+	<string>statefulAsyncTransparency</string>
+	<key>storageFromSingleton</key>
+	<string>indicatorKindOrientation</string>
+</dict>
+</plist>

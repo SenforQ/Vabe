@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOfWork</key>
+	<string>listenerLevelLeft</string>
+	<key>checklistStageCount</key>
+	<string>persistentLoopKind</string>
+	<key>delegateProcessPressure</key>
+	<string>mediocreBlocKind</string>
+	<key>grainScopeBound</key>
+	<string>taskByOperation</string>
+	<key>missionAdapterHead</key>
+	<string>flexibleCosineRotation</string>
+	<key>normalLogSpacing</key>
+	<string>frameFlyweightAlignment</string>
+	<key>routeParameterPadding</key>
+	<string>sizeExceptTask</string>
+</dict>
+</plist>

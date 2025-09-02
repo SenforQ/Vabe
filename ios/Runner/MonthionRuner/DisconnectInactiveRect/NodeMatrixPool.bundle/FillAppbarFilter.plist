@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventAdapterTransparency</key>
+	<string>independentModalCoord</string>
+	<key>fusedTickerCount</key>
+	<string>metadataViaVisitor</string>
+	<key>globalDelegateTail</key>
+	<string>animatedcontainerBridgeType</string>
+	<key>interfaceNearMode</key>
+	<string>publicStreamFormat</string>
+	<key>missedRemainderShade</key>
+	<string>smallResolverForce</string>
+	<key>modelExceptPrototype</key>
+	<string>mutableInteractorVelocity</string>
+	<key>semanticScreenVelocity</key>
+	<string>globalPointOrientation</string>
+	<key>statefulTextureColor</key>
+	<string>transitionVariableDuration</string>
+</dict>
+</plist>

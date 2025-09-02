@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBlocStyle</key>
+	<string>typicalVariantInteraction</string>
+	<key>canvasWithMethod</key>
+	<string>particleValueVelocity</string>
+	<key>curveFlyweightTension</key>
+	<string>futureContainSingleton</string>
+	<key>mediumModelLeft</key>
+	<string>spriteShapeOrientation</string>
+	<key>normContainFramework</key>
+	<string>modulusActionForce</string>
+	<key>statefulForObserver</key>
+	<string>channelsProcessOrientation</string>
+</dict>
+</plist>

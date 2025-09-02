@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferExceptCycle</key>
+	<string>chapterStateFlags</string>
+	<key>enabledStreamValidation</key>
+	<string>segueMementoBehavior</string>
+	<key>immutableGrainRotation</key>
+	<string>globalCosineDuration</string>
+	<key>independentFrameVelocity</key>
+	<string>eagerFeaturePressure</string>
+	<key>layoutAwayDecorator</key>
+	<string>visiblePositionedState</string>
+	<key>multiplicationFlyweightBrightness</key>
+	<string>skinWorkLocation</string>
+	<key>resultFlyweightCenter</key>
+	<string>displayableCallbackShape</string>
+	<key>smartDescriptionSpeed</key>
+	<string>timerStageBorder</string>
+</dict>
+</plist>

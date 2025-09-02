@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorLayerSpacing</key>
+	<string>groupUntilSingleton</string>
+	<key>cellVisitorStyle</key>
+	<string>viewContainAdapter</string>
+	<key>criticalResolverBottom</key>
+	<string>unaryThroughFunction</string>
+	<key>groupMediatorBound</key>
+	<string>stepActionStatus</string>
+	<key>listviewBridgeContrast</key>
+	<string>standaloneModulusBound</string>
+	<key>plateSystemBottom</key>
+	<string>coordinatorCompositeDelay</string>
+	<key>resultThroughForm</key>
+	<string>lazyAspectState</string>
+	<key>scaffoldVarCount</key>
+	<string>pivotalSineRotation</string>
+</dict>
+</plist>

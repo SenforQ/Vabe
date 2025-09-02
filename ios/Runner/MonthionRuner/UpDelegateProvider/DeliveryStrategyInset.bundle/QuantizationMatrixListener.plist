@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseStackForce</key>
+	<string>kernelParameterDirection</string>
+	<key>equalizationAndEnvironment</key>
+	<string>queueAsObserver</string>
+	<key>euclideanIsolateLocation</key>
+	<string>utilProcessDistance</string>
+	<key>graphicFromValue</key>
+	<string>graphAndVisitor</string>
+	<key>interactiveAllocatorTail</key>
+	<string>subtleCommandCount</string>
+	<key>statefulModeFrequency</key>
+	<string>uniqueCapacitiesBrightness</string>
+	<key>variantFacadeOffset</key>
+	<string>webProgressbarPressure</string>
+</dict>
+</plist>

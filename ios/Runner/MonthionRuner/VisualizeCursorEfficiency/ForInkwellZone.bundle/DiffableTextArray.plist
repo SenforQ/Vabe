@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFrameRate</key>
+	<string>similarRouteTop</string>
+	<key>builderKindPressure</key>
+	<string>consumerStyleVelocity</string>
+	<key>challengeKindBehavior</key>
+	<string>webCheckboxCount</string>
+	<key>channelStageVelocity</key>
+	<string>listviewDespiteFlyweight</string>
+	<key>handlerThroughStyle</key>
+	<string>layoutDuringMemento</string>
+	<key>nodeVersusBuffer</key>
+	<string>instructionVisitorStyle</string>
+	<key>stackFrameworkAlignment</key>
+	<string>mutableSegueInterval</string>
+	<key>tabviewModeBottom</key>
+	<string>tweenVisitorScale</string>
+	<key>vectorCycleOrientation</key>
+	<string>finalCharacterKind</string>
+	<key>zoneFacadeDepth</key>
+	<string>storyboardForMediator</string>
+</dict>
+</plist>

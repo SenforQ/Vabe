@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandCompositeFeedback</key>
+	<string>utilSinceCommand</string>
+	<key>deferredCaptionPressure</key>
+	<string>transitionAlongPlatform</string>
+	<key>errorFlyweightVisibility</key>
+	<string>alignmentNumberOpacity</string>
+	<key>flexibleSignTheme</key>
+	<string>borderNearCycle</string>
+	<key>modelVariableContrast</key>
+	<string>spriteLikeNumber</string>
+	<key>pinchablePreviewStatus</key>
+	<string>menuLevelBound</string>
+</dict>
+</plist>

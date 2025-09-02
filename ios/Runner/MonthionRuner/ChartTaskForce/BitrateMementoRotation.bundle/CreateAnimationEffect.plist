@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalTransitionAppearance</key>
+	<string>consumerTypeHue</string>
+	<key>curveProxyOrigin</key>
+	<string>animationProcessDuration</string>
+	<key>deferredAlignmentValidation</key>
+	<string>significantCompletionSkewy</string>
+	<key>directlyParticleDuration</key>
+	<string>precisionTaskRate</string>
+	<key>durationVarMomentum</key>
+	<string>collectionChainResponse</string>
+	<key>effectForVisitor</key>
+	<string>profileFromChain</string>
+	<key>primaryOverlaySize</key>
+	<string>commonContainerDirection</string>
+	<key>queueWorkTop</key>
+	<string>allocatorMementoBound</string>
+	<key>usecaseMediatorMode</key>
+	<string>functionalLayoutResponse</string>
+</dict>
+</plist>

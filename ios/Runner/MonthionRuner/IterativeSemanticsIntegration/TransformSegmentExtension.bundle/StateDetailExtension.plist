@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedSubpixelOrientation</key>
+	<string>coordinatorFromAdapter</string>
+	<key>comprehensiveControllerRate</key>
+	<string>providerInObserver</string>
+	<key>explicitSwitchInteraction</key>
+	<string>sceneSingletonCenter</string>
+	<key>managerFromObserver</key>
+	<string>animationThroughDecorator</string>
+	<key>requiredHandlerCount</key>
+	<string>factoryInsideProcess</string>
+	<key>titleStageVisibility</key>
+	<string>basicBufferTransparency</string>
+</dict>
+</plist>

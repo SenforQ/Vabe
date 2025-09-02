@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeUsecaseContrast</key>
+	<string>featureOutsideStyle</string>
+	<key>channelInActivity</key>
+	<string>declarativeAccessoryShade</string>
+	<key>delegateUntilScope</key>
+	<string>diffableDelegateVelocity</string>
+	<key>equalizationLikeAction</key>
+	<string>utilFacadeTheme</string>
+	<key>offsetTaskInteraction</key>
+	<string>promiseOfLayer</string>
+	<key>scrollScopeRate</key>
+	<string>positionKindSkewy</string>
+</dict>
+</plist>

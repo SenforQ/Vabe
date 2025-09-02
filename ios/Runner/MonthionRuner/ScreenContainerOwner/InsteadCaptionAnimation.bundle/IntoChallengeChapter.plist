@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedProviderVisible</key>
+	<string>storagePlatformOrigin</string>
+	<key>inkwellStrategyEdge</key>
+	<string>switchPlatformSpeed</string>
+	<key>mobileByStyle</key>
+	<string>hashWithoutForm</string>
+	<key>sequentialChecklistTint</key>
+	<string>configurationWithVar</string>
+</dict>
+</plist>

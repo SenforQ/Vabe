@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineBesideFlyweight</key>
+	<string>activatedOffsetValidation</string>
+	<key>cubitPerObserver</key>
+	<string>injectionByFlyweight</string>
+	<key>webRoleFeedback</key>
+	<string>textAboutState</string>
+	<key>zoneAmongMethod</key>
+	<string>geometricRouteTension</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferBesideObserver</key>
+	<string>singletonLayerSaturation</string>
+	<key>criticalChapterFlags</key>
+	<string>nodeStructureStatus</string>
+	<key>interactorExceptBuffer</key>
+	<string>smartScrollOffset</string>
+	<key>oldAllocatorMargin</key>
+	<string>secondStoryboardTheme</string>
+	<key>oldLabelInset</key>
+	<string>overlayBridgeType</string>
+	<key>responseBufferContrast</key>
+	<string>cubitDuringStyle</string>
+</dict>
+</plist>

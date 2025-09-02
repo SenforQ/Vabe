@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateViaContext</key>
+	<string>sizeOutsideStage</string>
+	<key>elasticGroupTransparency</key>
+	<string>memberBridgePadding</string>
+	<key>permissiveSpriteSpeed</key>
+	<string>layoutWithVar</string>
+	<key>profileSinceMediator</key>
+	<string>visibleResourceTheme</string>
+	<key>spotDuringType</key>
+	<string>profileInterpreterRight</string>
+</dict>
+</plist>

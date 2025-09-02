@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCustompaintDepth</key>
+	<string>layoutVariableSkewy</string>
+	<key>coordinatorAroundBridge</key>
+	<string>positionedMementoSpacing</string>
+	<key>declarativeStoreOrigin</key>
+	<string>fusedProjectionPadding</string>
+	<key>descriptionVarTop</key>
+	<string>popupVisitorOrigin</string>
+	<key>mobileTickerVelocity</key>
+	<string>imperativeAccessoryTransparency</string>
+	<key>segueOrState</key>
+	<string>buttonFormVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectPrototypeFlags</key>
+	<string>explicitSampleColor</string>
+	<key>boxshadowAndContext</key>
+	<string>integerObserverLocation</string>
+	<key>collectionChainTransparency</key>
+	<string>arithmeticBufferEdge</string>
+	<key>composableAlphaPosition</key>
+	<string>adaptiveLabelName</string>
+	<key>curveAroundFramework</key>
+	<string>effectWorkVisibility</string>
+	<key>graphInsideJob</key>
+	<string>positionIncludePlatform</string>
+	<key>mobileModeDuration</key>
+	<string>topicThanFacade</string>
+	<key>protocolAtComposite</key>
+	<string>prevSpotHue</string>
+	<key>swiftForInterpreter</key>
+	<string>providerBufferCenter</string>
+</dict>
+</plist>

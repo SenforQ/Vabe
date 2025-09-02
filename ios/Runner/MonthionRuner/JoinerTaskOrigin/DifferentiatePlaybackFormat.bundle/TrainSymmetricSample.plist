@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonViaCommand</key>
+	<string>positionedThroughOperation</string>
+	<key>logAndMode</key>
+	<string>momentumPhaseSaturation</string>
+	<key>modalAsDecorator</key>
+	<string>hierarchicalMusicDelay</string>
+	<key>offsetLevelMomentum</key>
+	<string>tweenFormTint</string>
+	<key>statefulContainerBehavior</key>
+	<string>publicDropdownbuttonSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitPerPlatform</key>
+	<string>cursorExceptEnvironment</string>
+	<key>delegateInsideStyle</key>
+	<string>providerCommandOpacity</string>
+	<key>diversifiedLayoutDirection</key>
+	<string>constraintLevelStyle</string>
+	<key>flexIncludeInterpreter</key>
+	<string>metadataProcessHead</string>
+	<key>gridPhaseVisible</key>
+	<string>declarativeSliderDistance</string>
+	<key>layoutLayerPadding</key>
+	<string>interfaceModeShape</string>
+	<key>resolverWithValue</key>
+	<string>compositionalEffectSize</string>
+	<key>sineLevelTop</key>
+	<string>progressbarOfAction</string>
+	<key>singletonMethodSpacing</key>
+	<string>monsterPlatformRight</string>
+</dict>
+</plist>

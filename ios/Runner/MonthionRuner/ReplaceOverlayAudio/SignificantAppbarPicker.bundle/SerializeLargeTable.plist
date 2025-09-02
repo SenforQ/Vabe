@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLayoutShape</key>
+	<string>presenterVersusLevel</string>
+	<key>descriptionStrategyFeedback</key>
+	<string>decorationMediatorTheme</string>
+	<key>interfaceProxyAppearance</key>
+	<string>routeInterpreterTheme</string>
+	<key>matrixParameterOffset</key>
+	<string>radioStateBehavior</string>
+	<key>smartToolTint</key>
+	<string>tableActivityOpacity</string>
+	<key>taskCommandHead</key>
+	<string>liteGateIndex</string>
+	<key>visibleTitleName</key>
+	<string>actionOutsideVariable</string>
+</dict>
+</plist>

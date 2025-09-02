@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateParamMode</key>
+	<string>hashAroundShape</string>
+	<key>declarativeRouteName</key>
+	<string>blocPerTier</string>
+	<key>equipmentInsideParameter</key>
+	<string>previewOperationCenter</string>
+	<key>navigatorPatternDelay</key>
+	<string>smartDescriptionFormat</string>
+	<key>scrollEnvironmentKind</key>
+	<string>textFromChain</string>
+	<key>storageLevelOpacity</key>
+	<string>intensityIncludeFacade</string>
+</dict>
+</plist>

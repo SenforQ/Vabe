@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasVarMargin</key>
+	<string>projectionAgainstStage</string>
+	<key>routerUntilType</key>
+	<string>composableFeatureMode</string>
+	<key>scrollPerCycle</key>
+	<string>coordinatorBridgeBrightness</string>
+	<key>sliderAsOperation</key>
+	<string>utilNearParam</string>
+	<key>taskPlatformOffset</key>
+	<string>layoutStructureVisibility</string>
+	<key>textMediatorCoord</key>
+	<string>symmetricEntropyBottom</string>
+</dict>
+</plist>

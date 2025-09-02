@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectKindMode</key>
+	<string>radioExceptAction</string>
+	<key>equalizationAlongMethod</key>
+	<string>completionInsideCommand</string>
+	<key>fusedSinkCenter</key>
+	<string>hierarchicalDurationScale</string>
+	<key>playbackOfForm</key>
+	<string>intermediateSizeKind</string>
+	<key>scrollableExceptionOffset</key>
+	<string>resilientVariantMomentum</string>
+	<key>segmentNearComposite</key>
+	<string>indicatorOfStage</string>
+	<key>storeAboutLayer</key>
+	<string>permissivePopupPadding</string>
+	<key>usedTransitionInterval</key>
+	<string>coordinatorOfBridge</string>
+</dict>
+</plist>

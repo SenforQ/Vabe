@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsFromPattern</key>
+	<string>mapOrContext</string>
+	<key>completerVariableTint</key>
+	<string>granularStateValidation</string>
+	<key>dependencyFromState</key>
+	<string>documentInsideSystem</string>
+	<key>drawerStrategyType</key>
+	<string>requiredControllerTransparency</string>
+	<key>materialDecorationCoord</key>
+	<string>criticalSizedboxDirection</string>
+	<key>methodCompositeTail</key>
+	<string>configurationInFlyweight</string>
+	<key>permanentLayoutResponse</key>
+	<string>semanticThemeTag</string>
+	<key>sizedboxVarTag</key>
+	<string>observerStructurePadding</string>
+	<key>tickerAroundParameter</key>
+	<string>referenceShapeKind</string>
+	<key>widgetVisitorTint</key>
+	<string>concretePlateCount</string>
+</dict>
+</plist>

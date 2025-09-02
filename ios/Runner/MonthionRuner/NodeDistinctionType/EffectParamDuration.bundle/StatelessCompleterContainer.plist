@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCertificateMode</key>
+	<string>labelVersusStyle</string>
+	<key>errorAgainstProxy</key>
+	<string>projectionExceptMemento</string>
+	<key>granularIconBrightness</key>
+	<string>unactivatedAlertPadding</string>
+	<key>iconPlatformDistance</key>
+	<string>spineSingletonColor</string>
+	<key>interactorAlongKind</key>
+	<string>singleTouchFlags</string>
+	<key>reactiveShaderBottom</key>
+	<string>resizableLayoutKind</string>
+	<key>scrollableApertureShape</key>
+	<string>timerThroughType</string>
+	<key>stackObserverFormat</key>
+	<string>resourceContextAcceleration</string>
+	<key>statefulFutureStyle</key>
+	<string>techniqueFromSystem</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledConfigurationResponse</key>
+	<string>animatedcontainerOperationDuration</string>
+	<key>offsetByCycle</key>
+	<string>subpixelTierFormat</string>
+	<key>robustSampleDelay</key>
+	<string>commandExceptSingleton</string>
+	<key>singletonInsideFlyweight</key>
+	<string>materialPaddingFeedback</string>
+	<key>spriteDespiteInterpreter</key>
+	<string>mediaqueryThroughStructure</string>
+</dict>
+</plist>

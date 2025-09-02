@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateViaCycle</key>
+	<string>autoDocumentCenter</string>
+	<key>durationWithoutMemento</key>
+	<string>smallColumnInset</string>
+	<key>masterOfState</key>
+	<string>explicitMetadataSpacing</string>
+	<key>plateAgainstTask</key>
+	<string>transitionKindInteraction</string>
+	<key>stackThroughShape</key>
+	<string>coordinatorModeName</string>
+	<key>viewWithMode</key>
+	<string>alignmentWithoutSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableNavigationDelay</key>
+	<string>popupBeyondWork</string>
+	<key>gradientPatternPressure</key>
+	<string>mediocreDelegateSaturation</string>
+	<key>inactiveContainerTail</key>
+	<string>requestMediatorFrequency</string>
+	<key>offsetEnvironmentCenter</key>
+	<string>sequentialDurationBorder</string>
+	<key>progressbarAsState</key>
+	<string>groupContainScope</string>
+	<key>touchActionIndex</key>
+	<string>priorSpriteTag</string>
+	<key>unaryParameterBound</key>
+	<string>asyncCubitOffset</string>
+</dict>
+</plist>

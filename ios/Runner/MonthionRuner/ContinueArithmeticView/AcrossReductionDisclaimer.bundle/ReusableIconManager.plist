@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationShapeTail</key>
+	<string>intermediateBulletTail</string>
+	<key>batchProcessSkewy</key>
+	<string>significantTaskFrequency</string>
+	<key>gradientFormShape</key>
+	<string>imageIncludePrototype</string>
+	<key>routerViaCommand</key>
+	<string>entropyAmongBuffer</string>
+</dict>
+</plist>

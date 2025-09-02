@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorOrOperation</key>
+	<string>customizedScreenSkewy</string>
+	<key>boxStateMode</key>
+	<string>errorSinceFlyweight</string>
+	<key>constraintFormCenter</key>
+	<string>completerMediatorOrientation</string>
+	<key>stateUntilProxy</key>
+	<string>requestThroughValue</string>
+</dict>
+</plist>

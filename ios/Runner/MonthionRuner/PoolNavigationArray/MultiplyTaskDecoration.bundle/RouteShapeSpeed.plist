@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleViewSpeed</key>
+	<string>handlerActivityPosition</string>
+	<key>buttonFlyweightSpeed</key>
+	<string>queueSinceContext</string>
+	<key>handlerCompositeTheme</key>
+	<string>coordinatorModeOrientation</string>
+	<key>interfaceAlongBridge</key>
+	<string>consumerSystemRate</string>
+	<key>layerAndPrototype</key>
+	<string>hardDrawerCenter</string>
+	<key>managerShapeTint</key>
+	<string>imperativeManagerSkewy</string>
+	<key>paddingFromPlatform</key>
+	<string>agileTimerDistance</string>
+	<key>tabbarFormForce</key>
+	<string>logarithmOperationInset</string>
+	<key>unactivatedNavigatorOffset</key>
+	<string>activeSwitchBound</string>
+</dict>
+</plist>

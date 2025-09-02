@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystValueOrientation</key>
+	<string>buttonCompositePressure</string>
+	<key>gridviewBesideEnvironment</key>
+	<string>previewBeyondSystem</string>
+	<key>imperativePageviewInset</key>
+	<string>easyFutureInset</string>
+	<key>newestCubeOpacity</key>
+	<string>adaptiveDelegateSaturation</string>
+	<key>playbackPatternOrientation</key>
+	<string>assetOfStyle</string>
+	<key>spotBufferSkewy</key>
+	<string>accordionAlphaRotation</string>
+	<key>symmetricScreenOrientation</key>
+	<string>radiusByFunction</string>
+	<key>vectorUntilFacade</key>
+	<string>optionAlongPrototype</string>
+</dict>
+</plist>

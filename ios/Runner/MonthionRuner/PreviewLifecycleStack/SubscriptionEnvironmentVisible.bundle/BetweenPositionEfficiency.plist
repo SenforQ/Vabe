@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticOutsideProxy</key>
+	<string>menuSingletonVisibility</string>
+	<key>completerForNumber</key>
+	<string>channelMediatorTransparency</string>
+	<key>criticalCurveStatus</key>
+	<string>progressbarMementoContrast</string>
+	<key>fragmentTierName</key>
+	<string>resourceModeVelocity</string>
+	<key>rectPlatformAcceleration</key>
+	<string>singletonSincePrototype</string>
+	<key>significantGradientCoord</key>
+	<string>newestRectTransparency</string>
+	<key>significantSinkKind</key>
+	<string>dynamicSpecifierBound</string>
+	<key>subscriptionOutsideOperation</key>
+	<string>gramAtVariable</string>
+	<key>textureMethodSkewx</key>
+	<string>timerVisitorInteraction</string>
+</dict>
+</plist>

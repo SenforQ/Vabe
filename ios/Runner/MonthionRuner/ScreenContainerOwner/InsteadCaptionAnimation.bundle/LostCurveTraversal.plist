@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonThroughPhase</key>
+	<string>titleAgainstMediator</string>
+	<key>globalMultiplicationFlags</key>
+	<string>currentDelegateSpacing</string>
+	<key>iterativeStatelessTransparency</key>
+	<string>discardedServiceDuration</string>
+	<key>layoutExceptMediator</key>
+	<string>tableCompositeSaturation</string>
+	<key>originalSymbolFormat</key>
+	<string>builderByParameter</string>
+	<key>responsiveMediaqueryMomentum</key>
+	<string>storyboardStrategyCoord</string>
+	<key>sliderThroughFacade</key>
+	<string>frameStrategyFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledLocalizationTheme</key>
+	<string>delegateIncludeVar</string>
+	<key>grainEnvironmentStatus</key>
+	<string>checklistPerOperation</string>
+	<key>hashBeyondVisitor</key>
+	<string>radioNearDecorator</string>
+	<key>menuVariableOrigin</key>
+	<string>isolateAndDecorator</string>
+	<key>multiTabviewBorder</key>
+	<string>subsequentDelegateResponse</string>
+	<key>paddingSinceLevel</key>
+	<string>secondCubitSize</string>
+</dict>
+</plist>

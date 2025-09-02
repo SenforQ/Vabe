@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferUntilMode</key>
+	<string>popupDuringLevel</string>
+	<key>channelAtMemento</key>
+	<string>activatedStateKind</string>
+	<key>channelOutsideKind</key>
+	<string>explicitCatalystAppearance</string>
+	<key>completionAtMethod</key>
+	<string>descriptionOutsidePrototype</string>
+	<key>inactiveRiverpodRate</key>
+	<string>layoutAwayVar</string>
+	<key>keyCompleterSpeed</key>
+	<string>nativeWidgetTag</string>
+	<key>permanentMaterialShade</key>
+	<string>resilientLabelDepth</string>
+	<key>reducerNearFunction</key>
+	<string>mediocreCurveOpacity</string>
+</dict>
+</plist>

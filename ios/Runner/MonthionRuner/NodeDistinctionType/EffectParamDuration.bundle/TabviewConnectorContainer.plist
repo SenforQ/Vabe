@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futurePerMode</key>
+	<string>resourceProxySaturation</string>
+	<key>gridObserverRate</key>
+	<string>curveInChain</string>
+	<key>gridViaStyle</key>
+	<string>checkboxInsideState</string>
+	<key>iconSystemResponse</key>
+	<string>sliderModeBound</string>
+	<key>listenerOutsideVariable</key>
+	<string>particleOutsideShape</string>
+	<key>seamlessContainerRight</key>
+	<string>binaryDecoratorShape</string>
+	<key>singleExtensionCoord</key>
+	<string>stampContextCount</string>
+	<key>streamThroughTemple</key>
+	<string>advancedBlocScale</string>
+</dict>
+</plist>

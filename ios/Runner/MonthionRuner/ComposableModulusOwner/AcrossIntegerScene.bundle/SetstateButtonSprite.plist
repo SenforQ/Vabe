@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystThroughType</key>
+	<string>spritePhaseLocation</string>
+	<key>cubeTypeState</key>
+	<string>completerBufferForce</string>
+	<key>inactiveCycleSaturation</key>
+	<string>optionBesideTemple</string>
+	<key>missionStructureSpacing</key>
+	<string>reusableResolverName</string>
+	<key>transformerVarName</key>
+	<string>containerBeyondChain</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterDecoratorAppearance</key>
+	<string>spriteAgainstLevel</string>
+	<key>completionOrState</key>
+	<string>grainInBuffer</string>
+	<key>dedicatedAlignmentName</key>
+	<string>usageAsBuffer</string>
+	<key>deferredStepAlignment</key>
+	<string>cardFlyweightName</string>
+	<key>otherMovementDensity</key>
+	<string>mediaInsideLayer</string>
+	<key>skinObserverSkewy</key>
+	<string>decorationVersusVariable</string>
+	<key>storeShapeState</key>
+	<string>exponentPhaseVisibility</string>
+	<key>visibleNavigationTop</key>
+	<string>tweenProcessMomentum</string>
+</dict>
+</plist>

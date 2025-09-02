@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardFactoryTransparency</key>
+	<string>layerWithComposite</string>
+	<key>curveVersusProcess</key>
+	<string>activatedProviderHue</string>
+	<key>optionBridgeDelay</key>
+	<string>keyNotifierSpacing</string>
+	<key>persistentActionBound</key>
+	<string>greatResolverOffset</string>
+</dict>
+</plist>

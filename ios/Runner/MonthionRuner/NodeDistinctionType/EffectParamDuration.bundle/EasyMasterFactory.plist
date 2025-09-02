@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTransformerFlags</key>
+	<string>providerUntilBuffer</string>
+	<key>commandAtTier</key>
+	<string>difficultChapterBehavior</string>
+	<key>curvePerMode</key>
+	<string>transformerBufferValidation</string>
+	<key>nativeMusicMargin</key>
+	<string>inactiveObserverLocation</string>
+	<key>responsiveTaskState</key>
+	<string>rectViaContext</string>
+	<key>taskActivityPadding</key>
+	<string>interfaceStrategyOffset</string>
+	<key>textTypeMode</key>
+	<string>subsequentRowStyle</string>
+</dict>
+</plist>

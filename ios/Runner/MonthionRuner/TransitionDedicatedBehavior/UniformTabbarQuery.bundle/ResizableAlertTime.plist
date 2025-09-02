@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineSystemDepth</key>
+	<string>numericalCharacterDirection</string>
+	<key>controllerCompositeTag</key>
+	<string>usageContextTop</string>
+	<key>enabledGridScale</key>
+	<string>invisibleOffsetDistance</string>
+	<key>gestureAwayState</key>
+	<string>nextInteractorInteraction</string>
+	<key>petAtOperation</key>
+	<string>accessibleZoneType</string>
+	<key>resolverScopeRotation</key>
+	<string>popupMediatorPadding</string>
+	<key>significantUnaryRight</key>
+	<string>radioPlatformSkewy</string>
+	<key>tangentContextFrequency</key>
+	<string>descriptorExceptVar</string>
+</dict>
+</plist>

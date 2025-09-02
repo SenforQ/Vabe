@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedOffsetDensity</key>
+	<string>typicalBaseHue</string>
+	<key>bufferInsideShape</key>
+	<string>semanticsContainVar</string>
+	<key>elasticPageviewLocation</key>
+	<string>zoneEnvironmentLeft</string>
+	<key>granularEffectDensity</key>
+	<string>requestVersusAction</string>
+	<key>matrixCompositePosition</key>
+	<string>sustainableHandlerResponse</string>
+	<key>modelTypeMargin</key>
+	<string>alphaEnvironmentLocation</string>
+	<key>topicVersusStyle</key>
+	<string>segmentDespiteScope</string>
+	<key>visibleManagerLeft</key>
+	<string>fragmentJobAlignment</string>
+</dict>
+</plist>

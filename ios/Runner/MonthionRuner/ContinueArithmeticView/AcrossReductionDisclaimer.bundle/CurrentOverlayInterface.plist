@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPerFlyweight</key>
+	<string>behaviorOfProxy</string>
+	<key>clipperAlongScope</key>
+	<string>pinchableDurationLocation</string>
+	<key>containerInScope</key>
+	<string>integerFacadeDensity</string>
+	<key>curveVisitorDirection</key>
+	<string>immutableBuilderIndex</string>
+	<key>dimensionAndSingleton</key>
+	<string>effectContainVar</string>
+	<key>fixedThemePadding</key>
+	<string>gestureInterpreterName</string>
+	<key>interactiveInstructionMargin</key>
+	<string>tabviewSystemLocation</string>
+	<key>localizationBesideLayer</key>
+	<string>pivotalGrayscaleSaturation</string>
+	<key>numericalInteractorDelay</key>
+	<string>methodVarStyle</string>
+</dict>
+</plist>

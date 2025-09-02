@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertPerFunction</key>
+	<string>retainedPopupInterval</string>
+	<key>animatedcontainerAwayComposite</key>
+	<string>nativeChannelsName</string>
+	<key>arithmeticCupertinoFlags</key>
+	<string>staticFutureMode</string>
+	<key>disabledPromiseResponse</key>
+	<string>queueVersusPlatform</string>
+	<key>gesturePrototypeSize</key>
+	<string>unactivatedResultState</string>
+	<key>keyOptionSkewy</key>
+	<string>curveOperationFlags</string>
+	<key>segmentTypeVisibility</key>
+	<string>skinBridgeOrigin</string>
+	<key>tweenTypeVelocity</key>
+	<string>dedicatedFeatureStatus</string>
+	<key>zoneVisitorOpacity</key>
+	<string>cartesianPopupBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDecorationValidation</key>
+	<string>sceneInsideDecorator</string>
+	<key>extensionObserverStyle</key>
+	<string>descriptorPhaseDelay</string>
+	<key>firstAnimationDuration</key>
+	<string>queryActionTint</string>
+	<key>gesturedetectorAtState</key>
+	<string>nativeTweenBrightness</string>
+	<key>particleNumberContrast</key>
+	<string>layerStageBottom</string>
+	<key>requestThanStyle</key>
+	<string>arithmeticCallbackPadding</string>
+	<key>textureNearFacade</key>
+	<string>cosineWithTask</string>
+	<key>utilDecoratorSize</key>
+	<string>radioPerProxy</string>
+</dict>
+</plist>

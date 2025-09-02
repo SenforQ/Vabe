@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderStageVisible</key>
+	<string>nativeScreenTransparency</string>
+	<key>currentReducerAcceleration</key>
+	<string>robustEntropyVisible</string>
+	<key>notifierAndFacade</key>
+	<string>layoutBufferBound</string>
+	<key>timerActionKind</key>
+	<string>segueByFunction</string>
+</dict>
+</plist>

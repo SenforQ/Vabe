@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineKindSpeed</key>
+	<string>densePreviewKind</string>
+	<key>delicateSwiftOrigin</key>
+	<string>allocatorWithFunction</string>
+	<key>firstModelSpeed</key>
+	<string>subpixelNumberVisibility</string>
+	<key>responseContainMode</key>
+	<string>cacheMethodSize</string>
+	<key>usageContextOpacity</key>
+	<string>eagerCommandTop</string>
+</dict>
+</plist>

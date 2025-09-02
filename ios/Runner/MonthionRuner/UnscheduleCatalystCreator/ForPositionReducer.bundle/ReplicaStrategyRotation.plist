@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackByMediator</key>
+	<string>staticIndicatorBehavior</string>
+	<key>cardPerPhase</key>
+	<string>layerBufferVisibility</string>
+	<key>eventInParam</key>
+	<string>transformerUntilStyle</string>
+	<key>grayscaleKindTransparency</key>
+	<string>rowStrategyColor</string>
+	<key>handlerSingletonBehavior</key>
+	<string>requestProxyCenter</string>
+</dict>
+</plist>

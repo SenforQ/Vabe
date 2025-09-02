@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBridgeType</key>
+	<string>textBufferDirection</string>
+	<key>finalDocumentVisibility</key>
+	<string>consumerAdapterOpacity</string>
+	<key>flexTierAcceleration</key>
+	<string>tensorStreamTheme</string>
+	<key>offsetDespiteState</key>
+	<string>gridviewProcessFeedback</string>
+</dict>
+</plist>

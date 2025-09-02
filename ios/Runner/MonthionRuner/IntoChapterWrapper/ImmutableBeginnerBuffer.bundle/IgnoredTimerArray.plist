@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEffectPressure</key>
+	<string>parallelMomentumFeedback</string>
+	<key>directlyKernelInterval</key>
+	<string>missionFlyweightInset</string>
+	<key>exceptionAwayType</key>
+	<string>activeGramType</string>
+	<key>graphFlyweightTension</key>
+	<string>notifierVisitorInset</string>
+	<key>reactiveConfigurationScale</key>
+	<string>requestSystemPadding</string>
+	<key>rowExceptScope</key>
+	<string>widgetProxyColor</string>
+	<key>unactivatedMetadataTension</key>
+	<string>widgetAlongTask</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationFromPhase</key>
+	<string>dynamicSignCenter</string>
+	<key>cubitTempleBehavior</key>
+	<string>effectMethodTail</string>
+	<key>frameIncludeMethod</key>
+	<string>baseAmongMode</string>
+	<key>logarithmWithMemento</key>
+	<string>smallEffectRotation</string>
+	<key>offsetUntilPattern</key>
+	<string>delegateVisitorName</string>
+	<key>operationAgainstScope</key>
+	<string>viewAboutParam</string>
+	<key>rapidRepositoryTail</key>
+	<string>providerAroundContext</string>
+</dict>
+</plist>

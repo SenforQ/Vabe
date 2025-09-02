@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionLayerOffset</key>
+	<string>radioWithoutTemple</string>
+	<key>descriptorOutsideCommand</key>
+	<string>dialogsAndDecorator</string>
+	<key>dynamicTransformerMode</key>
+	<string>blocAdapterMargin</string>
+	<key>gesturedetectorDecoratorHead</key>
+	<string>progressbarWithOperation</string>
+	<key>interactiveResultPosition</key>
+	<string>instructionThanTask</string>
+	<key>overlayStrategyAlignment</key>
+	<string>frameAdapterBottom</string>
+	<key>plateUntilTask</key>
+	<string>blocActionOffset</string>
+	<key>toolOutsideLevel</key>
+	<string>sceneDespiteDecorator</string>
+</dict>
+</plist>

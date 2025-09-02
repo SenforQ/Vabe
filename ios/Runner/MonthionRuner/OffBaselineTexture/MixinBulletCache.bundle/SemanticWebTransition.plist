@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupLayerDuration</key>
+	<string>singleProgressbarDuration</string>
+	<key>otherThreadVisibility</key>
+	<string>pointShapePressure</string>
+	<key>permissivePlaybackValidation</key>
+	<string>animatedSceneMargin</string>
+	<key>priorInjectionCount</key>
+	<string>listenerAndCommand</string>
+	<key>shaderFacadeCenter</key>
+	<string>visibleGridviewStatus</string>
+	<key>tensorSpineFrequency</key>
+	<string>disabledMaterialShape</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSymbolType</key>
+	<string>canvasExceptStructure</string>
+	<key>discardedEffectInterval</key>
+	<string>reducerWithoutKind</string>
+	<key>handlerFromBridge</key>
+	<string>columnInterpreterFrequency</string>
+	<key>hashContainShape</key>
+	<string>mediaAlongJob</string>
+	<key>layoutBridgeEdge</key>
+	<string>gramObserverVisible</string>
+	<key>listviewLayerTheme</key>
+	<string>slashWithoutAction</string>
+	<key>navigatorInsideTask</key>
+	<string>staticCompositionDistance</string>
+	<key>priorityCommandSize</key>
+	<string>viewViaVisitor</string>
+	<key>secondPositionContrast</key>
+	<string>graphShapeResponse</string>
+</dict>
+</plist>

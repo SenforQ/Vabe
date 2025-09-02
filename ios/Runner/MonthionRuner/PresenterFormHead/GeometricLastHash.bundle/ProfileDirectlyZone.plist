@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteFeatureIndex</key>
+	<string>navigatorValueBorder</string>
+	<key>delegateEnvironmentAppearance</key>
+	<string>hardCompositionBrightness</string>
+	<key>inkwellViaProcess</key>
+	<string>managerInsideProxy</string>
+	<key>layoutBufferSpeed</key>
+	<string>isolateChainAcceleration</string>
+	<key>layoutIncludeParam</key>
+	<string>anchorAwayObserver</string>
+	<key>rowThanStyle</key>
+	<string>unactivatedGrainTint</string>
+</dict>
+</plist>

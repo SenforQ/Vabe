@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutOperationVisibility</key>
+	<string>greatQueueType</string>
+	<key>subscriptionOperationPressure</key>
+	<string>independentMultiplicationMode</string>
+	<key>ternaryPerJob</key>
+	<string>normalScreenSpeed</string>
+	<key>textureBesideSystem</key>
+	<string>binaryForProxy</string>
+	<key>workflowSystemCount</key>
+	<string>zoneBeyondFramework</string>
+</dict>
+</plist>

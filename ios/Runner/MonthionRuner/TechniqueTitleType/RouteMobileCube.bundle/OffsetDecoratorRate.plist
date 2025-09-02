@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPerSingleton</key>
+	<string>labelPhaseTop</string>
+	<key>beginnerQueryInteraction</key>
+	<string>stateShapePressure</string>
+	<key>priorInjectionVisibility</key>
+	<string>projectNumberSpacing</string>
+	<key>sampleSincePattern</key>
+	<string>gridScopeMode</string>
+	<key>spotNearPlatform</key>
+	<string>independentNotifierDistance</string>
+	<key>workflowAsTask</key>
+	<string>subpixelNearPlatform</string>
+</dict>
+</plist>

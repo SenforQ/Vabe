@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionHashStyle</key>
+	<string>previewShapePadding</string>
+	<key>alphaCompositeVisible</key>
+	<string>nibContextValidation</string>
+	<key>asynchronousAnimationHue</key>
+	<string>zoneLevelFeedback</string>
+	<key>binaryDecoratorFlags</key>
+	<string>symmetricTabviewForce</string>
+	<key>gemSystemScale</key>
+	<string>durationLevelCount</string>
+	<key>mobxDespiteWork</key>
+	<string>originalColumnFormat</string>
+	<key>visibleRouterInterval</key>
+	<string>usedStateStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushLikeBuffer</key>
+	<string>dedicatedCacheBound</string>
+	<key>groupAtStructure</key>
+	<string>symmetricTaskType</string>
+	<key>missionCycleAppearance</key>
+	<string>usageAlongPlatform</string>
+	<key>mobileEventStatus</key>
+	<string>storeNumberSpeed</string>
+	<key>pageviewOrAction</key>
+	<string>asynchronousAspectRate</string>
+	<key>priorArithmeticVelocity</key>
+	<string>normInPrototype</string>
+	<key>priorityActivityHue</key>
+	<string>chapterInterpreterFormat</string>
+	<key>stackKindResponse</key>
+	<string>protectedNodeIndex</string>
+	<key>textfieldNumberAlignment</key>
+	<string>fusedContainerBrightness</string>
+</dict>
+</plist>

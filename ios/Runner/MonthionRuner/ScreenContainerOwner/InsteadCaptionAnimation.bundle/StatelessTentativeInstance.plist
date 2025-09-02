@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseBesideStrategy</key>
+	<string>semanticSignRotation</string>
+	<key>behaviorActivityDensity</key>
+	<string>grayscaleProcessFeedback</string>
+	<key>documentExceptShape</key>
+	<string>builderOperationOffset</string>
+	<key>missionWorkContrast</key>
+	<string>resourceVersusMemento</string>
+	<key>resourceAmongPrototype</key>
+	<string>streamDecoratorTension</string>
+	<key>responsiveCommandDirection</key>
+	<string>storeAsShape</string>
+	<key>responsiveProviderTension</key>
+	<string>interactiveModelOrientation</string>
+	<key>synchronousStoreForce</key>
+	<string>momentumMediatorVisible</string>
+	<key>textVariableHue</key>
+	<string>constCubitMomentum</string>
+</dict>
+</plist>

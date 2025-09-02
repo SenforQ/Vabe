@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePositionEdge</key>
+	<string>chapterLikeKind</string>
+	<key>criticalMemberVisible</key>
+	<string>backwardPlaybackInteraction</string>
+	<key>crudeTransitionDirection</key>
+	<string>unsortedBatchSkewx</string>
+	<key>graphicFormValidation</key>
+	<string>logFromPhase</string>
+	<key>movementCycleShade</key>
+	<string>flexContextStyle</string>
+	<key>positionInStage</key>
+	<string>custompaintPlatformContrast</string>
+	<key>scrollableObserverTint</key>
+	<string>functionalRoleForce</string>
+	<key>tweenObserverCoord</key>
+	<string>interactiveServiceAcceleration</string>
+	<key>utilUntilKind</key>
+	<string>relationalSpriteStatus</string>
+</dict>
+</plist>

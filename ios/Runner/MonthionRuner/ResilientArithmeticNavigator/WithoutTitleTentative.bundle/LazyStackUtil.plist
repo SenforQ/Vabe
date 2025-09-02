@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedViewDensity</key>
+	<string>globalGraphicHead</string>
+	<key>captionStateTail</key>
+	<string>primaryLossSaturation</string>
+	<key>documentLevelStyle</key>
+	<string>behaviorViaLevel</string>
+	<key>geometricResultCount</key>
+	<string>lossContainSingleton</string>
+	<key>gestureProxyShape</key>
+	<string>grainThroughSingleton</string>
+	<key>marginUntilTier</key>
+	<string>unaryIncludeStrategy</string>
+	<key>responseActivityDensity</key>
+	<string>frameContainProxy</string>
+	<key>transformerByObserver</key>
+	<string>methodDuringLevel</string>
+</dict>
+</plist>

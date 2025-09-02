@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedBehaviorEdge</key>
+	<string>multiCoordinatorDelay</string>
+	<key>featureBesideBridge</key>
+	<string>imageSystemValidation</string>
+	<key>mapNearVisitor</key>
+	<string>textureStageDistance</string>
+	<key>pivotalTransformerVisible</key>
+	<string>mainSliderInterval</string>
+	<key>promiseTypeName</key>
+	<string>masterEnvironmentVisibility</string>
+	<key>statefulWidgetMomentum</key>
+	<string>sequentialCheckboxAlignment</string>
+</dict>
+</plist>

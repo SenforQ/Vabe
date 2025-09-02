@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerAdapterHead</key>
+	<string>playbackInterpreterSpacing</string>
+	<key>consumerForChain</key>
+	<string>mediumCurveTransparency</string>
+	<key>customChapterStyle</key>
+	<string>optimizerBufferPadding</string>
+	<key>cycleSystemFeedback</key>
+	<string>vectorAndVar</string>
+	<key>dedicatedActivityPosition</key>
+	<string>previewOutsideSystem</string>
+	<key>navigatorCycleDistance</key>
+	<string>serviceSingletonMargin</string>
+	<key>titleAndAdapter</key>
+	<string>histogramAgainstDecorator</string>
+</dict>
+</plist>

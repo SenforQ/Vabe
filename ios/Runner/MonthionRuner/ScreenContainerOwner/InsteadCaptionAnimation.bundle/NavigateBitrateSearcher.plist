@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConstraintSpeed</key>
+	<string>buttonAtMediator</string>
+	<key>commonGridDelay</key>
+	<string>checklistThroughForm</string>
+	<key>hashInterpreterDepth</key>
+	<string>dropdownbuttonFunctionOrigin</string>
+	<key>loopEnvironmentResponse</key>
+	<string>behaviorDecoratorValidation</string>
+	<key>mobxVersusStyle</key>
+	<string>gridviewWithScope</string>
+	<key>timerAlongOperation</key>
+	<string>resizableSinkBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAwayDecorator</key>
+	<string>directlyCycleShade</string>
+	<key>cardVisitorRight</key>
+	<string>hardCompletionEdge</string>
+	<key>cubitStateFeedback</key>
+	<string>relationalFutureLeft</string>
+	<key>invisibleResultMomentum</key>
+	<string>draggableMomentumCenter</string>
+	<key>menuLikeStyle</key>
+	<string>primarySkinHead</string>
+	<key>nodeAgainstFlyweight</key>
+	<string>responseKindAppearance</string>
+	<key>reusableCompleterBorder</key>
+	<string>storeAgainstValue</string>
+	<key>routeScopeContrast</key>
+	<string>builderFrameworkTint</string>
+	<key>statePatternKind</key>
+	<string>swiftNearKind</string>
+	<key>statefulHistogramVisibility</key>
+	<string>compositionOfVisitor</string>
+</dict>
+</plist>

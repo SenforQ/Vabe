@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCardFlags</key>
+	<string>reactiveOperationColor</string>
+	<key>activeRowKind</key>
+	<string>modelFrameworkFlags</string>
+	<key>eagerFeatureInteraction</key>
+	<string>layerAndKind</string>
+	<key>effectOrStage</key>
+	<string>storeWithoutTask</string>
+	<key>instructionSystemInteraction</key>
+	<string>semanticAllocatorInset</string>
+	<key>mutableInkwellFlags</key>
+	<string>interfaceTaskMomentum</string>
+	<key>referenceLayerFlags</key>
+	<string>transformerWorkAlignment</string>
+	<key>spriteCycleBottom</key>
+	<string>hierarchicalGrayscaleRotation</string>
+	<key>statelessControllerOrientation</key>
+	<string>spriteUntilMemento</string>
+</dict>
+</plist>

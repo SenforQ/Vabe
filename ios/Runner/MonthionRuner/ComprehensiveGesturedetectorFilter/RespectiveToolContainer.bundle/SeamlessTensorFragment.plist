@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushViaValue</key>
+	<string>nibNumberPressure</string>
+	<key>globalTweenBound</key>
+	<string>backwardDelegateInteraction</string>
+	<key>liteCallbackInteraction</key>
+	<string>builderPerType</string>
+	<key>modulusWithChain</key>
+	<string>advancedAnchorHue</string>
+	<key>nativeDescriptionBorder</key>
+	<string>mainHandlerOrientation</string>
+	<key>nibAndState</key>
+	<string>associatedPaddingBottom</string>
+	<key>painterPlatformDensity</key>
+	<string>mainEntityVisibility</string>
+	<key>spriteScopeVisibility</key>
+	<string>decorationBesideActivity</string>
+	<key>webStatefulValidation</key>
+	<string>compositionalSensorBehavior</string>
+</dict>
+</plist>

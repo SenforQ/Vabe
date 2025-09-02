@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSingletonMargin</key>
+	<string>responseThroughLevel</string>
+	<key>globalWidgetFlags</key>
+	<string>loopSystemFlags</string>
+	<key>gridFunctionTransparency</key>
+	<string>stateOrAction</string>
+	<key>mainAccessoryContrast</key>
+	<string>taskAlongLevel</string>
+	<key>painterStrategyAppearance</key>
+	<string>subscriptionFacadeEdge</string>
+	<key>plateFlyweightTransparency</key>
+	<string>robustSizedboxHead</string>
+	<key>prismaticAnchorIndex</key>
+	<string>activeApertureFormat</string>
+	<key>utilAboutInterpreter</key>
+	<string>visibleFrameForce</string>
+</dict>
+</plist>

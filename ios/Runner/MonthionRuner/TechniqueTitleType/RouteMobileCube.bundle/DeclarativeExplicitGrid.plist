@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPlaybackBound</key>
+	<string>progressbarWorkDirection</string>
+	<key>enabledWidgetSaturation</key>
+	<string>optimizerOperationDensity</string>
+	<key>getxSystemInterval</key>
+	<string>opaqueTweenName</string>
+	<key>iterativeResourcePressure</key>
+	<string>actionJobFeedback</string>
+	<key>mainMenuFlags</key>
+	<string>semanticManagerBound</string>
+	<key>menuFromParameter</key>
+	<string>activatedDrawerInteraction</string>
+	<key>positionNumberBorder</key>
+	<string>deferredExponentDuration</string>
+	<key>singletonBesideVariable</key>
+	<string>activatedGridFlags</string>
+</dict>
+</plist>

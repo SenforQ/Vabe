@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectPlatformBrightness</key>
+	<string>activatedMethodStyle</string>
+	<key>behaviorForCommand</key>
+	<string>layoutPerObserver</string>
+	<key>behaviorMediatorState</key>
+	<string>blocScopeResponse</string>
+	<key>dialogsWithVisitor</key>
+	<string>projectCompositeDistance</string>
+	<key>marginViaShape</key>
+	<string>semanticCubeDistance</string>
+	<key>mediaqueryUntilMethod</key>
+	<string>mobileThanWork</string>
+	<key>tensorLabelSkewy</key>
+	<string>protectedAnchorDistance</string>
+	<key>threadProcessIndex</key>
+	<string>masterSystemState</string>
+	<key>usageAtCommand</key>
+	<string>interactorAsComposite</string>
+</dict>
+</plist>

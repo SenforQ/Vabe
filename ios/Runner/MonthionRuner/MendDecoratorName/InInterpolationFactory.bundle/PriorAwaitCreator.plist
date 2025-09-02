@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticDocumentShape</key>
+	<string>subpixelInStructure</string>
+	<key>axisMediatorEdge</key>
+	<string>channelContainValue</string>
+	<key>fusedShaderBrightness</key>
+	<string>projectWithVariable</string>
+	<key>histogramAlongPattern</key>
+	<string>hyperbolicVectorName</string>
+	<key>normalInterpolationState</key>
+	<string>independentMarginScale</string>
+	<key>playbackJobRate</key>
+	<string>effectIncludeValue</string>
+	<key>statefulAlongActivity</key>
+	<string>navigationTypeSpeed</string>
+	<key>streamWithoutFramework</key>
+	<string>layerOrWork</string>
+	<key>swiftWorkScale</key>
+	<string>effectIncludeStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderSingletonVisibility</key>
+	<string>allocatorVarType</string>
+	<key>consultativeTextOrigin</key>
+	<string>resolverVariableOffset</string>
+	<key>routeByContext</key>
+	<string>offsetAtState</string>
+	<key>sliderScopeFormat</key>
+	<string>presenterFrameworkDepth</string>
+	<key>standaloneNavigatorBound</key>
+	<string>lostTangentInterval</string>
+	<key>usecaseParamSkewx</key>
+	<string>callbackAwayType</string>
+</dict>
+</plist>

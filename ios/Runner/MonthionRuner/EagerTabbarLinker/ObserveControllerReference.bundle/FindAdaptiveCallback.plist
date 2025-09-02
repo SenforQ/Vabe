@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedFeatureInteraction</key>
+	<string>gramDuringState</string>
+	<key>injectionBufferSpeed</key>
+	<string>singletonForTier</string>
+	<key>iterativeFragmentBrightness</key>
+	<string>specifierStateRate</string>
+	<key>navigatorPrototypeRotation</key>
+	<string>labelParameterSkewy</string>
+	<key>paddingAmongMode</key>
+	<string>storeFrameworkTint</string>
+	<key>storagePerState</key>
+	<string>adaptiveReferenceCount</string>
+</dict>
+</plist>

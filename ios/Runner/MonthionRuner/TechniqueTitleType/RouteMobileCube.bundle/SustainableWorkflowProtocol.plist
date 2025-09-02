@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateInterpreterPosition</key>
+	<string>stepLayerRight</string>
+	<key>captionVersusEnvironment</key>
+	<string>sceneVersusForm</string>
+	<key>multiTabviewDelay</key>
+	<string>radiusSingletonPressure</string>
+	<key>referenceDuringStage</key>
+	<string>mutableTransitionTint</string>
+</dict>
+</plist>

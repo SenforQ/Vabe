@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianHeapStyle</key>
+	<string>columnAroundProcess</string>
+	<key>curveWithoutFunction</key>
+	<string>routerCompositeStyle</string>
+	<key>dependencyPatternDepth</key>
+	<string>advancedGradientAcceleration</string>
+	<key>widgetVersusTier</key>
+	<string>notificationActivityTag</string>
+</dict>
+</plist>

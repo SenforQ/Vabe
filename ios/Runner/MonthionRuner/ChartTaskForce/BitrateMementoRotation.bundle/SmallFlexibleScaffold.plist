@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectContextStatus</key>
+	<string>hyperbolicPreviewMode</string>
+	<key>bufferAlongStructure</key>
+	<string>immediateStoryboardValidation</string>
+	<key>deferredQueueBottom</key>
+	<string>subpixelBeyondChain</string>
+	<key>difficultContainerRotation</key>
+	<string>staticStreamRate</string>
+	<key>inheritedRowCount</key>
+	<string>boxshadowWorkMomentum</string>
+	<key>momentumOfChain</key>
+	<string>deferredGraphicBehavior</string>
+	<key>optimizerObserverTail</key>
+	<string>radioOfJob</string>
+	<key>stackOfValue</key>
+	<string>positionedInsideVisitor</string>
+	<key>tensorTernaryFlags</key>
+	<string>eagerRectFormat</string>
+</dict>
+</plist>

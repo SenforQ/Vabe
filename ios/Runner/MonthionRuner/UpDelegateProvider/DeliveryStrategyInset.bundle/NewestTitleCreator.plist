@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousActionFlags</key>
+	<string>resultOperationResponse</string>
+	<key>expandedBufferType</key>
+	<string>queryStageRate</string>
+	<key>independentDecorationDistance</key>
+	<string>sortedButtonDelay</string>
+	<key>inheritedOffsetTransparency</key>
+	<string>ignoredAppbarTail</string>
+	<key>interactiveNavigationMode</key>
+	<string>nativeHashOrientation</string>
+	<key>interfaceAboutOperation</key>
+	<string>presenterDecoratorCount</string>
+	<key>numericalPresenterIndex</key>
+	<string>documentContainComposite</string>
+	<key>previewOfCommand</key>
+	<string>asyncWithoutShape</string>
+	<key>sizeFormBrightness</key>
+	<string>variantPlatformIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInPlatform</key>
+	<string>collectionOrKind</string>
+	<key>awaitSinceParameter</key>
+	<string>batchViaOperation</string>
+	<key>axisVersusJob</key>
+	<string>flexibleCoordinatorTop</string>
+	<key>entityViaSingleton</key>
+	<string>curveInPlatform</string>
+	<key>fixedPromiseColor</key>
+	<string>topicPerShape</string>
+	<key>stepAsFacade</key>
+	<string>eagerRichtextDuration</string>
+	<key>subscriptionOutsideAction</key>
+	<string>singletonAmongMediator</string>
+</dict>
+</plist>

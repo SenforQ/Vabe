@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionFromShape</key>
+	<string>errorNumberOffset</string>
+	<key>hardPaddingKind</key>
+	<string>effectDecoratorBound</string>
+	<key>iterativeInjectionResponse</key>
+	<string>instructionAtEnvironment</string>
+	<key>layoutOutsideSingleton</key>
+	<string>inheritedMobileOpacity</string>
+	<key>nibTempleDensity</key>
+	<string>graphicContextDuration</string>
+	<key>streamStrategySaturation</key>
+	<string>animatedcontainerLevelDelay</string>
+	<key>synchronousScrollContrast</key>
+	<string>pinchableDurationSpacing</string>
+</dict>
+</plist>

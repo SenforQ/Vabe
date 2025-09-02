@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionProxyType</key>
+	<string>graphicNumberInteraction</string>
+	<key>appbarStageTail</key>
+	<string>resizablePaddingVisibility</string>
+	<key>captionDecoratorTint</key>
+	<string>dimensionVersusProcess</string>
+	<key>disabledTopicSize</key>
+	<string>clipperStateResponse</string>
+	<key>intensityWithoutContext</key>
+	<string>radiusCommandStyle</string>
+	<key>interfaceTempleOffset</key>
+	<string>overlayAndMediator</string>
+	<key>methodByPrototype</key>
+	<string>scrollableBlocIndex</string>
+	<key>tickerVariableInset</key>
+	<string>textureAsTemple</string>
+</dict>
+</plist>

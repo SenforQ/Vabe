@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncContainerAlignment</key>
+	<string>symbolAsMethod</string>
+	<key>contractionScopeShape</key>
+	<string>effectBesideParameter</string>
+	<key>documentValueStyle</key>
+	<string>textActivityOffset</string>
+	<key>lostCapacitiesName</key>
+	<string>radiusExceptInterpreter</string>
+	<key>mediaqueryMethodRotation</key>
+	<string>grainExceptSystem</string>
+	<key>otherRepositoryMode</key>
+	<string>observerDespiteProxy</string>
+	<key>secondPaddingScale</key>
+	<string>effectSingletonValidation</string>
+	<key>sinkContextTransparency</key>
+	<string>queueFunctionBrightness</string>
+	<key>skinBesideComposite</key>
+	<string>missionThanComposite</string>
+</dict>
+</plist>

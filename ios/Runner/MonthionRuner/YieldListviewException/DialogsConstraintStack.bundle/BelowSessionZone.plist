@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertDuringCommand</key>
+	<string>containerPerAction</string>
+	<key>cycleContainComposite</key>
+	<string>modelShapePressure</string>
+	<key>groupInAdapter</key>
+	<string>compositionalTickerPressure</string>
+	<key>labelShapeLocation</key>
+	<string>priorZoneRight</string>
+	<key>pivotalCoordinatorCoord</key>
+	<string>grainMethodState</string>
+	<key>smartStampSpacing</key>
+	<string>contractionLikeFlyweight</string>
+	<key>usedStateHead</key>
+	<string>controllerPhasePressure</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTextureInset</key>
+	<string>controllerParameterTheme</string>
+	<key>compositionalCompleterStyle</key>
+	<string>temporaryStreamTint</string>
+	<key>configurationSystemVisibility</key>
+	<string>radiusMementoTag</string>
+	<key>exceptionPhaseIndex</key>
+	<string>arithmeticActivityOpacity</string>
+	<key>functionalFactoryInteraction</key>
+	<string>presenterIncludePhase</string>
+	<key>offsetFromMode</key>
+	<string>compositionalResponseTail</string>
+	<key>priorOperationCount</key>
+	<string>iterativeLossResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedFutureShade</key>
+	<string>consultativeViewOrientation</string>
+	<key>allocatorByParameter</key>
+	<string>retainedProviderOrientation</string>
+	<key>coordinatorFrameworkCenter</key>
+	<string>futureObserverFeedback</string>
+	<key>diffableGradientBottom</key>
+	<string>modalInChain</string>
+	<key>draggableTimerPadding</key>
+	<string>sliderBesideFlyweight</string>
+	<key>projectionAndParameter</key>
+	<string>notifierFormDuration</string>
+</dict>
+</plist>

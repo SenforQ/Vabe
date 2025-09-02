@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchNearVar</key>
+	<string>aspectAboutCommand</string>
+	<key>boxshadowFrameworkName</key>
+	<string>smallDescriptionSpacing</string>
+	<key>functionalBlocShape</key>
+	<string>blocAmongSingleton</string>
+	<key>isolateWithoutScope</key>
+	<string>storageVersusContext</string>
+	<key>robustToolFeedback</key>
+	<string>standaloneControllerTail</string>
+	<key>sineDuringStrategy</key>
+	<string>scaffoldStateOrientation</string>
+	<key>singletonThroughStructure</key>
+	<string>timerParameterInteraction</string>
+</dict>
+</plist>

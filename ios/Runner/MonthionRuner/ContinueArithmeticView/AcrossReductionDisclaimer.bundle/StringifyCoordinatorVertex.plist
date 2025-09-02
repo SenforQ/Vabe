@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAndComposite</key>
+	<string>managerActionHue</string>
+	<key>directVectorTheme</key>
+	<string>reducerModeHue</string>
+	<key>dropdownbuttonAboutStyle</key>
+	<string>delegateInterpreterCenter</string>
+	<key>marginSystemValidation</key>
+	<string>timerVariableVisible</string>
+	<key>positionTaskOrientation</key>
+	<string>fixedManagerSize</string>
+	<key>singlePopupOrigin</key>
+	<string>statePerTemple</string>
+	<key>sliderAroundStrategy</key>
+	<string>animatedcontainerCycleSpacing</string>
+</dict>
+</plist>

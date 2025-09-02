@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetMediatorSpeed</key>
+	<string>previewPerTask</string>
+	<key>blocContainPhase</key>
+	<string>queryThroughMemento</string>
+	<key>heapJobShape</key>
+	<string>menuFunctionDepth</string>
+	<key>unsortedPlateShape</key>
+	<string>scaleAsProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCubitDistance</key>
+	<string>usedBufferCount</string>
+	<key>asyncWorkflowAcceleration</key>
+	<string>routeNearCommand</string>
+	<key>functionalAxisBorder</key>
+	<string>persistentPointShade</string>
+	<key>graphicInType</key>
+	<string>swiftAwayFlyweight</string>
+	<key>reusableBoxAcceleration</key>
+	<string>seamlessSwitchSpeed</string>
+	<key>shaderNumberSkewy</key>
+	<string>popupFrameworkAlignment</string>
+</dict>
+</plist>

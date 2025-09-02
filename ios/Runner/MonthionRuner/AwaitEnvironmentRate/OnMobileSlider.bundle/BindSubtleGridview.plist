@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianGesturedetectorDuration</key>
+	<string>nativeSizeMargin</string>
+	<key>completionInsideForm</key>
+	<string>cupertinoCoordinatorSpeed</string>
+	<key>constHandlerFlags</key>
+	<string>nextDecorationDirection</string>
+	<key>controllerAsType</key>
+	<string>spriteWorkDistance</string>
+	<key>liteScaffoldHue</key>
+	<string>effectFormResponse</string>
+	<key>mapContainBridge</key>
+	<string>delegateAmongStage</string>
+	<key>pageviewWithoutAdapter</key>
+	<string>accessoryContextOrientation</string>
+	<key>protectedAlignmentColor</key>
+	<string>exceptionOutsideActivity</string>
+	<key>stackAgainstFlyweight</key>
+	<string>captionOfMode</string>
+</dict>
+</plist>

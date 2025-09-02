@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTextInteraction</key>
+	<string>scaffoldAroundParameter</string>
+	<key>asyncServiceVisibility</key>
+	<string>decorationUntilVisitor</string>
+	<key>disabledContainerSize</key>
+	<string>asyncParameterLocation</string>
+	<key>projectionByFramework</key>
+	<string>offsetFacadeForce</string>
+	<key>singletonAgainstLayer</key>
+	<string>particleFrameworkLocation</string>
+	<key>zoneFormColor</key>
+	<string>subsequentNavigatorTop</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertCommandAppearance</key>
+	<string>instructionScopeBound</string>
+	<key>constraintAlongObserver</key>
+	<string>pinchableBrushSize</string>
+	<key>effectOutsideMediator</key>
+	<string>unactivatedFactoryBorder</string>
+	<key>hardScreenEdge</key>
+	<string>crucialGrainTint</string>
+	<key>vectorParameterRight</key>
+	<string>metadataOutsideParameter</string>
+	<key>widgetDecoratorInteraction</key>
+	<string>callbackExceptShape</string>
+</dict>
+</plist>

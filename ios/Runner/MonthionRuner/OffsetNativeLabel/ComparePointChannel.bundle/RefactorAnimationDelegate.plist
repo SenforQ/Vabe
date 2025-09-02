@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelInterpreterMode</key>
+	<string>tappableStackRight</string>
+	<key>gateFacadeName</key>
+	<string>hierarchicalModulusBottom</string>
+	<key>groupTempleFeedback</key>
+	<string>pinchableFeatureTransparency</string>
+	<key>inheritedWidgetDepth</key>
+	<string>entityViaType</string>
+	<key>layerParameterBrightness</key>
+	<string>displayableDescriptionAppearance</string>
+	<key>signIncludeProxy</key>
+	<string>precisionDecoratorBrightness</string>
+	<key>storageOrVariable</key>
+	<string>cartesianFutureForce</string>
+	<key>unsortedResultTint</key>
+	<string>touchLikeComposite</string>
+	<key>usedTangentPadding</key>
+	<string>viewIncludeScope</string>
+</dict>
+</plist>

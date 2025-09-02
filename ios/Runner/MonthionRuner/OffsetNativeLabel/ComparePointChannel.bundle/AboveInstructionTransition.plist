@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainContainLevel</key>
+	<string>directRouteDensity</string>
+	<key>mainWidgetTail</key>
+	<string>tweenPerCommand</string>
+	<key>nextButtonOrientation</key>
+	<string>diffableGrainAppearance</string>
+	<key>publicMenuSkewy</key>
+	<string>permanentTickerTransparency</string>
+	<key>reductionLayerType</key>
+	<string>nibSystemDistance</string>
+	<key>routerProxyPressure</key>
+	<string>statelessMatrixDelay</string>
+	<key>zoneViaPlatform</key>
+	<string>immutableNodeInteraction</string>
+</dict>
+</plist>

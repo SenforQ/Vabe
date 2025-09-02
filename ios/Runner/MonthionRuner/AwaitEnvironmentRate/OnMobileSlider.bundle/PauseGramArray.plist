@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPhaseAcceleration</key>
+	<string>imageBesideOperation</string>
+	<key>binaryInType</key>
+	<string>requestPerObserver</string>
+	<key>cupertinoAndShape</key>
+	<string>interfaceAgainstVariable</string>
+	<key>custompaintShapeInteraction</key>
+	<string>inheritedEntityStyle</string>
+	<key>euclideanDrawerOrientation</key>
+	<string>dropdownbuttonAgainstTemple</string>
+	<key>exponentCommandTension</key>
+	<string>commandForDecorator</string>
+	<key>inkwellDecoratorAlignment</key>
+	<string>stackPatternSize</string>
+	<key>parallelControllerHue</key>
+	<string>pinchableMovementStyle</string>
+</dict>
+</plist>

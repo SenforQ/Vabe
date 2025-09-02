@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAgainstEnvironment</key>
+	<string>aspectratioInsideContext</string>
+	<key>batchUntilFlyweight</key>
+	<string>intermediateBrushDepth</string>
+	<key>containerBufferRate</key>
+	<string>adaptiveResponseScale</string>
+	<key>crucialMovementVelocity</key>
+	<string>channelStructureAlignment</string>
+	<key>pinchableTaskCount</key>
+	<string>canvasAlongVisitor</string>
+	<key>semanticOffsetShape</key>
+	<string>catalystSingletonShape</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncCoordinatorTheme</key>
+	<string>indicatorOrWork</string>
+	<key>asyncOutsideStage</key>
+	<string>tabbarDespiteValue</string>
+	<key>dedicatedGridBrightness</key>
+	<string>respectiveCompleterDelay</string>
+	<key>lastCosineBorder</key>
+	<string>topicFlyweightDelay</string>
+	<key>layerProxyResponse</key>
+	<string>resizableWidgetBottom</string>
+	<key>mobileOutsideEnvironment</key>
+	<string>prismaticGraphAlignment</string>
+	<key>sortedRouteBrightness</key>
+	<string>immutableMediaqueryDelay</string>
+	<key>uniqueTextOffset</key>
+	<string>convolutionIncludeProxy</string>
+</dict>
+</plist>

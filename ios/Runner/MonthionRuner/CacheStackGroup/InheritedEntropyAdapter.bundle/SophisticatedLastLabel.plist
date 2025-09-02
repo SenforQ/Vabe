@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellMementoBorder</key>
+	<string>giftTempleName</string>
+	<key>dialogsInsideJob</key>
+	<string>positionOrObserver</string>
+	<key>documentCompositeOrientation</key>
+	<string>accessibleControllerIndex</string>
+	<key>hashVersusMethod</key>
+	<string>widgetSingletonIndex</string>
+	<key>lazyRoleFrequency</key>
+	<string>histogramStrategyInterval</string>
+	<key>particleFunctionSize</key>
+	<string>asynchronousBehaviorFrequency</string>
+	<key>scrollableWidgetDistance</key>
+	<string>assetFromVisitor</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAgainstLevel</key>
+	<string>widgetAndState</string>
+	<key>gemTierInset</key>
+	<string>mediumPainterOrientation</string>
+	<key>notificationFacadeTransparency</key>
+	<string>sessionContainInterpreter</string>
+	<key>textureWithTask</key>
+	<string>independentProgressbarSaturation</string>
+	<key>variantEnvironmentRotation</key>
+	<string>interpolationAtStage</string>
+	<key>widgetProcessVisible</key>
+	<string>queueObserverResponse</string>
+</dict>
+</plist>

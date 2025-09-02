@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentAndMode</key>
+	<string>cosineDecoratorTop</string>
+	<key>listenerStyleBorder</key>
+	<string>oldCoordinatorRate</string>
+	<key>observerPerStructure</key>
+	<string>controllerInBuffer</string>
+	<key>repositoryFromPrototype</key>
+	<string>sharedSkinForce</string>
+</dict>
+</plist>

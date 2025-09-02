@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTitleFlags</key>
+	<string>logNumberMode</string>
+	<key>commonTickerTop</key>
+	<string>seamlessAppbarEdge</string>
+	<key>concreteSliderFlags</key>
+	<string>globalAspectCount</string>
+	<key>lazyBaselineStatus</key>
+	<string>webVariantPadding</string>
+	<key>smartLossVelocity</key>
+	<string>particleStyleMode</string>
+</dict>
+</plist>

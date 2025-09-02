@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisInKind</key>
+	<string>modalMediatorVisibility</string>
+	<key>effectInsideForm</key>
+	<string>mapShapeHue</string>
+	<key>musicContainLayer</key>
+	<string>dropdownbuttonBridgeState</string>
+	<key>overlayViaProxy</key>
+	<string>deferredEntropyCoord</string>
+	<key>resizableAppbarDuration</key>
+	<string>animatedGradientHead</string>
+	<key>resolverDecoratorBrightness</key>
+	<string>spineLayerColor</string>
+</dict>
+</plist>

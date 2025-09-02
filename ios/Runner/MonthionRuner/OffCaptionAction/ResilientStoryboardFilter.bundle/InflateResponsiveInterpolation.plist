@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureParameterLocation</key>
+	<string>intermediateCapsuleFrequency</string>
+	<key>captionInterpreterBehavior</key>
+	<string>usedRoleResponse</string>
+	<key>compositionModeShade</key>
+	<string>deferredImageAcceleration</string>
+	<key>effectWithChain</key>
+	<string>desktopProjectionMode</string>
+	<key>labelWithOperation</key>
+	<string>serviceUntilPlatform</string>
+	<key>positionVarAcceleration</key>
+	<string>stampStrategyBehavior</string>
+	<key>publicHashOffset</key>
+	<string>titleExceptJob</string>
+	<key>singleResultHue</key>
+	<string>robustControllerOrigin</string>
+</dict>
+</plist>

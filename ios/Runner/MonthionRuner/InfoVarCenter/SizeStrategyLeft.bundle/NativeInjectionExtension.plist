@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerFlyweightType</key>
+	<string>techniqueBesideMediator</string>
+	<key>enabledActionHead</key>
+	<string>presenterBufferStyle</string>
+	<key>grainChainRotation</key>
+	<string>storeStrategyInterval</string>
+	<key>groupOrMode</key>
+	<string>disabledEventHue</string>
+	<key>storyboardActivityCount</key>
+	<string>roleBridgeOffset</string>
+	<key>switchFrameworkDirection</key>
+	<string>slashInsideType</string>
+</dict>
+</plist>

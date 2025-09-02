@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitMementoFeedback</key>
+	<string>gridStyleVisible</string>
+	<key>channelBridgeSkewy</key>
+	<string>sequentialAccessoryDepth</string>
+	<key>checkboxNumberFeedback</key>
+	<string>checkboxAboutBridge</string>
+	<key>metadataStructureInteraction</key>
+	<string>viewNearDecorator</string>
+	<key>modelKindBrightness</key>
+	<string>vectorAndInterpreter</string>
+	<key>navigatorExceptJob</key>
+	<string>elasticRouterIndex</string>
+	<key>pinchableButtonMode</key>
+	<string>navigatorAmongContext</string>
+	<key>profileOperationDensity</key>
+	<string>referenceOfLayer</string>
+	<key>singletonOfFlyweight</key>
+	<string>observerAtType</string>
+</dict>
+</plist>

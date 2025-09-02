@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directBinaryDelay</key>
+	<string>intuitiveCapsuleFrequency</string>
+	<key>directInteractorRotation</key>
+	<string>secondGridviewOpacity</string>
+	<key>hardMetadataCoord</key>
+	<string>segmentFunctionPadding</string>
+	<key>modelTypePressure</key>
+	<string>responseOrProxy</string>
+	<key>primaryTextfieldPressure</key>
+	<string>mediaqueryDespiteShape</string>
+	<key>secondStatefulTransparency</key>
+	<string>unactivatedRadioSize</string>
+	<key>staticCubitTop</key>
+	<string>cartesianBorderName</string>
+	<key>titleFormVelocity</key>
+	<string>queryLayerSkewy</string>
+</dict>
+</plist>

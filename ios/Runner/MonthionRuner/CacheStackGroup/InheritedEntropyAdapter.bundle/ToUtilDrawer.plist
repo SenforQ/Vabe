@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyPhaseMode</key>
+	<string>actionMethodName</string>
+	<key>firstGestureInset</key>
+	<string>stateFromOperation</string>
+	<key>largeRouterDuration</key>
+	<string>viewUntilKind</string>
+	<key>repositoryVarPadding</key>
+	<string>tablePerPrototype</string>
+	<key>requestPerPhase</key>
+	<string>associatedMonsterSpeed</string>
+	<key>responseWithVariable</key>
+	<string>primaryListenerFlags</string>
+	<key>routerViaMode</key>
+	<string>sizeVarMargin</string>
+	<key>streamStrategyOffset</key>
+	<string>compositionalNavigatorOrientation</string>
+	<key>usedObserverPadding</key>
+	<string>resourceStageName</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedEventMode</key>
+	<string>curveActivityName</string>
+	<key>listenerVarMode</key>
+	<string>prevHistogramVisibility</string>
+	<key>lostConvolutionOffset</key>
+	<string>sortedLayerPadding</string>
+	<key>menuObserverDensity</key>
+	<string>significantAnimationName</string>
+	<key>monsterIncludeProxy</key>
+	<string>isolateThroughFunction</string>
+	<key>viewInParam</key>
+	<string>primaryRichtextOpacity</string>
+</dict>
+</plist>

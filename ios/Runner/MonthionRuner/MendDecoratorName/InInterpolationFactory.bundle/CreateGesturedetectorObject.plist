@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenerInsideParam</key>
+	<string>asyncPreviewCenter</string>
+	<key>mobileSceneVisibility</key>
+	<string>anchorByCycle</string>
+	<key>semanticsPlatformColor</key>
+	<string>visibleTransformerIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderWithScope</key>
+	<string>resilientClipperScale</string>
+	<key>challengeKindName</key>
+	<string>transitionActionResponse</string>
+	<key>customTickerOrientation</key>
+	<string>mobileDecorationInteraction</string>
+	<key>intensityWorkScale</key>
+	<string>uniformSceneSkewy</string>
+	<key>lastControllerCoord</key>
+	<string>permanentCatalystOffset</string>
+	<key>petAlongPhase</key>
+	<string>requiredCardMode</string>
+	<key>remainderIncludeParameter</key>
+	<string>priorityAsVar</string>
+</dict>
+</plist>

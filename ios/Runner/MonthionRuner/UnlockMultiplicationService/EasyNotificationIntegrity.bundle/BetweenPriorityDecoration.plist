@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCubitIndex</key>
+	<string>firstTransitionOrientation</string>
+	<key>commonServiceEdge</key>
+	<string>webBinaryFeedback</string>
+	<key>decorationInterpreterShade</key>
+	<string>alertWithTask</string>
+	<key>disabledHashTransparency</key>
+	<string>curveStrategyVisibility</string>
+	<key>geometricTangentFlags</key>
+	<string>cardSingletonStatus</string>
+	<key>intensityAndProxy</key>
+	<string>vectorInsideFunction</string>
+	<key>statelessSingletonType</key>
+	<string>activeAnimatedcontainerDirection</string>
+	<key>transformerPatternOffset</key>
+	<string>dedicatedGraphOrientation</string>
+</dict>
+</plist>

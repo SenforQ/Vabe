@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorSystemSkewx</key>
+	<string>draggableCellDuration</string>
+	<key>mobxTypeStyle</key>
+	<string>queryMediatorDensity</string>
+	<key>optionIncludeFunction</key>
+	<string>modelFormFlags</string>
+	<key>serviceAgainstLevel</key>
+	<string>graphFlyweightDelay</string>
+	<key>tabbarFlyweightStyle</key>
+	<string>hierarchicalCharacterDistance</string>
+	<key>transformerShapeRight</key>
+	<string>opaqueExpandedRotation</string>
+</dict>
+</plist>

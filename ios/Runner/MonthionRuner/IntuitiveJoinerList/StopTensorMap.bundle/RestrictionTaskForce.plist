@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectThroughAction</key>
+	<string>discardedAssetOffset</string>
+	<key>missedGraphDuration</key>
+	<string>transitionOutsideFramework</string>
+	<key>painterLikeType</key>
+	<string>similarBehaviorSpeed</string>
+	<key>resilientProjectionIndex</key>
+	<string>transitionNumberMargin</string>
+	<key>textfieldFacadeOpacity</key>
+	<string>nodeScopeRotation</string>
+</dict>
+</plist>

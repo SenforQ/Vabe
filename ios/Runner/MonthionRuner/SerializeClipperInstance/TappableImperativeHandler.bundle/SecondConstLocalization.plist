@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialEffectSkewx</key>
+	<string>commonNotifierTint</string>
+	<key>elasticResponseAppearance</key>
+	<string>captionAgainstObserver</string>
+	<key>gridActivityVelocity</key>
+	<string>histogramBesideStage</string>
+	<key>responseBeyondEnvironment</key>
+	<string>independentGroupDuration</string>
+	<key>sliderActivityTop</key>
+	<string>scaleSingletonMode</string>
+</dict>
+</plist>

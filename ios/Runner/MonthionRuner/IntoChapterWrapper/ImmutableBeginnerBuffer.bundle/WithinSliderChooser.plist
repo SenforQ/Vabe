@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerNumberRotation</key>
+	<string>zoneForCommand</string>
+	<key>delegateTypeSaturation</key>
+	<string>controllerThroughActivity</string>
+	<key>imageAlongPlatform</key>
+	<string>tabviewParamBrightness</string>
+	<key>keyTextureDelay</key>
+	<string>previewViaStrategy</string>
+	<key>managerThroughJob</key>
+	<string>sinkPerValue</string>
+	<key>multiplicationLevelAcceleration</key>
+	<string>techniqueDespitePhase</string>
+	<key>swiftProcessInteraction</key>
+	<string>fixedCurveSize</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>protocolExceptTask</key>
+	<string>eagerCardFlags</string>
+	<key>scaffoldAgainstSingleton</key>
+	<string>interactorStyleCoord</string>
+	<key>semanticsTypeTransparency</key>
+	<string>positionStructureInterval</string>
+</dict>
+</plist>

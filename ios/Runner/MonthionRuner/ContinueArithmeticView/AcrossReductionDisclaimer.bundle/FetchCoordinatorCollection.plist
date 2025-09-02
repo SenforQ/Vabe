@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedAnimationDuration</key>
+	<string>coordinatorBufferTail</string>
+	<key>routerChainInset</key>
+	<string>modalCommandBrightness</string>
+	<key>sequentialDescriptionScale</key>
+	<string>significantDescriptionEdge</string>
+	<key>singletonInMemento</key>
+	<string>persistentZoneBehavior</string>
+	<key>usecaseBesideKind</key>
+	<string>statefulInterfaceCount</string>
+	<key>vectorBesideAction</key>
+	<string>flexibleConfigurationOrigin</string>
+	<key>widgetFlyweightOrigin</key>
+	<string>numericalContractionMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopLayerOrientation</key>
+	<string>sizeMethodDelay</string>
+	<key>directlyGrainOrientation</key>
+	<string>progressbarThroughFramework</string>
+	<key>gesturedetectorVisitorShape</key>
+	<string>nibCommandMode</string>
+	<key>greatBlocOpacity</key>
+	<string>synchronousCursorTension</string>
+	<key>multiplicationNearActivity</key>
+	<string>activeInterpolationAcceleration</string>
+	<key>pivotalErrorStatus</key>
+	<string>invisibleCheckboxAcceleration</string>
+	<key>roleVisitorCoord</key>
+	<string>cycleLikeContext</string>
+	<key>similarChartResponse</key>
+	<string>normalChapterTint</string>
+	<key>smartStateBound</key>
+	<string>dependencyVisitorBound</string>
+	<key>touchLayerLocation</key>
+	<string>iterativeOffsetType</string>
+</dict>
+</plist>

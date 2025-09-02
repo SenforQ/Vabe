@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCommandName</key>
+	<string>gridMediatorStyle</string>
+	<key>discardedViewOrientation</key>
+	<string>primaryEventDirection</string>
+	<key>greatDialogsColor</key>
+	<string>scaffoldTaskTheme</string>
+	<key>interactorFunctionVelocity</key>
+	<string>fragmentLikeProxy</string>
+	<key>missionNearPlatform</key>
+	<string>grayscaleUntilAdapter</string>
+	<key>touchWithoutVar</key>
+	<string>subpixelAdapterAppearance</string>
+	<key>visibleSizeContrast</key>
+	<string>logarithmUntilVar</string>
+</dict>
+</plist>

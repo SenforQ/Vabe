@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerPerContext</key>
+	<string>alignmentSystemPosition</string>
+	<key>factoryProcessDelay</key>
+	<string>secondServiceOrientation</string>
+	<key>nextBitrateBottom</key>
+	<string>fragmentMethodSaturation</string>
+	<key>primaryCurveMode</key>
+	<string>imageLikeJob</string>
+</dict>
+</plist>

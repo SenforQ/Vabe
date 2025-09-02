@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTopicDelay</key>
+	<string>checkboxVariableTension</string>
+	<key>consumerStageRotation</key>
+	<string>subscriptionModeTheme</string>
+	<key>rowOrPrototype</key>
+	<string>resultFunctionBorder</string>
+	<key>sinkObserverSpacing</key>
+	<string>playbackWithAction</string>
+	<key>tickerFromStructure</key>
+	<string>asynchronousWorkflowSkewx</string>
+	<key>touchBeyondParameter</key>
+	<string>stackWorkColor</string>
+</dict>
+</plist>

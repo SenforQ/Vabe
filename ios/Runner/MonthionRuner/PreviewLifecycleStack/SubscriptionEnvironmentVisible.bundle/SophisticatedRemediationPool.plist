@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisEnvironmentVisible</key>
+	<string>titleProcessState</string>
+	<key>compositionalSliderBorder</key>
+	<string>equalizationAwayScope</string>
+	<key>grayscaleInSystem</key>
+	<string>secondExceptionOffset</string>
+	<key>reactiveTickerScale</key>
+	<string>offsetFunctionRate</string>
+	<key>significantSubpixelBehavior</key>
+	<string>collectionAlongStrategy</string>
+	<key>storageWithoutAction</key>
+	<string>euclideanPlateInterval</string>
+</dict>
+</plist>

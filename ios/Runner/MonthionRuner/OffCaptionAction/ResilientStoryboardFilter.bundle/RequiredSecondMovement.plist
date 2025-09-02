@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAtProxy</key>
+	<string>specifierStyleRotation</string>
+	<key>durationProxyTheme</key>
+	<string>customRowTag</string>
+	<key>dynamicConstraintEdge</key>
+	<string>sharedLayoutInterval</string>
+	<key>mobileProtocolBehavior</key>
+	<string>animationIncludeScope</string>
+	<key>notificationSystemAcceleration</key>
+	<string>allocatorStructureTheme</string>
+	<key>rectModeContrast</key>
+	<string>materialVisitorState</string>
+	<key>resizableFragmentSpeed</key>
+	<string>heroAtWork</string>
+	<key>sortedSpotCoord</key>
+	<string>logValueInset</string>
+</dict>
+</plist>

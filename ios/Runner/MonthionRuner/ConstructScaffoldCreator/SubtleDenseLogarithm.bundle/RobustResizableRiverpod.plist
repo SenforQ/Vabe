@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTypeAcceleration</key>
+	<string>nativeCacheDensity</string>
+	<key>brushThroughStyle</key>
+	<string>sharedUtilShape</string>
+	<key>similarMapSpeed</key>
+	<string>requestStructureScale</string>
+	<key>spriteDespiteSystem</key>
+	<string>menuKindSkewx</string>
+	<key>taskSinceTier</key>
+	<string>webReferenceSaturation</string>
+</dict>
+</plist>

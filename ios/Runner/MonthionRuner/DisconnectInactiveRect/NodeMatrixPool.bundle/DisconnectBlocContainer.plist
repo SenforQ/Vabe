@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchDecoratorVisible</key>
+	<string>desktopSceneEdge</string>
+	<key>deferredMobxRotation</key>
+	<string>routeOrLayer</string>
+	<key>injectionOperationState</key>
+	<string>capsuleWithForm</string>
+	<key>injectionProcessAcceleration</key>
+	<string>unaryOperationBound</string>
+	<key>overlayBesideMethod</key>
+	<string>commandNearKind</string>
+	<key>sequentialLayoutRight</key>
+	<string>mediocreControllerScale</string>
+	<key>tweenAboutTask</key>
+	<string>statefulObserverDelay</string>
+</dict>
+</plist>

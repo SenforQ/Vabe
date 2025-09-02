@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesFormDistance</key>
+	<string>labelPerDecorator</string>
+	<key>desktopGraphState</key>
+	<string>usedDurationBound</string>
+	<key>globalSceneDuration</key>
+	<string>chapterBufferLeft</string>
+	<key>integerActivityDensity</key>
+	<string>histogramForFacade</string>
+	<key>serviceFromPhase</key>
+	<string>grainAmongFlyweight</string>
+</dict>
+</plist>

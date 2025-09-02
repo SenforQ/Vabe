@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocOutsideSingleton</key>
+	<string>tweenBufferRight</string>
+	<key>blocThanInterpreter</key>
+	<string>promiseScopeAlignment</string>
+	<key>bufferAlongVariable</key>
+	<string>borderAroundShape</string>
+	<key>commandPhaseRight</key>
+	<string>methodLayerDistance</string>
+	<key>immediateCatalystPadding</key>
+	<string>configurationLikeMediator</string>
+	<key>layerTypeEdge</key>
+	<string>positionedVersusStrategy</string>
+	<key>normalOffsetName</key>
+	<string>slashForParam</string>
+	<key>positionedScopeOpacity</key>
+	<string>navigatorActivityEdge</string>
+	<key>swiftUntilType</key>
+	<string>queueOperationDuration</string>
+</dict>
+</plist>

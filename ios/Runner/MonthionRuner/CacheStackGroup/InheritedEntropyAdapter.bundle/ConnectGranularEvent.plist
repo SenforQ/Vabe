@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveBufferColor</key>
+	<string>decorationActivityInteraction</string>
+	<key>isolateMediatorSpeed</key>
+	<string>previewFunctionVisibility</string>
+	<key>radiusTaskAppearance</key>
+	<string>timerVersusNumber</string>
+	<key>resultLikeContext</key>
+	<string>positionLayerShape</string>
+	<key>serviceFormEdge</key>
+	<string>permanentTabbarVisible</string>
+	<key>storePerCycle</key>
+	<string>activatedRowFeedback</string>
+	<key>temporaryPreviewScale</key>
+	<string>missedStateMode</string>
+	<key>unaryAsForm</key>
+	<string>boxshadowExceptScope</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateTaskFormat</key>
+	<string>euclideanRequestEdge</string>
+	<key>gateFromActivity</key>
+	<string>resourceThroughPlatform</string>
+	<key>multiBehaviorName</key>
+	<string>constraintByStructure</string>
+	<key>priorityBeyondSingleton</key>
+	<string>secondPrioritySaturation</string>
+	<key>textOrKind</key>
+	<string>sizedboxPerActivity</string>
+	<key>topicParameterResponse</key>
+	<string>hyperbolicScreenSkewx</string>
+	<key>viewBeyondDecorator</key>
+	<string>sliderOutsideTier</string>
+</dict>
+</plist>

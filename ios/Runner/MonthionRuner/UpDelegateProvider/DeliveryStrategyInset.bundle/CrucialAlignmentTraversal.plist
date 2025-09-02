@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVarIndex</key>
+	<string>mutableAxisOffset</string>
+	<key>bufferMethodInset</key>
+	<string>listviewTaskColor</string>
+	<key>cupertinoPhaseAlignment</key>
+	<string>sessionCycleTheme</string>
+	<key>draggableSensorVisible</key>
+	<string>tabviewFromPattern</string>
+	<key>fusedPlateDelay</key>
+	<string>threadInterpreterSpeed</string>
+	<key>histogramStageInterval</key>
+	<string>fragmentVarOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPhaseValidation</key>
+	<string>sampleInsideWork</string>
+	<key>cycleStrategyTail</key>
+	<string>advancedGemSaturation</string>
+	<key>errorMethodTail</key>
+	<string>adaptiveAsyncDistance</string>
+	<key>iconVarDensity</key>
+	<string>widgetSinceParam</string>
+	<key>iterativeInkwellKind</key>
+	<string>typicalGridVisibility</string>
+	<key>mediocreParticleContrast</key>
+	<string>tappableCertificateLeft</string>
+	<key>navigatorLikeFlyweight</key>
+	<string>viewModeRotation</string>
+	<key>repositoryPerFramework</key>
+	<string>bulletActivityDepth</string>
+	<key>usedWidgetTransparency</key>
+	<string>newestSensorVisible</string>
+</dict>
+</plist>

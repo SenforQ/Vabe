@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaCommandFormat</key>
+	<string>previewProcessOpacity</string>
+	<key>awaitInterpreterPressure</key>
+	<string>controllerAndStage</string>
+	<key>mediaquerySingletonBottom</key>
+	<string>pageviewAgainstVariable</string>
+	<key>opaqueCommandColor</key>
+	<string>reusableWidgetSkewy</string>
+	<key>reactiveAnchorState</key>
+	<string>staticProfileStyle</string>
+	<key>sliderParamSpacing</key>
+	<string>cellFrameworkRight</string>
+	<key>spriteAndContext</key>
+	<string>advancedTextPadding</string>
+	<key>unactivatedSizeOrigin</key>
+	<string>animationBesideForm</string>
+</dict>
+</plist>

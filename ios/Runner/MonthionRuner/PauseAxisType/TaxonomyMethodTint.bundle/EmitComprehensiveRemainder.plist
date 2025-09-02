@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintOutsideAction</key>
+	<string>elasticCanvasFeedback</string>
+	<key>delegateKindResponse</key>
+	<string>missionAroundPhase</string>
+	<key>navigatorModeSize</key>
+	<string>specifyRouterPadding</string>
+	<key>pinchableGridviewIndex</key>
+	<string>animatedcontainerAmongAdapter</string>
+	<key>progressbarCycleStatus</key>
+	<string>chapterFromDecorator</string>
+</dict>
+</plist>

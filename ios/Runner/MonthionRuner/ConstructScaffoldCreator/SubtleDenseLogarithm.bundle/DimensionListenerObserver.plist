@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCycleFrequency</key>
+	<string>autoScreenTheme</string>
+	<key>brushPrototypeForce</key>
+	<string>robustTitleDensity</string>
+	<key>consultativeTweenDistance</key>
+	<string>customPointCoord</string>
+	<key>effectAsVar</key>
+	<string>signModeStatus</string>
+	<key>lazyEntityPadding</key>
+	<string>timerThanKind</string>
+	<key>radiusStructureBottom</key>
+	<string>hardFutureDepth</string>
+	<key>responsiveCompleterRate</key>
+	<string>agileOverlaySize</string>
+	<key>robustCommandTop</key>
+	<string>richtextDespiteParam</string>
+	<key>sineDuringObserver</key>
+	<string>backwardRectEdge</string>
+</dict>
+</plist>

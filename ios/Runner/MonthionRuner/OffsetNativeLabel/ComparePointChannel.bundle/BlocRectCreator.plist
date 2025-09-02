@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorProxyCount</key>
+	<string>kernelActivityCoord</string>
+	<key>integerActivityFrequency</key>
+	<string>taskBeyondOperation</string>
+	<key>mediocreStateIndex</key>
+	<string>characterProcessTransparency</string>
+	<key>navigatorChainRotation</key>
+	<string>currentStackState</string>
+	<key>normDespiteSingleton</key>
+	<string>menuModeInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRectHead</key>
+	<string>criticalTitleTransparency</string>
+	<key>bufferVersusMediator</key>
+	<string>appbarOfFacade</string>
+	<key>completionOrStyle</key>
+	<string>smartCurveSpacing</string>
+	<key>lossPatternInterval</key>
+	<string>inkwellInsideJob</string>
+	<key>priorMatrixInterval</key>
+	<string>presenterForVar</string>
+</dict>
+</plist>

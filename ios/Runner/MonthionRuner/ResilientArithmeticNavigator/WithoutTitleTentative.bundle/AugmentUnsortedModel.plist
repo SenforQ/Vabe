@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCallbackSpeed</key>
+	<string>iterativeStorageCenter</string>
+	<key>custompaintBufferCount</key>
+	<string>timerWithoutStyle</string>
+	<key>effectMediatorStatus</key>
+	<string>subtleGemMode</string>
+	<key>mobileControllerSize</key>
+	<string>injectionOperationFeedback</string>
+	<key>permanentStampOrientation</key>
+	<string>draggableStepBrightness</string>
+	<key>reactiveTransitionRight</key>
+	<string>smallRouteVisible</string>
+</dict>
+</plist>

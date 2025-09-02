@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoUtilOrigin</key>
+	<string>optionWithAction</string>
+	<key>behaviorTierTransparency</key>
+	<string>usageLayerCount</string>
+	<key>binaryCycleRotation</key>
+	<string>baseTypeRight</string>
+	<key>brushInterpreterDelay</key>
+	<string>activatedResponseTag</string>
+	<key>bulletAndType</key>
+	<string>brushObserverAppearance</string>
+	<key>inactiveShaderPosition</key>
+	<string>baselineAlongWork</string>
+	<key>tabbarNearJob</key>
+	<string>accordionAppbarBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricSingletonSize</key>
+	<string>gesturedetectorActivityTag</string>
+	<key>interactiveResultShape</key>
+	<string>interactiveLocalizationSpacing</string>
+	<key>intuitiveChapterAlignment</key>
+	<string>viewCommandLeft</string>
+	<key>uniqueRouterOpacity</key>
+	<string>immediateConfigurationDensity</string>
+	<key>vectorFacadeIndex</key>
+	<string>sortedInjectionInset</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentExceptActivity</key>
+	<string>basicProviderRotation</string>
+	<key>baseSystemRotation</key>
+	<string>observerCyclePosition</string>
+	<key>coordinatorPerScope</key>
+	<string>zoneObserverAlignment</string>
+	<key>frameLevelSaturation</key>
+	<string>notifierStateStatus</string>
+	<key>gemKindMargin</key>
+	<string>eventMediatorStyle</string>
+	<key>mobileOrCommand</key>
+	<string>animatedcontainerOrFramework</string>
+	<key>responseModeRotation</key>
+	<string>delegateWithScope</string>
+	<key>stateJobTint</key>
+	<string>resolverPatternFrequency</string>
+</dict>
+</plist>

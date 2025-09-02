@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mobileScrollBound</key>
+	<string>touchActivityRate</string>
+	<key>multiplicationIncludeChain</key>
+	<string>associatedPainterBehavior</string>
+	<key>notifierAroundVariable</key>
+	<string>stepCompositeFeedback</string>
+	<key>pivotalContainerLocation</key>
+	<string>loopFromCycle</string>
+	<key>previewExceptOperation</key>
+	<string>sortedScaleAcceleration</string>
+</dict>
+</plist>

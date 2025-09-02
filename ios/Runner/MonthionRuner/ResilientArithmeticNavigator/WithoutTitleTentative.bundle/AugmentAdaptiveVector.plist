@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>paddingInsideContext</key>
+	<string>enabledSizeOrigin</string>
+	<key>painterDuringState</key>
+	<string>tabbarLikeValue</string>
+	<key>persistentResolverStyle</key>
+	<string>listviewLevelContrast</string>
+	<key>sliderJobTop</key>
+	<string>interactorParameterFrequency</string>
+	<key>sliderPatternFlags</key>
+	<string>lazyHandlerDistance</string>
+</dict>
+</plist>

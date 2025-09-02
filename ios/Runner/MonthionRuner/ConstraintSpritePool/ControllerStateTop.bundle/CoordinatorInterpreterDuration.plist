@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityTypeOpacity</key>
+	<string>newestCoordinatorTag</string>
+	<key>firstConfigurationFlags</key>
+	<string>cupertinoWithoutBuffer</string>
+	<key>lazyTransitionAcceleration</key>
+	<string>titleDuringComposite</string>
+	<key>pageviewVisitorInteraction</key>
+	<string>queryAdapterDensity</string>
+	<key>scrollableBufferFrequency</key>
+	<string>integerOfStrategy</string>
+	<key>taskParamMomentum</key>
+	<string>custompaintDecoratorName</string>
+</dict>
+</plist>

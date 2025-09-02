@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateViaParam</key>
+	<string>tangentViaStructure</string>
+	<key>documentPatternSkewy</key>
+	<string>descriptorProcessColor</string>
+	<key>finalFutureLeft</key>
+	<string>sliderFacadeBound</string>
+	<key>mediaqueryActivitySkewx</key>
+	<string>persistentPreviewSkewx</string>
+	<key>staticAwaitBorder</key>
+	<string>previewProxyStyle</string>
+	<key>visibleReferenceSaturation</key>
+	<string>instructionParameterTint</string>
+</dict>
+</plist>

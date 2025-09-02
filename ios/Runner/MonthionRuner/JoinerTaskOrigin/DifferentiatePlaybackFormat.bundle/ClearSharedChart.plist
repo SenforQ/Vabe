@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBesideShape</key>
+	<string>numericalTransitionResponse</string>
+	<key>cubeScopeTop</key>
+	<string>tabviewAboutCycle</string>
+	<key>denseSkirtInset</key>
+	<string>diffableExceptionPadding</string>
+	<key>exceptionViaInterpreter</key>
+	<string>euclideanAssetBehavior</string>
+	<key>grayscaleOrLevel</key>
+	<string>visibleModalOrientation</string>
+	<key>mutableAlphaHue</key>
+	<string>cupertinoProxyBorder</string>
+	<key>sortedApertureBound</key>
+	<string>associatedReductionVisibility</string>
+	<key>storageCommandOpacity</key>
+	<string>requestMethodTint</string>
+</dict>
+</plist>

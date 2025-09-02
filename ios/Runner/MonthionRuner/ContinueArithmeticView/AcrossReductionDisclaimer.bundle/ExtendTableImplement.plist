@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameStageBorder</key>
+	<string>denseSliderSaturation</string>
+	<key>layoutJobInset</key>
+	<string>offsetMementoMomentum</string>
+	<key>responseChainState</key>
+	<string>nibOrBuffer</string>
+	<key>viewMementoFormat</key>
+	<string>oldDecorationDepth</string>
+</dict>
+</plist>

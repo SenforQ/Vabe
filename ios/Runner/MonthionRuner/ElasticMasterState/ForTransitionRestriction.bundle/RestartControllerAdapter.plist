@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBufferState</key>
+	<string>logarithmViaParam</string>
+	<key>customSubpixelStatus</key>
+	<string>sineAsAction</string>
+	<key>dedicatedTweenSpeed</key>
+	<string>rapidShaderStyle</string>
+	<key>menuOperationStyle</key>
+	<string>prismaticOverlayShape</string>
+	<key>subscriptionFrameworkRight</key>
+	<string>segueOperationOffset</string>
+	<key>viewFlyweightTag</key>
+	<string>modalLayerOrientation</string>
+	<key>viewLikePrototype</key>
+	<string>entityTempleMode</string>
+</dict>
+</plist>

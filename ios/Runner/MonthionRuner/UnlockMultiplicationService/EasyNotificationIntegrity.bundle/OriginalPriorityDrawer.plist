@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaPrototypeIndex</key>
+	<string>notificationFromComposite</string>
+	<key>aperturePerTier</key>
+	<string>cubitSingletonAlignment</string>
+	<key>delegateIncludeBuffer</key>
+	<string>allocatorCommandSkewx</string>
+	<key>effectStrategyScale</key>
+	<string>geometricReducerVisibility</string>
+	<key>greatManagerAcceleration</key>
+	<string>advancedPositionedDensity</string>
+	<key>imageLevelSaturation</key>
+	<string>widgetBufferTension</string>
+	<key>multiPrecisionPosition</key>
+	<string>handlerTypeTint</string>
+	<key>sustainableDurationSaturation</key>
+	<string>baselineLayerBrightness</string>
+	<key>taskSinceFacade</key>
+	<string>iconAdapterKind</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedEventTheme</key>
+	<string>cacheCycleTheme</string>
+	<key>bulletMethodBottom</key>
+	<string>invisibleNormSkewy</string>
+	<key>coordinatorViaMediator</key>
+	<string>dynamicSemanticsPosition</string>
+	<key>inheritedFeatureInteraction</key>
+	<string>draggableSceneAlignment</string>
+	<key>intermediateSkirtName</key>
+	<string>cartesianWidgetSkewx</string>
+</dict>
+</plist>

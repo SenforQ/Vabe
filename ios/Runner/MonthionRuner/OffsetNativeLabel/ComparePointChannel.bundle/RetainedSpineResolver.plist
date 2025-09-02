@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackByType</key>
+	<string>serviceAroundAdapter</string>
+	<key>channelAtAction</key>
+	<string>menuContextAcceleration</string>
+	<key>factoryBesideFunction</key>
+	<string>modelCyclePosition</string>
+	<key>heapViaStyle</key>
+	<string>gridviewValueCount</string>
+	<key>mobxDecoratorColor</key>
+	<string>futureTierPressure</string>
+	<key>modelAndStyle</key>
+	<string>globalProgressbarKind</string>
+	<key>requestAsFlyweight</key>
+	<string>tableWithoutScope</string>
+	<key>transformerTierShape</key>
+	<string>providerActionOffset</string>
+	<key>transitionDespiteInterpreter</key>
+	<string>grainWithoutSystem</string>
+</dict>
+</plist>

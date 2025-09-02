@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionAwayProxy</key>
+	<string>cubitViaPattern</string>
+	<key>completionAgainstPhase</key>
+	<string>semanticsFunctionSize</string>
+	<key>decorationAgainstOperation</key>
+	<string>convolutionBeyondBuffer</string>
+	<key>localizationVersusType</key>
+	<string>baselineActivityAcceleration</string>
+	<key>offsetNumberFormat</key>
+	<string>rapidSegueRate</string>
+	<key>radiusProcessName</key>
+	<string>disabledScaleDistance</string>
+	<key>scrollableTweenShade</key>
+	<string>discardedDependencySkewx</string>
+	<key>swiftStateRotation</key>
+	<string>constraintOperationDepth</string>
+</dict>
+</plist>

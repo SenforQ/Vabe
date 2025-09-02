@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderPlatformOrigin</key>
+	<string>iconPerStage</string>
+	<key>concurrentButtonSize</key>
+	<string>frameAroundMediator</string>
+	<key>fixedSubscriptionCenter</key>
+	<string>pageviewPatternOpacity</string>
+	<key>multiPreviewDistance</key>
+	<string>accessibleSkirtState</string>
+	<key>relationalBufferRotation</key>
+	<string>documentFacadeVelocity</string>
+	<key>tabviewThroughCycle</key>
+	<string>sizeStructureBorder</string>
+</dict>
+</plist>

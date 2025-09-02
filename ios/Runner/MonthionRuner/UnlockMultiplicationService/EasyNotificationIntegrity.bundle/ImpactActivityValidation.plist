@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionByOperation</key>
+	<string>cubitFunctionVelocity</string>
+	<key>characterPhaseFormat</key>
+	<string>newestIndicatorVisible</string>
+	<key>eventBesideObserver</key>
+	<string>alertSingletonColor</string>
+	<key>fixedCaptionCount</key>
+	<string>grainPrototypeEdge</string>
+	<key>gridVarBrightness</key>
+	<string>standaloneSubscriptionDistance</string>
+	<key>permanentChartVisible</key>
+	<string>sliderBeyondDecorator</string>
+	<key>scaleInsideChain</key>
+	<string>themeOrFacade</string>
+	<key>serviceFromType</key>
+	<string>normalSliderCount</string>
+	<key>topicVersusFramework</key>
+	<string>popupFromKind</string>
+</dict>
+</plist>

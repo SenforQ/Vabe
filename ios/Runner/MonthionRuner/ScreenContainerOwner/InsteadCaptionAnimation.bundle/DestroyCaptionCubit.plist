@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferAmongProcess</key>
+	<string>mobileResourceInset</string>
+	<key>cacheKindFrequency</key>
+	<string>stackSinceBuffer</string>
+	<key>criticalTabviewName</key>
+	<string>ephemeralAsyncTint</string>
+	<key>customizedSkinStatus</key>
+	<string>unactivatedDecorationShape</string>
+	<key>disparateOperationShape</key>
+	<string>heroAlongScope</string>
+	<key>nibValueMargin</key>
+	<string>buttonByMemento</string>
+	<key>responsiveEffectSkewy</key>
+	<string>seguePerDecorator</string>
+	<key>unaryAsFramework</key>
+	<string>lastMapFeedback</string>
+</dict>
+</plist>

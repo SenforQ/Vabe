@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioSystemValidation</key>
+	<string>animatedcontainerCycleScale</string>
+	<key>compositionalViewSkewy</key>
+	<string>subpixelFromMemento</string>
+	<key>directlyProfileAppearance</key>
+	<string>persistentTimerPosition</string>
+	<key>finalStoreSkewy</key>
+	<string>currentRiverpodInset</string>
+	<key>intermediateMapResponse</key>
+	<string>aspectBeyondLayer</string>
+	<key>mobileCardTint</key>
+	<string>smallNodeSize</string>
+	<key>mutableNavigatorMargin</key>
+	<string>modelWithoutMethod</string>
+	<key>semanticDecorationResponse</key>
+	<string>independentLogDirection</string>
+</dict>
+</plist>

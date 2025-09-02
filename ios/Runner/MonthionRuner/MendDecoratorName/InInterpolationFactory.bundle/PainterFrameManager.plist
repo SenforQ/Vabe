@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedToolFormat</key>
+	<string>eventWithCommand</string>
+	<key>axisAsMediator</key>
+	<string>sliderIncludeStyle</string>
+	<key>catalystActivityFormat</key>
+	<string>easySpriteSize</string>
+	<key>commandBridgeOrientation</key>
+	<string>usedAnimationRight</string>
+	<key>gesturedetectorExceptStyle</key>
+	<string>animatedMapMargin</string>
+	<key>globalTitleBehavior</key>
+	<string>visibleTitleCenter</string>
+	<key>managerStateVisibility</key>
+	<string>hashWorkShape</string>
+	<key>publicStatelessState</key>
+	<string>observerFormTail</string>
+	<key>resizableExpandedTag</key>
+	<string>buttonVarRate</string>
+	<key>widgetAlongCycle</key>
+	<string>textureFunctionRight</string>
+</dict>
+</plist>

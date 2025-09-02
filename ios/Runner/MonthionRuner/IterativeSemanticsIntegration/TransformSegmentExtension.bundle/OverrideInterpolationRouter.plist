@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBufferDelay</key>
+	<string>layoutAmongLevel</string>
+	<key>custompaintTempleName</key>
+	<string>iterativeResolverSaturation</string>
+	<key>desktopChecklistBottom</key>
+	<string>finalSpriteBorder</string>
+	<key>eagerInteractorValidation</key>
+	<string>viewNearShape</string>
+	<key>integerTypeCenter</key>
+	<string>presenterCommandStatus</string>
+	<key>labelSinceLayer</key>
+	<string>asynchronousThreadContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableTransitionStyle</key>
+	<string>injectionInContext</string>
+	<key>lazyBlocRate</key>
+	<string>dedicatedHandlerFlags</string>
+	<key>navigatorLevelAppearance</key>
+	<string>basicUsecaseResponse</string>
+	<key>subscriptionInterpreterTransparency</key>
+	<string>permanentTextfieldLocation</string>
+	<key>unactivatedAssetSkewy</key>
+	<string>mediaqueryParameterDensity</string>
+</dict>
+</plist>

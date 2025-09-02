@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAssetFormat</key>
+	<string>parallelPlaybackResponse</string>
+	<key>alignmentDuringScope</key>
+	<string>usedGestureOpacity</string>
+	<key>catalystFunctionPressure</key>
+	<string>buttonCycleTransparency</string>
+	<key>controllerParamVelocity</key>
+	<string>menuOutsideMethod</string>
+	<key>equipmentKindSpacing</key>
+	<string>frameJobIndex</string>
+	<key>expandedMediatorVelocity</key>
+	<string>stepThroughStrategy</string>
+	<key>logarithmAtTask</key>
+	<string>modelStrategyDepth</string>
+	<key>missedChecklistInterval</key>
+	<string>compositionalFlexOffset</string>
+	<key>missedSpriteVisible</key>
+	<string>listenerBesideProxy</string>
+</dict>
+</plist>

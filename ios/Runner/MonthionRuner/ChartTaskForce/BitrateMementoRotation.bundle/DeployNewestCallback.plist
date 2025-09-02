@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionKindInteraction</key>
+	<string>modelSystemDirection</string>
+	<key>graphExceptStructure</key>
+	<string>disabledCompleterDirection</string>
+	<key>missionSystemCount</key>
+	<string>constraintBesideObserver</string>
+	<key>oldIsolateCount</key>
+	<string>permissiveRectDelay</string>
+	<key>statefulCommandSpacing</key>
+	<string>viewStyleFormat</string>
+	<key>staticLoopVisible</key>
+	<string>sharedZoneOrientation</string>
+</dict>
+</plist>

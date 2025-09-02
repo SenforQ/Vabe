@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleIncludeVisitor</key>
+	<string>hierarchicalDelegateBorder</string>
+	<key>handlerForLevel</key>
+	<string>previewProxyVisible</string>
+	<key>mobileContractionFlags</key>
+	<string>optimizerViaStrategy</string>
+	<key>sliderStyleInset</key>
+	<string>layerTypePadding</string>
+</dict>
+</plist>

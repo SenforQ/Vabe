@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteReducerSpeed</key>
+	<string>labelBufferDelay</string>
+	<key>controllerCycleAcceleration</key>
+	<string>channelNearNumber</string>
+	<key>gestureEnvironmentSkewy</key>
+	<string>responseBufferTension</string>
+	<key>specifyCellVisible</key>
+	<string>crucialInjectionAppearance</string>
+	<key>statefulTopicSize</key>
+	<string>effectOutsideState</string>
+	<key>toolModeMargin</key>
+	<string>webScreenFrequency</string>
+</dict>
+</plist>

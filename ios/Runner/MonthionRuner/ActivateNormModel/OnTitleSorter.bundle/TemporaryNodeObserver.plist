@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAdapterTransparency</key>
+	<string>sensorDecoratorFlags</string>
+	<key>controllerViaShape</key>
+	<string>stackInPlatform</string>
+	<key>priorityStrategyInset</key>
+	<string>tableTaskSkewx</string>
+	<key>sharedDescriptionResponse</key>
+	<string>progressbarAgainstMethod</string>
+	<key>unsortedZoneTop</key>
+	<string>bufferShapeBound</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorVersusType</key>
+	<string>clipperFunctionColor</string>
+	<key>entityValueFlags</key>
+	<string>borderInterpreterVelocity</string>
+	<key>equalizationVersusFlyweight</key>
+	<string>managerBridgeBehavior</string>
+	<key>globalPaddingTheme</key>
+	<string>respectiveMobxDelay</string>
+	<key>persistentMobxInterval</key>
+	<string>storageVariableBehavior</string>
+	<key>pinchablePageviewAppearance</key>
+	<string>viewStrategyDuration</string>
+	<key>previewUntilState</key>
+	<string>desktopResultOffset</string>
+	<key>scenePerMethod</key>
+	<string>storageByStyle</string>
+	<key>signatureStateTag</key>
+	<string>durationViaLevel</string>
+</dict>
+</plist>

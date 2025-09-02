@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocExceptAction</key>
+	<string>visibleFrameCount</string>
+	<key>brushPrototypeVisible</key>
+	<string>buttonFlyweightBehavior</string>
+	<key>decorationByType</key>
+	<string>respectiveDecorationSaturation</string>
+	<key>delicateActivityMargin</key>
+	<string>animatedcontainerParamMargin</string>
+	<key>durationAroundVar</key>
+	<string>navigatorLayerFlags</string>
+	<key>keyConsumerScale</key>
+	<string>independentMethodOrientation</string>
+	<key>rectNumberColor</key>
+	<string>configurationFlyweightInterval</string>
+	<key>spriteBeyondShape</key>
+	<string>intermediateSkirtCenter</string>
+	<key>taskLikeForm</key>
+	<string>statelessAsAdapter</string>
+</dict>
+</plist>

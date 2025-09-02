@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCurveOffset</key>
+	<string>vectorDuringMode</string>
+	<key>clipperInParam</key>
+	<string>routeExceptMethod</string>
+	<key>commandThroughLevel</key>
+	<string>interactorFromOperation</string>
+	<key>currentTouchAppearance</key>
+	<string>coordinatorShapeResponse</string>
+	<key>durationInsideJob</key>
+	<string>inactiveInjectionPosition</string>
+	<key>seamlessDurationTail</key>
+	<string>modelStyleColor</string>
+	<key>sortedPreviewVelocity</key>
+	<string>textAroundCommand</string>
+	<key>tabviewUntilProxy</key>
+	<string>widgetCycleFormat</string>
+</dict>
+</plist>

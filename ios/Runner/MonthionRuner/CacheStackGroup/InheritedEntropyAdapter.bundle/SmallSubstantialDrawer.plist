@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationBeyondPrototype</key>
+	<string>listviewKindCenter</string>
+	<key>gestureLikeStyle</key>
+	<string>ignoredCardValidation</string>
+	<key>hyperbolicBuilderKind</key>
+	<string>tabbarFacadeVisible</string>
+	<key>paddingActionOpacity</key>
+	<string>flexibleBoxshadowCount</string>
+	<key>prevHeroOffset</key>
+	<string>lostAlignmentTheme</string>
+	<key>spriteExceptInterpreter</key>
+	<string>interactorBridgeDepth</string>
+	<key>unsortedTernaryTint</key>
+	<string>delegateAsComposite</string>
+</dict>
+</plist>

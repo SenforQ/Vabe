@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianRadiusInterval</key>
+	<string>overlayForBuffer</string>
+	<key>cellAmongBuffer</key>
+	<string>isolateWorkPosition</string>
+	<key>managerAndComposite</key>
+	<string>masterProxyTint</string>
+	<key>sophisticatedHistogramBehavior</key>
+	<string>boxAdapterCenter</string>
+</dict>
+</plist>

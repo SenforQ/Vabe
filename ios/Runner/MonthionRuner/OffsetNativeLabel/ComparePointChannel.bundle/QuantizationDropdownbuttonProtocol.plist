@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyEntityOrientation</key>
+	<string>autoObserverStyle</string>
+	<key>listenerOfStyle</key>
+	<string>columnNumberBorder</string>
+	<key>promiseNearDecorator</key>
+	<string>asyncPerStrategy</string>
+	<key>providerLevelSkewx</key>
+	<string>presenterAsMemento</string>
+	<key>semanticsCycleLocation</key>
+	<string>multiplicationNearAdapter</string>
+	<key>tickerValueStatus</key>
+	<string>callbackLikeLevel</string>
+	<key>transitionBeyondStage</key>
+	<string>usecaseMementoOffset</string>
+</dict>
+</plist>

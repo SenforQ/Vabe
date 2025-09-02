@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDocumentDistance</key>
+	<string>interpolationWithoutCommand</string>
+	<key>compositionStrategyShade</key>
+	<string>basicCubitForce</string>
+	<key>nibWithForm</key>
+	<string>textAndShape</string>
+	<key>smallCellHue</key>
+	<string>labelAgainstProcess</string>
+	<key>subpixelProxyBorder</key>
+	<string>requestParamSkewx</string>
+	<key>usecaseParamAcceleration</key>
+	<string>specifierFlyweightTransparency</string>
+</dict>
+</plist>

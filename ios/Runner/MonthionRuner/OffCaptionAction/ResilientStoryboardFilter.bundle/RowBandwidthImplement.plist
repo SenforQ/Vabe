@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledIsolatePosition</key>
+	<string>permissiveUsageResponse</string>
+	<key>equalizationLevelSkewy</key>
+	<string>requestOrChain</string>
+	<key>gesturedetectorAgainstEnvironment</key>
+	<string>queryInParameter</string>
+	<key>greatDocumentDensity</key>
+	<string>unsortedChannelsResponse</string>
+	<key>heroTierAcceleration</key>
+	<string>nextRepositoryTint</string>
+	<key>navigatorThanObserver</key>
+	<string>streamInsideTask</string>
+	<key>positionFunctionOffset</key>
+	<string>sizeIncludeVar</string>
+	<key>taskAsTemple</key>
+	<string>prismaticContractionLocation</string>
+	<key>tickerSinceCycle</key>
+	<string>taskOrFlyweight</string>
+</dict>
+</plist>

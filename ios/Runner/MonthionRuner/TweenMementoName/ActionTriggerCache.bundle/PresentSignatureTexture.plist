@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnFlyweightPadding</key>
+	<string>metadataBridgeColor</string>
+	<key>originalControllerResponse</key>
+	<string>textAsAdapter</string>
+	<key>protectedHeapTint</key>
+	<string>compositionViaFlyweight</string>
+	<key>sinkParameterLeft</key>
+	<string>tabbarTaskDistance</string>
+	<key>statefulChapterBorder</key>
+	<string>storePrototypeAcceleration</string>
+	<key>tensorResolverTransparency</key>
+	<string>temporaryDescriptionTop</string>
+</dict>
+</plist>

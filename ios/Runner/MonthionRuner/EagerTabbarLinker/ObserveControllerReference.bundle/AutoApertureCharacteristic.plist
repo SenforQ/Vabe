@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeContainerPosition</key>
+	<string>typicalGramLeft</string>
+	<key>asyncManagerFeedback</key>
+	<string>missedScreenRate</string>
+	<key>customizedEqualizationBound</key>
+	<string>autoDescriptionOffset</string>
+	<key>directStreamMargin</key>
+	<string>subpixelMediatorTag</string>
+	<key>missionParamOrientation</key>
+	<string>animatedSubscriptionAppearance</string>
+	<key>statefulLevelRotation</key>
+	<string>storageViaComposite</string>
+	<key>uniformHeapBound</key>
+	<string>paddingOfParameter</string>
+</dict>
+</plist>

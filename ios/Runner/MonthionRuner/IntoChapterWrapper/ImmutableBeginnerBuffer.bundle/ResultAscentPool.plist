@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionProxyPosition</key>
+	<string>accordionModalSpeed</string>
+	<key>disabledTickerForce</key>
+	<string>animatedCharacterLocation</string>
+	<key>fixedTableAlignment</key>
+	<string>notificationInValue</string>
+	<key>tickerViaInterpreter</key>
+	<string>primaryGridStatus</string>
+	<key>utilAroundSingleton</key>
+	<string>boxThroughVariable</string>
+</dict>
+</plist>

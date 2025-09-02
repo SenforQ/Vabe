@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionEnvironmentOffset</key>
+	<string>finalRowSpacing</string>
+	<key>decorationOutsideJob</key>
+	<string>gateMementoRight</string>
+	<key>methodExceptMemento</key>
+	<string>listviewValueColor</string>
+	<key>otherLabelContrast</key>
+	<string>transformerTierHue</string>
+	<key>presenterBridgeValidation</key>
+	<string>masterSystemAlignment</string>
+	<key>sessionStateDepth</key>
+	<string>localizationStyleBehavior</string>
+	<key>statefulControllerRate</key>
+	<string>handlerLayerHue</string>
+	<key>subsequentCapacitiesPadding</key>
+	<string>playbackAwayValue</string>
+	<key>uniformRichtextTheme</key>
+	<string>eagerFactoryVisibility</string>
+</dict>
+</plist>

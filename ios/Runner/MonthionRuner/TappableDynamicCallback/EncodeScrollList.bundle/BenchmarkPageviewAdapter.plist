@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertVariableInteraction</key>
+	<string>ephemeralStorageSkewy</string>
+	<key>assetCycleBottom</key>
+	<string>blocCycleResponse</string>
+	<key>canvasFlyweightColor</key>
+	<string>imperativeInteractorShade</string>
+	<key>containerActionIndex</key>
+	<string>scrollThroughParameter</string>
+	<key>eagerRowVelocity</key>
+	<string>constraintTypeOffset</string>
+	<key>getxOperationIndex</key>
+	<string>parallelLayerRate</string>
+	<key>sinkParameterTag</key>
+	<string>errorLikeShape</string>
+	<key>smartInterfaceColor</key>
+	<string>mediaquerySingletonEdge</string>
+	<key>statelessCurveContrast</key>
+	<string>spriteThanContext</string>
+</dict>
+</plist>

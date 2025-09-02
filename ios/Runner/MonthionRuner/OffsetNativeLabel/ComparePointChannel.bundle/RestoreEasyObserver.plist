@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxDecoratorRate</key>
+	<string>textureOperationAppearance</string>
+	<key>builderVisitorAcceleration</key>
+	<string>persistentWorkflowDepth</string>
+	<key>granularPlateOffset</key>
+	<string>alphaAgainstForm</string>
+	<key>groupContainChain</key>
+	<string>subpixelContextTint</string>
+	<key>localizationAboutFlyweight</key>
+	<string>playbackThroughOperation</string>
+	<key>materialTimerLeft</key>
+	<string>queryFrameworkStyle</string>
+</dict>
+</plist>

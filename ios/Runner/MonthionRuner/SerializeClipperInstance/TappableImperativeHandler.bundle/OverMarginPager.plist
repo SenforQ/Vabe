@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartFromCommand</key>
+	<string>topicDecoratorTop</string>
+	<key>fragmentAgainstChain</key>
+	<string>navigatorThroughInterpreter</string>
+	<key>normTierOpacity</key>
+	<string>buttonContextVisibility</string>
+	<key>uniformUsageContrast</key>
+	<string>associatedScaleHue</string>
+</dict>
+</plist>

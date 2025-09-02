@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityBridgeContrast</key>
+	<string>radiusActivityRight</string>
+	<key>decorationAlongCommand</key>
+	<string>cardMediatorDepth</string>
+	<key>dialogsMediatorPosition</key>
+	<string>drawerSingletonBottom</string>
+	<key>lostWidgetDistance</key>
+	<string>columnParameterIndex</string>
+	<key>parallelBitrateInteraction</key>
+	<string>errorParamInteraction</string>
+</dict>
+</plist>

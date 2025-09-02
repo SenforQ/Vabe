@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerInterpreterDelay</key>
+	<string>stampCycleValidation</string>
+	<key>delegateAboutPattern</key>
+	<string>errorLevelInterval</string>
+	<key>graphicFacadeHue</key>
+	<string>primaryActionPadding</string>
+	<key>heapViaStyle</key>
+	<string>paddingThroughPrototype</string>
+	<key>reducerBeyondContext</key>
+	<string>shaderBridgeResponse</string>
+	<key>themeOutsideTemple</key>
+	<string>observerTaskEdge</string>
+</dict>
+</plist>

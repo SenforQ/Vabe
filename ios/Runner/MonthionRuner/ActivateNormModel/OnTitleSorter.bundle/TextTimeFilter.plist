@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerByComposite</key>
+	<string>desktopExponentFlags</string>
+	<key>enabledRowHead</key>
+	<string>providerObserverBrightness</string>
+	<key>imagePhaseOrientation</key>
+	<string>consumerLikePhase</string>
+	<key>progressbarWithCommand</key>
+	<string>advancedEffectTension</string>
+	<key>webSliderIndex</key>
+	<string>stackProcessOffset</string>
+</dict>
+</plist>

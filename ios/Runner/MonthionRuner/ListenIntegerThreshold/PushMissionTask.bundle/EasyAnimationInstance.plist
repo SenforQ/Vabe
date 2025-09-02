@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateCubitBottom</key>
+	<string>sceneAgainstVariable</string>
+	<key>effectIncludeFacade</key>
+	<string>widgetTierBrightness</string>
+	<key>listenerTaskPosition</key>
+	<string>opaqueBaselineHue</string>
+	<key>segueActionSpacing</key>
+	<string>nextRoleCoord</string>
+</dict>
+</plist>

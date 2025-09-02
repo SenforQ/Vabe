@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopUsecaseTail</key>
+	<string>switchWorkInset</string>
+	<key>publicObserverOpacity</key>
+	<string>sliderAwayVariable</string>
+	<key>rectAtPlatform</key>
+	<string>seamlessMapValidation</string>
+	<key>semanticsPrototypeSkewy</key>
+	<string>layoutCommandHue</string>
+</dict>
+</plist>

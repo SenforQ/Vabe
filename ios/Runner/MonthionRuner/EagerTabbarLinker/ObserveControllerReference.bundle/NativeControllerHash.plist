@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerBridgeState</key>
+	<string>cartesianSineFormat</string>
+	<key>ephemeralCallbackVisibility</key>
+	<string>concurrentCollectionStyle</string>
+	<key>presenterPhaseKind</key>
+	<string>durationOrComposite</string>
+	<key>priorEventDelay</key>
+	<string>intermediateSubscriptionInset</string>
+</dict>
+</plist>

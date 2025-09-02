@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitDespiteCommand</key>
+	<string>constraintFlyweightEdge</string>
+	<key>directInteractorTail</key>
+	<string>uniformTangentCenter</string>
+	<key>singleRadioMargin</key>
+	<string>utilValueDuration</string>
+	<key>tableContextSaturation</key>
+	<string>groupViaStrategy</string>
+</dict>
+</plist>

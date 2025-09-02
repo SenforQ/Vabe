@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAsProxy</key>
+	<string>disparateGrayscaleTransparency</string>
+	<key>collectionInterpreterBrightness</key>
+	<string>checkboxFormRotation</string>
+	<key>customizedQueryRate</key>
+	<string>dropdownbuttonAboutContext</string>
+	<key>prismaticRequestDuration</key>
+	<string>sinkAdapterForce</string>
+	<key>statelessPatternInteraction</key>
+	<string>borderForShape</string>
+	<key>textureAdapterIndex</key>
+	<string>synchronousObserverDepth</string>
+</dict>
+</plist>

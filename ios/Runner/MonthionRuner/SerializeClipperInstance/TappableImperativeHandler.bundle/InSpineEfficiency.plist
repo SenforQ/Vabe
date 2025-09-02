@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionForCommand</key>
+	<string>frameByProcess</string>
+	<key>optimizerOutsideLevel</key>
+	<string>stepInFramework</string>
+	<key>pointInsideSystem</key>
+	<string>globalManagerAlignment</string>
+	<key>sizeByState</key>
+	<string>chartInFlyweight</string>
+	<key>transitionPatternState</key>
+	<string>transitionStatePressure</string>
+</dict>
+</plist>

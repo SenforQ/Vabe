@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitByStage</key>
+	<string>uniformAllocatorCenter</string>
+	<key>baselineFunctionDistance</key>
+	<string>touchAndNumber</string>
+	<key>batchAgainstStructure</key>
+	<string>prismaticEffectShape</string>
+	<key>customViewDuration</key>
+	<string>integerAdapterTransparency</string>
+	<key>entityProcessShape</key>
+	<string>serviceInterpreterCoord</string>
+	<key>synchronousCurveDirection</key>
+	<string>visibleDialogsOpacity</string>
+	<key>tabviewOutsideForm</key>
+	<string>groupAndMode</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationStyleMode</key>
+	<string>multiplicationWithoutSystem</string>
+	<key>intermediateGrainRight</key>
+	<string>chartSystemResponse</string>
+	<key>routeKindPressure</key>
+	<string>agileExponentBrightness</string>
+	<key>sessionIncludeVariable</key>
+	<string>customNodeRotation</string>
+	<key>titleStateSpeed</key>
+	<string>effectAgainstMemento</string>
+</dict>
+</plist>

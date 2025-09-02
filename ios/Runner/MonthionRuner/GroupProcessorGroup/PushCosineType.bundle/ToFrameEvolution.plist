@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVersusStyle</key>
+	<string>transformerWithJob</string>
+	<key>agileProviderInteraction</key>
+	<string>layoutBesideJob</string>
+	<key>commonUsecaseStatus</key>
+	<string>stateFromShape</string>
+	<key>curvePrototypeSpeed</key>
+	<string>collectionAgainstFlyweight</string>
+	<key>gemWithMemento</key>
+	<string>sessionScopeInterval</string>
+	<key>metadataMediatorDensity</key>
+	<string>stampStateRotation</string>
+	<key>movementAlongProcess</key>
+	<string>axisShapeBound</string>
+	<key>optimizerStageDistance</key>
+	<string>concurrentZoneAlignment</string>
+	<key>resolverForMediator</key>
+	<string>curveAtForm</string>
+	<key>statefulTopicDensity</key>
+	<string>callbackForCommand</string>
+</dict>
+</plist>

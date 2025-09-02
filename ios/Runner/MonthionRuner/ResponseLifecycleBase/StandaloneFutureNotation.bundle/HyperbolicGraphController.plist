@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetStrategyIndex</key>
+	<string>statelessFrameVelocity</string>
+	<key>eagerAssetFlags</key>
+	<string>oldTernaryHue</string>
+	<key>easyVectorBehavior</key>
+	<string>previewVarKind</string>
+	<key>effectAlongState</key>
+	<string>histogramViaFlyweight</string>
+	<key>mediumDescriptionRight</key>
+	<string>cartesianPageviewValidation</string>
+	<key>numericalParticleTint</key>
+	<string>richtextAgainstChain</string>
+	<key>originalCoordinatorState</key>
+	<string>sliderValueCoord</string>
+	<key>permissiveErrorSkewy</key>
+	<string>asyncCycleTransparency</string>
+	<key>viewAlongFunction</key>
+	<string>routerAmongMemento</string>
+</dict>
+</plist>

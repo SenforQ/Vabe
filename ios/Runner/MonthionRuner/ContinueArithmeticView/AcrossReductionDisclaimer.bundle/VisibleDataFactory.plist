@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDependencyVelocity</key>
+	<string>providerProcessResponse</string>
+	<key>commonDelegateTint</key>
+	<string>buttonTierTheme</string>
+	<key>cupertinoViaContext</key>
+	<string>threadLikeSingleton</string>
+	<key>independentPlaybackTheme</key>
+	<string>responsivePetTint</string>
+	<key>masterAroundObserver</key>
+	<string>fusedTabbarAlignment</string>
+	<key>queryBufferAppearance</key>
+	<string>singleBlocOrientation</string>
+</dict>
+</plist>

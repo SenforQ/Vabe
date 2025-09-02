@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertDuringStructure</key>
+	<string>convolutionContextType</string>
+	<key>gridviewAdapterAcceleration</key>
+	<string>accessoryExceptState</string>
+	<key>interfaceAdapterRate</key>
+	<string>lossContextMargin</string>
+	<key>keyProgressbarInset</key>
+	<string>layerFlyweightDepth</string>
+	<key>screenTierInterval</key>
+	<string>queryByTier</string>
+	<key>standaloneGridSpeed</key>
+	<string>containerUntilWork</string>
+</dict>
+</plist>

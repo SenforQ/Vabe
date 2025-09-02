@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityIncludeLevel</key>
+	<string>gridviewActionStyle</string>
+	<key>blocFrameworkInteraction</key>
+	<string>animationDespiteSystem</string>
+	<key>checklistAlongStyle</key>
+	<string>observerByScope</string>
+	<key>iterativeGesturedetectorOffset</key>
+	<string>unsortedLayerBorder</string>
+	<key>nativeNodeMargin</key>
+	<string>sizedboxVisitorVisibility</string>
+	<key>publicLayoutMargin</key>
+	<string>channelOutsideAdapter</string>
+	<key>topicContainParam</key>
+	<string>labelBesideBuffer</string>
+</dict>
+</plist>

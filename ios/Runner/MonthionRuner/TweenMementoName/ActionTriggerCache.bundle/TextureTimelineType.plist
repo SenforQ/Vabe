@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDurationOrigin</key>
+	<string>previewDecoratorVelocity</string>
+	<key>buttonFacadeBehavior</key>
+	<string>baselineFacadeSaturation</string>
+	<key>cardFunctionDensity</key>
+	<string>accessibleTweenVelocity</string>
+	<key>gramBeyondFunction</key>
+	<string>numericalSlashDelay</string>
+	<key>instructionOrBridge</key>
+	<string>basicPrioritySaturation</string>
+	<key>priorityThanLayer</key>
+	<string>durationThanShape</string>
+	<key>tabviewThanComposite</key>
+	<string>cubitBridgeTransparency</string>
+	<key>widgetStructureBound</key>
+	<string>storeBesideNumber</string>
+</dict>
+</plist>

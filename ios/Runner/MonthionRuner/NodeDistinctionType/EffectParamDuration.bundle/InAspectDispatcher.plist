@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPriorityFormat</key>
+	<string>permanentBuilderRate</string>
+	<key>flexibleFeatureScale</key>
+	<string>radiusLayerOffset</string>
+	<key>lastCellInteraction</key>
+	<string>touchAboutProxy</string>
+	<key>tappableAspectRight</key>
+	<string>playbackEnvironmentFlags</string>
+	<key>uniqueAnimationDistance</key>
+	<string>scaleAlongStyle</string>
+</dict>
+</plist>

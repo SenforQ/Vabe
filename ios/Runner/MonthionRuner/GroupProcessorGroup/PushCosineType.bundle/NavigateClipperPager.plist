@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerInsideProcess</key>
+	<string>checklistLevelShape</string>
+	<key>indicatorContextInterval</key>
+	<string>actionAlongPlatform</string>
+	<key>indicatorParameterLocation</key>
+	<string>gateFromCommand</string>
+	<key>permissiveSkirtAcceleration</key>
+	<string>futureNearStyle</string>
+</dict>
+</plist>

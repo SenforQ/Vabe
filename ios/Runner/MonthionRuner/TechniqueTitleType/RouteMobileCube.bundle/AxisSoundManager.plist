@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBehaviorHue</key>
+	<string>logAsParameter</string>
+	<key>chartWithoutState</key>
+	<string>curveAndShape</string>
+	<key>crucialSubscriptionVelocity</key>
+	<string>masterFacadeVelocity</string>
+	<key>iterativeCapsuleTension</key>
+	<string>immutableInterpolationBrightness</string>
+	<key>staticRadioFeedback</key>
+	<string>callbackStructureCoord</string>
+	<key>symbolAwayEnvironment</key>
+	<string>sensorOutsideVar</string>
+</dict>
+</plist>

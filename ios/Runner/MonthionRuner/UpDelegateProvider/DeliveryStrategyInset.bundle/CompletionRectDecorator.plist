@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateNotificationVisible</key>
+	<string>modalThroughNumber</string>
+	<key>frameAsStage</key>
+	<string>functionalPopupMode</string>
+	<key>inkwellBeyondMediator</key>
+	<string>reactiveRiverpodHead</string>
+	<key>intermediatePreviewSize</key>
+	<string>textAdapterResponse</string>
+	<key>listviewAsInterpreter</key>
+	<string>navigationProcessMode</string>
+</dict>
+</plist>

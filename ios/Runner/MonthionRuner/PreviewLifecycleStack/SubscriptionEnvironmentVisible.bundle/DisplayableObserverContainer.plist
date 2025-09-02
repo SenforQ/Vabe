@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationIncludeTier</key>
+	<string>diversifiedTitleBehavior</string>
+	<key>coordinatorStateCenter</key>
+	<string>liteGemSpacing</string>
+	<key>draggableStatefulBehavior</key>
+	<string>protocolIncludeWork</string>
+	<key>publicSegueMode</key>
+	<string>criticalBorderVisibility</string>
+	<key>reductionAdapterAcceleration</key>
+	<string>columnEnvironmentRight</string>
+	<key>reusableResourceMode</key>
+	<string>sinkPerVariable</string>
+	<key>statelessCompositionBottom</key>
+	<string>listenerActivityStatus</string>
+</dict>
+</plist>

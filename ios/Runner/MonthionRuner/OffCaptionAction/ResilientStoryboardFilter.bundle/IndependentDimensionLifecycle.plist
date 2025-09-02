@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonValueValidation</key>
+	<string>exceptionFacadeDuration</string>
+	<key>cubitCycleTension</key>
+	<string>equalizationVariableFeedback</string>
+	<key>curveOutsideTask</key>
+	<string>asyncViewInset</string>
+	<key>grainWithoutTask</key>
+	<string>persistentEquipmentRate</string>
+	<key>greatDecorationTint</key>
+	<string>constraintAndType</string>
+	<key>histogramPrototypeVelocity</key>
+	<string>baselineAgainstMode</string>
+	<key>pinchableQueueSpeed</key>
+	<string>usageAroundMode</string>
+	<key>providerBeyondFacade</key>
+	<string>gradientWithDecorator</string>
+</dict>
+</plist>

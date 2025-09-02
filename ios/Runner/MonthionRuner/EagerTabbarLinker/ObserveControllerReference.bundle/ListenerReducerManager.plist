@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardValueSkewy</key>
+	<string>denseGesturedetectorFrequency</string>
+	<key>cubitSystemFlags</key>
+	<string>flexForLayer</string>
+	<key>eagerProtocolTop</key>
+	<string>interactiveReducerInteraction</string>
+	<key>easyThemePadding</key>
+	<string>mutableSegueTag</string>
+	<key>extensionOfAdapter</key>
+	<string>durationOrStyle</string>
+	<key>mobileOfParam</key>
+	<string>statelessOrLayer</string>
+	<key>navigationBeyondForm</key>
+	<string>storeAtBuffer</string>
+	<key>permissiveQueueBottom</key>
+	<string>overlayPrototypePosition</string>
+	<key>standaloneConvolutionRate</key>
+	<string>allocatorForFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileEquipmentValidation</key>
+	<string>customControllerResponse</string>
+	<key>ignoredInjectionDensity</key>
+	<string>flexibleSinkDelay</string>
+	<key>loopBeyondInterpreter</key>
+	<string>sliderCycleTint</string>
+	<key>loopSinceMediator</key>
+	<string>callbackNumberValidation</string>
+	<key>particleBesideVar</key>
+	<string>delegateUntilJob</string>
+	<key>positionBeyondPattern</key>
+	<string>consultativeChecklistCoord</string>
+	<key>retainedServiceFeedback</key>
+	<string>disabledMarginDuration</string>
+	<key>uniformDialogsBehavior</key>
+	<string>texturePhaseTop</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFormInset</key>
+	<string>eagerProgressbarMode</string>
+	<key>callbackChainVelocity</key>
+	<string>borderPlatformColor</string>
+	<key>managerActivityFeedback</key>
+	<string>expandedAgainstObserver</string>
+	<key>mediumTangentVelocity</key>
+	<string>statefulFrameworkInset</string>
+	<key>pinchableSymbolOrigin</key>
+	<string>spotPrototypeFrequency</string>
+	<key>precisionAwayMethod</key>
+	<string>resultVersusFlyweight</string>
+	<key>textFromProxy</key>
+	<string>significantEventVisible</string>
+</dict>
+</plist>

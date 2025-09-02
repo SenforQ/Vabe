@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonScaleVelocity</key>
+	<string>sinkExceptState</string>
+	<key>cycleAlongActivity</key>
+	<string>arithmeticShapeStyle</string>
+	<key>fixedPlaybackDistance</key>
+	<string>permissiveSpotBehavior</string>
+	<key>matrixWithTier</key>
+	<string>spriteSinceFramework</string>
+	<key>nodeOfStrategy</key>
+	<string>statefulProtocolScale</string>
+	<key>permanentAwaitColor</key>
+	<string>containerAtShape</string>
+</dict>
+</plist>

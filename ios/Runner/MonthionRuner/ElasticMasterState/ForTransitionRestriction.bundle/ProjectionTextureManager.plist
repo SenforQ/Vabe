@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerProcessPosition</key>
+	<string>extensionTierFeedback</string>
+	<key>commonSignaturePadding</key>
+	<string>singleBehaviorInteraction</string>
+	<key>eagerMenuFeedback</key>
+	<string>denseTabviewTail</string>
+	<key>localizationAgainstOperation</key>
+	<string>particleDuringKind</string>
+	<key>segueWorkTint</key>
+	<string>asyncFormVisibility</string>
+	<key>sessionContainNumber</key>
+	<string>storeAlongMethod</string>
+	<key>sessionStructureOpacity</key>
+	<string>promiseOutsideMode</string>
+	<key>sortedAlignmentSkewy</key>
+	<string>builderContextLeft</string>
+	<key>themeTaskLeft</key>
+	<string>matrixFromFacade</string>
+</dict>
+</plist>

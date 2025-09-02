@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStrategySpacing</key>
+	<string>observerOutsideMethod</string>
+	<key>displayableResponseMode</key>
+	<string>animationThroughTier</string>
+	<key>fragmentAlongTier</key>
+	<string>popupActionFlags</string>
+	<key>ignoredControllerScale</key>
+	<string>listenerAboutPhase</string>
+	<key>interfaceOfFunction</key>
+	<string>temporaryLossScale</string>
+	<key>mediocreScaleSaturation</key>
+	<string>currentDialogsOffset</string>
+	<key>retainedModelContrast</key>
+	<string>euclideanButtonDistance</string>
+	<key>singletonFromMemento</key>
+	<string>immediateDialogsDensity</string>
+	<key>toolLayerAppearance</key>
+	<string>eagerNotifierValidation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertTierCoord</key>
+	<string>responsiveTextAlignment</string>
+	<key>animationWithoutVisitor</key>
+	<string>matrixActivityShape</string>
+	<key>currentChapterOrientation</key>
+	<string>spritePhaseAlignment</string>
+	<key>mediumTextValidation</key>
+	<string>eventPhaseEdge</string>
+	<key>singleMetadataType</key>
+	<string>blocExceptChain</string>
+	<key>sustainableTouchScale</key>
+	<string>materialCacheMode</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletUntilMethod</key>
+	<string>transitionAgainstParam</string>
+	<key>radioShapeAppearance</key>
+	<string>activityBySingleton</string>
+	<key>transformerDuringVar</key>
+	<string>sortedSliderName</string>
+	<key>uniformEffectOffset</key>
+	<string>animatedBuilderEdge</string>
+</dict>
+</plist>

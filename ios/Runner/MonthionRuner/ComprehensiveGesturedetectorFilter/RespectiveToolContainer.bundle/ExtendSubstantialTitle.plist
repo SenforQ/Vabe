@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocCompositeAlignment</key>
+	<string>arithmeticTaskInset</string>
+	<key>compositionAmongStyle</key>
+	<string>collectionMethodFeedback</string>
+	<key>decorationActivityShape</key>
+	<string>compositionViaPattern</string>
+	<key>mainTouchMargin</key>
+	<string>observerInState</string>
+	<key>shaderIncludeJob</key>
+	<string>playbackActionMargin</string>
+	<key>sinkCompositeTag</key>
+	<string>sineOfStructure</string>
+	<key>synchronousPetAcceleration</key>
+	<string>interpolationStateInteraction</string>
+	<key>unaryUntilBridge</key>
+	<string>modulusViaCycle</string>
+	<key>usedOverlayPadding</key>
+	<string>resultParameterState</string>
+</dict>
+</plist>

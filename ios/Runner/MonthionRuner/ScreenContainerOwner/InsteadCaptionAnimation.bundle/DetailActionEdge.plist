@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableSinkDistance</key>
+	<string>animatedcontainerIncludeTemple</string>
+	<key>customLossValidation</key>
+	<string>desktopSinkSaturation</string>
+	<key>pointBeyondStrategy</key>
+	<string>equalizationAlongPrototype</string>
+	<key>shaderForAction</key>
+	<string>imageUntilType</string>
+	<key>sliderThroughContext</key>
+	<string>usedProviderContrast</string>
+	<key>uniqueShaderSaturation</key>
+	<string>mediumInterpolationDirection</string>
+</dict>
+</plist>

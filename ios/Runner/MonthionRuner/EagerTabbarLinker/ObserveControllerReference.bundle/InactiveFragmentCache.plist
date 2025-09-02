@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderByFunction</key>
+	<string>nodeContainSingleton</string>
+	<key>disparateTextOffset</key>
+	<string>desktopControllerSpacing</string>
+	<key>durationByPattern</key>
+	<string>unaryMethodMode</string>
+	<key>groupAmongOperation</key>
+	<string>statelessProgressbarDuration</string>
+	<key>optionStageShade</key>
+	<string>repositoryFlyweightTheme</string>
+	<key>segmentWithoutBuffer</key>
+	<string>collectionAndCycle</string>
+</dict>
+</plist>

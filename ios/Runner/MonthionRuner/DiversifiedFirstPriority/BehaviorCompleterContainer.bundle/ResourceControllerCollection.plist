@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionModeValidation</key>
+	<string>handlerProxyMomentum</string>
+	<key>alignmentModeValidation</key>
+	<string>constraintNearObserver</string>
+	<key>captionFlyweightLocation</key>
+	<string>cardBesideActivity</string>
+	<key>cubePerJob</key>
+	<string>accordionImageSpeed</string>
+	<key>geometricInkwellMargin</key>
+	<string>clipperScopeSpeed</string>
+	<key>permanentSpecifierResponse</key>
+	<string>spotStageDensity</string>
+	<key>rowTypeVisibility</key>
+	<string>bulletFlyweightTail</string>
+</dict>
+</plist>

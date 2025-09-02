@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMenuBorder</key>
+	<string>themeParamValidation</string>
+	<key>errorAlongProxy</key>
+	<string>newestFlexRight</string>
+	<key>mediumAspectStatus</key>
+	<string>singletonAgainstFlyweight</string>
+	<key>operationForSingleton</key>
+	<string>independentRadiusMode</string>
+	<key>profileThroughTemple</key>
+	<string>routeProcessFlags</string>
+	<key>similarNotifierFormat</key>
+	<string>loopInsideParameter</string>
+	<key>tabbarAwayChain</key>
+	<string>querySystemPadding</string>
+	<key>uniqueBuilderAlignment</key>
+	<string>dedicatedEquipmentLeft</string>
+</dict>
+</plist>

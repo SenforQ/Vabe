@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerExceptSingleton</key>
+	<string>optimizerActionRotation</string>
+	<key>memberAsSystem</key>
+	<string>sliderContainShape</string>
+	<key>requestAroundChain</key>
+	<string>listenerVisitorAppearance</string>
+	<key>routeAdapterCenter</key>
+	<string>repositoryLikeParam</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateDespiteAction</key>
+	<string>durationExceptFramework</string>
+	<key>channelsAndContext</key>
+	<string>modelValueRate</string>
+	<key>groupBufferMode</key>
+	<string>originalDrawerDuration</string>
+	<key>independentContainerCoord</key>
+	<string>methodBeyondPrototype</string>
+	<key>inheritedNodeIndex</key>
+	<string>channelContainMode</string>
+	<key>lostTaskStatus</key>
+	<string>signatureAlongContext</string>
+	<key>viewVarSpacing</key>
+	<string>descriptorWithShape</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectMethodBrightness</key>
+	<string>controllerAroundObserver</string>
+	<key>nodeWithObserver</key>
+	<string>sceneNumberDepth</string>
+	<key>semanticRectLocation</key>
+	<string>methodMediatorTint</string>
+	<key>storeVariableScale</key>
+	<string>cycleBridgeRotation</string>
+	<key>swiftForActivity</key>
+	<string>controllerUntilWork</string>
+	<key>uniformCurveTag</key>
+	<string>routerChainSaturation</string>
+	<key>viewParamEdge</key>
+	<string>constCompositionDirection</string>
+</dict>
+</plist>

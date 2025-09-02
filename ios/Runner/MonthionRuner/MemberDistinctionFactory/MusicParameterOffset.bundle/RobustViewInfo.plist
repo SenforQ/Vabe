@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveErrorContrast</key>
+	<string>fragmentAroundJob</string>
+	<key>customizedSegueType</key>
+	<string>protocolByContext</string>
+	<key>exceptionBeyondActivity</key>
+	<string>mutableSwiftVisibility</string>
+	<key>integerFacadeForce</key>
+	<string>concurrentProfileState</string>
+	<key>nativeHeroFeedback</key>
+	<string>typicalBoxshadowSkewy</string>
+	<key>otherCoordinatorHead</key>
+	<string>catalystMementoOffset</string>
+	<key>responsivePageviewFeedback</key>
+	<string>radioTaskMargin</string>
+	<key>usedStatePadding</key>
+	<string>riverpodTypeValidation</string>
+</dict>
+</plist>

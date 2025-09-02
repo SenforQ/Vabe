@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicRemainderBound</key>
+	<string>dynamicDurationMargin</string>
+	<key>eventNearParameter</key>
+	<string>viewVariableSpeed</string>
+	<key>gateCompositeTail</key>
+	<string>resilientTaskTag</string>
+	<key>labelOutsideCycle</key>
+	<string>graphMethodShade</string>
+	<key>offsetOperationType</key>
+	<string>arithmeticCompositeDirection</string>
+	<key>scrollableAllocatorMode</key>
+	<string>grayscaleModeSize</string>
+	<key>textBesideInterpreter</key>
+	<string>eventDuringScope</string>
+</dict>
+</plist>

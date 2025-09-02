@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCursorFrequency</key>
+	<string>prismaticDelegatePosition</string>
+	<key>bufferCycleSkewx</key>
+	<string>draggableAlphaAcceleration</string>
+	<key>lossThroughSingleton</key>
+	<string>delegateFormForce</string>
+	<key>nextTechniqueName</key>
+	<string>handlerParameterBottom</string>
+	<key>parallelHandlerInset</key>
+	<string>materialSpritePressure</string>
+	<key>tappableSubscriptionInset</key>
+	<string>transformerProxyOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entropyPrototypeLocation</key>
+	<string>queryInKind</string>
+	<key>indicatorProcessRate</key>
+	<string>streamTaskTail</string>
+	<key>symmetricLogarithmShade</key>
+	<string>dependencyKindVisible</string>
+	<key>utilFunctionTheme</key>
+	<string>webUsecaseDensity</string>
+</dict>
+</plist>

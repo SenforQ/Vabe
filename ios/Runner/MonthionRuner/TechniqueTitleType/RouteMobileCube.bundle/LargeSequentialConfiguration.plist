@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupMediatorSpacing</key>
+	<string>mediocreQueueLeft</string>
+	<key>interactiveGridContrast</key>
+	<string>delicateReducerFeedback</string>
+	<key>localizationDuringComposite</key>
+	<string>scrollLikeLayer</string>
+	<key>nibFunctionBrightness</key>
+	<string>visibleInterfaceAppearance</string>
+	<key>positionAndActivity</key>
+	<string>coordinatorFacadeValidation</string>
+	<key>providerAwayTask</key>
+	<string>canvasAroundStage</string>
+	<key>similarPetDuration</key>
+	<string>reactiveCurveDepth</string>
+	<key>tappableTabbarRight</key>
+	<string>ignoredOperationSpeed</string>
+</dict>
+</plist>

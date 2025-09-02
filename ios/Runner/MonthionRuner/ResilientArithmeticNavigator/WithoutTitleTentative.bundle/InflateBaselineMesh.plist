@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentAndAction</key>
+	<string>declarativeNibStatus</string>
+	<key>consultativeNotifierMode</key>
+	<string>tappableBorderTheme</string>
+	<key>declarativeCustompaintCount</key>
+	<string>globalDescriptionDelay</string>
+	<key>dimensionTierAppearance</key>
+	<string>assetDespiteSingleton</string>
+	<key>eventAsStructure</key>
+	<string>scaffoldAsBridge</string>
+	<key>observerEnvironmentTint</key>
+	<string>seguePerMethod</string>
+	<key>referenceChainInteraction</key>
+	<string>handlerTypeFlags</string>
+	<key>repositoryMethodContrast</key>
+	<string>queueWithoutVisitor</string>
+	<key>substantialSizeStatus</key>
+	<string>brushStageForce</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoOffsetCoord</key>
+	<string>checkboxContainFacade</string>
+	<key>backwardPositionedInteraction</key>
+	<string>screenCommandRotation</string>
+	<key>checkboxOutsideCommand</key>
+	<string>mediaOperationPressure</string>
+	<key>compositionExceptNumber</key>
+	<string>accordionEqualizationOrientation</string>
+	<key>customTabbarMargin</key>
+	<string>tensorTableLocation</string>
+	<key>directlyDropdownbuttonOffset</key>
+	<string>responseAgainstValue</string>
+	<key>injectionCycleInterval</key>
+	<string>inactiveHistogramKind</string>
+	<key>intuitiveNotificationState</key>
+	<string>cubitNearMemento</string>
+	<key>permanentSubpixelCenter</key>
+	<string>greatTweenOrigin</string>
+	<key>synchronousNotificationCoord</key>
+	<string>popupAsType</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianDialogsOrientation</key>
+	<string>asynchronousQueueVisibility</string>
+	<key>consultativePetDelay</key>
+	<string>clipperDuringLevel</string>
+	<key>decorationAsContext</key>
+	<string>tappableGraphicSaturation</string>
+	<key>groupFlyweightStatus</key>
+	<string>zoneIncludeSingleton</string>
+	<key>managerSystemLocation</key>
+	<string>easyProviderTheme</string>
+	<key>spotOrLevel</key>
+	<string>cacheDuringMediator</string>
+	<key>viewAroundShape</key>
+	<string>controllerMementoTransparency</string>
+</dict>
+</plist>

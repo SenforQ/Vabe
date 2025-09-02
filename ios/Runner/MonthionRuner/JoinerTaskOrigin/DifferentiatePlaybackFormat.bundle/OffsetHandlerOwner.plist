@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentDecoratorLeft</key>
+	<string>explicitRouteBound</string>
+	<key>eagerPromiseDensity</key>
+	<string>uniqueShaderScale</string>
+	<key>instructionThroughAdapter</key>
+	<string>delegateUntilInterpreter</string>
+	<key>materialStackTop</key>
+	<string>mainNodeShape</string>
+	<key>pointPrototypeValidation</key>
+	<string>robustPointVelocity</string>
+</dict>
+</plist>

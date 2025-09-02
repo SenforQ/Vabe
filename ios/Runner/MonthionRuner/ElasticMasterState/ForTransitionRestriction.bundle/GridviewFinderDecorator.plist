@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitOperationBehavior</key>
+	<string>inactiveParticleBottom</string>
+	<key>cycleTempleTail</key>
+	<string>firstGridviewBrightness</string>
+	<key>gridviewVariableType</key>
+	<string>challengeActivityShade</string>
+	<key>observerWithMediator</key>
+	<string>subscriptionStageName</string>
+	<key>radiusUntilFlyweight</key>
+	<string>cartesianReferenceShade</string>
+	<key>riverpodAboutVariable</key>
+	<string>spriteByNumber</string>
+	<key>skinInterpreterSkewy</key>
+	<string>tickerCycleFrequency</string>
+	<key>sortedToolDensity</key>
+	<string>commandParamContrast</string>
+</dict>
+</plist>

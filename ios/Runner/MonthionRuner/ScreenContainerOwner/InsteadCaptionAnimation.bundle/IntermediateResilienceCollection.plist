@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileSensorRate</key>
+	<string>pointMediatorTail</string>
+	<key>aspectDuringPrototype</key>
+	<string>commandBufferVelocity</string>
+	<key>builderOutsideWork</key>
+	<string>brushVersusFlyweight</string>
+	<key>gateTaskSaturation</key>
+	<string>requestAsPattern</string>
+	<key>pinchableDependencyDistance</key>
+	<string>logContextOrigin</string>
+	<key>riverpodAmongInterpreter</key>
+	<string>commonPopupSkewy</string>
+	<key>subscriptionBridgeOrigin</key>
+	<string>sharedStepKind</string>
+</dict>
+</plist>

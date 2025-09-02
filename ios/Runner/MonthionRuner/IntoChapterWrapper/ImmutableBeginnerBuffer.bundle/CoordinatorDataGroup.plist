@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertOperationPressure</key>
+	<string>modulusFormSaturation</string>
+	<key>appbarDespiteLevel</key>
+	<string>nativeIndicatorStyle</string>
+	<key>borderStageSkewy</key>
+	<string>layoutLikeBridge</string>
+	<key>criticalDialogsDuration</key>
+	<string>particleMediatorOrientation</string>
+	<key>cursorContextPosition</key>
+	<string>missedTechniqueBrightness</string>
+	<key>largeRoleMode</key>
+	<string>publicRouteTransparency</string>
+	<key>materialMovementVisible</key>
+	<string>nativeCanvasIndex</string>
+	<key>sizedboxModeTheme</key>
+	<string>animationEnvironmentContrast</string>
+</dict>
+</plist>

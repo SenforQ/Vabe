@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customStatefulIndex</key>
+	<string>gridVariableFormat</string>
+	<key>getxVersusParameter</key>
+	<string>resolverAroundMode</string>
+	<key>hardRepositoryAppearance</key>
+	<string>accessoryNearMethod</string>
+	<key>inactiveAllocatorValidation</key>
+	<string>resultWithStage</string>
+	<key>interfaceStageVisible</key>
+	<string>extensionInterpreterName</string>
+</dict>
+</plist>

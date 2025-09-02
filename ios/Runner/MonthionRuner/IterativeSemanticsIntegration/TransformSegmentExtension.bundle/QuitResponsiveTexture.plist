@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocViaFlyweight</key>
+	<string>asyncSwiftTension</string>
+	<key>cardStrategyKind</key>
+	<string>actionOutsideVariable</string>
+	<key>cubitIncludeProxy</key>
+	<string>iconThroughObserver</string>
+	<key>draggableObserverDensity</key>
+	<string>binaryInKind</string>
+	<key>mainCoordinatorTint</key>
+	<string>imperativeRowInteraction</string>
+	<key>originalAnimatedcontainerBottom</key>
+	<string>spriteInsideCycle</string>
+	<key>pivotalConstraintInteraction</key>
+	<string>promiseOutsideAction</string>
+	<key>requestOrFramework</key>
+	<string>layerVersusContext</string>
+	<key>singleStatefulSkewx</key>
+	<string>assetVarKind</string>
+</dict>
+</plist>

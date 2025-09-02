@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchPlatformColor</key>
+	<string>borderAlongParameter</string>
+	<key>compositionalConvolutionMode</key>
+	<string>pinchablePlaybackHue</string>
+	<key>isolateOutsideStage</key>
+	<string>providerLevelTheme</string>
+	<key>monsterStrategyDuration</key>
+	<string>statelessGridSkewy</string>
+	<key>topicForEnvironment</key>
+	<string>normalSlashCenter</string>
+	<key>transformerFlyweightOffset</key>
+	<string>reactivePositionVisible</string>
+</dict>
+</plist>

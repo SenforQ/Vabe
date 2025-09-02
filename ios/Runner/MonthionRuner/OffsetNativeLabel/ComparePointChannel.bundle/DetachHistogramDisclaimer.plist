@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFrameworkTint</key>
+	<string>subscriptionInMethod</string>
+	<key>granularToolTheme</key>
+	<string>managerValueContrast</string>
+	<key>ignoredSizeBrightness</key>
+	<string>directTimerShade</string>
+	<key>imperativeTabbarHead</key>
+	<string>missionInsideValue</string>
+	<key>largeCurveCenter</key>
+	<string>methodDespiteTier</string>
+	<key>listviewThroughFacade</key>
+	<string>ephemeralConvolutionBottom</string>
+	<key>logarithmInOperation</key>
+	<string>sceneLevelSpeed</string>
+	<key>notifierOutsideJob</key>
+	<string>errorAsParameter</string>
+</dict>
+</plist>

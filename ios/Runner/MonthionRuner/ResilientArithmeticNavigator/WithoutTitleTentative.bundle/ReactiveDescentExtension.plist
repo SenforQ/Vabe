@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAmongPhase</key>
+	<string>reducerParamLeft</string>
+	<key>presenterDuringLayer</key>
+	<string>frameThanMode</string>
+	<key>resizableModelVisibility</key>
+	<string>rectObserverBound</string>
+	<key>smartSceneBehavior</key>
+	<string>controllerStateSkewy</string>
+	<key>stateProcessTransparency</key>
+	<string>workflowWithStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationLevelStyle</key>
+	<string>eagerAlignmentOpacity</string>
+	<key>globalFactoryStatus</key>
+	<string>transformerAgainstProxy</string>
+	<key>hardStreamBound</key>
+	<string>protectedLocalizationOrigin</string>
+	<key>labelUntilTier</key>
+	<string>iconInterpreterRotation</string>
+	<key>layoutViaMemento</key>
+	<string>notificationAboutPhase</string>
+	<key>rapidReductionPadding</key>
+	<string>reducerCommandInterval</string>
+	<key>reusableCapacitiesMargin</key>
+	<string>widgetAdapterInteraction</string>
+	<key>synchronousChannelsAppearance</key>
+	<string>aspectForAdapter</string>
+	<key>temporaryResolverStyle</key>
+	<string>imperativeDimensionEdge</string>
+</dict>
+</plist>

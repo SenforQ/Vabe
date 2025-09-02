@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAmongSingleton</key>
+	<string>convolutionByShape</string>
+	<key>multiStorageSpeed</key>
+	<string>routeAroundFramework</string>
+	<key>resultContainType</key>
+	<string>channelsBesideVariable</string>
+	<key>semanticsFrameworkFeedback</key>
+	<string>expandedAboutAdapter</string>
+	<key>spriteAndContext</key>
+	<string>textureStageContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerTierState</key>
+	<string>widgetSingletonName</string>
+	<key>asyncUsageState</key>
+	<string>easyOffsetTransparency</string>
+	<key>cacheLayerBehavior</key>
+	<string>listviewBeyondObserver</string>
+	<key>cupertinoForFramework</key>
+	<string>operationBesideType</string>
+	<key>modelOrState</key>
+	<string>asyncInLayer</string>
+	<key>smallGateValidation</key>
+	<string>mutableIntensityVisibility</string>
+</dict>
+</plist>

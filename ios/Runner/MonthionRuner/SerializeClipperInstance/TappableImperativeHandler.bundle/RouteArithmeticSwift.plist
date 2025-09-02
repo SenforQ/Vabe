@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterPhaseTension</key>
+	<string>pinchableTouchStyle</string>
+	<key>cubitActionInteraction</key>
+	<string>widgetEnvironmentSpeed</string>
+	<key>deferredInterpolationCenter</key>
+	<string>chapterOutsideStyle</string>
+	<key>missedUtilVisible</key>
+	<string>diffableStreamHead</string>
+	<key>nativeNavigatorAcceleration</key>
+	<string>layoutStyleState</string>
+	<key>observerCompositeMode</key>
+	<string>inheritedFeatureAcceleration</string>
+	<key>presenterForTask</key>
+	<string>constraintStructureKind</string>
+	<key>responsiveCubitDistance</key>
+	<string>constraintAboutMode</string>
+	<key>sizedboxOrTier</key>
+	<string>imperativeReducerTension</string>
+</dict>
+</plist>

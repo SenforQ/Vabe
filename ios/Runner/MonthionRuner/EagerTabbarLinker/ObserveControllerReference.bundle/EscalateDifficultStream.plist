@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBeyondStyle</key>
+	<string>catalystScopeMode</string>
+	<key>anchorIncludeBridge</key>
+	<string>stackNearPattern</string>
+	<key>aspectDuringOperation</key>
+	<string>completerSystemVisible</string>
+	<key>instructionDuringObserver</key>
+	<string>navigatorOfStage</string>
+	<key>layoutInScope</key>
+	<string>constraintByBuffer</string>
+	<key>memberIncludePrototype</key>
+	<string>criticalAlphaTheme</string>
+	<key>modulusAgainstStrategy</key>
+	<string>columnPatternPadding</string>
+	<key>requestTaskRotation</key>
+	<string>profileFrameworkColor</string>
+	<key>scrollByProxy</key>
+	<string>normalEffectLocation</string>
+</dict>
+</plist>

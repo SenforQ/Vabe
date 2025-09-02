@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorModePosition</key>
+	<string>skirtContainLevel</string>
+	<key>commonContainerShape</key>
+	<string>uniqueResponseFeedback</string>
+	<key>customizedLocalizationTop</key>
+	<string>responseWithoutTier</string>
+	<key>materialGroupShade</key>
+	<string>topicWithoutPattern</string>
+	<key>modulusWithoutOperation</key>
+	<string>radiusByKind</string>
+	<key>sceneAboutContext</key>
+	<string>webTopicOffset</string>
+	<key>sizeFlyweightInset</key>
+	<string>cartesianCompleterColor</string>
+</dict>
+</plist>

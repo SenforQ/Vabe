@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderThanSingleton</key>
+	<string>cacheIncludeSystem</string>
+	<key>groupActivityMargin</key>
+	<string>flexJobSpacing</string>
+	<key>listenerByProcess</key>
+	<string>durationFromCommand</string>
+	<key>routerPerChain</key>
+	<string>particleCommandBorder</string>
+	<key>sliderCommandDirection</key>
+	<string>sessionByWork</string>
+	<key>viewOrMediator</key>
+	<string>arithmeticPrototypeDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletProcessBorder</key>
+	<string>textfieldDespiteFramework</string>
+	<key>completerAdapterResponse</key>
+	<string>animatedcontainerPerProxy</string>
+	<key>effectViaVariable</key>
+	<string>asyncCallbackName</string>
+	<key>hyperbolicSkirtOffset</key>
+	<string>vectorValueAlignment</string>
+	<key>navigationInMediator</key>
+	<string>navigatorByFacade</string>
+	<key>reactiveAllocatorVisible</key>
+	<string>petObserverTail</string>
+	<key>vectorPhaseFormat</key>
+	<string>alignmentFromChain</string>
+	<key>zoneLevelCount</key>
+	<string>integerActionHue</string>
+</dict>
+</plist>

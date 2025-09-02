@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterBesideStrategy</key>
+	<string>diversifiedViewTag</string>
+	<key>errorActionFrequency</key>
+	<string>currentTickerInset</string>
+	<key>handlerMediatorCount</key>
+	<string>scaffoldOrTask</string>
+	<key>materialFutureFormat</key>
+	<string>loopOrLevel</string>
+	<key>normInsideOperation</key>
+	<string>curveDespiteMode</string>
+	<key>originalBlocSpeed</key>
+	<string>serviceVisitorColor</string>
+	<key>prismaticCatalystBehavior</key>
+	<string>equipmentSinceLevel</string>
+	<key>profileOfMode</key>
+	<string>largeLayoutMomentum</string>
+	<key>radiusActionSpacing</key>
+	<string>statelessJobOrigin</string>
+	<key>screenBufferDensity</key>
+	<string>builderPhaseStyle</string>
+</dict>
+</plist>

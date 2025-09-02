@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionFunctionRotation</key>
+	<string>bufferProcessDepth</string>
+	<key>checklistDuringStage</key>
+	<string>queryBeyondPhase</string>
+	<key>columnAwayComposite</key>
+	<string>coordinatorStructureBehavior</string>
+	<key>logEnvironmentSkewy</key>
+	<string>statefulVarAlignment</string>
+	<key>robustIndicatorResponse</key>
+	<string>containerAroundPattern</string>
+	<key>scaleOperationPadding</key>
+	<string>reactiveStampInterval</string>
+	<key>sessionInOperation</key>
+	<string>previewAboutBuffer</string>
+	<key>stateParameterDensity</key>
+	<string>extensionScopeCenter</string>
+	<key>statefulAwaitTag</key>
+	<string>dependencyStructureTag</string>
+</dict>
+</plist>

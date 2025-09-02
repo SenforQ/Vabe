@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandActivityFeedback</key>
+	<string>interfaceContextTop</string>
+	<key>commonColumnVisible</key>
+	<string>synchronousProgressbarMode</string>
+	<key>indicatorFrameworkTheme</key>
+	<string>optionActivityOrientation</string>
+	<key>indicatorWithChain</key>
+	<string>mutableZoneForce</string>
+	<key>mobileLocalizationCenter</key>
+	<string>parallelIsolateTint</string>
+	<key>normalLoopBrightness</key>
+	<string>constraintValueOffset</string>
+	<key>resolverParamTop</key>
+	<string>similarExpandedScale</string>
+</dict>
+</plist>

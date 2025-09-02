@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedParticleResponse</key>
+	<string>factoryInComposite</string>
+	<key>deferredDrawerBorder</key>
+	<string>widgetObserverColor</string>
+	<key>deferredTouchFeedback</key>
+	<string>lazyMomentumMargin</string>
+	<key>graphOrStructure</key>
+	<string>signWithFlyweight</string>
+	<key>primaryNavigatorInset</key>
+	<string>nodeTaskInterval</string>
+	<key>semanticsParameterFlags</key>
+	<string>radiusAndFramework</string>
+</dict>
+</plist>

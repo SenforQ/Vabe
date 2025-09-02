@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCallbackBrightness</key>
+	<string>blocFrameworkInteraction</string>
+	<key>asynchronousProgressbarVelocity</key>
+	<string>presenterPlatformName</string>
+	<key>controllerStrategyVelocity</key>
+	<string>singletonVersusNumber</string>
+	<key>managerDespiteAction</key>
+	<string>awaitShapeScale</string>
+	<key>momentumAndContext</key>
+	<string>flexAtComposite</string>
+</dict>
+</plist>

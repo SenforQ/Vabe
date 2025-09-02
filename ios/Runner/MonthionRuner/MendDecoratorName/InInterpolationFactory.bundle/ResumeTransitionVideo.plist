@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateVisitorFrequency</key>
+	<string>navigatorStateAppearance</string>
+	<key>effectAsFramework</key>
+	<string>checkboxStructureBorder</string>
+	<key>factoryDuringWork</key>
+	<string>eagerHandlerRotation</string>
+	<key>labelThroughForm</key>
+	<string>elasticMobileShade</string>
+	<key>switchValueCenter</key>
+	<string>configurationParamRotation</string>
+</dict>
+</plist>

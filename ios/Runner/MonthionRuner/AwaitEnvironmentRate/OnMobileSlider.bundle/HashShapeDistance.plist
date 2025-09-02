@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertJobDistance</key>
+	<string>unaryStageBottom</string>
+	<key>iconProxyType</key>
+	<string>stampFunctionDuration</string>
+	<key>lastScreenDelay</key>
+	<string>compositionPhaseMargin</string>
+	<key>reducerPerVariable</key>
+	<string>denseAwaitTag</string>
+	<key>resilientTransformerSpacing</key>
+	<string>mobileWithoutBuffer</string>
+	<key>shaderEnvironmentSaturation</key>
+	<string>dedicatedImageScale</string>
+</dict>
+</plist>

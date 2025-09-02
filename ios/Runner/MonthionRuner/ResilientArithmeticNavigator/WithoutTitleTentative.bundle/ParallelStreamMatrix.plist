@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderCommandVisible</key>
+	<string>accordionObserverLeft</string>
+	<key>commandOperationBehavior</key>
+	<string>concurrentListenerShape</string>
+	<key>geometricProjectionOrigin</key>
+	<string>diffableViewAcceleration</string>
+	<key>heapBeyondPhase</key>
+	<string>advancedRiverpodForce</string>
+	<key>heapWithoutStrategy</key>
+	<string>baselineOutsideBridge</string>
+	<key>lastMaterialDelay</key>
+	<string>inactiveParticleDuration</string>
+	<key>plateInLayer</key>
+	<string>serviceWithoutForm</string>
+	<key>routePerParameter</key>
+	<string>equalizationForFunction</string>
+	<key>specifierBeyondStage</key>
+	<string>animatedFactoryColor</string>
+	<key>tappableCallbackCenter</key>
+	<string>firstUnaryDuration</string>
+</dict>
+</plist>

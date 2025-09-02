@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsWithoutType</key>
+	<string>activatedMethodVisible</string>
+	<key>cupertinoAppbarLeft</key>
+	<string>tensorZoneOpacity</string>
+	<key>elasticBlocSaturation</key>
+	<string>unsortedStatelessOffset</string>
+	<key>flexibleButtonFrequency</key>
+	<string>kernelLevelInset</string>
+	<key>intensityVisitorRate</key>
+	<string>stateMementoFormat</string>
+	<key>normParameterTag</key>
+	<string>storageThanVisitor</string>
+	<key>observerContextDirection</key>
+	<string>masterParamScale</string>
+	<key>operationAgainstProcess</key>
+	<string>multiBufferAcceleration</string>
+	<key>reusableCompleterVelocity</key>
+	<string>modelPerNumber</string>
+</dict>
+</plist>

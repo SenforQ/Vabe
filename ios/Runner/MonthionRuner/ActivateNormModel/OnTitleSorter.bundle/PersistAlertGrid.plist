@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerBufferSize</key>
+	<string>sequentialQueryInset</string>
+	<key>buttonViaOperation</key>
+	<string>viewMethodTint</string>
+	<key>capsulePatternFrequency</key>
+	<string>painterAndProxy</string>
+	<key>currentCoordinatorCenter</key>
+	<string>ephemeralFactoryShape</string>
+	<key>extensionDuringBuffer</key>
+	<string>crudeRectAppearance</string>
+	<key>primaryCheckboxTint</key>
+	<string>projectionContextScale</string>
+	<key>transformerAlongVariable</key>
+	<string>variantFacadeBound</string>
+</dict>
+</plist>

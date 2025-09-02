@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerJobAlignment</key>
+	<string>grayscaleWorkTag</string>
+	<key>imageStyleAcceleration</key>
+	<string>compositionalServiceSpeed</string>
+	<key>normBeyondLayer</key>
+	<string>frameAroundOperation</string>
+	<key>significantObserverOrientation</key>
+	<string>exponentByShape</string>
+	<key>sophisticatedStoreVisible</key>
+	<string>mobileQueueDensity</string>
+</dict>
+</plist>

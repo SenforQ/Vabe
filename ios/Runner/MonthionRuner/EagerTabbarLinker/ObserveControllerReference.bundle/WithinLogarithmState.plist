@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferCompositeMargin</key>
+	<string>baselineAdapterTag</string>
+	<key>cupertinoPatternCenter</key>
+	<string>sceneModePadding</string>
+	<key>decorationSingletonIndex</key>
+	<string>petAndTier</string>
+	<key>layoutForVariable</key>
+	<string>intermediateMenuSkewy</string>
+	<key>nibBridgeStyle</key>
+	<string>accessibleInteractorBound</string>
+</dict>
+</plist>

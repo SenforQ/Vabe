@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncForPattern</key>
+	<string>permissivePositionStyle</string>
+	<key>certificateMediatorStyle</key>
+	<string>tabbarBufferStatus</string>
+	<key>masterInStage</key>
+	<string>deferredAssetLeft</string>
+	<key>mediumLayoutCenter</key>
+	<string>profilePhaseFormat</string>
+	<key>precisionBeyondActivity</key>
+	<string>alertStateSize</string>
+	<key>projectionFormTransparency</key>
+	<string>injectionWithPlatform</string>
+	<key>sensorEnvironmentIndex</key>
+	<string>viewSystemSkewy</string>
+	<key>sizedboxBesideProxy</key>
+	<string>declarativeBuilderDensity</string>
+	<key>viewMementoBrightness</key>
+	<string>interpolationAwayPlatform</string>
+</dict>
+</plist>

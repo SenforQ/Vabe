@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardBuilderFlags</key>
+	<string>sizeAroundParam</string>
+	<key>interactorInContext</key>
+	<string>chartObserverResponse</string>
+	<key>parallelAspectEdge</key>
+	<string>tangentOutsidePhase</string>
+	<key>rectStateValidation</key>
+	<string>queryBesideBuffer</string>
+	<key>routeActivityOrigin</key>
+	<string>diversifiedAnimationMargin</string>
+</dict>
+</plist>

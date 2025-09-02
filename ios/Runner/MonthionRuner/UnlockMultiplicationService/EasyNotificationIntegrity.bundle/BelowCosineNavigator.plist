@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSampleEdge</key>
+	<string>dropdownbuttonActionLeft</string>
+	<key>cupertinoThemeHue</key>
+	<string>discardedBlocPadding</string>
+	<key>mapNumberSpacing</key>
+	<string>ignoredResolverDelay</string>
+	<key>stackParamPressure</key>
+	<string>finalSpecifierSize</string>
+</dict>
+</plist>

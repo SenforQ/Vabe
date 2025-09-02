@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocChainScale</key>
+	<string>brushBufferDistance</string>
+	<key>channelsUntilBridge</key>
+	<string>cartesianFeatureRate</string>
+	<key>cubeBridgeFormat</key>
+	<string>sizeModeFeedback</string>
+	<key>isolateTierFrequency</key>
+	<string>indicatorViaStyle</string>
+	<key>materialInterfacePressure</key>
+	<string>concurrentDrawerAcceleration</string>
+	<key>presenterThroughProxy</key>
+	<string>cupertinoNearAction</string>
+</dict>
+</plist>

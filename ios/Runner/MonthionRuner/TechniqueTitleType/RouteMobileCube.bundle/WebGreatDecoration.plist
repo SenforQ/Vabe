@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStateDuration</key>
+	<string>futureStateHead</string>
+	<key>declarativeCellDepth</key>
+	<string>directAlignmentAlignment</string>
+	<key>transitionMediatorAlignment</key>
+	<string>nextWidgetPressure</string>
+</dict>
+</plist>

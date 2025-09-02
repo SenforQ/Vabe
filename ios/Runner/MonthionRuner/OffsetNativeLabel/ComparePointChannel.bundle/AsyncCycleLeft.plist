@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderThroughShape</key>
+	<string>layerBridgeVisible</string>
+	<key>customLogDuration</key>
+	<string>bufferAndEnvironment</string>
+	<key>euclideanTweenOrigin</key>
+	<string>routeByState</string>
+	<key>gradientFrameworkBorder</key>
+	<string>assetByMemento</string>
+	<key>hyperbolicFactoryType</key>
+	<string>futureInChain</string>
+	<key>musicIncludeFlyweight</key>
+	<string>resourceBeyondMethod</string>
+	<key>promiseDuringLevel</key>
+	<string>layoutBridgeSkewy</string>
+	<key>retainedCallbackScale</key>
+	<string>zoneShapeSpeed</string>
+	<key>variantWithoutStrategy</key>
+	<string>sliderLikeDecorator</string>
+</dict>
+</plist>

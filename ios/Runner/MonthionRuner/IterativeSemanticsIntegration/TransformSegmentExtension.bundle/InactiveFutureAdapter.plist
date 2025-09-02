@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedStorageStyle</key>
+	<string>widgetWithCycle</string>
+	<key>advancedPresenterSkewx</key>
+	<string>commandAwayFunction</string>
+	<key>associatedAxisTag</key>
+	<string>textNearTemple</string>
+	<key>blocVarType</key>
+	<string>seamlessVariantRate</string>
+	<key>geometricViewStyle</key>
+	<string>responsiveColumnEdge</string>
+	<key>hashParamScale</key>
+	<string>localizationDuringMethod</string>
+	<key>imperativeSliderDelay</key>
+	<string>actionByBridge</string>
+</dict>
+</plist>

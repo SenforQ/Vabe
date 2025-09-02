@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDespitePlatform</key>
+	<string>resolverTaskInset</string>
+	<key>asyncManagerOrigin</key>
+	<string>activityProcessSpeed</string>
+	<key>completerProcessBound</key>
+	<string>usedEntityDelay</string>
+	<key>granularFutureBehavior</key>
+	<string>previewWithContext</string>
+	<key>marginCycleKind</key>
+	<string>labelAdapterDistance</string>
+	<key>providerDecoratorSpeed</key>
+	<string>unsortedLoopBorder</string>
+	<key>seamlessDescriptionDirection</key>
+	<string>boxDuringMethod</string>
+	<key>symmetricContainerMargin</key>
+	<string>discardedCompleterColor</string>
+	<key>temporaryRowStyle</key>
+	<string>entityWithoutPlatform</string>
+</dict>
+</plist>

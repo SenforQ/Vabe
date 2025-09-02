@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultConvolutionRate</key>
+	<string>singleRequestCoord</string>
+	<key>gatePrototypeDensity</key>
+	<string>rectActivityFrequency</string>
+	<key>largeCurvePadding</key>
+	<string>heapInsideScope</string>
+	<key>resultIncludeComposite</key>
+	<string>synchronousOverlayValidation</string>
+	<key>tweenVariableBehavior</key>
+	<string>inheritedActivityBrightness</string>
+</dict>
+</plist>

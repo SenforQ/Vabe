@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedHeroSpeed</key>
+	<string>modulusCompositeDirection</string>
+	<key>eventTaskFrequency</key>
+	<string>animationUntilFacade</string>
+	<key>mediaSystemBrightness</key>
+	<string>displayableBufferStyle</string>
+	<key>originalStepCenter</key>
+	<string>sizeDespiteValue</string>
+	<key>plateCompositeState</key>
+	<string>allocatorValueVelocity</string>
+	<key>sustainableFactoryInterval</key>
+	<string>interfaceLayerType</string>
+</dict>
+</plist>

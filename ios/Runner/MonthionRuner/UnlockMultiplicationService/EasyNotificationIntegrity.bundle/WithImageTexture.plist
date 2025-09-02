@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateFrameworkShape</key>
+	<string>delegateProcessTail</string>
+	<key>effectActivityTop</key>
+	<string>listviewOutsideWork</string>
+	<key>equalizationBufferTheme</key>
+	<string>customEntropyDistance</string>
+	<key>interpolationSingletonOpacity</key>
+	<string>rowSinceLayer</string>
+	<key>localMethodIndex</key>
+	<string>nibAndNumber</string>
+	<key>momentumFormFeedback</key>
+	<string>sortedAnimationLeft</string>
+	<key>storeVarTail</key>
+	<string>responseLevelResponse</string>
+	<key>textureJobType</key>
+	<string>integerLevelBrightness</string>
+</dict>
+</plist>

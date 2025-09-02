@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableManagerBehavior</key>
+	<string>adaptiveGesturedetectorTheme</string>
+	<key>gestureViaNumber</key>
+	<string>completerJobInteraction</string>
+	<key>singleCompleterDensity</key>
+	<string>visibleIconLeft</string>
+	<key>statelessStageTop</key>
+	<string>movementDespiteVar</string>
+	<key>tableVisitorAlignment</key>
+	<string>baseOperationDensity</string>
+</dict>
+</plist>

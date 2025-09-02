@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAgainstFramework</key>
+	<string>specifierCompositeShape</string>
+	<key>geometricPageviewInterval</key>
+	<string>cycleFlyweightRate</string>
+	<key>gesturedetectorPhaseCoord</key>
+	<string>interactiveInterfaceKind</string>
+	<key>handlerAroundLevel</key>
+	<string>asyncJobHead</string>
+	<key>hyperbolicMomentumRate</key>
+	<string>nibActivityHue</string>
+	<key>routerWithoutOperation</key>
+	<string>requestOrInterpreter</string>
+	<key>sensorNumberDistance</key>
+	<string>crucialGramAcceleration</string>
+	<key>stackPerStructure</key>
+	<string>usecaseAlongStage</string>
+	<key>titleBeyondOperation</key>
+	<string>descriptionAroundLayer</string>
+	<key>uniqueBlocPosition</key>
+	<string>arithmeticCoordinatorSpeed</string>
+</dict>
+</plist>

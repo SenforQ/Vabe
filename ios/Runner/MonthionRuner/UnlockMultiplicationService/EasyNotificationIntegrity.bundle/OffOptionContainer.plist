@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableObserverHead</key>
+	<string>currentMethodStyle</string>
+	<key>isolateFrameworkHead</key>
+	<string>positionedOutsideStrategy</string>
+	<key>prevRolePosition</key>
+	<string>handlerCommandPosition</string>
+	<key>routeSinceFacade</key>
+	<string>otherRequestLeft</string>
+	<key>sensorThroughChain</key>
+	<string>promiseVersusVariable</string>
+	<key>webKernelForce</key>
+	<string>menuAroundJob</string>
+</dict>
+</plist>

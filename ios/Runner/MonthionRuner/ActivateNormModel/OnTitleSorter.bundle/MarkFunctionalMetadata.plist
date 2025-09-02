@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardCurveRotation</key>
+	<string>webStateOrientation</string>
+	<key>hashInterpreterBehavior</key>
+	<string>convolutionVisitorBrightness</string>
+	<key>nextSpotRight</key>
+	<string>eventEnvironmentSize</string>
+	<key>sensorActionBound</key>
+	<string>mediumToolSpacing</string>
+</dict>
+</plist>

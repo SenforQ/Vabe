@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOrEnvironment</key>
+	<string>intermediateViewDistance</string>
+	<key>commonShaderFormat</key>
+	<string>persistentViewMargin</string>
+	<key>concreteLayoutOffset</key>
+	<string>sliderTaskOrigin</string>
+	<key>criticalPaddingBound</key>
+	<string>paddingLikeOperation</string>
+	<key>dependencyWithAction</key>
+	<string>effectAsStructure</string>
+	<key>layoutAlongProxy</key>
+	<string>groupKindCount</string>
+	<key>navigatorBesideOperation</key>
+	<string>interactorProcessShape</string>
+	<key>tappableTimerIndex</key>
+	<string>alignmentCycleTension</string>
+</dict>
+</plist>

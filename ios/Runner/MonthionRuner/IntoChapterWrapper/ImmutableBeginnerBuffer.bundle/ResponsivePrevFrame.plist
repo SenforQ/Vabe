@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentStyleEdge</key>
+	<string>listenerFacadeMode</string>
+	<key>graphPhaseDirection</key>
+	<string>cellIncludeCycle</string>
+	<key>interactiveFrameCenter</key>
+	<string>concreteAnimationAlignment</string>
+	<key>optionJobMode</key>
+	<string>widgetForBridge</string>
+	<key>paddingVersusForm</key>
+	<string>skinExceptVariable</string>
+	<key>queueActionColor</key>
+	<string>standaloneStoreVisible</string>
+	<key>typicalEventBottom</key>
+	<string>standaloneRowDistance</string>
+</dict>
+</plist>

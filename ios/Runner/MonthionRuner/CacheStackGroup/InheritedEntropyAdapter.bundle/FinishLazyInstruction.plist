@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferPerType</key>
+	<string>convolutionAgainstEnvironment</string>
+	<key>elasticLoopForce</key>
+	<string>multiErrorMargin</string>
+	<key>ephemeralResourceMomentum</key>
+	<string>skirtParameterBound</string>
+	<key>liteModulusForce</key>
+	<string>finalSceneFeedback</string>
+	<key>loopAroundStage</key>
+	<string>bulletOfCycle</string>
+	<key>viewAlongTemple</key>
+	<string>asyncWithVariable</string>
+</dict>
+</plist>

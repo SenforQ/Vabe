@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSizeInterval</key>
+	<string>crudeSubpixelShade</string>
+	<key>arithmeticWithStyle</key>
+	<string>materialViaFlyweight</string>
+	<key>characterMethodSize</key>
+	<string>unsortedQueueName</string>
+	<key>decorationProxyName</key>
+	<string>mobxAwayEnvironment</string>
+	<key>gramThroughSingleton</key>
+	<string>referenceIncludeNumber</string>
+	<key>interactiveDocumentEdge</key>
+	<string>typicalLayerAppearance</string>
+	<key>sliderTempleValidation</key>
+	<string>webIndicatorOffset</string>
+	<key>touchStateMargin</key>
+	<string>mediocreDocumentTint</string>
+	<key>viewPlatformVelocity</key>
+	<string>catalystMementoStyle</string>
+</dict>
+</plist>

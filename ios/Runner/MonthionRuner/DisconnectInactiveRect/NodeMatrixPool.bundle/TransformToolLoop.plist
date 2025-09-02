@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncForComposite</key>
+	<string>deferredDurationDensity</string>
+	<key>comprehensiveAxisRotation</key>
+	<string>parallelBulletAcceleration</string>
+	<key>concurrentStorageColor</key>
+	<string>directlyTimerInteraction</string>
+	<key>constraintStageDepth</key>
+	<string>arithmeticPainterDuration</string>
+	<key>decorationAlongJob</key>
+	<string>statefulRiverpodType</string>
+	<key>gestureActionEdge</key>
+	<string>memberForType</string>
+	<key>newestNormHead</key>
+	<string>requestDuringOperation</string>
+	<key>normalRouteBound</key>
+	<string>allocatorOrVariable</string>
+</dict>
+</plist>

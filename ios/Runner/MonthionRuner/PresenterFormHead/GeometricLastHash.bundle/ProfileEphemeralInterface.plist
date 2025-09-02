@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInterpreterTheme</key>
+	<string>arithmeticBeyondType</string>
+	<key>gateShapeFeedback</key>
+	<string>deferredLoopDensity</string>
+	<key>greatInteractorRotation</key>
+	<string>robustPrecisionAppearance</string>
+	<key>ignoredFactoryHue</key>
+	<string>skirtInsideState</string>
+	<key>missedFeatureVisibility</key>
+	<string>matrixModeDensity</string>
+	<key>navigatorLevelStyle</key>
+	<string>hardStoreAlignment</string>
+	<key>otherTimerSkewy</key>
+	<string>arithmeticFlyweightSpacing</string>
+	<key>reducerAsAction</key>
+	<string>callbackPatternValidation</string>
+</dict>
+</plist>

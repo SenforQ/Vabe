@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTempleName</key>
+	<string>capsuleLevelSpacing</string>
+	<key>discardedActionVelocity</key>
+	<string>errorActivityPosition</string>
+	<key>documentNearValue</key>
+	<string>symmetricRowSpeed</string>
+	<key>multiAlertRate</key>
+	<string>actionShapeTag</string>
+	<key>richtextPerSystem</key>
+	<string>widgetUntilMode</string>
+	<key>sliderOutsideCommand</key>
+	<string>agileEventBottom</string>
+	<key>techniqueByShape</key>
+	<string>assetShapeRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAllocatorDensity</key>
+	<string>advancedQueueSaturation</string>
+	<key>capacitiesOrPhase</key>
+	<string>matrixParameterValidation</string>
+	<key>discardedSinkOrientation</key>
+	<string>errorAmongProcess</string>
+	<key>imperativeCoordinatorTransparency</key>
+	<string>tweenCompositeFeedback</string>
+	<key>painterTaskDirection</key>
+	<string>priorityStateAcceleration</string>
+	<key>statelessFeatureOffset</key>
+	<string>ephemeralSignVisibility</string>
+	<key>stepSinceKind</key>
+	<string>notificationPhaseKind</string>
+</dict>
+</plist>

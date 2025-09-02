@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerLoopCoord</key>
+	<string>behaviorCommandPosition</string>
+	<key>flexibleTextfieldTop</key>
+	<string>scaffoldVersusNumber</string>
+	<key>offsetAmongMethod</key>
+	<string>commandScopeInset</string>
+	<key>priorityPrototypeInset</key>
+	<string>customizedPriorityRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAlongMethod</key>
+	<string>observerAlongContext</string>
+	<key>curveVariableState</key>
+	<string>injectionWorkEdge</string>
+	<key>elasticScrollTint</key>
+	<string>scrollFormLeft</string>
+	<key>entityOutsideStrategy</key>
+	<string>notifierWithoutPhase</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelProxyTransparency</key>
+	<string>mediaqueryOutsideEnvironment</string>
+	<key>cursorNearDecorator</key>
+	<string>curveAmongVariable</string>
+	<key>optionCommandInterval</key>
+	<string>bitrateScopeForce</string>
+	<key>resilientMarginStatus</key>
+	<string>equipmentNearValue</string>
+	<key>semanticsAlongStage</key>
+	<string>requestMediatorShade</string>
+	<key>semanticsOrLayer</key>
+	<string>equipmentVersusScope</string>
+</dict>
+</plist>

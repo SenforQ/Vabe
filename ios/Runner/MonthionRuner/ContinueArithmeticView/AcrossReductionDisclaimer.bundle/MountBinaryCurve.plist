@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarAgainstActivity</key>
+	<string>boxDecoratorAlignment</string>
+	<key>equipmentVisitorColor</key>
+	<string>containerAndStage</string>
+	<key>integerLevelKind</key>
+	<string>threadVariableCenter</string>
+	<key>kernelTaskScale</key>
+	<string>scaleAtInterpreter</string>
+	<key>opaqueTransitionTransparency</key>
+	<string>invisibleSliderOffset</string>
+	<key>providerByStrategy</key>
+	<string>referenceFunctionIndex</string>
+	<key>scaleAgainstScope</key>
+	<string>crucialReferenceTint</string>
+	<key>sizeLayerMode</key>
+	<string>convolutionViaFramework</string>
+	<key>topicAroundLayer</key>
+	<string>imageFormInteraction</string>
+</dict>
+</plist>

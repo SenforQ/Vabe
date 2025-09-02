@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTabviewRotation</key>
+	<string>ephemeralTitleType</string>
+	<key>columnWithoutStage</key>
+	<string>vectorDuringActivity</string>
+	<key>errorDuringMode</key>
+	<string>allocatorTypeStatus</string>
+	<key>interactiveBinaryOrigin</key>
+	<string>anchorShapeResponse</string>
+	<key>localizationWithActivity</key>
+	<string>stampWithoutState</string>
+	<key>numericalListviewState</key>
+	<string>completionTempleBehavior</string>
+	<key>sliderMediatorAppearance</key>
+	<string>chapterBesideTask</string>
+</dict>
+</plist>

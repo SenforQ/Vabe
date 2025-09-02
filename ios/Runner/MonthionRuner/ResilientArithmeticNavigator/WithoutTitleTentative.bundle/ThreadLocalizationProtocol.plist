@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredNibFeedback</key>
+	<string>buttonObserverColor</string>
+	<key>progressbarJobDelay</key>
+	<string>timerMethodLeft</string>
+	<key>spotAndDecorator</key>
+	<string>awaitInsideType</string>
+	<key>stepAgainstCycle</key>
+	<string>activatedUsecaseFlags</string>
+	<key>subscriptionPrototypeState</key>
+	<string>handlerAdapterTransparency</string>
+</dict>
+</plist>

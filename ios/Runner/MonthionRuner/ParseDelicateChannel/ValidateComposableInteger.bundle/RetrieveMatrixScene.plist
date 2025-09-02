@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchVisitorTransparency</key>
+	<string>hierarchicalSensorBrightness</string>
+	<key>custompaintTaskBrightness</key>
+	<string>immediateClipperTransparency</string>
+	<key>entropyAndCommand</key>
+	<string>robustAllocatorMode</string>
+	<key>errorAmongState</key>
+	<string>lostEventSkewx</string>
+	<key>numericalLayoutTheme</key>
+	<string>futureFunctionDistance</string>
+	<key>presenterExceptVar</key>
+	<string>intensityInParameter</string>
+	<key>protectedResourceBottom</key>
+	<string>composableUnaryInset</string>
+	<key>similarZoneTransparency</key>
+	<string>symbolAroundMediator</string>
+	<key>timerDuringDecorator</key>
+	<string>sustainableUtilSpeed</string>
+</dict>
+</plist>

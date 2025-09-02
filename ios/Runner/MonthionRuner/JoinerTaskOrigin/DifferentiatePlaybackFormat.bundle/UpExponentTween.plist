@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerStructureStyle</key>
+	<string>immediateProviderSaturation</string>
+	<key>finalLoopSaturation</key>
+	<string>uniformControllerAcceleration</string>
+	<key>flexibleSineSpeed</key>
+	<string>navigationProxyCoord</string>
+	<key>isolateExceptActivity</key>
+	<string>responseProcessColor</string>
+	<key>pointVarStyle</key>
+	<string>decorationCommandDepth</string>
+	<key>signatureThroughAdapter</key>
+	<string>characterOfStyle</string>
+</dict>
+</plist>

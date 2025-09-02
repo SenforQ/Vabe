@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentMetadataOpacity</key>
+	<string>pageviewSincePhase</string>
+	<key>inheritedInstructionAppearance</key>
+	<string>documentBeyondPlatform</string>
+	<key>memberChainStyle</key>
+	<string>customTabbarColor</string>
+	<key>singleDelegateInset</key>
+	<string>crudeResourceLeft</string>
+	<key>sizeSystemLeft</key>
+	<string>equalizationSinceJob</string>
+</dict>
+</plist>

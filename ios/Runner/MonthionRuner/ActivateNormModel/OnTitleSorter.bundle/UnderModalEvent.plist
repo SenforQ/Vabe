@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRepositoryColor</key>
+	<string>sharedLoopOffset</string>
+	<key>clipperProxyShade</key>
+	<string>immediateSceneHead</string>
+	<key>immutableSliderEdge</key>
+	<string>curveContextHue</string>
+	<key>inactiveRowCount</key>
+	<string>singleContainerAppearance</string>
+	<key>statelessCapacitiesHue</key>
+	<string>requestStateHue</string>
+	<key>visibleCapacitiesHue</key>
+	<string>builderViaInterpreter</string>
+	<key>visiblePaddingBottom</key>
+	<string>presenterTierDepth</string>
+</dict>
+</plist>

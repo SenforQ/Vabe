@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateVersusMediator</key>
+	<string>scaleVersusActivity</string>
+	<key>constOperationRotation</key>
+	<string>specifierActivityOpacity</string>
+	<key>futurePrototypeFormat</key>
+	<string>greatFrameLocation</string>
+	<key>observerPlatformRotation</key>
+	<string>delegateAroundPlatform</string>
+	<key>particleAlongMemento</key>
+	<string>reactiveSignSpeed</string>
+	<key>petAsFacade</key>
+	<string>seamlessSignInset</string>
+	<key>tangentLikeContext</key>
+	<string>viewPerAction</string>
+</dict>
+</plist>

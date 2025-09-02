@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonParamLeft</key>
+	<string>disabledSliderIndex</string>
+	<key>controllerActionVisibility</key>
+	<string>unactivatedDocumentPressure</string>
+	<key>currentProviderOffset</key>
+	<string>modalProcessTop</string>
+	<key>drawerPlatformTail</key>
+	<string>priorInteractorInteraction</string>
+	<key>routeAtProxy</key>
+	<string>entropyLevelTag</string>
+	<key>vectorBeyondProcess</key>
+	<string>popupViaAction</string>
+</dict>
+</plist>

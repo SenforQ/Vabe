@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureFromStructure</key>
+	<string>viewAsAction</string>
+	<key>greatGradientLeft</key>
+	<string>resourceLayerValidation</string>
+	<key>radiusAsDecorator</key>
+	<string>stateBeyondMemento</string>
+	<key>requestSystemDuration</key>
+	<string>certificateObserverSkewy</string>
+	<key>singletonFrameworkShade</key>
+	<string>heapSystemSpacing</string>
+	<key>tableKindFlags</key>
+	<string>rowWorkScale</string>
+</dict>
+</plist>

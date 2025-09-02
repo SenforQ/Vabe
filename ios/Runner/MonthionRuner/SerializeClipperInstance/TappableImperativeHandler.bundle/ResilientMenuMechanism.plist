@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticFutureCenter</key>
+	<string>builderDuringOperation</string>
+	<key>frameOutsideStage</key>
+	<string>storyboardTierLocation</string>
+	<key>positionedFlyweightAlignment</key>
+	<string>mobileOutsideBridge</string>
+	<key>projectionLevelLeft</key>
+	<string>actionChainMomentum</string>
+	<key>sliderExceptForm</key>
+	<string>diffableBoxRate</string>
+	<key>tweenPerCycle</key>
+	<string>largeHashCenter</string>
+</dict>
+</plist>

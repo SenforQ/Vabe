@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstSignaturePadding</key>
+	<string>challengeExceptBridge</string>
+	<key>materialGraphicRight</key>
+	<string>stampViaChain</string>
+	<key>nextBorderCenter</key>
+	<string>skirtLayerAppearance</string>
+	<key>notifierBesideActivity</key>
+	<string>protectedPresenterOffset</string>
+	<key>reactiveInteractorTheme</key>
+	<string>certificateMediatorDirection</string>
+	<key>sceneContextMode</key>
+	<string>completionVarBehavior</string>
+	<key>secondChannelVisible</key>
+	<string>aspectratioBeyondValue</string>
+	<key>synchronousDurationValidation</key>
+	<string>handlerFacadeBehavior</string>
+	<key>uniformContainerBorder</key>
+	<string>routerByDecorator</string>
+</dict>
+</plist>

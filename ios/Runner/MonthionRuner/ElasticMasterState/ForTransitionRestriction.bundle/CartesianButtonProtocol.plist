@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityStageKind</key>
+	<string>numericalSpecifierTheme</string>
+	<key>notifierObserverOrientation</key>
+	<string>presenterSystemState</string>
+	<key>sessionFacadeIndex</key>
+	<string>aspectratioSystemType</string>
+	<key>streamContainShape</key>
+	<string>currentStateSpeed</string>
+	<key>textureProcessRate</key>
+	<string>crucialApertureVelocity</string>
+</dict>
+</plist>

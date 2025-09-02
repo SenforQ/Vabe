@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateVarFormat</key>
+	<string>signatureInsideInterpreter</string>
+	<key>handlerFrameworkAlignment</key>
+	<string>coordinatorUntilMediator</string>
+	<key>mapFormAlignment</key>
+	<string>routerStyleBehavior</string>
+	<key>precisionAlongParam</key>
+	<string>overlayScopeDuration</string>
+	<key>roleJobFrequency</key>
+	<string>isolateDecoratorSpeed</string>
+	<key>rowPhasePadding</key>
+	<string>activePrecisionPressure</string>
+	<key>semanticsDespiteBridge</key>
+	<string>opaqueGateState</string>
+	<key>sequentialDurationLeft</key>
+	<string>layerBufferSize</string>
+	<key>sinkSystemPadding</key>
+	<string>dialogsOfChain</string>
+</dict>
+</plist>

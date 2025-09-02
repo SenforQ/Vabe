@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEntropyTransparency</key>
+	<string>navigationAndCycle</string>
+	<key>appbarFrameworkState</key>
+	<string>sensorAwayStrategy</string>
+	<key>completionOfSingleton</key>
+	<string>textAndForm</string>
+	<key>groupThanMediator</key>
+	<string>mediaqueryThroughAction</string>
+	<key>intensityOutsideProcess</key>
+	<string>configurationAmongValue</string>
+	<key>serviceViaProcess</key>
+	<string>sensorWithoutEnvironment</string>
+	<key>statefulListenerMode</key>
+	<string>normAsStyle</string>
+	<key>timerNumberBound</key>
+	<string>variantLikeStrategy</string>
+</dict>
+</plist>

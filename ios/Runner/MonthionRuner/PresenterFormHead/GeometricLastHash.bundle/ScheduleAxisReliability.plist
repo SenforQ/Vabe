@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveListenerDepth</key>
+	<string>granularGrainMargin</string>
+	<key>disabledNormFrequency</key>
+	<string>multiplicationTierBottom</string>
+	<key>featureChainScale</key>
+	<string>optimizerCycleType</string>
+	<key>mediaqueryFromInterpreter</key>
+	<string>signFlyweightKind</string>
+	<key>oldCubitMargin</key>
+	<string>significantDecorationCenter</string>
+</dict>
+</plist>

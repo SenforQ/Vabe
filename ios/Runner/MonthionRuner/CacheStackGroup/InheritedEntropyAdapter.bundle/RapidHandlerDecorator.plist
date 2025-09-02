@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerScopeRotation</key>
+	<string>animatedExpandedRotation</string>
+	<key>permanentVectorHue</key>
+	<string>independentProviderType</string>
+	<key>positionCycleLeft</key>
+	<string>threadCompositeSaturation</string>
+	<key>positionedEnvironmentTint</key>
+	<string>delegateKindShape</string>
+	<key>resolverContextSaturation</key>
+	<string>swiftFlyweightBorder</string>
+</dict>
+</plist>

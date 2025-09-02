@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistAgainstCommand</key>
+	<string>compositionAlongAction</string>
+	<key>completerChainFlags</key>
+	<string>buttonVisitorPosition</string>
+	<key>dynamicMusicDepth</key>
+	<string>layoutIncludeSingleton</string>
+	<key>elasticScrollInteraction</key>
+	<string>signMediatorInteraction</string>
+	<key>giftPerCommand</key>
+	<string>multiGiftSpacing</string>
+	<key>handlerUntilType</key>
+	<string>navigatorContextBrightness</string>
+	<key>nodeNumberType</key>
+	<string>rapidDescriptionState</string>
+	<key>usedCallbackDelay</key>
+	<string>gesturedetectorAndForm</string>
+	<key>webSliderSkewy</key>
+	<string>inheritedCatalystDuration</string>
+</dict>
+</plist>

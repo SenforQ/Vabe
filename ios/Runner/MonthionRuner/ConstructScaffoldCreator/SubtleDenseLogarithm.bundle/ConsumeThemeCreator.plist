@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAmongObserver</key>
+	<string>nextChartState</string>
+	<key>diversifiedTableBound</key>
+	<string>layoutFrameworkOffset</string>
+	<key>futureActionFeedback</key>
+	<string>asyncFutureResponse</string>
+	<key>gridStructureFlags</key>
+	<string>customSingletonIndex</string>
+	<key>particleEnvironmentSkewx</key>
+	<string>permanentCubitVisibility</string>
+</dict>
+</plist>

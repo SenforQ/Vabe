@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerHeapBorder</key>
+	<string>particleOrCommand</string>
+	<key>localizationDuringSingleton</key>
+	<string>positionAndParameter</string>
+	<key>retainedProfileOpacity</key>
+	<string>unaryContainSingleton</string>
+	<key>scrollableRowBound</key>
+	<string>grainDespitePhase</string>
+	<key>sizePerForm</key>
+	<string>vectorFormLeft</string>
+</dict>
+</plist>

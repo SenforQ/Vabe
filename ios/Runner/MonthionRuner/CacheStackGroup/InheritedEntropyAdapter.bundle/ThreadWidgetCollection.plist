@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredIsolateMargin</key>
+	<string>spineByVar</string>
+	<key>memberIncludeType</key>
+	<string>transformerAndMemento</string>
+	<key>modulusNumberKind</key>
+	<string>rectBySystem</string>
+	<key>roleModeShape</key>
+	<string>factoryAgainstLevel</string>
+	<key>statePhaseTint</key>
+	<string>canvasExceptLevel</string>
+</dict>
+</plist>

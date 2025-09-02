@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderIncludePhase</key>
+	<string>dropdownbuttonTaskHead</string>
+	<key>denseSizeFormat</key>
+	<string>invisibleRouterOffset</string>
+	<key>dynamicFragmentTheme</key>
+	<string>durationThroughStage</string>
+	<key>navigatorTempleOrientation</key>
+	<string>containerInMemento</string>
+	<key>protocolSingletonPosition</key>
+	<string>completionWithoutInterpreter</string>
+	<key>textTempleContrast</key>
+	<string>sizedboxDecoratorLocation</string>
+</dict>
+</plist>

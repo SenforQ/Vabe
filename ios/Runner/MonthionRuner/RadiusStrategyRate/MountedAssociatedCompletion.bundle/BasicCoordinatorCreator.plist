@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoScreenRight</key>
+	<string>staticSliderTail</string>
+	<key>currentFutureStyle</key>
+	<string>constTweenStyle</string>
+	<key>draggableTransitionBorder</key>
+	<string>otherGroupIndex</string>
+	<key>firstGradientOrigin</key>
+	<string>visibleGraphicDuration</string>
+	<key>granularTangentFrequency</key>
+	<string>usedProgressbarVisible</string>
+	<key>hardBaselineBound</key>
+	<string>buttonParameterLeft</string>
+	<key>loopInCycle</key>
+	<string>tensorControllerScale</string>
+	<key>uniqueDelegateTail</key>
+	<string>masterShapeTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasPerEnvironment</key>
+	<string>protocolByFunction</string>
+	<key>customMultiplicationValidation</key>
+	<string>listenerAgainstFramework</string>
+	<key>dedicatedHandlerShade</key>
+	<string>sortedLocalizationHue</string>
+	<key>liteCurveTint</key>
+	<string>curveStrategyRight</string>
+	<key>opaqueDropdownbuttonVisible</key>
+	<string>temporaryCatalystCount</string>
+	<key>providerChainRotation</key>
+	<string>concurrentPointBorder</string>
+	<key>statelessStyleType</key>
+	<string>cartesianBitrateTheme</string>
+</dict>
+</plist>

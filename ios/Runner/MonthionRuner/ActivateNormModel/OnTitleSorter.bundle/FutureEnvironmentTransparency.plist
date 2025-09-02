@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedControllerStyle</key>
+	<string>inheritedOffsetInterval</string>
+	<key>awaitPhaseForce</key>
+	<string>missedSingletonOrigin</string>
+	<key>crudeDrawerStatus</key>
+	<string>widgetSinceInterpreter</string>
+	<key>layoutAdapterFrequency</key>
+	<string>otherCanvasSize</string>
+	<key>synchronousFactoryDirection</key>
+	<string>statefulLikeProxy</string>
+	<key>transformerPhaseOrientation</key>
+	<string>controllerBesideCommand</string>
+	<key>usedSegueAppearance</key>
+	<string>responseViaPattern</string>
+</dict>
+</plist>

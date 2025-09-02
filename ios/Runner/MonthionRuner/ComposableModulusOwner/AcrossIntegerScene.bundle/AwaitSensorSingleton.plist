@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintSinceCommand</key>
+	<string>scaleJobVisibility</string>
+	<key>customBatchIndex</key>
+	<string>sizedboxExceptContext</string>
+	<key>effectStrategyLocation</key>
+	<string>cartesianAxisStyle</string>
+	<key>immutableDecorationSize</key>
+	<string>responsiveWidgetPressure</string>
+	<key>immutableTickerName</key>
+	<string>functionalGrainDirection</string>
+	<key>priorMediaqueryBehavior</key>
+	<string>tappableChannelsAcceleration</string>
+	<key>transformerPatternSkewy</key>
+	<string>resizablePriorityHead</string>
+</dict>
+</plist>

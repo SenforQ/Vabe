@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxParamBorder</key>
+	<string>animationInsideStage</string>
+	<key>callbackTypeBrightness</key>
+	<string>movementValueMomentum</string>
+	<key>heroFormTint</key>
+	<string>cubePlatformOffset</string>
+	<key>histogramParameterCenter</key>
+	<string>paddingValueHead</string>
+	<key>missionExceptContext</key>
+	<string>unactivatedTaskVisibility</string>
+	<key>modalScopeHue</key>
+	<string>basicAssetBound</string>
+	<key>monsterThanVisitor</key>
+	<string>granularCommandEdge</string>
+	<key>persistentFrameInterval</key>
+	<string>animatedBuilderCenter</string>
+	<key>sizeAgainstFunction</key>
+	<string>mutableAlphaValidation</string>
+</dict>
+</plist>

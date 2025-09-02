@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsulePerVariable</key>
+	<string>columnByJob</string>
+	<key>exceptionThanFramework</key>
+	<string>interactorFlyweightBound</string>
+	<key>independentSkinVelocity</key>
+	<string>oldTextfieldStatus</string>
+	<key>multiLogRate</key>
+	<string>nodeTierBrightness</string>
+	<key>newestWorkflowAcceleration</key>
+	<string>blocBufferAppearance</string>
+	<key>singletonIncludeChain</key>
+	<string>intensityDuringParameter</string>
+	<key>spriteThanStage</key>
+	<string>consumerTempleMargin</string>
+	<key>subpixelUntilTier</key>
+	<string>graphScopeLeft</string>
+</dict>
+</plist>

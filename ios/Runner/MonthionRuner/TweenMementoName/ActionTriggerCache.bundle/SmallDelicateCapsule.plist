@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletVersusNumber</key>
+	<string>dedicatedInkwellPressure</string>
+	<key>histogramCompositeVelocity</key>
+	<string>ephemeralSwitchCoord</string>
+	<key>nextDurationFormat</key>
+	<string>navigatorOrFramework</string>
+	<key>specifyTimerDirection</key>
+	<string>signPhaseBrightness</string>
+	<key>viewObserverBrightness</key>
+	<string>queryBesideChain</string>
+</dict>
+</plist>

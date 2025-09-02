@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsParameterSkewy</key>
+	<string>textureAwayMode</string>
+	<key>dynamicFragmentPressure</key>
+	<string>positionDuringMediator</string>
+	<key>easyTextAppearance</key>
+	<string>imageLayerShape</string>
+	<key>immediateClipperInteraction</key>
+	<string>routeOutsideDecorator</string>
+	<key>managerAgainstTier</key>
+	<string>streamParamOrientation</string>
+	<key>presenterContainProxy</key>
+	<string>fusedPopupDelay</string>
+	<key>sceneByContext</key>
+	<string>appbarVersusFacade</string>
+	<key>standaloneVariantTension</key>
+	<string>currentBasePadding</string>
+	<key>viewContainShape</key>
+	<string>bitrateAdapterCenter</string>
+</dict>
+</plist>

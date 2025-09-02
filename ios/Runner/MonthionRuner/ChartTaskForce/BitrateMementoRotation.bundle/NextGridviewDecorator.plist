@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionStyleCoord</key>
+	<string>heroAlongStyle</string>
+	<key>difficultPointRotation</key>
+	<string>positionAroundScope</string>
+	<key>effectExceptChain</key>
+	<string>euclideanOperationFeedback</string>
+	<key>enabledGesturedetectorType</key>
+	<string>singleFeatureMargin</string>
+	<key>hyperbolicSceneStyle</key>
+	<string>containerAdapterMargin</string>
+	<key>largeResponseFlags</key>
+	<string>navigatorBridgeValidation</string>
+	<key>painterMementoColor</key>
+	<string>layerExceptMode</string>
+	<key>semanticsFromPrototype</key>
+	<string>newestPageviewRight</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSingletonType</key>
+	<string>bufferMediatorTheme</string>
+	<key>compositionalMatrixVisibility</key>
+	<string>activityThroughScope</string>
+	<key>draggableSymbolResponse</key>
+	<string>independentCommandHead</string>
+	<key>largeFutureOpacity</key>
+	<string>screenPerForm</string>
+	<key>layoutWithoutForm</key>
+	<string>precisionDuringKind</string>
+	<key>providerDespiteObserver</key>
+	<string>providerPhaseAcceleration</string>
+	<key>requestWithSystem</key>
+	<string>liteGrainBorder</string>
+	<key>significantStreamTag</key>
+	<string>menuThanAction</string>
+	<key>tensorContainerDensity</key>
+	<string>viewPlatformOrientation</string>
+	<key>themeAgainstSystem</key>
+	<string>inactiveBlocScale</string>
+</dict>
+</plist>

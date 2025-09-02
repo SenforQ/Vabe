@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletProxyIndex</key>
+	<string>pageviewVariableValidation</string>
+	<key>channelUntilStrategy</key>
+	<string>cubeFromComposite</string>
+	<key>durationAtEnvironment</key>
+	<string>providerParamKind</string>
+	<key>inactivePreviewVelocity</key>
+	<string>protocolAtFunction</string>
+	<key>navigatorIncludeSystem</key>
+	<string>localizationActivityState</string>
+	<key>popupByPlatform</key>
+	<string>certificateContextTheme</string>
+	<key>reductionThroughChain</key>
+	<string>localizationMementoSaturation</string>
+	<key>textfieldStageSpacing</key>
+	<string>curveThanAction</string>
+</dict>
+</plist>

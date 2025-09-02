@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionFlyweightLocation</key>
+	<string>statelessStampColor</string>
+	<key>immutablePlaybackAppearance</key>
+	<string>missedMasterVisibility</string>
+	<key>missedSceneDepth</key>
+	<string>cursorBeyondProxy</string>
+	<key>mobileMediaDirection</key>
+	<string>matrixFunctionSkewy</string>
+	<key>scrollNumberRight</key>
+	<string>responsiveSingletonBehavior</string>
+	<key>segmentOfParam</key>
+	<string>axisFlyweightShade</string>
+	<key>taskAdapterRight</key>
+	<string>transitionJobBehavior</string>
+</dict>
+</plist>

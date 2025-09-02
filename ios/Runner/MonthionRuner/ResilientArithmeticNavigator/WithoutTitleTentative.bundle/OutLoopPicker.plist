@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorCycleType</key>
+	<string>positionCompositeInteraction</string>
+	<key>awaitShapeIndex</key>
+	<string>columnViaStructure</string>
+	<key>commandObserverFeedback</key>
+	<string>temporaryMobxRight</string>
+	<key>gridStyleDelay</key>
+	<string>factoryBeyondLevel</string>
+	<key>routerThanKind</key>
+	<string>rowWorkValidation</string>
+	<key>sharedDecorationFeedback</key>
+	<string>stateOfMethod</string>
+	<key>textfieldVisitorMode</key>
+	<string>memberModeHead</string>
+</dict>
+</plist>

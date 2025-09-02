@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioCycleCount</key>
+	<string>touchNearShape</string>
+	<key>coordinatorBeyondContext</key>
+	<string>vectorExceptActivity</string>
+	<key>denseCubitName</key>
+	<string>bufferWithStrategy</string>
+	<key>layoutContextTension</key>
+	<string>storeUntilNumber</string>
+	<key>sortedTimerAcceleration</key>
+	<string>hierarchicalEffectContrast</string>
+	<key>storageBufferScale</key>
+	<string>isolateBridgeOffset</string>
+	<key>subsequentMenuPadding</key>
+	<string>completerJobScale</string>
+	<key>tappableRectPadding</key>
+	<string>activatedRadiusHead</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartObserverInterval</key>
+	<string>shaderVariableOffset</string>
+	<key>commonCurveIndex</key>
+	<string>globalStatelessSize</string>
+	<key>hardTickerRight</key>
+	<string>asyncNumberName</string>
+	<key>heapShapeFeedback</key>
+	<string>nibAlongMode</string>
+	<key>queryFacadeDistance</key>
+	<string>alignmentPlatformMode</string>
+</dict>
+</plist>

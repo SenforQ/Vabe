@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorFormBound</key>
+	<string>painterAgainstCycle</string>
+	<key>curveAgainstShape</key>
+	<string>flexibleAxisFlags</string>
+	<key>entityTypeValidation</key>
+	<string>flexibleBrushDepth</string>
+	<key>promiseAgainstFacade</key>
+	<string>aspectratioSingletonResponse</string>
+	<key>viewMediatorTint</key>
+	<string>imperativeGridTop</string>
+	<key>workflowForPrototype</key>
+	<string>labelOutsideForm</string>
+</dict>
+</plist>

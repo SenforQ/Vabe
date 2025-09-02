@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBeyondCycle</key>
+	<string>enabledCardOffset</string>
+	<key>hashAmongMethod</key>
+	<string>mediumMetadataInterval</string>
+	<key>interactiveSizedboxBound</key>
+	<string>resolverEnvironmentTint</string>
+	<key>masterLikePhase</key>
+	<string>appbarTierPressure</string>
+	<key>permanentInterfaceOrientation</key>
+	<string>indicatorOperationLocation</string>
+	<key>symmetricSignPosition</key>
+	<string>dynamicTopicBehavior</string>
+	<key>viewOutsideStrategy</key>
+	<string>currentSliderContrast</string>
+</dict>
+</plist>

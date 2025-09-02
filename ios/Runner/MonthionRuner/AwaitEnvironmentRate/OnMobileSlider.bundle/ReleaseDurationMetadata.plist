@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameScopeBehavior</key>
+	<string>durationFrameworkDelay</string>
+	<key>histogramExceptPlatform</key>
+	<string>flexibleGraphIndex</string>
+	<key>injectionShapeBehavior</key>
+	<string>prismaticZonePadding</string>
+	<key>keyCommandPadding</key>
+	<string>alphaPatternForce</string>
+	<key>multiSingletonDelay</key>
+	<string>behaviorBufferStatus</string>
+	<key>reducerLikeType</key>
+	<string>concreteMarginLocation</string>
+	<key>transformerDecoratorDuration</key>
+	<string>petContainStrategy</string>
+</dict>
+</plist>

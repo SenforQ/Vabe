@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonResourceBrightness</key>
+	<string>batchExceptInterpreter</string>
+	<key>greatRowRate</key>
+	<string>gestureCommandSaturation</string>
+	<key>independentButtonDuration</key>
+	<string>convolutionBridgeStatus</string>
+	<key>mobxVariableOffset</key>
+	<string>sensorActivityCenter</string>
+	<key>permanentChartSize</key>
+	<string>mediumLayerSpeed</string>
+	<key>petCompositeOrientation</key>
+	<string>decorationCommandEdge</string>
+	<key>prismaticAnimationState</key>
+	<string>channelPatternTag</string>
+	<key>reducerExceptParam</key>
+	<string>layoutBeyondVar</string>
+	<key>screenDuringForm</key>
+	<string>radioPrototypePadding</string>
+	<key>unactivatedConstraintSize</key>
+	<string>tappableInterfaceState</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFromType</key>
+	<string>responsiveRadioPadding</string>
+	<key>commandNumberTransparency</key>
+	<string>mobileTransformerAppearance</string>
+	<key>flexParamAlignment</key>
+	<string>geometricRowVisible</string>
+	<key>imperativeTweenSize</key>
+	<string>pivotalAlertTop</string>
+	<key>permanentCubitEdge</key>
+	<string>uniqueMultiplicationLocation</string>
+	<key>plateShapeMargin</key>
+	<string>widgetDuringComposite</string>
+	<key>roleDespiteFunction</key>
+	<string>decorationLayerRotation</string>
+</dict>
+</plist>

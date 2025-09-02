@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintVersusJob</key>
+	<string>storageDuringComposite</string>
+	<key>dimensionContainDecorator</key>
+	<string>featureActivityPadding</string>
+	<key>eagerCycleShape</key>
+	<string>webSpriteOpacity</string>
+	<key>effectOutsideCommand</key>
+	<string>uniformCoordinatorBrightness</string>
+	<key>interactorViaNumber</key>
+	<string>sliderNumberSpacing</string>
+	<key>navigationFacadeInteraction</key>
+	<string>intensityOrPhase</string>
+	<key>semanticTaskKind</key>
+	<string>uniformMaterialBehavior</string>
+	<key>ternaryAtFlyweight</key>
+	<string>anchorPatternEdge</string>
+</dict>
+</plist>

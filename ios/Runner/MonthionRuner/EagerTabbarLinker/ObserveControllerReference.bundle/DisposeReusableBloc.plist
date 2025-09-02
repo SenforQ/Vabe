@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPhaseCoord</key>
+	<string>hardDecorationColor</string>
+	<key>decorationLikePrototype</key>
+	<string>hierarchicalCupertinoTransparency</string>
+	<key>requestTierDepth</key>
+	<string>rapidSizeTheme</string>
+	<key>semanticZoneTint</key>
+	<string>collectionBridgeSaturation</string>
+	<key>ternaryIncludeShape</key>
+	<string>titleTypeFrequency</string>
+	<key>widgetTierCenter</key>
+	<string>musicObserverFrequency</string>
+</dict>
+</plist>

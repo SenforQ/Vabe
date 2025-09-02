@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nodeAtNumber</key>
+	<string>collectionAwayComposite</string>
+	<key>parallelControllerType</key>
+	<string>equalizationNearParameter</string>
+	<key>sophisticatedPositionFlags</key>
+	<string>requestPhaseCenter</string>
+	<key>transformerVariableBottom</key>
+	<string>prevFrameDuration</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleExceptTemple</key>
+	<string>requestAroundMethod</string>
+	<key>crucialRequestDelay</key>
+	<string>awaitBeyondObserver</string>
+	<key>listviewVisitorFeedback</key>
+	<string>stampTypeSpacing</string>
+	<key>musicAsActivity</key>
+	<string>progressbarPerStyle</string>
+	<key>petStageVisibility</key>
+	<string>actionUntilLevel</string>
+	<key>resourceAtStage</key>
+	<string>unactivatedConvolutionInterval</string>
+	<key>specifierAdapterDensity</key>
+	<string>greatZoneStyle</string>
+</dict>
+</plist>

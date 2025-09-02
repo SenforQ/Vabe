@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackActionSize</key>
+	<string>hashOperationBottom</string>
+	<key>chartSystemStyle</key>
+	<string>dropdownbuttonStageBorder</string>
+	<key>localizationMementoBottom</key>
+	<string>spineActivitySaturation</string>
+	<key>methodDuringStage</key>
+	<string>visibleSampleStyle</string>
+	<key>nodeCommandDuration</key>
+	<string>aspectPlatformDelay</string>
+	<key>resilientAnimationSpeed</key>
+	<string>eagerSegmentBehavior</string>
+	<key>timerAsTask</key>
+	<string>directToolBrightness</string>
+	<key>workflowIncludeMediator</key>
+	<string>containerInVisitor</string>
+</dict>
+</plist>

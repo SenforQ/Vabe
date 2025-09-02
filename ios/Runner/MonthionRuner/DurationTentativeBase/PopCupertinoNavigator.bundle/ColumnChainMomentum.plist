@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorVarVisibility</key>
+	<string>scrollKindFormat</string>
+	<key>equipmentVarPadding</key>
+	<string>previewNumberCount</string>
+	<key>handlerForActivity</key>
+	<string>immediateDurationResponse</string>
+	<key>persistentColumnCoord</key>
+	<string>cacheAsPattern</string>
+	<key>respectiveCaptionSkewx</key>
+	<string>missedSizeValidation</string>
+	<key>stackAmongProxy</key>
+	<string>responsiveDecorationDistance</string>
+</dict>
+</plist>

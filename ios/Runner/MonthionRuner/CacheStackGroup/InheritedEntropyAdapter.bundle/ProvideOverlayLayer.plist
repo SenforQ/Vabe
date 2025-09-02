@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeRowAppearance</key>
+	<string>overlayAmongFramework</string>
+	<key>cubitOperationOrigin</key>
+	<string>consultativeSubpixelDepth</string>
+	<key>disabledQueryState</key>
+	<string>iconCompositeContrast</string>
+	<key>documentSingletonCoord</key>
+	<string>nibParameterTransparency</string>
+	<key>hashFrameworkTension</key>
+	<string>callbackInsideMode</string>
+	<key>resizableAwaitOrientation</key>
+	<string>resolverAgainstFramework</string>
+	<key>robustRowInset</key>
+	<string>commandDespiteFacade</string>
+</dict>
+</plist>

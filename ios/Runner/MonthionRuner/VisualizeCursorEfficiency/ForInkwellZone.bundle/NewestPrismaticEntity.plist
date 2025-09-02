@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderViaSingleton</key>
+	<string>semanticSpineSize</string>
+	<key>independentMobileBorder</key>
+	<string>controllerInObserver</string>
+	<key>methodParamOrientation</key>
+	<string>usecaseFromValue</string>
+	<key>navigatorProxyOrientation</key>
+	<string>temporaryBlocHue</string>
+	<key>otherMusicColor</key>
+	<string>capsuleLayerSize</string>
+	<key>popupFromFunction</key>
+	<string>capsuleNearStrategy</string>
+</dict>
+</plist>

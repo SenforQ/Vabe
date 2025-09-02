@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineBufferInterval</key>
+	<string>subscriptionParamAppearance</string>
+	<key>cardActivityOffset</key>
+	<string>chapterCommandState</string>
+	<key>cubitContainVariable</key>
+	<string>tickerKindOrigin</string>
+	<key>futureTaskBehavior</key>
+	<string>originalGateDuration</string>
+	<key>independentInjectionAppearance</key>
+	<string>mutableIntensityKind</string>
+	<key>largeAsyncFormat</key>
+	<string>protocolFromType</string>
+	<key>layoutLayerTail</key>
+	<string>largeConfigurationMode</string>
+	<key>painterPatternRotation</key>
+	<string>observerAsPattern</string>
+	<key>reusableScrollKind</key>
+	<string>draggableDocumentHue</string>
+	<key>topicParamTransparency</key>
+	<string>cupertinoMapMargin</string>
+</dict>
+</plist>

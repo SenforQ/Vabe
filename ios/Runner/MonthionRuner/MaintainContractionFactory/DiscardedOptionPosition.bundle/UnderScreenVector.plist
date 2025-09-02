@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledPointFeedback</key>
+	<string>streamExceptAdapter</string>
+	<key>resourceSingletonLeft</key>
+	<string>checklistStructureState</string>
+	<key>specifyCompleterBound</key>
+	<string>logarithmCycleInset</string>
+	<key>statelessCaptionAlignment</key>
+	<string>disabledParticleRotation</string>
+	<key>streamByMethod</key>
+	<string>routeFlyweightOpacity</string>
+	<key>textContextMomentum</key>
+	<string>tabbarFacadeShade</string>
+	<key>timerChainSkewx</key>
+	<string>widgetInterpreterFormat</string>
+</dict>
+</plist>

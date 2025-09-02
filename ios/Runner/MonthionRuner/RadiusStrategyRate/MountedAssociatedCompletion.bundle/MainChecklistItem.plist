@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateResourceStyle</key>
+	<string>transitionContainJob</string>
+	<key>positionAlongJob</key>
+	<string>resultInsideParameter</string>
+	<key>queueAroundState</key>
+	<string>localizationWorkCenter</string>
+	<key>resilientPreviewSpeed</key>
+	<string>layerContextTension</string>
+	<key>symmetricThemeRight</key>
+	<string>easyCubitOrientation</string>
+	<key>tappableRolePadding</key>
+	<string>logStrategyInterval</string>
+</dict>
+</plist>

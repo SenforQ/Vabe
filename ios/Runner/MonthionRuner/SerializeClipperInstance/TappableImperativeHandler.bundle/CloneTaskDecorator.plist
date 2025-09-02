@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSineDistance</key>
+	<string>presenterInParameter</string>
+	<key>reductionThroughValue</key>
+	<string>adaptiveQueryDistance</string>
+	<key>resourceChainCount</key>
+	<string>interfacePatternTheme</string>
+	<key>tappableDependencyInset</key>
+	<string>durationCompositeMargin</string>
+	<key>uniqueObserverDelay</key>
+	<string>stackInFacade</string>
+</dict>
+</plist>

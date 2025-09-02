@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOffsetPosition</key>
+	<string>liteStackStyle</string>
+	<key>grainCompositeFeedback</key>
+	<string>compositionalDelegatePadding</string>
+	<key>gridFromKind</key>
+	<string>painterFromNumber</string>
+	<key>iconOperationEdge</key>
+	<string>referenceIncludeParam</string>
+	<key>prevBrushBrightness</key>
+	<string>parallelGraphVisibility</string>
+	<key>priorityLayerRotation</key>
+	<string>granularDurationShade</string>
+	<key>storageVersusMode</key>
+	<string>resourceUntilPlatform</string>
+	<key>timerAsSystem</key>
+	<string>frameThroughContext</string>
+	<key>widgetVisitorTransparency</key>
+	<string>mobileChapterValidation</string>
+</dict>
+</plist>

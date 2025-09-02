@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBeyondState</key>
+	<string>catalystCommandTheme</string>
+	<key>effectBeyondTier</key>
+	<string>exceptionFromAction</string>
+	<key>exceptionWorkPadding</key>
+	<string>gramAndProxy</string>
+	<key>inactiveRadiusBrightness</key>
+	<string>pinchableTransformerBottom</string>
+	<key>logarithmAtFacade</key>
+	<string>constraintJobHue</string>
+</dict>
+</plist>

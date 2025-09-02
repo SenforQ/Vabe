@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchStyleName</key>
+	<string>seamlessInkwellHead</string>
+	<key>capacitiesTierResponse</key>
+	<string>storageBufferHead</string>
+	<key>dedicatedStreamResponse</key>
+	<string>hyperbolicCycleResponse</string>
+	<key>factoryStrategyVelocity</key>
+	<string>subsequentAlignmentDelay</string>
+	<key>observerNumberRight</key>
+	<string>statelessEntropyFormat</string>
+	<key>providerNearContext</key>
+	<string>compositionalChartCoord</string>
+</dict>
+</plist>

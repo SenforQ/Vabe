@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelDespiteAction</key>
+	<string>baselineFromPrototype</string>
+	<key>channelNearBridge</key>
+	<string>lossExceptType</string>
+	<key>commandOutsideCommand</key>
+	<string>tickerUntilStrategy</string>
+	<key>concurrentInkwellOpacity</key>
+	<string>sinkFromComposite</string>
+	<key>explicitMatrixTint</key>
+	<string>parallelBrushVelocity</string>
+	<key>mediumInteractorSkewx</key>
+	<string>rowThanDecorator</string>
+	<key>queryPerBuffer</key>
+	<string>numericalMarginOpacity</string>
+	<key>referenceStyleDuration</key>
+	<string>eventThroughProcess</string>
+	<key>streamVersusBridge</key>
+	<string>webFactoryTop</string>
+	<key>synchronousLayoutDelay</key>
+	<string>responsiveRectHue</string>
+</dict>
+</plist>

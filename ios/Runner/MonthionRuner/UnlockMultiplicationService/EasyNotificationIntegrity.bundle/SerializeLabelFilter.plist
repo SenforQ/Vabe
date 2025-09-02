@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorPhaseSpeed</key>
+	<string>requiredScreenMomentum</string>
+	<key>cubitAroundOperation</key>
+	<string>constraintFunctionSpeed</string>
+	<key>precisionMementoSpacing</key>
+	<string>inheritedRichtextTint</string>
+	<key>sinkOutsideStage</key>
+	<string>descriptorContextSaturation</string>
+	<key>storeInStrategy</key>
+	<string>responseProxyKind</string>
+	<key>titleAsOperation</key>
+	<string>capsuleProxyInset</string>
+	<key>workflowPerCommand</key>
+	<string>storageValueAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCheckboxInteraction</key>
+	<string>lazyHandlerHead</string>
+	<key>alphaSinceMediator</key>
+	<string>mobileResourceStatus</string>
+	<key>baseLayerFeedback</key>
+	<string>batchCompositeScale</string>
+	<key>basicPresenterPressure</key>
+	<string>delicateAssetEdge</string>
+	<key>coordinatorByShape</key>
+	<string>containerBridgeLeft</string>
+	<key>coordinatorDespiteScope</key>
+	<string>appbarVariableState</string>
+	<key>heroStageType</key>
+	<string>configurationIncludeMethod</string>
+	<key>parallelConfigurationPressure</key>
+	<string>tickerVariableOpacity</string>
+	<key>sineIncludeParam</key>
+	<string>unactivatedSinkSpeed</string>
+	<key>ternaryVariableFlags</key>
+	<string>spotActionFrequency</string>
+</dict>
+</plist>

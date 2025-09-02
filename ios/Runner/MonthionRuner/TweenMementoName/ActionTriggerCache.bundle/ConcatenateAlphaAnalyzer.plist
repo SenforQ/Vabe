@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAmongNumber</key>
+	<string>rectJobFormat</string>
+	<key>dependencyFunctionIndex</key>
+	<string>taskProcessInset</string>
+	<key>futureFacadeDensity</key>
+	<string>accordionProgressbarPadding</string>
+	<key>streamByObserver</key>
+	<string>bulletMediatorIndex</string>
+	<key>widgetParameterPadding</key>
+	<string>interactorOperationBound</string>
+</dict>
+</plist>

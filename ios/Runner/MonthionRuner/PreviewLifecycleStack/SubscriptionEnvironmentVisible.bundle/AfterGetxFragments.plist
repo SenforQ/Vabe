@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleBesideCommand</key>
+	<string>webThreadSkewy</string>
+	<key>listenerLikeKind</key>
+	<string>displayableFutureAcceleration</string>
+	<key>protectedNavigationName</key>
+	<string>hashIncludeMediator</string>
+</dict>
+</plist>

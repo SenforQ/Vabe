@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandAwayBuffer</key>
+	<string>screenViaFunction</string>
+	<key>cubitBeyondFunction</key>
+	<string>directSizedboxCenter</string>
+	<key>gridVersusValue</key>
+	<string>managerFacadeRotation</string>
+	<key>localizationStrategyBound</key>
+	<string>queryInterpreterTail</string>
+	<key>otherMethodInteraction</key>
+	<string>spotAroundAction</string>
+</dict>
+</plist>

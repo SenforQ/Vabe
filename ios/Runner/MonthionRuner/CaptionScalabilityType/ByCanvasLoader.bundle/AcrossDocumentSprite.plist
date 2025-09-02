@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardObserverAlignment</key>
+	<string>multiFrameScale</string>
+	<key>buttonPhaseDelay</key>
+	<string>scaleModeRight</string>
+	<key>cupertinoProviderTail</key>
+	<string>curveMediatorHue</string>
+	<key>frameStyleValidation</key>
+	<string>agileTextfieldShade</string>
+	<key>localizationContainPlatform</key>
+	<string>hierarchicalMasterBehavior</string>
+	<key>observerViaDecorator</key>
+	<string>queuePrototypeFormat</string>
+	<key>pageviewProcessEdge</key>
+	<string>appbarAwayVisitor</string>
+	<key>prismaticLogTail</key>
+	<string>stampContainLevel</string>
+</dict>
+</plist>

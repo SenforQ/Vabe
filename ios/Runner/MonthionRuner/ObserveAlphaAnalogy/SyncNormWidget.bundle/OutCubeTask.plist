@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAtJob</key>
+	<string>channelExceptActivity</string>
+	<key>dependencyChainTop</key>
+	<string>graphAsKind</string>
+	<key>explicitMovementBottom</key>
+	<string>zoneCommandVisible</string>
+	<key>pinchableModelLocation</key>
+	<string>collectionAgainstParam</string>
+</dict>
+</plist>

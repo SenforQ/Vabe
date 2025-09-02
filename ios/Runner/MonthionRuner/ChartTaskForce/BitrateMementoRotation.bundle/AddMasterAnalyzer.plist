@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionForCycle</key>
+	<string>baseObserverHead</string>
+	<key>delegateFormFlags</key>
+	<string>serviceActivityMomentum</string>
+	<key>disabledStoreFlags</key>
+	<string>isolateLevelEdge</string>
+	<key>hierarchicalPresenterBehavior</key>
+	<string>gesturedetectorViaShape</string>
+	<key>interactiveSignBorder</key>
+	<string>routeAlongNumber</string>
+	<key>localizationValueInset</key>
+	<string>timerSinceType</string>
+	<key>lostAlphaOrigin</key>
+	<string>paddingVarDuration</string>
+	<key>referenceSinceProcess</key>
+	<string>curveExceptAction</string>
+	<key>statefulProviderShape</key>
+	<string>drawerAsObserver</string>
+	<key>threadVersusEnvironment</key>
+	<string>textfieldCompositeInterval</string>
+</dict>
+</plist>

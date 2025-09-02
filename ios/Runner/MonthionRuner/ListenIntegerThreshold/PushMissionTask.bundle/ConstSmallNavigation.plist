@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncFlyweightScale</key>
+	<string>persistentRowTension</string>
+	<key>completerTierMargin</key>
+	<string>explicitIntegerType</string>
+	<key>fusedAssetMode</key>
+	<string>histogramFromValue</string>
+	<key>intuitiveInterfaceTransparency</key>
+	<string>zoneDuringAction</string>
+	<key>oldResourceRate</key>
+	<string>singleCollectionVisibility</string>
+	<key>resilientCurveBorder</key>
+	<string>convolutionInsideTier</string>
+</dict>
+</plist>

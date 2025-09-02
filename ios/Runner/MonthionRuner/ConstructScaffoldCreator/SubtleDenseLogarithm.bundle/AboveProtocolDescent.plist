@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableDelegateEdge</key>
+	<string>mediaChainOffset</string>
+	<key>eagerRadioFeedback</key>
+	<string>requiredTabbarFeedback</string>
+	<key>heapBesideJob</key>
+	<string>scrollAsEnvironment</string>
+	<key>inkwellThroughVar</key>
+	<string>constEffectInset</string>
+	<key>layoutAwayFlyweight</key>
+	<string>navigatorAmongDecorator</string>
+	<key>textfieldThanStrategy</key>
+	<string>channelsPlatformCoord</string>
+</dict>
+</plist>

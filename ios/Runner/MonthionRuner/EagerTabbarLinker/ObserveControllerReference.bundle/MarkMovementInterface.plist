@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticInjectionKind</key>
+	<string>subtleErrorKind</string>
+	<key>contractionWithoutMethod</key>
+	<string>descriptionPerStrategy</string>
+	<key>managerPerOperation</key>
+	<string>pinchableRectBottom</string>
+	<key>originalMemberRotation</key>
+	<string>widgetContainContext</string>
+	<key>scaleInsideOperation</key>
+	<string>controllerAsCommand</string>
+	<key>sizeAmongMemento</key>
+	<string>originalSubscriptionRight</string>
+	<key>statelessMarginCenter</key>
+	<string>chartCommandStyle</string>
+	<key>staticCurveDirection</key>
+	<string>featureExceptStructure</string>
+	<key>unactivatedGestureDuration</key>
+	<string>firstTextTop</string>
+	<key>variantSinceTier</key>
+	<string>ignoredAllocatorStyle</string>
+</dict>
+</plist>

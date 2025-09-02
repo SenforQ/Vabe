@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBufferInteraction</key>
+	<string>commandScopeState</string>
+	<key>bitrateSincePattern</key>
+	<string>nextCompleterDuration</string>
+	<key>discardedMapVelocity</key>
+	<string>pinchableRadiusDuration</string>
+	<key>disparateAwaitDepth</key>
+	<string>projectionMementoKind</string>
+	<key>injectionWithoutPattern</key>
+	<string>coordinatorBesideBuffer</string>
+	<key>symbolWithoutVar</key>
+	<string>routeKindResponse</string>
+	<key>unaryMediatorSize</key>
+	<string>loopIncludeMediator</string>
+</dict>
+</plist>

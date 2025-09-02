@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationProxyAppearance</key>
+	<string>movementAtBuffer</string>
+	<key>chapterBridgeCenter</key>
+	<string>requestFrameworkEdge</string>
+	<key>firstDecorationFeedback</key>
+	<string>interactiveDecorationVisible</string>
+	<key>instructionPhaseBorder</key>
+	<string>cubitExceptFlyweight</string>
+	<key>labelIncludeInterpreter</key>
+	<string>inactiveProgressbarInset</string>
+</dict>
+</plist>

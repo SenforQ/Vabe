@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAtBuffer</key>
+	<string>sceneMediatorSaturation</string>
+	<key>backwardSignFeedback</key>
+	<string>autoTaskOffset</string>
+	<key>descriptionDespiteVariable</key>
+	<string>inactiveExceptionMode</string>
+	<key>fixedTransitionHead</key>
+	<string>scaffoldDuringShape</string>
+	<key>permissiveBitrateInteraction</key>
+	<string>ignoredReductionTop</string>
+	<key>sinkAroundShape</key>
+	<string>completerWithParam</string>
+	<key>storyboardUntilType</key>
+	<string>responseLevelRotation</string>
+	<key>tickerUntilActivity</key>
+	<string>spineStageTag</string>
+</dict>
+</plist>

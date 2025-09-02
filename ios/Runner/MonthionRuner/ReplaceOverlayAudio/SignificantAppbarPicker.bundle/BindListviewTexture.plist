@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioSinceSingleton</key>
+	<string>tweenPatternCenter</string>
+	<key>graphStageShape</key>
+	<string>usecaseTierSpacing</string>
+	<key>metadataUntilPlatform</key>
+	<string>immediatePositionedTint</string>
+	<key>normalWidgetTop</key>
+	<string>mediocreMenuSpacing</string>
+	<key>primaryConsumerPosition</key>
+	<string>transitionValueAcceleration</string>
+	<key>singletonViaValue</key>
+	<string>routerOutsideNumber</string>
+</dict>
+</plist>

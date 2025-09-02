@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonByBridge</key>
+	<string>storyboardInterpreterTheme</string>
+	<key>cupertinoTweenVelocity</key>
+	<string>compositionVarFeedback</string>
+	<key>gateWithoutContext</key>
+	<string>flexibleCollectionLocation</string>
+	<key>lazySubpixelShape</key>
+	<string>callbackCompositeStatus</string>
+	<key>sampleTempleInterval</key>
+	<string>parallelViewCount</string>
+	<key>sequentialDurationInteraction</key>
+	<string>delicateTransformerFrequency</string>
+	<key>touchOrMethod</key>
+	<string>sineFromObserver</string>
+</dict>
+</plist>

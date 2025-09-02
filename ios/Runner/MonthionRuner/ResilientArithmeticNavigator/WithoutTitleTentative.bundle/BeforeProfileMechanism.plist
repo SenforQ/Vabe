@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diversifiedSessionStyle</key>
+	<string>usecaseBeyondFramework</string>
+	<key>futureParameterTint</key>
+	<string>permanentProjectionInteraction</string>
+	<key>intermediateMenuFormat</key>
+	<string>titleFromSystem</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constTimerName</key>
+	<string>resourceThroughSingleton</string>
+	<key>directCoordinatorPosition</key>
+	<string>interactiveErrorSpeed</string>
+	<key>durationAdapterVelocity</key>
+	<string>mapStyleDuration</string>
+	<key>elasticAssetMomentum</key>
+	<string>observerSinceJob</string>
+	<key>granularConsumerAcceleration</key>
+	<string>queryNearJob</string>
+	<key>heroProxyBottom</key>
+	<string>pointForFacade</string>
+	<key>progressbarMementoEdge</key>
+	<string>widgetPerScope</string>
+	<key>tabbarJobOpacity</key>
+	<string>columnAsProxy</string>
+	<key>topicScopeInterval</key>
+	<string>threadAlongEnvironment</string>
+</dict>
+</plist>

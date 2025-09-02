@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetIncludePattern</key>
+	<string>eagerTransitionName</string>
+	<key>buttonOutsideTier</key>
+	<string>sliderSingletonFormat</string>
+	<key>layoutIncludeStructure</key>
+	<string>gestureAsValue</string>
+	<key>logSingletonSkewy</key>
+	<string>specifyNavigatorResponse</string>
+	<key>materialRowTransparency</key>
+	<string>shaderOfCycle</string>
+	<key>matrixUntilPhase</key>
+	<string>granularScaffoldBorder</string>
+	<key>switchActivitySpacing</key>
+	<string>featureDespiteComposite</string>
+	<key>symmetricRequestBrightness</key>
+	<string>documentActivityBrightness</string>
+</dict>
+</plist>

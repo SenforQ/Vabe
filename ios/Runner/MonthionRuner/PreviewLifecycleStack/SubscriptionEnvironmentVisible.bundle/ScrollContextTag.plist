@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackStateRight</key>
+	<string>controllerFormOffset</string>
+	<key>diffableGridviewOrigin</key>
+	<string>protectedZoneName</string>
+	<key>errorContainContext</key>
+	<string>robustListenerState</string>
+	<key>hierarchicalIsolateDelay</key>
+	<string>textWithDecorator</string>
+	<key>resultFormInterval</key>
+	<string>cubitContainStrategy</string>
+	<key>slashModeCoord</key>
+	<string>gridDecoratorDelay</string>
+</dict>
+</plist>

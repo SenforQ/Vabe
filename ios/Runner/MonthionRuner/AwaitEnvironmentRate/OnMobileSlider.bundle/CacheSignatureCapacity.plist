@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellMementoSaturation</key>
+	<string>euclideanInteractorCoord</string>
+	<key>configurationFunctionAppearance</key>
+	<string>gestureAboutType</string>
+	<key>deferredRouterIndex</key>
+	<string>screenAwayFacade</string>
+	<key>handlerExceptCycle</key>
+	<string>groupPrototypeDepth</string>
+	<key>hyperbolicRadiusDistance</key>
+	<string>mobxDuringFlyweight</string>
+	<key>secondProviderFrequency</key>
+	<string>metadataTypeResponse</string>
+</dict>
+</plist>

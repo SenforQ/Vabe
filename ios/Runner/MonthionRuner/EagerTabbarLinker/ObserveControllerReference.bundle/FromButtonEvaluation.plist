@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerValueTheme</key>
+	<string>flexibleVectorInset</string>
+	<key>permissiveExponentKind</key>
+	<string>numericalMaterialContrast</string>
+	<key>reducerVersusPlatform</key>
+	<string>queryActionVisible</string>
+	<key>tableMementoAppearance</key>
+	<string>observerAboutStrategy</string>
+	<key>visiblePriorityContrast</key>
+	<string>agileStreamLeft</string>
+</dict>
+</plist>

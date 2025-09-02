@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineProcessSpacing</key>
+	<string>extensionVersusBridge</string>
+	<key>configurationParamScale</key>
+	<string>channelPatternDuration</string>
+	<key>intermediateSwitchResponse</key>
+	<string>directlyMediaBound</string>
+	<key>retainedActivityTop</key>
+	<string>missedBufferType</string>
+	<key>spotAlongSystem</key>
+	<string>binaryWithoutTemple</string>
+</dict>
+</plist>

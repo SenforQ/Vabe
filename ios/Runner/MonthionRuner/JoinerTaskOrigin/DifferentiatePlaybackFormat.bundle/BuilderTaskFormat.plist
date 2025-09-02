@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeDuringTemple</key>
+	<string>animationVersusLevel</string>
+	<key>contractionFormStyle</key>
+	<string>custompaintAsTier</string>
+	<key>displayableSizedboxTag</key>
+	<string>routeModeDistance</string>
+	<key>hierarchicalButtonBound</key>
+	<string>builderOfProxy</string>
+</dict>
+</plist>

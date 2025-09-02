@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleActivityTransparency</key>
+	<string>capsuleProxyAcceleration</string>
+	<key>cartesianTouchRotation</key>
+	<string>symbolStrategyCenter</string>
+	<key>constraintJobTag</key>
+	<string>discardedTextureMode</string>
+	<key>grainForEnvironment</key>
+	<string>labelKindSpeed</string>
+	<key>protectedWidgetSkewx</key>
+	<string>workflowAgainstMode</string>
+	<key>querySystemInterval</key>
+	<string>explicitIndicatorTheme</string>
+	<key>statelessCheckboxOpacity</key>
+	<string>delegateAndVariable</string>
+</dict>
+</plist>

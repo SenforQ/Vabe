@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileParticleShape</key>
+	<string>vectorExceptPrototype</string>
+	<key>commandStrategyDepth</key>
+	<string>uniqueSampleSize</string>
+	<key>injectionAwayAction</key>
+	<string>controllerUntilType</string>
+	<key>resultOutsideInterpreter</key>
+	<string>lastEventCoord</string>
+	<key>smallSensorDepth</key>
+	<string>largeButtonInterval</string>
+</dict>
+</plist>

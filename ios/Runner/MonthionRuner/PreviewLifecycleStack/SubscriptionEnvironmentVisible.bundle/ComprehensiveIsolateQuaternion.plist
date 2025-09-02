@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorUntilType</key>
+	<string>constraintVisitorLocation</string>
+	<key>channelExceptValue</key>
+	<string>desktopBlocBound</string>
+	<key>inheritedSingletonTag</key>
+	<string>prevExtensionTail</string>
+	<key>optimizerBeyondAdapter</key>
+	<string>resilientOffsetBorder</string>
+	<key>resizableViewPressure</key>
+	<string>normalSubpixelCenter</string>
+	<key>rowVariableVelocity</key>
+	<string>awaitTierTransparency</string>
+	<key>uniformUsageBottom</key>
+	<string>labelByAction</string>
+</dict>
+</plist>

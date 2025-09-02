@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryViaKind</key>
+	<string>semanticChapterMargin</string>
+	<key>consumerStageOrigin</key>
+	<string>pageviewInTask</string>
+	<key>draggableAnimatedcontainerVelocity</key>
+	<string>resilientMobileRight</string>
+	<key>loopCycleInset</key>
+	<string>delegateVisitorForce</string>
+	<key>paddingViaSingleton</key>
+	<string>queryFromStrategy</string>
+	<key>projectDecoratorDistance</key>
+	<string>errorBufferTag</string>
+	<key>viewNearEnvironment</key>
+	<string>textureWithContext</string>
+</dict>
+</plist>

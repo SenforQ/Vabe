@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPatternDensity</key>
+	<string>previewDuringStructure</string>
+	<key>managerTaskInterval</key>
+	<string>dialogsSinceParam</string>
+	<key>normalTabbarHead</key>
+	<string>permanentRequestOrientation</string>
+	<key>positionedViaStructure</key>
+	<string>similarTextRate</string>
+	<key>uniformCapsuleFrequency</key>
+	<string>animatedChapterSize</string>
+</dict>
+</plist>

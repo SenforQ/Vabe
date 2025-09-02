@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoCallbackTint</key>
+	<string>independentMobileBound</string>
+	<key>decorationOrBridge</key>
+	<string>cupertinoDocumentOpacity</string>
+	<key>featureTempleSaturation</key>
+	<string>reductionTaskSkewy</string>
+	<key>fixedNavigatorRight</key>
+	<string>modulusByMode</string>
+	<key>operationStageSpeed</key>
+	<string>exponentInterpreterInset</string>
+	<key>paddingBeyondContext</key>
+	<string>similarRadiusMargin</string>
+	<key>rowAndShape</key>
+	<string>composableLayoutFeedback</string>
+	<key>timerInterpreterDirection</key>
+	<string>independentTernaryDepth</string>
+	<key>uniqueInstructionFlags</key>
+	<string>seamlessAllocatorSize</string>
+</dict>
+</plist>

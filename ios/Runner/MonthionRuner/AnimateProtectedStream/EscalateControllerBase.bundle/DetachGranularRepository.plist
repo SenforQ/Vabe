@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncScreenTheme</key>
+	<string>dynamicCurveBorder</string>
+	<key>chartByMethod</key>
+	<string>reusableCatalystInset</string>
+	<key>numericalImageSaturation</key>
+	<string>prismaticHashLocation</string>
+	<key>rectTierSkewy</key>
+	<string>usedMatrixHue</string>
+	<key>techniqueTaskAcceleration</key>
+	<string>capacitiesFromStrategy</string>
+	<key>textProcessValidation</key>
+	<string>greatPositionScale</string>
+</dict>
+</plist>

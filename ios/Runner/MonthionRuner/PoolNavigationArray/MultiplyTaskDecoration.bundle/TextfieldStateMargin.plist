@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGesturedetectorSkewx</key>
+	<string>constInterfaceVelocity</string>
+	<key>bufferInSingleton</key>
+	<string>interactorThroughCommand</string>
+	<key>fragmentByPlatform</key>
+	<string>radioFrameworkVelocity</string>
+	<key>histogramAdapterVisibility</key>
+	<string>fusedLayoutMode</string>
+	<key>injectionVarTension</key>
+	<string>routeOrValue</string>
+	<key>modelDespiteChain</key>
+	<string>significantProviderBound</string>
+	<key>paddingSinceFacade</key>
+	<string>dynamicCupertinoRight</string>
+	<key>pivotalBulletLocation</key>
+	<string>equipmentPerMethod</string>
+	<key>responseFlyweightTail</key>
+	<string>petOutsideBridge</string>
+</dict>
+</plist>

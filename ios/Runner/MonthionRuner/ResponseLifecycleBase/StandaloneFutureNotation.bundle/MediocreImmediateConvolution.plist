@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicArithmeticOpacity</key>
+	<string>cyclePlatformOpacity</string>
+	<key>columnNumberVisible</key>
+	<string>cycleAsLevel</string>
+	<key>customizedEffectDuration</key>
+	<string>numericalNotifierSkewx</string>
+	<key>intermediateVectorOpacity</key>
+	<string>dynamicSemanticsLeft</string>
+	<key>layoutStageDirection</key>
+	<string>metadataBeyondDecorator</string>
+	<key>sineModeSpacing</key>
+	<string>immediateControllerOpacity</string>
+	<key>tangentShapeShade</key>
+	<string>viewNearMediator</string>
+	<key>viewPatternTint</key>
+	<string>threadInJob</string>
+</dict>
+</plist>

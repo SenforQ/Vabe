@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentVectorScale</key>
+	<string>movementUntilParameter</string>
+	<key>coordinatorLikeObserver</key>
+	<string>gridFromParam</string>
+	<key>customizedCompleterRate</key>
+	<string>largePlateDuration</string>
+	<key>originalGroupDepth</key>
+	<string>activeIconDistance</string>
+	<key>staticTabviewType</key>
+	<string>notificationAmongWork</string>
+	<key>widgetAtFlyweight</key>
+	<string>curveLayerAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioScopeValidation</key>
+	<string>sessionWithoutAction</string>
+	<key>queueOfContext</key>
+	<string>methodPlatformMode</string>
+	<key>segueModeMargin</key>
+	<string>timerOutsideNumber</string>
+	<key>shaderForCommand</key>
+	<string>prismaticIndicatorFeedback</string>
+	<key>timerStyleCenter</key>
+	<string>fusedIndicatorForce</string>
+	<key>unaryCommandContrast</key>
+	<string>zoneWithoutBuffer</string>
+	<key>widgetStyleRotation</key>
+	<string>canvasExceptOperation</string>
+</dict>
+</plist>

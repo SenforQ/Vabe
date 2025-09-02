@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCubitSaturation</key>
+	<string>futureVariableVisibility</string>
+	<key>batchForCommand</key>
+	<string>configurationContainSingleton</string>
+	<key>reactiveAwaitType</key>
+	<string>globalCollectionInset</string>
+	<key>repositoryAlongLevel</key>
+	<string>frameProxyInset</string>
+	<key>sessionWithAction</key>
+	<string>scrollableScrollSpacing</string>
+	<key>slashOrLevel</key>
+	<string>queueInOperation</string>
+</dict>
+</plist>

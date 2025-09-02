@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialAroundTier</key>
+	<string>projectStrategyIndex</string>
+	<key>stackStrategySkewy</key>
+	<string>prevLocalizationStatus</string>
+	<key>streamCycleFlags</key>
+	<string>mapSinceFunction</string>
+	<key>textStatePosition</key>
+	<string>monsterAboutStage</string>
+	<key>viewOrAdapter</key>
+	<string>diffablePageviewStyle</string>
+</dict>
+</plist>

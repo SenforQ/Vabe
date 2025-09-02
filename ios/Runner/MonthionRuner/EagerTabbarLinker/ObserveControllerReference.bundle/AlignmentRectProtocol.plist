@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralSinkInteraction</key>
+	<string>delegateAsWork</string>
+	<key>modalFromBridge</key>
+	<string>futureSystemBottom</string>
+	<key>navigationActivityLeft</key>
+	<string>allocatorOrParameter</string>
+	<key>semanticSpineScale</key>
+	<string>intermediateProviderSpeed</string>
+	<key>semanticsForFacade</key>
+	<string>singletonOrProxy</string>
+	<key>sizeOutsideVisitor</key>
+	<string>resolverBeyondPrototype</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarWithoutStrategy</key>
+	<string>sliderAdapterSkewx</string>
+	<key>containerTaskRight</key>
+	<string>controllerAroundFunction</string>
+	<key>handlerFlyweightMode</key>
+	<string>basicCompleterDistance</string>
+	<key>liteIndicatorPressure</key>
+	<string>cellCompositeSpacing</string>
+	<key>responseTempleBorder</key>
+	<string>errorVariableHead</string>
+	<key>routerChainTag</key>
+	<string>consumerScopeCenter</string>
+	<key>tweenActionVelocity</key>
+	<string>materialControllerScale</string>
+</dict>
+</plist>

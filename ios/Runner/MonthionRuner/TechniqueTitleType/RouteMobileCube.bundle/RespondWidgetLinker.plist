@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedAnimationRotation</key>
+	<string>localIntegerBrightness</string>
+	<key>resolverDuringLayer</key>
+	<string>sortedInterfaceColor</string>
+	<key>seamlessImageForce</key>
+	<string>profileAsStyle</string>
+	<key>symbolBesidePlatform</key>
+	<string>adaptiveExpandedShade</string>
+	<key>ternaryFormMargin</key>
+	<string>opaqueModulusHead</string>
+	<key>unsortedHashMode</key>
+	<string>scrollableCompositionMargin</string>
+	<key>vectorAsActivity</key>
+	<string>synchronousCertificateState</string>
+</dict>
+</plist>

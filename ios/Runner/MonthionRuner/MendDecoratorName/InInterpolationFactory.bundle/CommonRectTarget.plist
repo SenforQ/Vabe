@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanCurveBehavior</key>
+	<string>disabledHashVisible</string>
+	<key>fixedProfileTension</key>
+	<string>requiredTransitionAppearance</string>
+	<key>interfaceTempleShape</key>
+	<string>subpixelOfStructure</string>
+	<key>positionChainInteraction</key>
+	<string>channelInShape</string>
+	<key>scrollableHashIndex</key>
+	<string>labelDuringTask</string>
+	<key>sensorFunctionInterval</key>
+	<string>catalystScopeTension</string>
+	<key>standaloneSineAppearance</key>
+	<string>temporaryMultiplicationOffset</string>
+	<key>tickerFromAdapter</key>
+	<string>actionStrategyLocation</string>
+	<key>usageMethodCenter</key>
+	<string>resultForScope</string>
+</dict>
+</plist>

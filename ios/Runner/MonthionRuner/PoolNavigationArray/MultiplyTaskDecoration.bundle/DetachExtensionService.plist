@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorForPattern</key>
+	<string>gridParameterDuration</string>
+	<key>controllerSinceState</key>
+	<string>interfaceWithSystem</string>
+	<key>plateBufferName</key>
+	<string>sliderVarBound</string>
+	<key>stackStateDepth</key>
+	<string>sliderVisitorColor</string>
+	<key>statefulCompositionTension</key>
+	<string>touchDecoratorBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedDecorationCoord</key>
+	<string>desktopTransitionRate</string>
+	<key>lazyDurationState</key>
+	<string>directAllocatorSkewy</string>
+	<key>navigatorActionSaturation</key>
+	<string>diffableIsolateValidation</string>
+	<key>pageviewWithFramework</key>
+	<string>methodStrategyVisible</string>
+	<key>plateUntilFunction</key>
+	<string>draggableSceneShape</string>
+	<key>protectedSymbolInteraction</key>
+	<string>cellOrSingleton</string>
+	<key>relationalWidgetTail</key>
+	<string>completionBufferSpeed</string>
+	<key>scaffoldAgainstFunction</key>
+	<string>masterFromMediator</string>
+	<key>workflowOutsideProcess</key>
+	<string>offsetWithChain</string>
+</dict>
+</plist>

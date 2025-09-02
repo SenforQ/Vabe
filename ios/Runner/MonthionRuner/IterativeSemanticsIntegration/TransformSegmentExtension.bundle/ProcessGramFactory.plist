@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoHashValidation</key>
+	<string>listenerModeResponse</string>
+	<key>chartJobInterval</key>
+	<string>histogramDuringSystem</string>
+	<key>cosineAwayMode</key>
+	<string>sessionTypeOffset</string>
+	<key>giftVariableSkewy</key>
+	<string>otherOptimizerScale</string>
+	<key>hardTernarySpacing</key>
+	<string>nodeParameterDelay</string>
+	<key>materialContextFlags</key>
+	<string>bulletVisitorForce</string>
+	<key>paddingShapeDensity</key>
+	<string>resizableGradientOpacity</string>
+</dict>
+</plist>

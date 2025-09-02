@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFacadeDensity</key>
+	<string>tweenPerBuffer</string>
+	<key>allocatorTempleOrigin</key>
+	<string>inactiveContainerStyle</string>
+	<key>cubitPerOperation</key>
+	<string>oldNavigatorContrast</string>
+	<key>graphTierDensity</key>
+	<string>matrixScopeOffset</string>
+	<key>permissiveMomentumMargin</key>
+	<string>controllerStructureOffset</string>
+	<key>permissivePetBrightness</key>
+	<string>cursorForScope</string>
+	<key>pointContainLevel</key>
+	<string>themeContextStatus</string>
+	<key>viewBeyondInterpreter</key>
+	<string>interactorFormSaturation</string>
+</dict>
+</plist>

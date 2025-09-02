@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileConfigurationFormat</key>
+	<string>menuFrameworkScale</string>
+	<key>enabledResourceMode</key>
+	<string>draggableHashVelocity</string>
+	<key>gestureParameterBehavior</key>
+	<string>lastRowTheme</string>
+	<key>globalPageviewShape</key>
+	<string>managerByDecorator</string>
+	<key>groupInsideCycle</key>
+	<string>apertureScopeSize</string>
+	<key>immediateMediaValidation</key>
+	<string>tabviewThroughKind</string>
+	<key>robustIntensityDistance</key>
+	<string>nativeLayerInteraction</string>
+	<key>seamlessCubeState</key>
+	<string>advancedContainerBorder</string>
+	<key>segmentShapeInterval</key>
+	<string>lostSceneSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationThanStage</key>
+	<string>retainedLogVelocity</string>
+	<key>animationWithoutSingleton</key>
+	<string>transformerStructureFrequency</string>
+	<key>mobileChannelRate</key>
+	<string>directlyHeapSaturation</string>
+	<key>progressbarDespiteParam</key>
+	<string>sizeDuringLayer</string>
+	<key>promiseVariableCount</key>
+	<string>overlayBeyondFlyweight</string>
+	<key>queueMediatorForce</key>
+	<string>handlerOfProxy</string>
+</dict>
+</plist>

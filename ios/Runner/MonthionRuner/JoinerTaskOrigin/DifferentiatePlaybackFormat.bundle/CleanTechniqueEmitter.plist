@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGrainPressure</key>
+	<string>constraintChainInset</string>
+	<key>desktopRectOffset</key>
+	<string>columnDecoratorTension</string>
+	<key>dialogsThroughVar</key>
+	<string>activeAppbarCount</string>
+	<key>frameUntilMode</key>
+	<string>draggableSpecifierAcceleration</string>
+	<key>histogramFlyweightVelocity</key>
+	<string>resolverExceptFlyweight</string>
+	<key>interpolationAwayContext</key>
+	<string>discardedBufferVisibility</string>
+	<key>menuContainObserver</key>
+	<string>subtleSensorTag</string>
+	<key>roleTierAppearance</key>
+	<string>nodeBeyondBuffer</string>
+	<key>rowScopeEdge</key>
+	<string>actionAroundCommand</string>
+	<key>semanticCompositionFrequency</key>
+	<string>radioVersusLayer</string>
+</dict>
+</plist>

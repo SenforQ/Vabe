@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOfWork</key>
+	<string>utilWorkFeedback</string>
+	<key>concurrentBuilderColor</key>
+	<string>usageWithoutValue</string>
+	<key>effectTaskOpacity</key>
+	<string>resilientConstraintOffset</string>
+	<key>liteShaderKind</key>
+	<string>constraintTierKind</string>
+	<key>prevModelInteraction</key>
+	<string>typicalDecorationPadding</string>
+	<key>toolStructureOrientation</key>
+	<string>routerTierColor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisBufferType</key>
+	<string>eventCommandFlags</string>
+	<key>channelsWithoutChain</key>
+	<string>coordinatorOfOperation</string>
+	<key>delegateAsChain</key>
+	<string>routeKindVelocity</string>
+	<key>dialogsFrameworkRotation</key>
+	<string>intensityStateStatus</string>
+	<key>diffableSwitchTint</key>
+	<string>arithmeticZoneBrightness</string>
+	<key>drawerDecoratorSkewy</key>
+	<string>navigatorCompositeSpeed</string>
+	<key>indicatorOfMethod</key>
+	<string>navigatorOrAdapter</string>
+	<key>nextSensorShade</key>
+	<string>usecaseInCommand</string>
+	<key>skirtTempleVisibility</key>
+	<string>graphicLikeTemple</string>
+</dict>
+</plist>

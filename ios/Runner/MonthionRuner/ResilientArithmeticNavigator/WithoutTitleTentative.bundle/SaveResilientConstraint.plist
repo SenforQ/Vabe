@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGridviewAlignment</key>
+	<string>declarativeProviderRight</string>
+	<key>constraintBeyondMemento</key>
+	<string>delegateFromObserver</string>
+	<key>heapAboutKind</key>
+	<string>cubitIncludeParam</string>
+	<key>particleForBridge</key>
+	<string>normObserverTail</string>
+	<key>sophisticatedFactoryMargin</key>
+	<string>singleTouchTail</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerAdapterState</key>
+	<string>layoutParamCoord</string>
+	<key>heapContextDuration</key>
+	<string>spriteBeyondInterpreter</string>
+	<key>navigationChainDensity</key>
+	<string>layoutTierCoord</string>
+	<key>swiftUntilState</key>
+	<string>loopDuringBridge</string>
+	<key>textureVersusActivity</key>
+	<string>controllerDuringCycle</string>
+</dict>
+</plist>

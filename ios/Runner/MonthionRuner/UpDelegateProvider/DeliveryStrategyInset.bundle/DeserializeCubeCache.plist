@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyViaFlyweight</key>
+	<string>particleCommandDelay</string>
+	<key>entityInterpreterValidation</key>
+	<string>buttonExceptStage</string>
+	<key>metadataContextScale</key>
+	<string>skirtContextLeft</string>
+	<key>transitionWithShape</key>
+	<string>themeFacadeIndex</string>
+</dict>
+</plist>

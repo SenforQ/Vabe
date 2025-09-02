@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAssetCount</key>
+	<string>labelBufferRate</string>
+	<key>basePlatformVisible</key>
+	<string>metadataCommandDelay</string>
+	<key>coordinatorLikeEnvironment</key>
+	<string>accordionChartVisible</string>
+	<key>drawerPlatformMargin</key>
+	<string>providerFrameworkTint</string>
+	<key>pointOperationKind</key>
+	<string>injectionMethodBorder</string>
+	<key>routerNumberInset</key>
+	<string>largeResultContrast</string>
+</dict>
+</plist>

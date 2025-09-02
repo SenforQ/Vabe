@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellForChain</key>
+	<string>tabbarFunctionOffset</string>
+	<key>customListviewTail</key>
+	<string>mediaSingletonBrightness</string>
+	<key>immediateMasterSaturation</key>
+	<string>localizationActivityFeedback</string>
+	<key>modalTierSkewy</key>
+	<string>canvasForMethod</string>
+	<key>mutableAlignmentTag</key>
+	<string>listviewAroundMediator</string>
+	<key>permissiveModelForce</key>
+	<string>musicBridgeSkewy</string>
+	<key>prismaticSubpixelCount</key>
+	<string>sequentialProgressbarValidation</string>
+	<key>requestViaTask</key>
+	<string>skinVarInterval</string>
+	<key>responsiveTopicState</key>
+	<string>inheritedAspectTag</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesCycleOffset</key>
+	<string>stepAtValue</string>
+	<key>gateAmongPrototype</key>
+	<string>sharedHeroResponse</string>
+	<key>mediaActivityValidation</key>
+	<string>pageviewSingletonIndex</string>
+	<key>mobileFunctionBottom</key>
+	<string>collectionAtLevel</string>
+	<key>navigatorDuringAction</key>
+	<string>navigatorFromStage</string>
+	<key>zoneInterpreterRight</key>
+	<string>storeOperationSpacing</string>
+</dict>
+</plist>

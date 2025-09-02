@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAlertBrightness</key>
+	<string>uniformUtilTransparency</string>
+	<key>currentLoopVisibility</key>
+	<string>materialAgainstTier</string>
+	<key>gridviewAgainstBridge</key>
+	<string>accordionQuerySkewy</string>
+	<key>inkwellTaskVisible</key>
+	<string>inactiveMethodOrigin</string>
+	<key>intermediateSkinEdge</key>
+	<string>deferredStreamOffset</string>
+	<key>pinchableHeroRate</key>
+	<string>resizableGrayscaleColor</string>
+	<key>popupFromAdapter</key>
+	<string>agileBuilderPosition</string>
+	<key>presenterTypeLocation</key>
+	<string>delegateNearCycle</string>
+	<key>visibleFragmentScale</key>
+	<string>synchronousNibTop</string>
+</dict>
+</plist>

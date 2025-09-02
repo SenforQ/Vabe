@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorIncludePhase</key>
+	<string>iterativeGrayscaleAcceleration</string>
+	<key>exceptionAboutStrategy</key>
+	<string>intermediateBlocSaturation</string>
+	<key>interactiveSkinEdge</key>
+	<string>secondCurveCoord</string>
+	<key>missionPatternVelocity</key>
+	<string>geometricInterpolationVisibility</string>
+	<key>widgetWithoutCommand</key>
+	<string>imageViaContext</string>
+</dict>
+</plist>

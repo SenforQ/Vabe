@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledChannelBehavior</key>
+	<string>vectorAwayTier</string>
+	<key>graphWithSingleton</key>
+	<string>signNearStructure</string>
+	<key>isolateExceptParam</key>
+	<string>reductionAdapterVisible</string>
+</dict>
+</plist>

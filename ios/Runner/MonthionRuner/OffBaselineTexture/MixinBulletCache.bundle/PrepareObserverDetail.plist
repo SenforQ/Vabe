@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBeyondChain</key>
+	<string>disabledGroupFrequency</string>
+	<key>binarySinceType</key>
+	<string>interactiveReducerBottom</string>
+	<key>globalCyclePressure</key>
+	<string>kernelSinceTier</string>
+	<key>topicFromMemento</key>
+	<string>sessionOperationPosition</string>
+</dict>
+</plist>

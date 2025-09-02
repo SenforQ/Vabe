@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredUtilFlags</key>
+	<string>alignmentUntilFacade</string>
+	<key>rowCommandSaturation</key>
+	<string>autoCompleterDistance</string>
+	<key>similarAspectratioCount</key>
+	<string>resolverTierFlags</string>
+	<key>usedChannelColor</key>
+	<string>rowDespiteObserver</string>
+</dict>
+</plist>

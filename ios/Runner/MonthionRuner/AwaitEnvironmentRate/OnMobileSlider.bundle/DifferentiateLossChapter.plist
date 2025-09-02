@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientFunctionAlignment</key>
+	<string>gridStateTag</string>
+	<key>keyListviewFeedback</key>
+	<string>cupertinoObserverSkewx</string>
+	<key>labelVersusParam</key>
+	<string>custompaintDecoratorBrightness</string>
+	<key>semanticProviderAlignment</key>
+	<string>usageNearParameter</string>
+</dict>
+</plist>

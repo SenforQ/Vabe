@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocProxyVisibility</key>
+	<string>constContainerLeft</string>
+	<key>gradientCycleBound</key>
+	<string>staticWidgetEdge</string>
+	<key>lossThroughPrototype</key>
+	<string>animatedcontainerAtSingleton</string>
+	<key>significantDelegateLocation</key>
+	<string>shaderBesideVariable</string>
+</dict>
+</plist>

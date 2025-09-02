@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCallbackFrequency</key>
+	<string>metadataFacadeRotation</string>
+	<key>explicitMethodDistance</key>
+	<string>overlayMediatorAlignment</string>
+	<key>finalStampRotation</key>
+	<string>originalServiceSkewx</string>
+	<key>layerCompositeInset</key>
+	<string>coordinatorThroughCycle</string>
+	<key>resultVisitorInteraction</key>
+	<string>blocForAdapter</string>
+	<key>spineAmongPlatform</key>
+	<string>usedAllocatorSkewx</string>
+</dict>
+</plist>

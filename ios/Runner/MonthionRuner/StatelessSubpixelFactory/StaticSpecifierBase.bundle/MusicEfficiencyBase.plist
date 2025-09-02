@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitPerFramework</key>
+	<string>fusedAllocatorLeft</string>
+	<key>crudeProviderTheme</key>
+	<string>basicQueryMode</string>
+	<key>enabledActivityTint</key>
+	<string>resourceNumberContrast</string>
+	<key>lastRadiusValidation</key>
+	<string>similarResponseBound</string>
+	<key>managerWithoutFramework</key>
+	<string>transitionTempleCoord</string>
+</dict>
+</plist>

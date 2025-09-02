@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonOperationTransparency</key>
+	<string>easyStreamForce</string>
+	<key>buttonWithoutPlatform</key>
+	<string>gridviewAboutPlatform</string>
+	<key>ignoredGrayscaleDensity</key>
+	<string>inheritedTouchStatus</string>
+	<key>navigatorVarStyle</key>
+	<string>animationFlyweightType</string>
+	<key>permanentChartTheme</key>
+	<string>bufferDuringPhase</string>
+	<key>topicAgainstPlatform</key>
+	<string>synchronousLayoutSkewy</string>
+</dict>
+</plist>

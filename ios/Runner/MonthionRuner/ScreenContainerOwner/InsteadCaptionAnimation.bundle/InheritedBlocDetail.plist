@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFromEnvironment</key>
+	<string>immediateCellSize</string>
+	<key>callbackTypeMomentum</key>
+	<string>metadataCompositeOrientation</string>
+	<key>declarativeCurveIndex</key>
+	<string>appbarAlongFacade</string>
+	<key>resultAboutBridge</key>
+	<string>getxVisitorBehavior</string>
+	<key>sortedCompleterTop</key>
+	<string>entityAsState</string>
+	<key>subscriptionCycleMargin</key>
+	<string>bufferCommandBorder</string>
+	<key>subtleGesturedetectorCoord</key>
+	<string>queryLayerOrigin</string>
+	<key>synchronousFutureSkewx</key>
+	<string>curveByPhase</string>
+	<key>typicalMobileMomentum</key>
+	<string>nativeEqualizationAcceleration</string>
+</dict>
+</plist>

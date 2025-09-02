@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentModeValidation</key>
+	<string>skirtOutsideTask</string>
+	<key>capacitiesLikeBuffer</key>
+	<string>elasticCapsulePosition</string>
+	<key>firstRichtextPosition</key>
+	<string>chartAtShape</string>
+	<key>interactorMediatorTheme</key>
+	<string>interactorBufferContrast</string>
+	<key>mainLabelFeedback</key>
+	<string>directCallbackScale</string>
+	<key>navigatorWithDecorator</key>
+	<string>matrixWorkVelocity</string>
+	<key>requiredTextfieldInset</key>
+	<string>flexibleFeatureCenter</string>
+	<key>resultTaskPressure</key>
+	<string>curveViaTemple</string>
+	<key>robustSpriteTop</key>
+	<string>protectedTitleBound</string>
+</dict>
+</plist>

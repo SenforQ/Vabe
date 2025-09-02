@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoOperationInteraction</key>
+	<string>scrollableCurveDelay</string>
+	<key>crudeTextureValidation</key>
+	<string>mobileOutsideStage</string>
+	<key>hardInterpolationAlignment</key>
+	<string>titleMethodTop</string>
+	<key>providerStrategyTail</key>
+	<string>animatedTickerName</string>
+	<key>repositoryAroundLevel</key>
+	<string>actionSystemKind</string>
+	<key>requestTaskOffset</key>
+	<string>borderNumberStatus</string>
+	<key>zoneSystemEdge</key>
+	<string>usageWithNumber</string>
+</dict>
+</plist>

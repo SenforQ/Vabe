@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAmongType</key>
+	<string>loopModeBound</string>
+	<key>diversifiedIsolateCount</key>
+	<string>lossAmongMode</string>
+	<key>fixedHistogramSpacing</key>
+	<string>statelessAspectDistance</string>
+	<key>mainLogForce</key>
+	<string>awaitCycleCenter</string>
+	<key>playbackPerContext</key>
+	<string>mediumPointScale</string>
+	<key>timerPerWork</key>
+	<string>riverpodFormDistance</string>
+</dict>
+</plist>

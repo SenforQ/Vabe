@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFromFramework</key>
+	<string>listviewAmongProxy</string>
+	<key>canvasAgainstJob</key>
+	<string>liteTextureLocation</string>
+	<key>challengeCycleDuration</key>
+	<string>modulusSingletonContrast</string>
+	<key>crucialPresenterMode</key>
+	<string>dropdownbuttonPrototypePosition</string>
+	<key>independentContainerMargin</key>
+	<string>assetShapeResponse</string>
+	<key>multiGesturedetectorPadding</key>
+	<string>resourceMethodSkewy</string>
+	<key>routerVersusMediator</key>
+	<string>captionAtFacade</string>
+	<key>semanticLossTransparency</key>
+	<string>easyIntensityVisible</string>
+	<key>temporaryTextureStatus</key>
+	<string>particleFunctionTheme</string>
+</dict>
+</plist>

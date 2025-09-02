@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferForShape</key>
+	<string>servicePatternDelay</string>
+	<key>coordinatorChainHead</key>
+	<string>animationAroundComposite</string>
+	<key>delegateAdapterEdge</key>
+	<string>multiZoneBottom</string>
+	<key>listenerShapeRotation</key>
+	<string>modulusInStyle</string>
+	<key>localizationInsideProcess</key>
+	<string>radiusTierCoord</string>
+</dict>
+</plist>

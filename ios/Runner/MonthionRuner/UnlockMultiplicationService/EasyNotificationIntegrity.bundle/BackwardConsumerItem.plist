@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerOrJob</key>
+	<string>appbarFunctionAppearance</string>
+	<key>desktopBaselineSpeed</key>
+	<string>handlerUntilPhase</string>
+	<key>lostGetxShape</key>
+	<string>scaleLevelTransparency</string>
+	<key>optimizerLayerOffset</key>
+	<string>configurationPlatformStatus</string>
+</dict>
+</plist>

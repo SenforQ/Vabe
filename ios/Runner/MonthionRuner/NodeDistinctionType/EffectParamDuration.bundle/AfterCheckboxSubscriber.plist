@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarShapeTension</key>
+	<string>cupertinoAsVisitor</string>
+	<key>fixedErrorFrequency</key>
+	<string>immediateAlignmentSpacing</string>
+	<key>liteCharacterAppearance</key>
+	<string>tappableBehaviorShape</string>
+	<key>nativePainterDuration</key>
+	<string>topicThroughBuffer</string>
+	<key>positionInsideForm</key>
+	<string>cacheInChain</string>
+</dict>
+</plist>

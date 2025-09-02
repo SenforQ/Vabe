@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystLayerInteraction</key>
+	<string>oldTabbarContrast</string>
+	<key>comprehensiveChannelsInset</key>
+	<string>mutableSegueVelocity</string>
+	<key>gramTierIndex</key>
+	<string>completionWorkDelay</string>
+	<key>ignoredAwaitLocation</key>
+	<string>positionValueSpeed</string>
+	<key>methodTaskSpacing</key>
+	<string>standaloneBufferResponse</string>
+	<key>queueOutsideChain</key>
+	<string>observerTypeInset</string>
+	<key>serviceDuringVariable</key>
+	<string>firstButtonBound</string>
+	<key>widgetByTier</key>
+	<string>accessibleSwiftPressure</string>
+</dict>
+</plist>

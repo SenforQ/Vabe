@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardStyleKind</key>
+	<string>gradientBesideProxy</string>
+	<key>constChallengeFeedback</key>
+	<string>statefulManagerState</string>
+	<key>descriptorForBuffer</key>
+	<string>projectAwayValue</string>
+	<key>eventForContext</key>
+	<string>uniformDimensionScale</string>
+	<key>ignoredContractionCount</key>
+	<string>builderNumberFlags</string>
+	<key>notifierAmongShape</key>
+	<string>previewAroundOperation</string>
+	<key>resizableCursorValidation</key>
+	<string>permissiveSpecifierFormat</string>
+</dict>
+</plist>

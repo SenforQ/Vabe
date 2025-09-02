@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCheckboxRotation</key>
+	<string>ignoredSignSkewx</string>
+	<key>concreteCurveSpacing</key>
+	<string>referenceFromForm</string>
+	<key>durationWithComposite</key>
+	<string>tweenAlongFlyweight</string>
+	<key>mediumDurationLocation</key>
+	<string>managerBufferBrightness</string>
+	<key>mobileResponseBrightness</key>
+	<string>precisionSinceVar</string>
+	<key>repositoryNearSingleton</key>
+	<string>cupertinoVisitorEdge</string>
+	<key>repositoryStateRate</key>
+	<string>sliderProxyName</string>
+	<key>sizedboxParameterOrientation</key>
+	<string>sophisticatedGrainMargin</string>
+</dict>
+</plist>

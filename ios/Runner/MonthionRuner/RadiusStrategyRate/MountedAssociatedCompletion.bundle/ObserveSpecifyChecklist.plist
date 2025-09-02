@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTweenVisibility</key>
+	<string>effectAmongBuffer</string>
+	<key>bulletByActivity</key>
+	<string>discardedCoordinatorBound</string>
+	<key>globalSemanticsOpacity</key>
+	<string>permissiveStorageVelocity</string>
+	<key>requestActivityInset</key>
+	<string>modalSingletonFlags</string>
+	<key>textureVarVelocity</key>
+	<string>robustTextfieldVisibility</string>
+</dict>
+</plist>

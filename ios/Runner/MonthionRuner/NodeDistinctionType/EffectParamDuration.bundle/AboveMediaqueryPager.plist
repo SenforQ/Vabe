@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorBeyondTier</key>
+	<string>semanticOffsetDensity</string>
+	<key>customizedSemanticsVisibility</key>
+	<string>allocatorValueFrequency</string>
+	<key>futureAsState</key>
+	<string>interactorModePosition</string>
+	<key>giftWithPrototype</key>
+	<string>protectedDescriptorPosition</string>
+	<key>handlerCycleScale</key>
+	<string>listviewTempleMomentum</string>
+	<key>observerDecoratorVisibility</key>
+	<string>baselineThroughScope</string>
+	<key>observerOperationScale</key>
+	<string>managerSingletonValidation</string>
+	<key>reductionActionLocation</key>
+	<string>decorationLayerTheme</string>
+	<key>referenceFunctionDirection</key>
+	<string>chartInBuffer</string>
+</dict>
+</plist>

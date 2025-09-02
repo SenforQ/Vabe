@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterValuePressure</key>
+	<string>riverpodPatternValidation</string>
+	<key>controllerStructureAlignment</key>
+	<string>temporaryParticleSpeed</string>
+	<key>mainPointSkewy</key>
+	<string>permanentProjectRotation</string>
+	<key>menuAsKind</key>
+	<string>priorZoneRight</string>
+	<key>movementAroundFlyweight</key>
+	<string>draggableFactorySpacing</string>
+	<key>viewScopeLeft</key>
+	<string>navigatorActivityColor</string>
+</dict>
+</plist>

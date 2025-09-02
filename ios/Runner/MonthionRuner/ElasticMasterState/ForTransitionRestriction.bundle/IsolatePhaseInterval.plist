@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveGraphBehavior</key>
+	<string>isolateFrameworkBrightness</string>
+	<key>logarithmContextResponse</key>
+	<string>significantGateResponse</string>
+	<key>resolverVisitorTransparency</key>
+	<string>robustFeatureShade</string>
+	<key>transformerOrState</key>
+	<string>textureStageOpacity</string>
+</dict>
+</plist>

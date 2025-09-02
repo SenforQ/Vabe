@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTitleDuration</key>
+	<string>animationVersusCycle</string>
+	<key>progressbarMementoName</key>
+	<string>containerInBridge</string>
+	<key>sequentialReducerTail</key>
+	<string>grainPatternPosition</string>
+	<key>sharedStreamShade</key>
+	<string>providerFacadeCount</string>
+	<key>themeDuringCommand</key>
+	<string>unsortedProjectionStyle</string>
+	<key>titleAboutFunction</key>
+	<string>awaitNearWork</string>
+</dict>
+</plist>

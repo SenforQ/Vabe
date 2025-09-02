@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentChainShade</key>
+	<string>reusableResolverOrientation</string>
+	<key>alignmentInCycle</key>
+	<string>sizedboxBridgeRight</string>
+	<key>captionContextLocation</key>
+	<string>callbackBufferShape</string>
+	<key>factoryVisitorDelay</key>
+	<string>fusedResourceDistance</string>
+	<key>isolateAgainstObserver</key>
+	<string>injectionSystemColor</string>
+	<key>previewScopeBound</key>
+	<string>flexAlongMethod</string>
+	<key>reactiveDelegateLocation</key>
+	<string>fusedStateOffset</string>
+	<key>sessionStateVisibility</key>
+	<string>completionContextInset</string>
+	<key>titleParameterTag</key>
+	<string>seamlessCycleSpacing</string>
+</dict>
+</plist>

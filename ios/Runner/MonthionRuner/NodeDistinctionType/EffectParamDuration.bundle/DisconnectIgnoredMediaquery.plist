@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateFlyweightAppearance</key>
+	<string>taskForDecorator</string>
+	<key>clipperVarSpacing</key>
+	<string>sessionObserverTransparency</string>
+	<key>criticalMobileInteraction</key>
+	<string>entityProcessAlignment</string>
+	<key>cubitDespiteMode</key>
+	<string>subpixelFacadeColor</string>
+	<key>entityFacadeAcceleration</key>
+	<string>descriptionFlyweightFeedback</string>
+	<key>kernelStructureVisibility</key>
+	<string>signVariableInterval</string>
+	<key>providerCommandFormat</key>
+	<string>viewAtAction</string>
+	<key>semanticReducerType</key>
+	<string>asynchronousCursorDepth</string>
+	<key>tabbarMediatorSpeed</key>
+	<string>pinchableMatrixMargin</string>
+</dict>
+</plist>

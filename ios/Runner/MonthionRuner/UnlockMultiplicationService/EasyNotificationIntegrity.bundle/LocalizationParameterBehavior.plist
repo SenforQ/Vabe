@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVarKind</key>
+	<string>richtextFrameworkDirection</string>
+	<key>cubitAgainstMediator</key>
+	<string>bufferThroughOperation</string>
+	<key>disabledOptionTransparency</key>
+	<string>dimensionAndFunction</string>
+	<key>previewExceptPlatform</key>
+	<string>mapDespiteFunction</string>
+	<key>queueForCommand</key>
+	<string>effectOrPattern</string>
+</dict>
+</plist>

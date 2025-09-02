@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionOrVar</key>
+	<string>semanticsThroughShape</string>
+	<key>diversifiedModelInteraction</key>
+	<string>widgetScopeInset</string>
+	<key>finalLayoutInteraction</key>
+	<string>completerVersusBridge</string>
+	<key>gradientMethodSkewx</key>
+	<string>resolverInterpreterName</string>
+	<key>mobileSpecifierValidation</key>
+	<string>coordinatorFromCommand</string>
+	<key>reducerAsObserver</key>
+	<string>protectedSemanticsDepth</string>
+	<key>singletonAlongPhase</key>
+	<string>numericalMomentumSkewy</string>
+	<key>textfieldDecoratorTransparency</key>
+	<string>staticLogarithmOrientation</string>
+	<key>usageBeyondFacade</key>
+	<string>rectDecoratorBrightness</string>
+</dict>
+</plist>

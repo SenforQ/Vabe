@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexExceptStrategy</key>
+	<string>accordionIntegerDensity</string>
+	<key>iterativeAnchorEdge</key>
+	<string>injectionCompositeDirection</string>
+	<key>navigationContainDecorator</key>
+	<string>frameStrategyCount</string>
+	<key>nextDocumentDistance</key>
+	<string>entityAlongMemento</string>
+</dict>
+</plist>

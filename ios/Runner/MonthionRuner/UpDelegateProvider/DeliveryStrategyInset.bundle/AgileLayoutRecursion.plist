@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentParameterDuration</key>
+	<string>sceneDespiteDecorator</string>
+	<key>providerPatternAppearance</key>
+	<string>normalWorkflowInterval</string>
+	<key>stackVariableScale</key>
+	<string>localCanvasDistance</string>
+	<key>statelessQueuePressure</key>
+	<string>prismaticTickerKind</string>
+</dict>
+</plist>

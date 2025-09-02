@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedProgressbarRotation</key>
+	<string>labelPatternFeedback</string>
+	<key>curveOrPhase</key>
+	<string>requestPlatformOrientation</string>
+	<key>imageDespiteBuffer</key>
+	<string>widgetLevelCount</string>
+	<key>protocolParameterTint</key>
+	<string>transitionWithStructure</string>
+	<key>routerSystemForce</key>
+	<string>pageviewMethodLocation</string>
+	<key>scrollableContainerTheme</key>
+	<string>characterTempleResponse</string>
+	<key>sliderBesideFunction</key>
+	<string>unactivatedColumnAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentContainPlatform</key>
+	<string>methodStateType</string>
+	<key>currentLocalizationMode</key>
+	<string>hardStreamShade</string>
+	<key>durationInDecorator</key>
+	<string>progressbarWorkTop</string>
+	<key>intermediateEffectInteraction</key>
+	<string>parallelSliderTail</string>
+	<key>publicQueryName</key>
+	<string>spotVarInset</string>
+	<key>subpixelOperationShade</key>
+	<string>transformerParamRotation</string>
+	<key>tabviewFlyweightPosition</key>
+	<string>listenerInsideSingleton</string>
+	<key>viewFormSpacing</key>
+	<string>storageMementoValidation</string>
+</dict>
+</plist>

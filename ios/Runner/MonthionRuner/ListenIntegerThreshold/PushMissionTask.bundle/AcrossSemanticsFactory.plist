@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardQueryName</key>
+	<string>bufferStyleType</string>
+	<key>coordinatorForStrategy</key>
+	<string>transitionDuringEnvironment</string>
+	<key>eventObserverInterval</key>
+	<string>effectTypeVelocity</string>
+	<key>missionBesideNumber</key>
+	<string>rowCycleRate</string>
+	<key>resolverFrameworkAcceleration</key>
+	<string>logIncludeMediator</string>
+	<key>signatureStateDuration</key>
+	<string>providerScopeTint</string>
+</dict>
+</plist>

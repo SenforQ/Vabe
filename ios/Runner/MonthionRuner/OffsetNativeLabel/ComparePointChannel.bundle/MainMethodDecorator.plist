@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureStateAppearance</key>
+	<string>displayableTextureDensity</string>
+	<key>boxshadowUntilState</key>
+	<string>heroThroughPhase</string>
+	<key>composableSingletonDensity</key>
+	<string>synchronousLoopPadding</string>
+	<key>globalConvolutionPadding</key>
+	<string>robustSizedboxAcceleration</string>
+	<key>loopBesideMemento</key>
+	<string>rectViaPhase</string>
+	<key>missionWorkRate</key>
+	<string>missionStrategyDuration</string>
+	<key>notifierMementoSpeed</key>
+	<string>aspectratioCycleSpacing</string>
+	<key>overlayAmongPattern</key>
+	<string>basicPopupAppearance</string>
+</dict>
+</plist>

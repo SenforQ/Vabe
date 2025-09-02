@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleTransitionInteraction</key>
+	<string>missionAroundMode</string>
+	<key>menuAroundPattern</key>
+	<string>borderLayerPadding</string>
+	<key>navigationVarInset</key>
+	<string>zoneFromBridge</string>
+	<key>relationalGesturedetectorState</key>
+	<string>crudeGramBrightness</string>
+	<key>sinkThroughPrototype</key>
+	<string>tappableControllerStyle</string>
+	<key>slashCommandAppearance</key>
+	<string>fixedExceptionOpacity</string>
+	<key>statelessControllerStyle</key>
+	<string>unsortedTransitionSpeed</string>
+	<key>subsequentGateColor</key>
+	<string>asyncStoreCenter</string>
+</dict>
+</plist>

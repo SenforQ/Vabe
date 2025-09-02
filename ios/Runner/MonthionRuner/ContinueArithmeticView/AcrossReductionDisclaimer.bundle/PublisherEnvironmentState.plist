@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTempleTransparency</key>
+	<string>staticPromiseDelay</string>
+	<key>concurrentTopicDelay</key>
+	<string>streamVariableLeft</string>
+	<key>dedicatedAllocatorOrientation</key>
+	<string>layoutSingletonMargin</string>
+	<key>deferredMediaqueryResponse</key>
+	<string>tickerSystemResponse</string>
+	<key>ignoredQueueInset</key>
+	<string>effectChainTag</string>
+	<key>materialTierRotation</key>
+	<string>imperativeResponseAppearance</string>
+	<key>multiVectorPosition</key>
+	<string>isolateBeyondFacade</string>
+	<key>priorLogarithmLeft</key>
+	<string>relationalLayoutKind</string>
+	<key>requiredExceptionAcceleration</key>
+	<string>statefulSegmentResponse</string>
+</dict>
+</plist>

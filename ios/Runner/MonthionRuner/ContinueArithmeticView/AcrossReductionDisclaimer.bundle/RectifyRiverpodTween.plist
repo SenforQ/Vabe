@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOfLevel</key>
+	<string>checklistActivitySkewy</string>
+	<key>diffableResponseVisibility</key>
+	<string>resizableDialogsShape</string>
+	<key>overlayVersusProcess</key>
+	<string>mediumSignatureMargin</string>
+	<key>playbackStateShape</key>
+	<string>remainderStateRotation</string>
+	<key>robustResultFrequency</key>
+	<string>geometricNodeTheme</string>
+	<key>standaloneSingletonVelocity</key>
+	<string>constraintThroughKind</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDurationStyle</key>
+	<string>interfaceEnvironmentCenter</string>
+	<key>captionLikeLevel</key>
+	<string>cellWithoutStrategy</string>
+	<key>cellContainParameter</key>
+	<string>columnPatternTransparency</string>
+	<key>imagePrototypeOpacity</key>
+	<string>staticResultAcceleration</string>
+	<key>inkwellFromActivity</key>
+	<string>unaryViaKind</string>
+	<key>semanticAwaitLeft</key>
+	<string>skirtInPattern</string>
+	<key>singleWorkflowType</key>
+	<string>rowExceptAdapter</string>
+	<key>tappableCurveFeedback</key>
+	<string>topicFormCount</string>
+	<key>webFeatureBottom</key>
+	<string>resourceAroundProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetStyleShade</key>
+	<string>notificationJobOrientation</string>
+	<key>batchWithKind</key>
+	<string>cellLevelBound</string>
+	<key>featureFlyweightFrequency</key>
+	<string>originalIntensityOffset</string>
+	<key>storyboardContainProcess</key>
+	<string>consultativeContainerTransparency</string>
+	<key>subscriptionParameterForce</key>
+	<string>otherVariantBound</string>
+</dict>
+</plist>
